@@ -20,7 +20,7 @@ Friday
 
 Note: *Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
 
-[//]: # (:comment * During Spring 2021, I will not be on campus MWF. * The link to my Zoom office hours is available in Blackboard.  If you are not in one of my classes, email me for an appointment and Zoom link. :)
+[//]: # (:comment During Spring 2021, I will not be on campus MWF. The link to my Zoom office hours is available in Blackboard.  If you are not in one of my classes, email me for an appointment and Zoom link. :)
 
 ## Recent/Upcoming Travel
 
