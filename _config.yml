@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Dr. Michele C. Weigle"
   avatar           : "mweigle-ODU.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Professor of Computer Science"
   location         : "Norfolk, VA"
   employer         : "Old Dominion University"
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en"
-  email            :
+  email            : "mweigle at cs dot odu dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.cs.odu.edu/~mweigle/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "michele-weigle-559b052"
   orcid            : "http://orcid.org/0000-0002-2787-7166"
   pinterest        :
   soundcloud       :
