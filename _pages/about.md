@@ -75,27 +75,4 @@ Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion Univers
 * August 2003, Ph.D., [Computer Science](https://www.cs.unc.edu), [University of North Carolina](https://www.unc.edu)
 * May 1998, M.S., Computer Science, University of North Carolina
 * May 1996, B.S., [Computer Science](http://www.ulm.edu/cba/computerscience/index.html) ([Honors Program](http://www.ulm.edu/honors)), Northeast Louisiana University (now [UL-Monroe](http://www.ulm.edu))
-
-## Contact Info
-
-<table style="border: none">
-<tr style="border-collapse: collapse; border:none">
-<th> Office Location </th>
-<th> Mailing Address </th>
-</tr>
-<tr><td>
-E&amp;CS Building Rm. 3327<br/>  
-4700 Elkhorn Ave. <br/> 
-Old Dominion University  <br/>
-Norfolk, VA  <br/>
-(757) 683-7729<br/>
-</td>
-<td>
-Dr. Michele C. Weigle  <br/>
-4700 Elkhorn Ave., Suite 3300  <br/>
-Dept. of Computer Science  <br/>
-Old Dominion University  <br/>
-Norfolk, VA 23529-0162<br/>
-</td>
-</tr>
-</table>
+  
