@@ -22,7 +22,8 @@
 
         fwrite($fp, "---\n");
         fwrite($fp, "title: \"" . $year . "\"\n");
-        fwrite($fp, "collection: publications\n");
+        fwrite($fp, "collection: 'publications'\n");
+        fwrite($fp, "type: 'year'\n");
         fwrite($fp, "permalink: /publications/" . $year . "\n");
         fwrite($fp, "---\n");
 
