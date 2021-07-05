@@ -23,7 +23,7 @@
         fwrite($fp, "---\n");
         fwrite($fp, "title: \"" . $year . "\"\n");
         fwrite($fp, "collection: publications\n");
-        fwrite($fp, "permalink: /publication/" . $year . "\n");
+        fwrite($fp, "permalink: /publications/" . $year . "\n");
         fwrite($fp, "---\n");
 
         $paper_string = BibQuery($bibTexFile, "(\$this->get('YEAR') == $year)", "!\$this->get('PUBDATE')", "100");
