@@ -334,6 +334,12 @@ class BibtexEntry {
 
       $ret = ".";
 
+      $award = $this->get("AWARD");
+      if ($award) 
+      {
+          $ret = $ret . " ***" . $award . " Award***. ";
+      }
+
       if (!$TitleLinkDOIURL) {
 	    // Don't add (URL) (DOI) to end if given in title link  -MCW 04/21/08
            $url = $this->get("URL");
@@ -343,7 +349,6 @@ class BibtexEntry {
       
           if ($url) 
           {
-//             $ret = $ret . " ([[" . $url . " | $BibtexUrlLink]])";
              $ret = $ret . " ([$BibtexUrlLink](" . $url . "))";
           }
 
