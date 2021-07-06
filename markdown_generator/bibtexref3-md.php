@@ -955,6 +955,12 @@ class InBook extends BibtexEntry {
                 $ret = $ret . " " . $publisher;
             }
 
+            $year = $this->get("YEAR");
+            if ($year)
+            {           
+              $ret = $ret . ", " . $year;
+            }
+
             $pages = $this->getPagesWithLabel();
             if ($pages)
             {
