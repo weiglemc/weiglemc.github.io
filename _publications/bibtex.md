@@ -1,4 +1,5 @@
 ---
+title: BibTeX
 collection: 'publications'
 type: 'bibtex'
 permalink: /publications/bibtex
