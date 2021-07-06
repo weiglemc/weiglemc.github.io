@@ -1,20 +1,19 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Home"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home/
 ---
 
-## Teaching (Fall 2021)
-
-* CS 432/532 - Web Science, asynchronous online
-* CS 625 - Data Visualization, TR 9:30-10:45am, ECSB 2120 and online via Zoom
-  * CRN 18816 - in-person (ECSB 2120), currently limited to 10 students but will be increased if ODU relaxes social distancing requirements
-  * CRN 18819 - WC2 (online, in Hampton Roads), students here will get first priority to move to in-person if physical space available
-  * CRN 18820 - WC5 (online, in Virginia) / CRN 18821 - WC7 (online, in US) / CRN 18990 - WC8 (online, outside US)
+{% for post in site.teaching reversed %}
+  {% if post.title == "Fall 2021" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
 ## Research News
 
@@ -30,18 +29,13 @@ Links:
 * [WS-DL Blog](https://ws-dl.blogspot.com/)
 * [InfoVis Gallery](http://localhost/~mweigle/pmwiki/pmwiki.php?n=Research.InfoVis-Gallery)
 
-### Recent Publications
+{% for post in site.publications reversed %}
+  {% if post.type == "recent" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
-1. Shawn M. Jones, Martin Klein, Herbert Van de Sompel, Michael L. Nelson, and Michele C. Weigle, "[Interoperability for Accessing Versions of Web Resources with the Memento Protocol](http://dx.doi.org/10.1007/978-3-030-63291-5)," In The Past Web: Exploring Web Archives. (Daniel Gomes and Demidova, Elena and Winters, Jane and Risse, Thomas, Eds.), Springer.
-1. Shawn Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "Automatically Selecting Striking Images for Social Cards," In Proceedings of ACM WebSci. 2021.
-1. Shawn M. Jones, Valentina Neblitt-Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "[It's All About The Cards: Sharing on Social Media Probably Encouraged HTML Metadata Growth](https://arxiv.org/abs/2104.04116)," Technical report arXiv:2104.04116, April 2021. 
-1. Abigail Mabe, Dhruv Patel, Maheedhar Gunnam, Surbhi Shankar, Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "TMVis: Visualizing Webpage Changes Over Time," Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL), August 2020. ([arXiv](https://arxiv.org/abs/2006.02487))
-1. Shawn Jones, Alexander Nwala, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "SHARI – An Integration of Tools to Visualize the Story of the Day," Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL), August 2020. ([arXiv](http://arxiv.org/abs/2008.00139))
-1. Jian Wu, Md Reshad Ul Hoque, Gunnar W. Reiske, Michele C. Weigle, Brenda T. Bradshaw, Holly D. Gaff, Jiang Li, and Chiman Kwan, "A Comparative Study of Sequential Tagging Methods for Domain Knowledge Entity Recognition in Biomedical Papers," In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). August 2020.
-1. Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "Making Recommendations from Web Archives for "Lost" Web Pages," In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). August 2020. ([arXiv](https://arxiv.org/abs/1908.02819))
-1. Shawn Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "MementoEmbed and Raintale for Web Archive Storytelling," Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL), August 2020. ([arXiv](http://arxiv.org/abs/2008.00137))
-
-### Recent Funding
+## Recent Funding
 
 * Michael L. Nelson (PI), [Improving the Dark and Stormy Archives Framework by Summarizing the Collections of the National Library of Australia](https://netpreserve.org/projects/dark-and-stormy-archives/), IIPC Discretionary Funding Program, Jan 2021 - Jan 2022, $50,000
 * Michele C. Weigle, Michael L. Nelson, Deborah Kempe (Frick Art Reference Library and New York Art Resources Consortium), Pamela Graham (Columbia University Libraries), and Alex Thurman (Columbia University Libraries), [Visualizing Webpage Changes Over Time](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-256368-17), NEH/IMLS Digital Humanities Advancement Grant HAA-256368-17, Oct 2017 – Mar 2020, $75,000 - [blog post](https://ws-dl.blogspot.com/2017/10/2017-10-16-visualizing-webpage-changes.html)
