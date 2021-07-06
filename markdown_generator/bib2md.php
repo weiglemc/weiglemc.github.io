@@ -1,8 +1,16 @@
 <?php
 /* bib2md.php
-* Generate Jekyll-compatable .md files per year from BibTeX file
+* Generate Jekyll-compatable .md files from BibTeX file
+*   - one file per year
+*   - one file per type of publication
+*   - single file with full BibTex entries and anchor ids for linking
 * Based on BibtexRef plugin for PmWiki, https://www.pmwiki.org/wiki/Cookbook/BibtexRef
-* Modified to generate Markdown - Michele Weigle, July 2021 
+*   - modified to generate Markdown - Michele Weigle, July 2021 
+* Example commands (from bibtexref3-md.php):
+    $reftag = "jones-websci21";
+    CompleteBibEntry($bibTexFile, $reftag);
+    BibSummary($bibTexFile, $reftag);
+    BibCite($bibTexFile, $reftag);
 */
     error_reporting(E_ALL);
     ini_set('display_errors', '1');
@@ -11,38 +19,73 @@
    
     $bibTexFile = 'mweigle.bib';
 
-    $years = array ("2006", "2007", "2008", "2009", "2010", "2011",
-        "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", 
-        "2020", "2021");
-
+    // generate one file per year of publications
+    $years = range("1997", "2021");
     foreach ($years as $year) {
         $outfile = $year . ".md";
-
         $fp = fopen($outfile, "w") or die("Unable to open file!");
-
         fwrite($fp, "---\n");
         fwrite($fp, "title: \"" . $year . "\"\n");
         fwrite($fp, "collection: 'publications'\n");
         fwrite($fp, "type: 'year'\n");
         fwrite($fp, "permalink: /publications/" . $year . "\n");
         fwrite($fp, "---\n");
-
+        // BibQuery(bibtex_filename, filter_condition, sort_condition, max_results)
         $paper_string = BibQuery($bibTexFile, "(\$this->get('YEAR') == $year)", "!\$this->get('PUBDATE')", "100");
         fwrite($fp, $paper_string);
         fclose($fp);
     }
- 
-    /* Other available commands:
 
-    $reftag = "jones-websci21";
-    CompleteBibEntry($bibTexFile, $reftag)
-    BibSummary($bibTexFile, $reftag)
-    BibCite($bibTexFile, $reftag)) 
+    // generate one file per type of publication
+    $types = array("book", "journal", "conference", "other");
+    foreach ($types as $type) {
+        $outfile = $type . ".md";
+        $fp = fopen($outfile, "w") or die("Unable to open file!");
+        fwrite($fp, "---\n");
+        switch ($type) {
+            case "book":
+                fwrite($fp, "title: \"Books and Book Chapters\"\n");
+                $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'BOOK')!==FALSE || strpos(\$this->entrytype,'INCOLLECTION')!==FALSE", "!\$this->get('PUBDATE')", "100");
+                break;
+            case "journal":
+                fwrite($fp, "title: \"Journals and Magazines\"\n");
+                $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'ARTICLE')!==FALSE", "!\$this->get('PUBDATE')", "100");
+                break;
+            case "conference":
+                fwrite($fp, "title: \"Conferences and Workshops (Peer-Reviewed)\"\n");
+                $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'INPROCEEDINGS')!==FALSE", "!\$this->get('PUBDATE')", "100");
+                break;
+            case "other":
+                fwrite($fp, "title: \"Other (Poster Presentations, Tech Reports, Dissertation, Misc)\"\n");
+                $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'MISC')!==FALSE || strpos(\$this->entrytype,'TECHREPORT')!==FALSE || strpos(\$this->entrytype,'PHDTHESIS')!==FALSE", "!\$this->get('PUBDATE')", "100");
+                break;
+        }
+        fwrite($fp, "collection: 'publications'\n");
+        fwrite($fp, "type: 'type'\n");
+        fwrite($fp, "permalink: /publications/" . $type . "\n");
+        fwrite($fp, "---\n");
+        fwrite($fp, $paper_string);
+        fclose($fp);
+    }
 
-    // BibQuery('Main.Bibtex', '($this->get('PUBDATE') > 202008)', '!$this->get('PUBDATE')', '100')
-    // BibQuery('Main.bibtex', 'strpos($this->entrytype,'BOOK')!==FALSE', '!$this->get('PUBDATE')', '100')
-    // BibQuery('Main.bibtex', 'strpos($this->entrytype,'MISC')!== FALSE || strpos($this->entrytype,'TECHREPORT')!==FALSE || strpos($this->entrytype,'PHDTHESIS')!==FALSE ', '!$this->get('PUBDATE')', '100')
-    */
+    // generate single file with full BibTeX entry for all
+    $outfile = "bibtex.md";
+    $fp = fopen($outfile, "w") or die("Unable to open file!");
+    fwrite($fp, "---\n");
+    fwrite($fp, "collection: 'publications'\n");
+    fwrite($fp, "type: 'bibtex'\n");
+    fwrite($fp, "permalink: /publications/bibtex\n");
+    fwrite($fp, "---\n");
 
+    $bibentries = ParseBibFile($bibTexFile);
+    foreach ($bibentries as $entry) {
+        foreach ($entry as $bib) {
+            // get ref for each $bib
+            $ref = $bib->entryname;
+            $paper_string = CompleteBibEntry($bibTexFile, $ref);
+            fwrite($fp, $paper_string);
+        }
+    }
+    fclose($fp);
 ?>
 
