@@ -18,11 +18,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Static Publications List](../publications-static/)
-
-[Sorted by Type](/publications/pubsbytype), [External Publication Lists]()
-
-*BibTeX links don't work yet...*
+[Sorted by Type](/publications/pubsbytype), [Award Publications](/publications/pubs-awards), [External Publication Lists]()
 
 {% for post in site.publications reversed %}
   {% if post.type == "year" %}

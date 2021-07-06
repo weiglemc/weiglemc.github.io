@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Publications By Type"
-permalink: /publications/pubsbytype
+title: "Award Publications"
+permalink: /publications/pubs-awards
 author_profile: true
 redirect_from: 
-  - /pubsbytype.md
+  - /awards.md
 ---
 
 {% if page.author and site.data.authors[page.author] %}
@@ -17,10 +17,10 @@ redirect_from:
 
 {% include base_path %}
 
-[Sorted by Year](/publications/pubsbyyear), [Award Publications](/publications/pubs-awards), [External Publication Lists]()
+[All Pubs Sorted by Year](/publications/pubsbyyear), [All Pubs Sorted by Type](/publications/pubsbytype), [External Publication Lists]()
 
 {% for post in site.publications %}
-  {% if post.type == "type" %}
+  {% if post.type == "award" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}

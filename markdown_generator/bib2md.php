@@ -25,6 +25,7 @@
     // generate one file per year of publications
     $years = range("1997", "2021");
     foreach ($years as $year) {
+        if ($year == "1998" || $year == "2002") continue;  // MCW: I DIDN'T HAVE PUBS THESE YEARS
         $outfile = $year . ".md";
         $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
         fwrite($fp, "---\n");
