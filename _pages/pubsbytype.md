@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Publications By Type"
+permalink: /publications/pubsbytype
 author_profile: true
 redirect_from: 
-  - /pubs/
-  - /publications/pubsbyyear/
+  - /pubsbytype.md
 ---
 
 {% if page.author and site.data.authors[page.author] %}
@@ -18,14 +17,12 @@ redirect_from:
 
 {% include base_path %}
 
-[Static Publications List](../publications-static/)
-
-[Sorted by Type](/publications/pubsbytype), [External Publication Lists]()
+[Sorted by Year](/publications/pubsbyyear), [External Publication Lists]()
 
 *BibTeX links don't work yet...*
 
-{% for post in site.publications reversed %}
-  {% if post.type == "year" %}
+{% for post in site.publications %}
+  {% if post.type == "type" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
