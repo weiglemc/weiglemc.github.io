@@ -20,12 +20,13 @@
     include 'bibtexref3-md.php';				
    
     $bibTexFile = 'mweigle.bib';
+    $outputDir = '../_publications';
 
     // generate one file per year of publications
     $years = range("1997", "2021");
     foreach ($years as $year) {
         $outfile = $year . ".md";
-        $fp = fopen($outfile, "w") or die("Unable to open file!");
+        $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
         fwrite($fp, "---\n");
         fwrite($fp, "title: \"" . $year . "\"\n");
         fwrite($fp, "collection: 'publications'\n");
@@ -42,7 +43,7 @@
     $types = array("book", "journal", "conference", "other");
     foreach ($types as $type) {
         $outfile = $type . ".md";
-        $fp = fopen($outfile, "w") or die("Unable to open file!");
+        $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
         fwrite($fp, "---\n");
         switch ($type) {
             case "book":
@@ -72,7 +73,7 @@
 
     // generate single file with full BibTeX entry for all
     $outfile = "bibtex.md";
-    $fp = fopen($outfile, "w") or die("Unable to open file!");
+    $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
     fwrite($fp, "---\n");
     fwrite($fp, "collection: 'publications'\n");
     fwrite($fp, "type: 'bibtex'\n");
@@ -93,7 +94,7 @@
     // generate single file with recent publications (since $year)
     $outfile = "recent.md";
     $year = "2020";
-    $fp = fopen($outfile, "w") or die("Unable to open file!");
+    $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
     fwrite($fp, "---\n");
     fwrite($fp, "title: \"Recent Publications and Talks\"\n");
     fwrite($fp, "collection: 'publications'\n");
@@ -106,7 +107,7 @@
 
     // generate single file with award publications
     $outfile = "award.md";
-    $fp = fopen($outfile, "w") or die("Unable to open file!");
+    $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
     fwrite($fp, "---\n");
     fwrite($fp, "title: \"Award Publications\"\n");
     fwrite($fp, "collection: 'publications'\n");
