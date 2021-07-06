@@ -870,7 +870,7 @@ Shahram Mohrehkesh, Michele C. Weigle, and Sajal K. Das, "[Energy Harvesting in 
 ```
 # [mohrehkesh-computer17](#mohrehkesh-computer17)
 
-Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "[Energy Harvesting in Electromagnetic Nanonetworks journal = IEEE Computer](http://dx.doi.org/10.1109/MC.2017.61),".
+Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "[Energy Harvesting in Electromagnetic Nanonetworks](http://dx.doi.org/10.1109/MC.2017.61)," *IEEE Computer*, No. 2, February 2017, pp. 59-67.
 
 [](#mohrehkesh-computer17Bib)
 **Bibtex entry:**
@@ -878,7 +878,8 @@ Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "[Energy Harvesting in Ele
 ```bibtex
 @ARTICLE {mohrehkesh-computer17,
       AUTHOR = {Shahram Mohrehkesh and Michele C. Weigle and Sajal Das},
-      TITLE = {Energy Harvesting in Electromagnetic Nanonetworks journal = IEEE Computer},
+      TITLE = {Energy Harvesting in Electromagnetic Nanonetworks},
+      JOURNAL = {IEEE Computer},
       MONTH = {feb},
       VOL = {50},
       NUMBER = {2},
