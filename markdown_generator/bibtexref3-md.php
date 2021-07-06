@@ -245,10 +245,8 @@ class BibtexEntry {
 
       if ($Entryname != " ")
       {
-        if (!$BibtexCompleteEntriesUrl)
-            // Use local reference instead of external reference -SGA 5/4/11
-            //$BibtexCompleteEntriesUrl = FmtPageName('$PageUrl', $pagename) . '?action=bibentry&bibfile=$Bibfile&bibref=$Entryname';
-            $BibtexCompleteEntriesUrl = $pagename . '?action=bibentry&bibfile=$Bibfile&bibref=$Entryname';
+        if (!$BibtexCompleteEntriesUrl) 
+            $BibtexCompleteEntriesUrl = "/publications/bibtex#\$Entryname";
 
         $RetUrl = preg_replace('/\$Bibfile/', "$Bibfile", $BibtexCompleteEntriesUrl);
         $RetUrl = preg_replace('/\$Entryname/', "$Entryname", $RetUrl);

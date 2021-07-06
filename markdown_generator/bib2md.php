@@ -75,6 +75,7 @@
     $outfile = "bibtex.md";
     $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
     fwrite($fp, "---\n");
+    fwrite($fp, "title: BibTeX\n");
     fwrite($fp, "collection: 'publications'\n");
     fwrite($fp, "type: 'bibtex'\n");
     fwrite($fp, "permalink: /publications/bibtex\n");
