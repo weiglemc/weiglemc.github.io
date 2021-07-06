@@ -4,6 +4,8 @@
 *   - one file per year
 *   - one file per type of publication
 *   - single file with full BibTex entries and anchor ids for linking
+*   - single file with recent publications (since 2020)
+*   - single file with award publications (look for keyword=award)
 * Based on BibtexRef plugin for PmWiki, https://www.pmwiki.org/wiki/Cookbook/BibtexRef
 *   - modified to generate Markdown - Michele Weigle, July 2021 
 * Example commands (from bibtexref3-md.php):
@@ -86,6 +88,33 @@
             fwrite($fp, $paper_string);
         }
     }
+    fclose($fp);
+
+    // generate single file with recent publications (since $year)
+    $outfile = "recent.md";
+    $year = "2020";
+    $fp = fopen($outfile, "w") or die("Unable to open file!");
+    fwrite($fp, "---\n");
+    fwrite($fp, "title: \"Recent Publications and Talks\"\n");
+    fwrite($fp, "collection: 'publications'\n");
+    fwrite($fp, "type: 'recent'\n");
+    fwrite($fp, "permalink: /publications/recent\n");
+    fwrite($fp, "---\n");
+    $paper_string = BibQuery($bibTexFile, "(\$this->get('YEAR') >= \"$year\")", "!\$this->get('PUBDATE')", "100");
+    fwrite($fp, $paper_string);
+    fclose($fp);
+
+    // generate single file with award publications
+    $outfile = "award.md";
+    $fp = fopen($outfile, "w") or die("Unable to open file!");
+    fwrite($fp, "---\n");
+    fwrite($fp, "title: \"Award Publications\"\n");
+    fwrite($fp, "collection: 'publications'\n");
+    fwrite($fp, "type: 'award'\n");
+    fwrite($fp, "permalink: /publications/award\n");
+    fwrite($fp, "---\n");
+    $paper_string = BibQuery($bibTexFile, "(\$this->get('KEYWORD') == 'award')", "!\$this->get('PUBDATE')", "100");
+    fwrite($fp, $paper_string);
     fclose($fp);
 ?>
 
