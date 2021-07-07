@@ -12,7 +12,7 @@ I am a Professor of Computer Science at Old Dominion University, where I've been
 
 **Research Interests:** web science, digital preservation, social media, information visualization
 
-For an overview of what I've been working on the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for *SSRC Parameters* in 2018.
+For an overview of what I've been working on the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018.
 
 ## Teaching ([Fall 2021](teaching/2021-fall))
 
