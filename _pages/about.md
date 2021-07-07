@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
   - /home/
 ---
+I am a Professor of Computer Science at Old Dominion University, where I've been on faculty since 2006.  Before coming to ODU, I was an Assistant Professor at Clemson University. I'm a graduate of UNC-Chapel Hill (PhD 2003, MS 1998) and Northeast Louisiana University (BS 1996).  I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342). Read for a little bit about my background and experiences as a woman in computer science.
 
 {% for post in site.teaching reversed %}
   {% if post.title == "Fall 2021" %}
@@ -15,13 +16,11 @@ redirect_from:
   {% endif %}
 {% endfor %}
 
-## Research News
+## Research
 
 **Research Interests:** web science, digital preservation, social media, information visualization
 
-I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342). Read for a little bit about my background and experiences as a woman in computer science.
-
-For an overview of what I've been working on the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for SSRC Parameters in 2018.
+For an overview of what I've been working on the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for *SSRC Parameters* in 2018.
 
 Links:
 
@@ -43,13 +42,13 @@ Links:
 * Michael L. Nelson, Michele C. Weigle, [Increasing the Value of Existing Web Archives](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1526700), National Science Foundation, III 1526700, Sep 2015 - Aug 2019, $481,780 - [blog post](https://ws-dl.blogspot.com/2015/10/2015-10-07-imls-and-nsf-fund-web.html)
 * Michael L. Nelson and Michele C. Weigle, [Combining Storytelling with Web Archives](https://www.imls.gov/grants/awarded/lg-71-15-0077-15), Institute of Museum and Library Services (IMLS), National Leadership Grant LG-71-15-0077-15, May 2015 - April 2019, $468,618 - [blog post](https://ws-dl.blogspot.com/2015/10/2015-10-07-imls-and-nsf-fund-web.html)
 
-*My full funding list is available in my [CV](https://www.cs.odu.edu/~mweigle/files/CV.pdf).*
+*My full funding list is available in my [CV](/files/mweigle-CV.pdf).*
 
 ## Service
 
 * Editorial Board
-  * [Journal of the Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard) (JASIST) (2016-present)
-  * [International Journal on Digital Libraries](https://www.springer.com/computer/database+management+&+information+retrieval/journal/799/PS2?detailsPage=editorialBoard) (IJDL) (2018-present)
+  * [*Journal of the Association for Information Science and Technology*](https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard) (JASIST) (2016-present)
+  * [*International Journal on Digital Libraries*](https://www.springer.com/computer/database+management+&+information+retrieval/journal/799/PS2?detailsPage=editorialBoard) (IJDL) (2018-present)
 * Faculty Advisor, ACM-W @ ODU
 * Faculty Representative, [NCWIT Academic Alliance](https://www.ncwit.org/alliances/aa)
 * ODU-CS Graduate Program Director, 2013-2019
