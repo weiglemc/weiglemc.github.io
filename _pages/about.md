@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
   - /home/
 ---
-I am a Professor of Computer Science at Old Dominion University, where I've been on faculty since 2006.  Before coming to ODU, I was an Assistant Professor at Clemson University. I'm a graduate of UNC-Chapel Hill (PhD 2003, MS 1998) and Northeast Louisiana University (BS 1996).  I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342). Read for a little bit about my background and experiences as a woman in computer science.
-
-{% for post in site.teaching reversed %}
-  {% if post.title == "Fall 2021" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-## Research
+I am a Professor of Computer Science at Old Dominion University, where I've been on faculty since 2006.  I'm a graduate of UNC-Chapel Hill (PhD 2003, MS 1998) and Northeast Louisiana University (BS 1996).  I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit about my background and experiences as a woman in computer science.
 
 **Research Interests:** web science, digital preservation, social media, information visualization
 
 For an overview of what I've been working on the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for *SSRC Parameters* in 2018.
+
+## Teaching ([Fall 2021](teaching/2021-fall))
+
+1. [CS 432/532 - Web Science](/teaching/2021-fall-cs432532) / online, asynchronous
+1. [CS 625 - Data Visualization](/teaching/2021-fall-cs625) / TR 9:30-10:45am, ECSB 2120 and online via Zoom
+
+## Research
 
 Links:
 

@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
 [Static Teaching Page](../teaching-static/)
 
 {% include base_path %}
