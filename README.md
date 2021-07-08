@@ -12,11 +12,23 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 ## To run locally on MacOS
 
+Note: *see below for installation on an M1 Mac*
+
 1. Install Git and Ruby via the Xcode Command Line Tools by running `xcode-select --install` 
 1. Install [Bundler](https://bundler.io/), a package manager for Ruby by running `gem install bundler`
 1. Clone the repo and make updates
 1. Move to the local cloned directory and run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000`. The local server will automatically rebuild and refresh the pages on change.
+
+Installing on M1
+
+* Duplicate the /Applications/Terminal app and rename it Terminal-Rosetta
+* Use "Get Info" and check "Open using Rosetta"
+* Open this new Terminal app to install Bundler
+* Install Bundler with `arch -x86_64 sudo gem install bundle`
+* Move to the local cloned directory and install the gems with `arch -x86_64 bundle install`
+* If there are errors, delete Gemfile.lock and try `arch -x86_64 bundle install` again
+* If that doesn't work, uninstall the offending gem `sudo gem uninstall package_name` and try `arch -x86_64 bundle install` again.
 
 # Instructions
 
