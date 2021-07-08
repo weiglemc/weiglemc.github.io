@@ -4,9 +4,160 @@ collection: 'publications'
 type: 'bibtex'
 permalink: /publications/bibtex
 ---
+# [alam-jcdl21](#alam-jcdl21)
+
+Sawood Alam, and Michele C. Weigle, and Michael L. Nelson, "Profiling Web Archival Voids for Memento Routing," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
+
+[](#alam-jcdl21Bib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {alam-jcdl21,
+      AUTHOR = {Sawood Alam and and Michele C. Weigle and Michael L. Nelson},
+      TITLE = {Profiling Web Archival Voids for Memento Routing},
+      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2021},
+      MONTH = {sep},
+      PUBDATE = {202109},
+      NOTE = {poster},
+      ACCEPTANCE = {22/76 (29%)},
+}
+```
+# [nwala-jcdl21](#nwala-jcdl21)
+
+Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "Garbage, Glitter, or Gold: Assigning Multi-dimensional Quality Scores to Social Media Seeds for Web Archive Collections," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
+
+[](#nwala-jcdl21Bib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {nwala-jcdl21,
+      AUTHOR = {Alexander C. Nwala and Michele C. Weigle and Michael L. Nelson},
+      TITLE = {Garbage, Glitter, or Gold: Assigning Multi-dimensional Quality Scores to Social Media Seeds for Web Archive Collections},
+      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2021},
+      MONTH = {sep},
+      PUBDATE = {202109},
+      ARXIV = {https://arxiv.org/abs/2107.02680},
+      ACCEPTANCE = {22/76 (29%)},
+}
+```
+# [jones-jcdl21a](#jones-jcdl21a)
+
+Shawn M. Jones, Valentina Neblitt-Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "It's All About The Cards: Sharing on Social Media Probably Encouraged HTML Metadata Growth," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
+
+[](#jones-jcdl21aBib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {jones-jcdl21a,
+      AUTHOR = {Shawn M. Jones and Valentina Neblitt-Jones and Michele C. Weigle and Martin Klein and Michael L. Nelson},
+      TITLE = {It's All About The Cards: Sharing on Social Media Probably Encouraged HTML Metadata Growth},
+      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2021},
+      MONTH = {sep},
+      ARXIV = {https://arxiv.org/abs/2104.04116},
+      PUBDATE = {202109},
+      ACCEPTANCE = {22/76 (29%)},
+}
+```
+# [garg-jcdl21](#garg-jcdl21)
+
+Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "Replaying Archived Twitter: When your bird is broken, will it bring you down?" In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
+
+[](#garg-jcdl21Bib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {garg-jcdl21,
+      AUTHOR = {Kritika Garg and Himarsha R. Jayanetti and Sawood Alam and Michele C. Weigle and Michael L. Nelson},
+      TITLE = {Replaying Archived Twitter: When your bird is broken, will it bring you down?},
+      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2021},
+      MONTH = {sep},
+      PUBDATE = {202109},
+      ACCEPTANCE = {22/76 (29%)},
+}
+```
+# [patel-jcdl21](#patel-jcdl21)
+
+Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "What Did It Look Like: A service for creating website timelapses using the Memento framework," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
+
+[](#patel-jcdl21Bib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {patel-jcdl21,
+      AUTHOR = {Dhruv Patel and Alexander C. Nwala and Michele C. Weigle and Michael L. Nelson},
+      TITLE = {What Did It Look Like: A service for creating website timelapses using the Memento framework},
+      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2021},
+      MONTH = {sep},
+      PUBDATE = {202109},
+      ARXIV = {https://arxiv.org/abs/2104.14041},
+      NOTE = {poster},
+      ACCEPTANCE = {poster 79%)},
+}
+```
+# [jones-jcdl21b](#jones-jcdl21b)
+
+Shawn Jones, and Michele C. Weigle, and Michael L. Nelson, "Hypercane: Intelligent Sampling for Web Archive Collections," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
+
+[](#jones-jcdl21bBib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {jones-jcdl21b,
+      AUTHOR = {Shawn Jones and and Michele C. Weigle and Michael L. Nelson},
+      TITLE = {Hypercane: Intelligent Sampling for Web Archive Collections},
+      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2021},
+      MONTH = {sep},
+      PUBDATE = {202109},
+      NOTE = {poster},
+      ACCEPTANCE = {poster 79%)},
+}
+```
+# [mabe-jcdl21](#mabe-jcdl21)
+
+Abigail Mabe, Michael L. Nelson, and Michele C. Weigle, "Extending Chromium: Memento-aware Browser," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
+
+[](#mabe-jcdl21Bib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {mabe-jcdl21,
+      AUTHOR = {Abigail Mabe and Michael L. Nelson and Michele C. Weigle},
+      TITLE = {Extending Chromium: Memento-aware Browser},
+      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2021},
+      MONTH = {sep},
+      PUBDATE = {202109},
+      ARXIV = {https://arxiv.org/abs/2104.13361},
+      NOTE = {poster},
+      ACCEPTANCE = {poster 79%)},
+}
+```
+# [aturban-tpdl21](#aturban-tpdl21)
+
+Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "Where Did the Web Archive Go?" In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2021.
+
+[](#aturban-tpdl21Bib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {aturban-tpdl21,
+      AUTHOR = {Mohamed Aturban and Michael L. Nelson and Michele C. Weigle},
+      TITLE = {Where Did the Web Archive Go?},
+      BOOKTITLE = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+      YEAR = {2021},
+      MONTH = {sep},
+      PUBDATE = {202109},
+}
+```
 # [jones-memento21](#jones-memento21)
 
-Shawn M. Jones, Martin Klein, Herbert Van de Sompel, Michael L. Nelson, and Michele C. Weigle, "[Interoperability for Accessing Versions of Web Resources with the Memento Protocol](http://dx.doi.org/10.1007/978-3-030-63291-5)," In *The Past Web: Exploring Web Archives*. (Daniel Gomes and Demidova, Elena and Winters, Jane and Risse, Thomas, Eds.), Springer, 2021.
+Shawn M. Jones, Martin Klein, Herbert Van de Sompel, Michael L. Nelson, and Michele C. Weigle, "[Interoperability for Accessing Versions of Web Resources with the Memento Protocol](http://dx.doi.org/10.1007/978-3-030-63291-5)," In *The Past Web: Exploring Web Archives*. (Daniel Gomes and Elena Demidova and Jane Winters and Thomas Risse, Eds.), Springer, 2021.
 
 [](#jones-memento21Bib)
 **Bibtex entry:**
@@ -16,7 +167,7 @@ Shawn M. Jones, Martin Klein, Herbert Van de Sompel, Michael L. Nelson, and Mich
       AUTHOR = {Shawn M. Jones and Martin Klein and Herbert Van de Sompel and Michael L. Nelson and Michele C. Weigle},
       TITLE = {Interoperability for Accessing Versions of Web Resources with the Memento Protocol},
       BOOKTITLE = {The Past Web: Exploring Web Archives},
-      EDITOR = {Daniel Gomes and Demidova, Elena and Winters, Jane and Risse, Thomas},
+      EDITOR = {Daniel Gomes and Elena Demidova and Jane Winters and Thomas Risse},
       YEAR = {2021},
       DOI = {10.1007/978-3-030-63291-5},
       PUBLISHER = {Springer},
@@ -25,7 +176,7 @@ Shawn M. Jones, Martin Klein, Herbert Van de Sompel, Michael L. Nelson, and Mich
 ```
 # [jones-websci21](#jones-websci21)
 
-Shawn Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "Automatically Selecting Striking Images for Social Cards," In *Proceedings of ACM WebSci*. 2021.
+Shawn Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "Automatically Selecting Striking Images for Social Cards," In *Proceedings of ACM WebSci*. June 2021.
 
 [](#jones-websci21Bib)
 **Bibtex entry:**
@@ -36,25 +187,9 @@ Shawn Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "Automatica
       TITLE = {Automatically Selecting Striking Images for Social Cards},
       BOOKTITLE = {Proceedings of ACM WebSci},
       YEAR = {2021},
+      MONTH = {jun},
+      ARXIV = {https://arxiv.org/abs/2103.04899},
       PUBDATE = {202106},
-}
-```
-# [jones-arxiv21a](#jones-arxiv21a)
-
-Shawn M. Jones, Valentina Neblitt-Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "[It's All About The Cards: Sharing on Social Media Probably Encouraged HTML Metadata Growth](https://arxiv.org/abs/2104.04116)," Technical report arXiv:2104.04116, April 2021.
-
-[](#jones-arxiv21aBib)
-**Bibtex entry:**
-
-```bibtex
-@TECHREPORT {jones-arxiv21a,
-      AUTHOR = {Shawn M. Jones and Valentina Neblitt-Jones and Michele C. Weigle and Martin Klein and Michael L. Nelson},
-      TITLE = {It's All About The Cards: Sharing on Social Media Probably Encouraged HTML Metadata Growth},
-      NUMBER = {arXiv:2104.04116},
-      YEAR = {2021},
-      MONTH = {April},
-      URL = {https://arxiv.org/abs/2104.04116},
-      PUBDATE = {202104},
 }
 ```
 # [mabe-wadl20](#mabe-wadl20)
@@ -127,7 +262,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "Making Recommendations
       MONTH = {aug},
       PUBDATE = {202008},
       ARXIV = {https://arxiv.org/abs/1908.02819},
-      MISC = {106 long paper submissions and accepted 33 (31.1%)},
+      ACCEPTANCE = {106 long paper submissions and accepted 33 (31.1%)},
 }
 ```
 # [wu-jcdl20](#wu-jcdl20)
@@ -145,7 +280,7 @@ Jian Wu, Md Reshad Ul Hoque, Gunnar W. Reiske, Michele C. Weigle, Brenda T. Brad
       YEAR = {2020},
       MONTH = {aug},
       PUBDATE = {202008},
-      MISC = {90 short paper submissions and accepted 28 (31.1%)},
+      ACCEPTANCE = {90 short paper submissions and accepted 28 (31.1%)},
 }
 ```
 # [nwala-cj20](#nwala-cj20)
@@ -592,7 +727,7 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "Scraping SERPs for a
 ```
 # [aturban-jcdl18](#aturban-jcdl18)
 
-Mohamed Aturban, Mat Kelly, Sawood Alam, John Berlin, Michael L. Nelson, and Michele C. Weigle, "ArchiveNow: Simplified, Extensible, Multi-Archive Preservation (poster)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 321-322. ***Best Poster Award***. 
+Mohamed Aturban, Mat Kelly, Sawood Alam, John Berlin, Michael L. Nelson, and Michele C. Weigle, "ArchiveNow: Simplified, Extensible, Multi-Archive Preservation," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 321-322, poster. ***Best Poster Award***. 
 
 [](#aturban-jcdl18Bib)
 **Bibtex entry:**
@@ -600,12 +735,13 @@ Mohamed Aturban, Mat Kelly, Sawood Alam, John Berlin, Michael L. Nelson, and Mic
 ```bibtex
 @INPROCEEDINGS {aturban-jcdl18,
       AUTHOR = {Mohamed Aturban and Mat Kelly and Sawood Alam and John Berlin and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {ArchiveNow: Simplified, Extensible, Multi-Archive Preservation (poster)},
+      TITLE = {ArchiveNow: Simplified, Extensible, Multi-Archive Preservation},
       BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       YEAR = {2018},
       MONTH = {June},
       ADDRESS = {Fort Worth, TX},
       PUBDATE = {201806},
+      NOTE = {poster},
       PAGES = {321--322},
       PDF = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-aturban-archivenow.pdf},
       AWARD = {Best Poster},
@@ -614,7 +750,7 @@ Mohamed Aturban, Mat Kelly, Sawood Alam, John Berlin, Michael L. Nelson, and Mic
 ```
 # [alam-jcdl18](#alam-jcdl18)
 
-Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "Unobtrusive and Extensible Archival Replay Banners Using Custom Elements (poster)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 319-320.
+Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "Unobtrusive and Extensible Archival Replay Banners Using Custom Elements," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 319-320, poster.
 
 [](#alam-jcdl18Bib)
 **Bibtex entry:**
@@ -622,19 +758,20 @@ Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "Unobtrusive a
 ```bibtex
 @INPROCEEDINGS {alam-jcdl18,
       AUTHOR = {Sawood Alam and Mat Kelly and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Unobtrusive and Extensible Archival Replay Banners Using Custom Elements (poster)},
+      TITLE = {Unobtrusive and Extensible Archival Replay Banners Using Custom Elements},
       BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       YEAR = {2018},
       MONTH = {June},
       ADDRESS = {Fort Worth, TX},
       PAGES = {319--320},
+      NOTE = {poster},
       PDF = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-alam-archive-banner.pdf},
       PUBDATE = {201806},
 }
 ```
 # [aturban-arxiv17](#aturban-arxiv17)
 
-Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "[Difficulties of Timestamping Archived Web Pages](https://arxiv.org/abs/1712.03140)," Technical report arXiv:1712.03140, December 2017.
+Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "[Difficulties of Timestamping Archived Web Pages](https://arxiv.org/abs/1712.03140)," Technical report arXiv:1712.03140, arXiv, December 2017.
 
 [](#aturban-arxiv17Bib)
 **Bibtex entry:**
@@ -644,6 +781,7 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "[Difficulties of Tim
       AUTHOR = {Mohamed Aturban and Michael L. Nelson and Michele C. Weigle},
       TITLE = {Difficulties of Timestamping Archived Web Pages},
       NUMBER = {arXiv:1712.03140},
+      INSTITUTION = {arXiv},
       YEAR = {2017},
       MONTH = {December},
       URL = {https://arxiv.org/abs/1712.03140},
@@ -652,7 +790,7 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "[Difficulties of Tim
 ```
 # [mccoy-arxiv17](#mccoy-arxiv17)
 
-Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "[University Twitter Engagement: Using Twitter Followers to Rank Universities](https://arxiv.org/abs/1708.05790)," Technical report arXiv:1708.05790, August 2017.
+Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "[University Twitter Engagement: Using Twitter Followers to Rank Universities](https://arxiv.org/abs/1708.05790)," Technical report arXiv:1708.05790, arXiv, August 2017.
 
 [](#mccoy-arxiv17Bib)
 **Bibtex entry:**
@@ -662,6 +800,7 @@ Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "[University Twitter 
       AUTHOR = {Corren G. McCoy and Michael L. Nelson and Michele C. Weigle},
       TITLE = {University Twitter Engagement: Using Twitter Followers to Rank Universities},
       NUMBER = {arXiv:1708.05790},
+      INSTITUTION = {arXiv},
       YEAR = {2017},
       MONTH = {August},
       URL = {https://arxiv.org/abs/1708.05790},
@@ -670,7 +809,7 @@ Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "[University Twitter 
 ```
 # [alnoamany-arxiv17](#alnoamany-arxiv17)
 
-Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Stories From the Past Web](http://arxiv.org/abs/1705.06218)," Technical report arXiv:1705.06218, May 2017.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Stories From the Past Web](http://arxiv.org/abs/1705.06218)," Technical report arXiv:1705.06218, arXiv, May 2017.
 
 [](#alnoamany-arxiv17Bib)
 **Bibtex entry:**
@@ -679,6 +818,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Stories From the P
 @TECHREPORT {alnoamany-arxiv17,
       AUTHOR = {Yasmin AlNoamany and Michele C. Weigle and Michael L. Nelson},
       TITLE = {Stories From the Past Web},
+      INSTITUTION = {arXiv},
       NUMBER = {arXiv:1705.06218},
       YEAR = {2017},
       MONTH = {May},
@@ -688,7 +828,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Stories From the P
 ```
 # [kelly-arxiv17](#kelly-arxiv17)
 
-Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "[Impact of URI Canonicalization on Memento Count](http://arxiv.org/abs/1703.03302)," Technical report arXiv:1703.03302, March 2017.
+Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "[Impact of URI Canonicalization on Memento Count](http://arxiv.org/abs/1703.03302)," Technical report arxiv:1601.05142, arXiv, March 2017.
 
 [](#kelly-arxiv17Bib)
 **Bibtex entry:**
@@ -697,7 +837,8 @@ Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert V
 @TECHREPORT {kelly-arxiv17,
       AUTHOR = {Mat Kelly and Lulwah M. Alkwai and Michael L. Nelson and Michele C. Weigle and Herbert Van de Sompel},
       TITLE = {Impact of URI Canonicalization on Memento Count},
-      NUMBER = {arXiv:1703.03302},
+      INSTITUTION = {arXiv},
+      NUMBER = {arxiv:1601.05142},
       YEAR = {2017},
       MONTH = {March},
       URL = {http://arxiv.org/abs/1703.03302},
@@ -749,7 +890,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "[Comparing the Archiva
 ```
 # [kelly-jcdl17](#kelly-jcdl17)
 
-Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "[Impact of URI Canonicalization on Memento Count](http://dx.doi.org/10.1109/JCDL.2017.7991601)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 303-304. ***Best Poster Award***. 
+Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "[Impact of URI Canonicalization on Memento Count](http://dx.doi.org/10.1109/JCDL.2017.7991601)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 303-304, poster. ***Best Poster Award***. 
 
 [](#kelly-jcdl17Bib)
 **Bibtex entry:**
@@ -763,6 +904,7 @@ Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, 
       MONTH = {June},
       ADDRESS = {Toronto, Ontario, Canada},
       AWARD = {Best Poster},
+      NOTE = {poster},
       KEYWORD = {award},
       PAGES = {303--304},
       PDF = {http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf},
@@ -998,7 +1140,7 @@ Justin Brunelle, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "[The Impa
 ```
 # [brunelle-arxiv16](#brunelle-arxiv16)
 
-Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "[Adapting the Hypercube Model to Archive Deferred Representations and Their Descendants](http://arxiv.org/abs/1601.05142)," Technical report arxiv:1601.05142, Old Dominion University, January 2016.
+Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "[Adapting the Hypercube Model to Archive Deferred Representations and Their Descendants](http://arxiv.org/abs/1601.05142)," Technical report arxiv:1601.05142, arXiv, January 2016.
 
 [](#brunelle-arxiv16Bib)
 **Bibtex entry:**
@@ -1007,7 +1149,7 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "[Adapting the Hyp
 @TECHREPORT {brunelle-arxiv16,
       AUTHOR = {Justin F. Brunelle and Michele C. Weigle and Michael L. Nelson},
       TITLE = {Adapting the Hypercube Model to Archive Deferred Representations and Their Descendants},
-      INSTITUTION = {Old Dominion University},
+      INSTITUTION = {arXiv},
       NUMBER = {arxiv:1601.05142},
       YEAR = {2016},
       MONTH = {January},
@@ -1176,7 +1318,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "How Well Are Arabic We
 ```
 # [jordan-jcdl15](#jordan-jcdl15)
 
-Wesley Jordan, Mat Kelly, Justin F. Brunelle, Laura Vobrak, Michele C. Weigle, and Michael L. Nelson, "Mobile Mink: Merging Mobile and Desktop Archived Webs," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Knoxville, TN, June 2015, pp. 243-244. ***Best Poster Award***. 
+Wesley Jordan, Mat Kelly, Justin F. Brunelle, Laura Vobrak, Michele C. Weigle, and Michael L. Nelson, "Mobile Mink: Merging Mobile and Desktop Archived Webs," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Knoxville, TN, June 2015, pp. 243-244, poster. ***Best Poster Award***. 
 
 [](#jordan-jcdl15Bib)
 **Bibtex entry:**
@@ -1190,6 +1332,7 @@ Wesley Jordan, Mat Kelly, Justin F. Brunelle, Laura Vobrak, Michele C. Weigle, a
       MONTH = {June},
       ADDRESS = {Knoxville, TN},
       AWARD = {Best Poster},
+      NOTE = {poster},
       KEYWORD = {award},
       PAGES = {243--244},
       PDF = {http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-mink.pdf},
@@ -2642,7 +2785,7 @@ Syed R. Rizvi, Michele C. Weigle, and Mona E. Rizvi, "InVANETs for First Respond
 ```
 # [ibrahim-vanet08](#ibrahim-vanet08)
 
-Khaled Ibrahim, and Michele C. Weigle, "[Towards an Optimized and Secure CASCADE for Data Aggregation in VANETs](http://doi.acm.org/10.1145/1410043.1410061)," In *Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)*. San Francisco, CA, September 2008, pp. 84-85.
+Khaled Ibrahim, and Michele C. Weigle, "[Towards an Optimized and Secure CASCADE for Data Aggregation in VANETs](http://doi.acm.org/10.1145/1410043.1410061)," In *Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)*. San Francisco, CA, September 2008, pp. 84-85, poster.
 
 [](#ibrahim-vanet08Bib)
 **Bibtex entry:**
@@ -2655,6 +2798,7 @@ Khaled Ibrahim, and Michele C. Weigle, "[Towards an Optimized and Secure CASCADE
       YEAR = {2008},
       MONTH = {sep},
       PAGES = {84--85},
+      NOTE = {poster},
       ADDRESS = {San Francisco, CA},
       PDF = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet08.pdf},
       POSTER = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet08-poster.pdf},
@@ -2856,18 +3000,19 @@ Syed Rizvi, Stephan Olariu, Mona Rizvi, and Michele C. Weigle, "[A Traffic Chaos
 ```
 # [adurthi-tmix06](#adurthi-tmix06)
 
-Prashanth Adurthi, and Michele C. Weigle, "Realistic TCP Traffic Generation in ns-2 and GTNetS," Tech Report, June 2006.
+Prashanth Adurthi, and Michele C. Weigle, "Realistic TCP Traffic Generation in ns-2 and GTNetS," Technical report 2006, Clemson University, June 2006.
 
 [](#adurthi-tmix06Bib)
 **Bibtex entry:**
 
 ```bibtex
-@MISC {adurthi-tmix06,
+@TECHREPORT {adurthi-tmix06,
       AUTHOR = {Prashanth Adurthi and Michele C. Weigle},
       TITLE = {Realistic TCP Traffic Generation in ns-2 and GTNetS},
       MONTH = {jun},
       YEAR = {2006},
-      HOWPUBLISHED = {Tech Report},
+      INSTITUTION = {Clemson University},
+      NUMBER = {2006},
       PDF = {http://www.cs.odu.edu/~mweigle/papers/adurthi-tmix-TR06.pdf},
       PUBDATE = {200606},
 }
@@ -3158,7 +3303,7 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "Sync-TCP: Using GPS Syn
 ```
 # [clark-icmcs99](#clark-icmcs99)
 
-Michele Clark, and Kevin Jeffay, "[Application-Level Measurements of Performance on the vBNS (poster)](http://dx.doi.org/10.1109/MMCS.1999.778437)," In *Proceedings of the IEEE International Conference on Multimedia Computing and Systems*. Florence, Italy, June 1999, pp. 362-366.
+Michele Clark, and Kevin Jeffay, "[Application-Level Measurements of Performance on the vBNS](http://dx.doi.org/10.1109/MMCS.1999.778437)," In *Proceedings of the IEEE International Conference on Multimedia Computing and Systems*. Florence, Italy, June 1999, pp. 362-366, poster.
 
 [](#clark-icmcs99Bib)
 **Bibtex entry:**
@@ -3166,12 +3311,13 @@ Michele Clark, and Kevin Jeffay, "[Application-Level Measurements of Performance
 ```bibtex
 @INPROCEEDINGS {clark-icmcs99,
       AUTHOR = {Michele Clark and Kevin Jeffay},
-      TITLE = {Application-Level Measurements of Performance on the vBNS (poster)},
+      TITLE = {Application-Level Measurements of Performance on the vBNS},
       BOOKTITLE = {Proceedings of the IEEE International Conference on Multimedia Computing and Systems},
       PAGES = {362--366},
       YEAR = {1999},
       VOLUME = {II},
       ADDRESS = {Florence, Italy},
+      NOTE = {poster},
       MONTH = {jun},
       PDF = {http://www.cs.odu.edu/~mweigle/papers/icmcs99.pdf},
       DOI = {http://dx.doi.org/10.1109/MMCS.1999.778437},

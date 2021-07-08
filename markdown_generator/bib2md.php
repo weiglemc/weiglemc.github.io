@@ -41,7 +41,7 @@
     }
 
     // generate one file per type of publication
-    $types = array("book", "journal", "conference", "other");
+    $types = array("book", "journal", "conference", "techreport", "other");
     foreach ($types as $type) {
         $outfile = $type . ".md";
         $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
@@ -59,9 +59,13 @@
                 fwrite($fp, "title: \"Conferences and Workshops (Peer-Reviewed)\"\n");
                 $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'INPROCEEDINGS')!==FALSE", "!\$this->get('PUBDATE')", "100");
                 break;
+            case "techreport":
+                fwrite($fp, "title: \"Tech Reports\"\n");
+                $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'TECHREPORT')!==FALSE", "!\$this->get('PUBDATE')", "100");
+                break;
             case "other":
-                fwrite($fp, "title: \"Other (Poster Presentations, Tech Reports, Dissertation, Misc)\"\n");
-                $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'MISC')!==FALSE || strpos(\$this->entrytype,'TECHREPORT')!==FALSE || strpos(\$this->entrytype,'PHDTHESIS')!==FALSE", "!\$this->get('PUBDATE')", "100");
+                fwrite($fp, "title: \"Other (Poster Presentations, Dissertation, Misc)\"\n");
+                $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'MISC')!==FALSE || strpos(\$this->entrytype,'PHDTHESIS')!==FALSE", "!\$this->get('PUBDATE')", "100");
                 break;
         }
         fwrite($fp, "collection: 'publications'\n");
