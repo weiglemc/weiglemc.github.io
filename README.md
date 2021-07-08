@@ -29,6 +29,7 @@ Installing on M1
 * Move to the local cloned directory and install the gems with `arch -x86_64 bundle install`
 * If there are errors, delete Gemfile.lock and try `arch -x86_64 bundle install` again
 * If that doesn't work, uninstall the offending gem `sudo gem uninstall package_name` and try `arch -x86_64 bundle install` again.
+* Make sure to use Terminal-Rosetta when starting the server with `bundle exec jekyll serve`
 
 # Instructions
 
