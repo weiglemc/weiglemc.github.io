@@ -4,22 +4,80 @@ collection: 'publications'
 type: 'bibtex'
 permalink: /publications/bibtex
 ---
+# [patel-jcdl21](#patel-jcdl21)
+
+Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "What Did It Look Like: A service for creating website timelapses using the Memento framework," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
+
+[](#patel-jcdl21Bib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {patel-jcdl21,
+      AUTHOR = {Dhruv Patel and Alexander C. Nwala and Michele C. Weigle and Michael L. Nelson},
+      TITLE = {What Did It Look Like: A service for creating website timelapses using the Memento framework},
+      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2021},
+      MONTH = {sep},
+      PUBDATE = {202109},
+      ARXIV = {https://arxiv.org/abs/2104.14041},
+      NOTE = {poster},
+      ACCEPTANCE = {poster 79%)},
+}
+```
+# [jones-jcdl21b](#jones-jcdl21b)
+
+Shawn Jones, Michele C. Weigle, and Michael L. Nelson, "Hypercane: Intelligent Sampling for Web Archive Collections," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
+
+[](#jones-jcdl21bBib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {jones-jcdl21b,
+      AUTHOR = {Shawn Jones and Michele C. Weigle and Michael L. Nelson},
+      TITLE = {Hypercane: Intelligent Sampling for Web Archive Collections},
+      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2021},
+      MONTH = {sep},
+      PUBDATE = {202109},
+      NOTE = {poster},
+      ACCEPTANCE = {poster 79%)},
+}
+```
+# [mabe-jcdl21](#mabe-jcdl21)
+
+Abigail Mabe, Michael L. Nelson, and Michele C. Weigle, "Extending Chromium: Memento-aware Browser," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
+
+[](#mabe-jcdl21Bib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {mabe-jcdl21,
+      AUTHOR = {Abigail Mabe and Michael L. Nelson and Michele C. Weigle},
+      TITLE = {Extending Chromium: Memento-aware Browser},
+      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2021},
+      MONTH = {sep},
+      PUBDATE = {202109},
+      ARXIV = {https://arxiv.org/abs/2104.13361},
+      NOTE = {poster},
+      ACCEPTANCE = {poster 79%)},
+}
+```
 # [alam-jcdl21](#alam-jcdl21)
 
-Sawood Alam, and Michele C. Weigle, and Michael L. Nelson, "Profiling Web Archival Voids for Memento Routing," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
+Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "Profiling Web Archival Voids for Memento Routing," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
 
 [](#alam-jcdl21Bib)
 **Bibtex entry:**
 
 ```bibtex
 @INPROCEEDINGS {alam-jcdl21,
-      AUTHOR = {Sawood Alam and and Michele C. Weigle and Michael L. Nelson},
+      AUTHOR = {Sawood Alam and Michele C. Weigle and Michael L. Nelson},
       TITLE = {Profiling Web Archival Voids for Memento Routing},
       BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       YEAR = {2021},
       MONTH = {sep},
       PUBDATE = {202109},
-      NOTE = {poster},
       ACCEPTANCE = {22/76 (29%)},
 }
 ```
@@ -77,65 +135,6 @@ Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael
       MONTH = {sep},
       PUBDATE = {202109},
       ACCEPTANCE = {22/76 (29%)},
-}
-```
-# [patel-jcdl21](#patel-jcdl21)
-
-Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "What Did It Look Like: A service for creating website timelapses using the Memento framework," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
-
-[](#patel-jcdl21Bib)
-**Bibtex entry:**
-
-```bibtex
-@INPROCEEDINGS {patel-jcdl21,
-      AUTHOR = {Dhruv Patel and Alexander C. Nwala and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {What Did It Look Like: A service for creating website timelapses using the Memento framework},
-      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2021},
-      MONTH = {sep},
-      PUBDATE = {202109},
-      ARXIV = {https://arxiv.org/abs/2104.14041},
-      NOTE = {poster},
-      ACCEPTANCE = {poster 79%)},
-}
-```
-# [jones-jcdl21b](#jones-jcdl21b)
-
-Shawn Jones, and Michele C. Weigle, and Michael L. Nelson, "Hypercane: Intelligent Sampling for Web Archive Collections," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
-
-[](#jones-jcdl21bBib)
-**Bibtex entry:**
-
-```bibtex
-@INPROCEEDINGS {jones-jcdl21b,
-      AUTHOR = {Shawn Jones and and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Hypercane: Intelligent Sampling for Web Archive Collections},
-      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2021},
-      MONTH = {sep},
-      PUBDATE = {202109},
-      NOTE = {poster},
-      ACCEPTANCE = {poster 79%)},
-}
-```
-# [mabe-jcdl21](#mabe-jcdl21)
-
-Abigail Mabe, Michael L. Nelson, and Michele C. Weigle, "Extending Chromium: Memento-aware Browser," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
-
-[](#mabe-jcdl21Bib)
-**Bibtex entry:**
-
-```bibtex
-@INPROCEEDINGS {mabe-jcdl21,
-      AUTHOR = {Abigail Mabe and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Extending Chromium: Memento-aware Browser},
-      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2021},
-      MONTH = {sep},
-      PUBDATE = {202109},
-      ARXIV = {https://arxiv.org/abs/2104.13361},
-      NOTE = {poster},
-      ACCEPTANCE = {poster 79%)},
 }
 ```
 # [aturban-tpdl21](#aturban-tpdl21)
@@ -683,48 +682,6 @@ Mohamed Aturban, Michele C. Weigle, and Michael L. Nelson, "It is Hard to Comput
       PUBDATE = {201806},
 }
 ```
-# [kelly-jcdl18](#kelly-jcdl18)
-
-Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "A Framework for Aggregating Private and Public Web Archives," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 273-282.
-
-[](#kelly-jcdl18Bib)
-**Bibtex entry:**
-
-```bibtex
-@INPROCEEDINGS {kelly-jcdl18,
-      AUTHOR = {Mat Kelly and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {A Framework for Aggregating Private and Public Web Archives},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2018},
-      MONTH = {June},
-      ADDRESS = {Fort Worth, TX},
-      PUBDATE = {201806},
-      PAGES = {273--282},
-      PDF = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-kelly-private-public-web-archives.pdf},
-      ARXIV = {https://arxiv.org/abs/1806.00871},
-}
-```
-# [nwala-jcdl18](#nwala-jcdl18)
-
-Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "Scraping SERPs for archival seeds: it matters when you start," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 263-272.
-
-[](#nwala-jcdl18Bib)
-**Bibtex entry:**
-
-```bibtex
-@INPROCEEDINGS {nwala-jcdl18,
-      AUTHOR = {Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Scraping SERPs for archival seeds: it matters when you start},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2018},
-      MONTH = {June},
-      ADDRESS = {Fort Worth, TX},
-      PUBDATE = {201806},
-      PAGES = {263--272},
-      PDF = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-nwala-scraping-serps-seeds.pdf},
-      ARXIV = {https://arxiv.org/abs/1805.10260},
-}
-```
 # [aturban-jcdl18](#aturban-jcdl18)
 
 Mohamed Aturban, Mat Kelly, Sawood Alam, John Berlin, Michael L. Nelson, and Michele C. Weigle, "ArchiveNow: Simplified, Extensible, Multi-Archive Preservation," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 321-322, poster. ***Best Poster Award***. 
@@ -767,6 +724,48 @@ Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "Unobtrusive a
       NOTE = {poster},
       PDF = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-alam-archive-banner.pdf},
       PUBDATE = {201806},
+}
+```
+# [kelly-jcdl18](#kelly-jcdl18)
+
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "A Framework for Aggregating Private and Public Web Archives," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 273-282.
+
+[](#kelly-jcdl18Bib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {kelly-jcdl18,
+      AUTHOR = {Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+      TITLE = {A Framework for Aggregating Private and Public Web Archives},
+      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2018},
+      MONTH = {June},
+      ADDRESS = {Fort Worth, TX},
+      PUBDATE = {201806},
+      PAGES = {273--282},
+      PDF = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-kelly-private-public-web-archives.pdf},
+      ARXIV = {https://arxiv.org/abs/1806.00871},
+}
+```
+# [nwala-jcdl18](#nwala-jcdl18)
+
+Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "Scraping SERPs for archival seeds: it matters when you start," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 263-272.
+
+[](#nwala-jcdl18Bib)
+**Bibtex entry:**
+
+```bibtex
+@INPROCEEDINGS {nwala-jcdl18,
+      AUTHOR = {Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
+      TITLE = {Scraping SERPs for archival seeds: it matters when you start},
+      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      YEAR = {2018},
+      MONTH = {June},
+      ADDRESS = {Fort Worth, TX},
+      PUBDATE = {201806},
+      PAGES = {263--272},
+      PDF = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-nwala-scraping-serps-seeds.pdf},
+      ARXIV = {https://arxiv.org/abs/1805.10260},
 }
 ```
 # [aturban-arxiv17](#aturban-arxiv17)
