@@ -25,6 +25,7 @@ Links:
 
 * [ODU Web Science and Digital Libraries (WS-DL) Research Group](https://oduwsdl.github.io/)
 * [WS-DL Blog](https://ws-dl.blogspot.com/)
+
 [//]: # (:comment  * [InfoVis Gallery](http://localhost/~mweigle/pmwiki/pmwiki.php?n=Research.InfoVis-Gallery) :)
 
 {% for post in site.publications reversed %}
