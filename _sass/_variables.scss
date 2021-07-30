@@ -41,7 +41,8 @@ $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
-
+$type-size-syntax           : 0.875em;  // ~14px  see https://jayrobwilliams.com/posts/2020/07/customizing-website/
+$type-size-notice           : 0.925em;
 
 /*
    Colors
@@ -64,7 +65,8 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+//$info-color                 : #52adc8;
+$info-color : #365BAD;  // https://www.odu.edu/facultystaff/communication/toolkit/identity-standards/palette-fonts
 
 /* brands */
 $behance-color              : #1769FF;
