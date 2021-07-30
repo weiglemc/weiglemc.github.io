@@ -17,7 +17,7 @@ redirect_from:
 
 {% include base_path %}
 
-[All Pubs Sorted by Year](/publications/pubsbyyear), [All Pubs Sorted by Type](/publications/pubsbytype), [External Publication Lists]()
+[All Pubs Sorted by Year](/publications/pubsbyyear), [All Pubs Sorted by Type](/publications/pubsbytype), [External Publication Lists](/publications/lists)
 
 {% for post in site.publications %}
   {% if post.type == "award" %}
