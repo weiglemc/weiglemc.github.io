@@ -85,6 +85,7 @@ author:
   bio              : "Professor of Computer Science"
   location         : "Norfolk, VA"
   employer         : "Old Dominion University"
+  employeruri      : "https://www.odu.edu"
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en"
   email            : "mweigle at cs dot odu dot edu"
