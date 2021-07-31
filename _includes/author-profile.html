@@ -23,10 +23,14 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><a href="https://www.google.com/maps/place/{{ author.location }}"><i class="fa fa-fw fa-map-marker" style="color: #D03F33;" aria-hidden="true"></i> {{ author.location }}</a></li>
       {% endif %}
       {% if author.employer %}
-        <li><a href="{{ author.employeruri }}"><i class="fa fa-fw fa-school" aria-hidden="true"></i> {{ author.employer }}</a></li>
+        {% if author.employeruri %}
+          <li><a href="{{ author.employeruri }}"><i class="fa fa-fw fa-school" style="color: #003057;" aria-hidden="true"></i> {{ author.employer }}</a></li>
+        {% else %}
+          <li><i class="fa fa-fw fa-school" aria-hidden="true"></i> {{ author.employer }}</li>        
+        {% endif %}
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -45,6 +49,9 @@
       {% endif %}
       {% if author.googlescholar %}
       <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
+      {% if author.orcid %}
+      <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -108,9 +115,6 @@
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
-      {% endif %}
-      {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
