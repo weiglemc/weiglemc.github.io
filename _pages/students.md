@@ -7,8 +7,6 @@ orcid-color: "#a6ce39"
 google-scholar-color: "#397AF2"
 github-color: "#171516"
 ---
-[Current Students](#current-students){: .btn--mcw} [Former Students](#former-students){: .btn--mcw}
-
 ## Current Students
 
 (*ABD = all-but-dissertation*)
