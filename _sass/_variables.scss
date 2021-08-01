@@ -10,7 +10,8 @@ $doc-font-size              : 16;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
-$indent-var                 : 1.3em;
+//$indent-var                 : 1.3em;
+$indent-var                 : 0.875em;   // bottom spacing, not indent  -MCW
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;

@@ -163,6 +163,10 @@ hr {
 
 /* lists */
 
+ul {   // 8/1/21 -MCW
+  margin-block-start: 0.5em;  
+}
+
 ul li,
 ol li {
 //  margin-bottom: 0.5em;
@@ -172,7 +176,7 @@ ol li {
 li ul,
 li ol {
 //  margin-top: 0.5em;
-  margin-bottom: 0.25em;   // 7/31/21  -MCW
+  margin-top: 0.25em;   // 7/31/21  -MCW
 }
 
 /*
