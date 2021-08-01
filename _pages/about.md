@@ -30,6 +30,7 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 <a href="https://twitter.com/WebSciDL" target="_blank" class="btn btn--mcw"><i class="fab fa-twitter" style="color: {{ page.twitter-color }}"></i><span> WS-DL Twitter</span></a>
 <a href="https://ws-dl.blogspot.com/" target="_blank" class="btn btn--mcw"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i><span> WS-DL Blog</span></a>
 <a href="https://github.com/oduwsdl" target="_blank" class="btn btn--mcw"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i><span> WS-DL GitHub</span></a>
+{: style="text-align: center;"}
 
 [//]: # (:comment  * [InfoVis Gallery](http://localhost/~mweigle/pmwiki/pmwiki.php?n=Research.InfoVis-Gallery) :)
 
