@@ -235,3 +235,14 @@
     }
   }
 }
+
+// added 8/1/21 -MCW https://jun711.github.io/web/adding-scroll-to-top-button-to-a-website/
+.back-to-top {
+  display: block;
+  clear: both;
+  color: lighten($text-color, 25%);
+  font-size: 0.65em;
+  text-transform: uppercase;
+  text-align: right;
+  text-decoration: none;
+}
