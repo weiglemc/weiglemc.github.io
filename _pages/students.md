@@ -15,6 +15,7 @@ github-color: "#171516"
 
 * Himarsha Jayanetti
 <a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
+<a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="fas fa-fw fa-graduation-cap" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
