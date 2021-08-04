@@ -42,11 +42,10 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 
 ## Recent Funding
 
+* Michael L. Nelson, Michele C. Weigle, Sue Kimmel, Jessica Ritchie, and Hongyi Wu, [A Graduate Certificate in Web Archiving](https://www.imls.gov/grants/awarded/re-250048-ols-21), IMLS Laura Bush 21st Century Librarian Program, RE-250048-OLS-21, Aug 2021 - Jul 2022, $98,361.
 * Michael L. Nelson (PI), [Improving the Dark and Stormy Archives Framework by Summarizing the Collections of the National Library of Australia](https://netpreserve.org/projects/dark-and-stormy-archives/), IIPC Discretionary Funding Program, Jan 2021 - Jan 2022, $50,000
 * Michele C. Weigle, Michael L. Nelson, Deborah Kempe (Frick Art Reference Library and New York Art Resources Consortium), Pamela Graham (Columbia University Libraries), and Alex Thurman (Columbia University Libraries), [Visualizing Webpage Changes Over Time](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-256368-17), NEH/IMLS Digital Humanities Advancement Grant HAA-256368-17, Oct 2017 – Mar 2020, $75,000 - [blog post](https://ws-dl.blogspot.com/2017/10/2017-10-16-visualizing-webpage-changes.html)
 * Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel (LANL), [Preservation of Scholarly Record on the Web](https://mellon.org/grants/grants-database/grants/old-dominion-university/11600663/), Andrew W. Mellon Foundation 11600663, Apr 2016 - Mar 2020, $830,000.
-* Michael L. Nelson, Michele C. Weigle, [Increasing the Value of Existing Web Archives](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1526700), National Science Foundation, III 1526700, Sep 2015 - Aug 2019, $481,780 - [blog post](https://ws-dl.blogspot.com/2015/10/2015-10-07-imls-and-nsf-fund-web.html)
-* Michael L. Nelson and Michele C. Weigle, [Combining Storytelling with Web Archives](https://www.imls.gov/grants/awarded/lg-71-15-0077-15), Institute of Museum and Library Services (IMLS), National Leadership Grant LG-71-15-0077-15, May 2015 - April 2019, $468,618 - [blog post](https://ws-dl.blogspot.com/2015/10/2015-10-07-imls-and-nsf-fund-web.html)
 
 *My full funding list is available in my [CV](https://www.cs.odu.edu/~mweigle/files/CV.pdf).*
 
