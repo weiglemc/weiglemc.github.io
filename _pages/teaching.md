@@ -3,111 +3,52 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+current_semester: "Fall 2021"
 ---
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% if post.type == "semester" %}
+## {{ page.current_semester }}
+
+{% for post in site.teaching %}
+  {% if post.semester == page.current_semester %}
     {% include archive-single.html %}
-  {%endif %}
+  {% endif %}
 {% endfor %}
 
-Spring 2019
+## Previous Semesters
 
-* CS 725/825 - Information Visualization
-
-Spring 2018
-
-* CS 725/825 - Information Visualization
-
-Fall 2017
-
-* CS 725/825 - Information Visualization
-* CS 791/891 - Web Archiving Seminar (co-taught with Michael Nelson)
-
-Spring 2017
-
-* CS 725/825 - Information Visualization
-
-Spring 2016
-
-* CS 725/825 - Information Visualization,
-* CS 595 - Topics in Cybersecurity (short course for the Government Sector Leadership Certificate)
-
-Fall 2015
-
-* CS 462/562 - CyberSecurity Fundamentals (online)
-* CS 791/891 - Visualization Seminar
-
-Spring 2015
-
-* CS 725/825 - Information Visualization
-
-Spring 2014
-
-* [CS 418/518 - Web Programming](http://www.cs.odu.edu/~mweigle/CS418-S14)
-
-Fall 2013
-
-* CS 462/562 - CyberSecurity Fundamentals (online)
-* CS 725/825 - Information Visualization
-
-Spring 2013
-
-* CS 455/555 - Intro to Networks and Communication
-* CS 795/895 - Applied Visual Analytics
-
-Fall 2012
-
-* CS 418/518 - Web Programming
-* CS 795/895 - Information Visualization
-
-Fall 2011
-
-* [CS 312 - Internet Concepts](http://www.cs.odu.edu/~mweigle/CS312-F11)
-* CS 795/895 - Information Visualization
-
-Spring 2011
-
-* CS 455/555 - Intro to Networks and Communication,
-* CS 796/896 - Visual Analytics Seminar
-
-Fall 2010
-
-* CS 312 - Internet Concepts
-* CS 795/895 - Vehicular Networks
-
-Spring 2010
-
-* CS 795/895 - Vehicular Networks
-* CS 796/896 - Advanced Networking Seminar
-
-Fall 2009
-
-* CS 312 - Internet Concepts
-* CS 455/555 - Intro to Networks and Communication
-
-Fall 2008
-
-* CS 312 - Internet Concepts
-* CS 455/555 - Intro to Networks and Communication
-
-Spring 2008
-
-* CS 795/895 - Vehicular Networks
-
-Fall 2007
-
-* CS 455/555 - Intro to Networks and Communication
-* CS 791/891 - VANET Seminar
-
-Spring 2007
-
-* CS 795/895 - Vehicular Networks
-
-Fall 2006
-
-* CS 455/555 - Intro to Networks and Communication
+|Fall | Spring |
+|---|---|
+|**2020-2021** | |
+|[CS 312 - Internet Concepts](https://www.cs.odu.edu/~mweigle/CS312-F20/)<br/>[CS 432/532 - Web Science](https://www.cs.odu.edu/~mweigle/CS432-F20/)<br/>[CS 625 - Data Visualization](https://www.cs.odu.edu/~mweigle/CS625-F20/)|[CS 432/532 - Web Science](https://www.cs.odu.edu/~mweigle/CS432-S21/)<br/>[CS 725/825 - Information Visualization & Data Analytics](https://www.cs.odu.edu/~mweigle/CS725-S21/)<br/>[CS 800 - Research Methods](https://www.cs.odu.edu/~mweigle/CS800-S21/)|
+|**2019-2020** | |
+|[CS 625 - Data Visualization](https://www.cs.odu.edu/~mweigle/CS625-F19/)|[CS 432/532 - Web Science](https://www.cs.odu.edu/~mweigle/CS432-S20/)<br/>[CS 800 - Research Methods](https://www.cs.odu.edu/~mweigle/CS800-S20/)|
+|**2018-2019** | |
+|*course buyout*|[CS 725/825 - Information Visualization](https://www.cs.odu.edu/~mweigle/CS725-S19/)|
+|**2017-2018** | |
+|[CS 725/825 - Information Visualization](https://www.cs.odu.edu/~mweigle/CS725-F17/)<br/>[CS 791/891 - Web Archiving Seminar](https://phonedude.github.io/cs891-f17/)<br/>&nbsp; (co-taught with Michael Nelson)|[CS 725/825 - Information Visualization](https://www.cs.odu.edu/~mweigle/CS725-S18/)|
+|**2016-2017** | |
+|*admin leave*|CS 725/825 - Information Visualization|
+|**2015-2016** | |
+|CS 462/562 - CyberSecurity Fundamentals<br/>CS 791/891 - Visualization Seminar|CS 725/825 - Information Visualization<br/>CS 595 - Topics in Cybersecurity<br/>&nbsp; (short course for [Public Sector Leadership Certificate](https://www.odu.edu/cepd/execed/public-sector-leadership))|
+|**2014-2015** | |
+|*research leave*|CS 725/825 - Information Visualization|
+|**2013-2014** | |
+|CS 462/562 - CyberSecurity Fundamentals<br/>CS 725/825 - Information Visualization|[CS 418/518 - Web Programming](http://www.cs.odu.edu/~mweigle/CS418-S14)|
+|**2012-2013** | |
+|CS 418/518 - Web Programming<br/>CS 795/895 - Information Visualization|CS 455/555 - Intro to Networks and Communication<br/>CS 795/895 - Applied Visual Analytics|
+|**2011-2012** | |
+[CS 312 - Internet Concepts](http://www.cs.odu.edu/~mweigle/CS312-F11)<br/>CS 795/895 - Information Visualization|*maternity leave*|
+|**2010-2011** | |
+|CS 312 - Internet Concepts<br/>CS 795/895 - Vehicular Networks|CS 455/555 - Intro to Networks and Communication<br/>CS 796/896 - Visual Analytics Seminar|
+|**2009-2010** | |
+|CS 312 - Internet Concepts<br/>CS 455/555 - Intro to Networks and Communication|CS 795/895 - Vehicular Networks<br/>CS 796/896 - Advanced Networking Seminar|
+|**2008-2009** | |
+|CS 312 - Internet Concepts<br/>CS 455/555 - Intro to Networks and Communication|*maternity leave*|
+|**2007-2008** | |
+|CS 455/555 - Intro to Networks and Communication<br/>CS 791/891 - VANET Seminar|CS 795/895 - Vehicular Networks|
+|**2006-2007** | |
+|CS 455/555 - Intro to Networks and Communication|CS 795/895 - Vehicular Networks|
 
 ## @ Clemson University
 
