@@ -3,6 +3,37 @@ permalink: /schedule/
 title: "Schedule/Travel"
 ---
 
+## Fall 2021 Schedule
+
+*tentative schedule - student research meetings not yet finalized*
+
+Monday
+
+* 3-5pm - Student Research Meetings
+
+Tuesday
+
+* 9:30-10:45am - [CS 625](https://github.com/odu-cs625-datavis/public/blob/main/fall21/README.md)
+* 11am-12:30pm - Office Hours (in-person and/or via Zoom)
+
+Wednesday
+
+* 3-4pm - Research Planning Meeting
+* 4-5pm - Student Research Meeting
+
+Thursday
+
+* 9:30-10:45am - [CS 625](https://github.com/odu-cs625-datavis/public/blob/main/fall21/README.md)
+* 5-6:30pm - Office Hours (via Zoom only)
+
+Friday
+
+* 1-4pm Student Research Meetings
+
+Note: *Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
+
+During Fall 2021, I will not be on campus MWF. The link to my Zoom office hours is available in Blackboard.  If you are not in one of my classes, email me for an appointment and Zoom link.
+
 ## Summer 2021 Schedule
 
 Monday
@@ -17,10 +48,6 @@ Wednesday
 Friday
 
 * 1-4pm Student Research Meetings
-
-Note: *Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
-
-[//]: # (:comment During Fall 2021, I will not be on campus MWF. The link to my Zoom office hours is available in Blackboard.  If you are not in one of my classes, email me for an appointment and Zoom link. :)
 
 ## Recent/Upcoming Travel
 
