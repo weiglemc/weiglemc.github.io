@@ -78,6 +78,7 @@ Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "Profiling Web Archival V
       YEAR = {2021},
       MONTH = {sep},
       PUBDATE = {202109},
+      ARXIV = {https://arxiv.org/abs/2108.03311},
       ACCEPTANCE = {22/76 (29%)},
 }
 ```
