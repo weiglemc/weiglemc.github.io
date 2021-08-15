@@ -13,7 +13,7 @@ blogger-color: "#F37100"
 ---
 I am a Professor of Computer Science at Old Dominion University, where I've been on faculty since 2006.  I'm a graduate of UNC-Chapel Hill (PhD 2003, MS 1998) and Northeast Louisiana University (BS 1996).  I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit about my background and experiences as a woman in computer science.
 
-**Research Interests:** web science, digital preservation, social media, information visualization
+**Research Interests:** web science, digital preservation, social media, information visualization ([infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
 
 For an overview of what I've been working on the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018.
 
@@ -31,8 +31,6 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 <a href="https://ws-dl.blogspot.com/" target="_blank" class="btn btn--mcw"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i><span> WS-DL Blog</span></a>
 <a href="https://github.com/oduwsdl" target="_blank" class="btn btn--mcw"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i><span> WS-DL GitHub</span></a>
 {: style="text-align: center;"}
-
-[//]: # (:comment  * [InfoVis Gallery](http://localhost/~mweigle/pmwiki/pmwiki.php?n=Research.InfoVis-Gallery) :)
 
 {% for post in site.publications reversed %}
   {% if post.type == "recent" %}
