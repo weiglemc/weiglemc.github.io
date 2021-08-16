@@ -4,7 +4,7 @@ collection: 'publications'
 type: 'recent'
 permalink: /publications/recent
 ---
-1. Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "Where Did the Web Archive Go?" In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2021. ([BibTeX](/publications/bibtex#aturban-tpdl21))
+1. Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "Where Did the Web Archive Go?" In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2021. ([arXiv](https://arxiv.org/abs/2108.05939), [BibTeX](/publications/bibtex#aturban-tpdl21))
 1. Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "Replaying Archived Twitter: When your bird is broken, will it bring you down?" In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021. ([BibTeX](/publications/bibtex#garg-jcdl21))
 1. Shawn M. Jones, Valentina Neblitt-Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "It's All About The Cards: Sharing on Social Media Probably Encouraged HTML Metadata Growth," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021. ([arXiv](https://arxiv.org/abs/2104.04116), [BibTeX](/publications/bibtex#jones-jcdl21a))
 1. Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "Garbage, Glitter, or Gold: Assigning Multi-dimensional Quality Scores to Social Media Seeds for Web Archive Collections," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021. ([arXiv](https://arxiv.org/abs/2107.02680), [BibTeX](/publications/bibtex#nwala-jcdl21))
