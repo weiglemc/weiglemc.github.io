@@ -175,40 +175,40 @@ ABD (advisor: Michael L. Nelson)
 
 * Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2021, "A Chromium-based Memento-aware Web Browser" ([arXiv](https://arxiv.org/abs/2104.13361))
 * Dhruv Patel <a href="https://www.linkedin.com/in/dhruv282/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2021, "What Did It Look Like: A service for creating website timelapses using the Memento framework" ([arXiv](https://arxiv.org/abs/2104.14041))
-* Maheedhar Gunnam, May 2018, "How I Changed Over Time: A webservice to summarize TimeMaps based on SimHashed HTML content" ([arXiv](http://www.cs.odu.edu/~mweigle/papers/gunnam-ms-proj-18.pdf))
-* Hung Do, May 2017, "Expanding the Archival Acid Test" ([PDF](http://www.cs.odu.edu/~mweigle/papers/do-ms-proj-17.pdf))
-* Surbhi Shankar, May 2017, "Visualizing Thumbnails Of Archived Web Pages" ([PDF](http://www.cs.odu.edu/~mweigle/papers/shankar-ms-proj-17.pdf))
+* Maheedhar Gunnam <a href="https://www.linkedin.com/in/maheedhargunnam/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2018, "How I Changed Over Time: A webservice to summarize TimeMaps based on SimHashed HTML content" ([arXiv](http://www.cs.odu.edu/~mweigle/papers/gunnam-ms-proj-18.pdf))
+* Hung Do <a href="https://www.linkedin.com/in/hung-do-70779230/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2017, "Expanding the Archival Acid Test" ([PDF](http://www.cs.odu.edu/~mweigle/papers/do-ms-proj-17.pdf))
+* Surbhi Shankar <a href="https://www.linkedin.com/in/surbhi-shankar-2005b7a3/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2017, "Visualizing Thumbnails Of Archived Web Pages" ([PDF](http://www.cs.odu.edu/~mweigle/papers/shankar-ms-proj-17.pdf))
 * Erika Siregar <a href="https://www.linkedin.com/in/erika-siregar/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2017, "Deploying the Memento Damage Service: A Comprehensive Tool for Measuring and Analyzing Damage on Web Archives" ([PDF](http://www.cs.odu.edu/~mweigle/papers/siregar-ms-proj-17.pdf))
-* Prasanna Sajjan, May 2016, "Visualizing 10 Years (2005-2015) of Life in Hampton Roads"
-* Avinash Gosavi, Dec 2015, "Vistoria: Inspecting History Using Visualization"
-* Bradley Dupont, Dec 2011, "Improvements in VANET Simulator in ns-3" ([PDF](http://www.cs.odu.edu/~mweigle/papers/dupont-ms-proj-11.pdf))
-* Spardha Jaiswal, May 2010, "Validation of IDM/MOBIL in ASH using Treiber's MicroApplet" ([PDF](http://www.cs.odu.edu/~mweigle/papers/jaiswal-ms-proj-10.pdf))
-* Madhukesh Wali, May 2009, "Dynamic Zonal Broadcasting for Effective Data Dissemination in VANETs" ([PDF](http://www.cs.odu.edu/~mweigle/papers/mwali-ms-proj-09.pdf))
-* Rajat Singh, May 2009, "Visualizing VDOT Traffic Pattern Data" ([PDF](http://www.cs.odu.edu/~mweigle/papers/rajat-ms-proj-09.pdf))
-* Sumanth Gelle, May 2008, "Performance of High-Speed TCP Protocols over NS-2 TCP Linux" ([PDF](http://www.cs.odu.edu/~mweigle/papers/gelle-ms-proj-08.pdf))
-* Omkar Kasinadhuni, May 2008, "TCP Validation" ([PDF](http://www.cs.odu.edu/~mweigle/papers/omkar-ms-proj-08.pdf))
-* Siva Tella, May 2008, "Performance of Competing High Speed TCP Flows with Background Traffic" ([PDF](http://www.cs.odu.edu/~mweigle/papers/tella-ms-proj-08.pdf))
-* Gyanesh Choudhary, Dec 2007, "Providing VANET Security Through Active Position Detection" ([PDF](http://www.cs.odu.edu/~mweigle/papers/choudhary-ms-proj-07.pdf))
+* Prasanna Sajjan <a href="https://www.linkedin.com/in/prasanna-sajjan/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2016, "Visualizing 10 Years (2005-2015) of Life in Hampton Roads"
+* Avinash Gosavi <a href="https://www.linkedin.com/in/aag1091/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2015, "Vistoria: Inspecting History Using Visualization"
+* Bradley Dupont <a href="https://www.linkedin.com/in/bradley-dupont-5759bb37/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2011, "Improvements in VANET Simulator in ns-3" ([PDF](http://www.cs.odu.edu/~mweigle/papers/dupont-ms-proj-11.pdf))
+* Spardha Jaiswal <a href="https://www.linkedin.com/in/spardhajaiswal/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2010, "Validation of IDM/MOBIL in ASH using Treiber's MicroApplet" ([PDF](http://www.cs.odu.edu/~mweigle/papers/jaiswal-ms-proj-10.pdf))
+* Madhukesh Wali <a href="https://www.linkedin.com/in/mavwali/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2009, "Dynamic Zonal Broadcasting for Effective Data Dissemination in VANETs" ([PDF](http://www.cs.odu.edu/~mweigle/papers/mwali-ms-proj-09.pdf))
+* Rajat Singh <a href="https://www.linkedin.com/in/rajat-singh-0b436815/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2009, "Visualizing VDOT Traffic Pattern Data" ([PDF](http://www.cs.odu.edu/~mweigle/papers/rajat-ms-proj-09.pdf))
+* Sumanth Gelle <a href="https://www.linkedin.com/in/sumanth-gelle-8b912718/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2008, "Performance of High-Speed TCP Protocols over NS-2 TCP Linux" ([PDF](http://www.cs.odu.edu/~mweigle/papers/gelle-ms-proj-08.pdf))
+* Omkar Kasinadhuni <a href="https://www.linkedin.com/in/omkar-kasinadhuni-59278411/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2008, "TCP Validation" ([PDF](http://www.cs.odu.edu/~mweigle/papers/omkar-ms-proj-08.pdf))
+* Siva Tella <a href="https://www.linkedin.com/in/siva-sagar-tella-13519423/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2008 , "Performance of Competing High Speed TCP Flows with Background Traffic" ([PDF](http://www.cs.odu.edu/~mweigle/papers/tella-ms-proj-08.pdf))
+* Gyanesh Choudhary <a href="https://www.linkedin.com/in/gyaneshchoudhary/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2007, "Providing VANET Security Through Active Position Detection" ([PDF](http://www.cs.odu.edu/~mweigle/papers/choudhary-ms-proj-07.pdf))
 
 ### MS Research
 
-* Andrew Schaefer, May 2013
-* Chinmay Lokesh, May 2012
+* Andrew Schaefer <a href="https://www.linkedin.com/in/andrew-schaefer-4a555112/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2013
+* Chinmay Lokesh <a href="https://www.linkedin.com/in/chinmaylokesh/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2012
 
 ### Undergraduates
 
-* Abigail Mabe, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
-* Dhruv Patel, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
+* Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
+* Dhruv Patel <a href="https://www.linkedin.com/in/dhruv282/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
 * Erik Jensen, BS M&S May 2016 (Fall 2015 REU)
-* John Berlin, BS Dec 2015 (Spring-Fall 2015 REU) - MS 2018, ODU
-* Ander Rogers, BS May 2015 (Spring 2015 REU)
+* John Berlin <a href="https://www.linkedin.com/in/john-berlin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS Dec 2015 (Spring-Fall 2015 REU) - MS 2018, ODU
+* Ander Rogers <a href="https://www.linkedin.com/in/ander-rogers-iii-600aa3119/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2015 (Spring 2015 REU)
 * Aaron Walden, BS August 2014 (Summer 2013-Spring 2014, REU) - PhD student, ODU
-* Thomas Kennedy, BS May 2012 (Summer 2011-Fall 2011, Summer 2011 REU) - MS 2014, ODU
+* [Thomas Kennedy](https://www.cs.odu.edu/~tkennedy/), BS May 2012 (Summer 2011-Fall 2011, Summer 2011 REU) - MS 2014, ODU
 * Greg Maslov, BS May 2012 (Fall 2009-Fall 2010, Spring 2010-Spring 2011 REU)
 * Nickolas Betcher (Summer 2010 REU)
 * Lazarus Boone (Summer 2010 REU)
 * [Nathan Brunelle](http://www.cs.virginia.edu/~njb2b/), BS May 2011, UVa (Summer 2010 REU) - PhD 2017, UVa
-* Ian Iepson, BS Aug 2010 (Summer 2010) - MS 2012, George Mason Univ.
-* Colin Courtney, BS May 2010 (Summer 2008-Summer 2009)
+* Ian Iepson <a href="https://www.linkedin.com/in/ian-iepson/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS Aug 2010 (Summer 2010) - MS 2012, George Mason Univ.
+* Colin Courtney <a href="https://www.linkedin.com/in/colin-courtney-b698901a/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2010 (Summer 2008-Summer 2009)
 * Meredith Wilhelm, BS Dec 2008 (Summer 2008 REU)
-* Matt Crinklaw-Vogt, BS May 2008 (Fall 2007-Spring 2008)
+* Matt Crinklaw-Vogt <a href="https://www.linkedin.com/in/mattcrinklawvogt/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2008 (Fall 2007-Spring 2008)
