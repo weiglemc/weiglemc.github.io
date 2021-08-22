@@ -3,10 +3,11 @@ title: BibTeX
 collection: 'publications'
 type: 'bibtex'
 permalink: /publications/bibtex
+doi-color: '#fcab22'
 ---
 # [patel-jcdl21](#patel-jcdl21)
 
-Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "What Did It Look Like: A service for creating website timelapses using the Memento framework," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
+Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "**What Did It Look Like: A service for creating website timelapses using the Memento framework**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
 
 [](#patel-jcdl21Bib)
 **Bibtex entry:**
@@ -26,7 +27,7 @@ Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "What
 ```
 # [jones-jcdl21b](#jones-jcdl21b)
 
-Shawn Jones, Michele C. Weigle, and Michael L. Nelson, "Hypercane: Intelligent Sampling for Web Archive Collections," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
+Shawn Jones, Michele C. Weigle, and Michael L. Nelson, "**Hypercane: Intelligent Sampling for Web Archive Collections**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
 
 [](#jones-jcdl21bBib)
 **Bibtex entry:**
@@ -45,7 +46,7 @@ Shawn Jones, Michele C. Weigle, and Michael L. Nelson, "Hypercane: Intelligent S
 ```
 # [mabe-jcdl21](#mabe-jcdl21)
 
-Abigail Mabe, Michael L. Nelson, and Michele C. Weigle, "Extending Chromium: Memento-aware Browser," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
+Abigail Mabe, Michael L. Nelson, and Michele C. Weigle, "**Extending Chromium: Memento-aware Browser**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, poster.
 
 [](#mabe-jcdl21Bib)
 **Bibtex entry:**
@@ -65,7 +66,7 @@ Abigail Mabe, Michael L. Nelson, and Michele C. Weigle, "Extending Chromium: Mem
 ```
 # [alam-jcdl21](#alam-jcdl21)
 
-Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "Profiling Web Archival Voids for Memento Routing," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
+Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Profiling Web Archival Voids for Memento Routing**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
 
 [](#alam-jcdl21Bib)
 **Bibtex entry:**
@@ -84,7 +85,7 @@ Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "Profiling Web Archival V
 ```
 # [nwala-jcdl21](#nwala-jcdl21)
 
-Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "Garbage, Glitter, or Gold: Assigning Multi-dimensional Quality Scores to Social Media Seeds for Web Archive Collections," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
+Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "**Garbage, Glitter, or Gold: Assigning Multi-dimensional Quality Scores to Social Media Seeds for Web Archive Collections**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
 
 [](#nwala-jcdl21Bib)
 **Bibtex entry:**
@@ -103,7 +104,7 @@ Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "Garbage, Glitter,
 ```
 # [jones-jcdl21a](#jones-jcdl21a)
 
-Shawn M. Jones, Valentina Neblitt-Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "It's All About The Cards: Sharing on Social Media Probably Encouraged HTML Metadata Growth," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
+Shawn M. Jones, Valentina Neblitt-Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "**It's All About The Cards: Sharing on Social Media Probably Encouraged HTML Metadata Growth**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
 
 [](#jones-jcdl21aBib)
 **Bibtex entry:**
@@ -122,7 +123,7 @@ Shawn M. Jones, Valentina Neblitt-Jones, Michele C. Weigle, Martin Klein, and Mi
 ```
 # [garg-jcdl21](#garg-jcdl21)
 
-Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "Replaying Archived Twitter: When your bird is broken, will it bring you down?" In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
+Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Replaying Archived Twitter: When your bird is broken, will it bring you down?**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
 
 [](#garg-jcdl21Bib)
 **Bibtex entry:**
@@ -140,7 +141,7 @@ Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael
 ```
 # [aturban-tpdl21](#aturban-tpdl21)
 
-Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "Where Did the Web Archive Go?" In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2021.
+Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Where Did the Web Archive Go?**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2021.
 
 [](#aturban-tpdl21Bib)
 **Bibtex entry:**
@@ -152,12 +153,13 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "Where Did the Web Ar
       BOOKTITLE = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
       YEAR = {2021},
       MONTH = {sep},
+      ARXIV = {https://arxiv.org/abs/2108.05939},
       PUBDATE = {202109},
 }
 ```
 # [jones-memento21](#jones-memento21)
 
-Shawn M. Jones, Martin Klein, Herbert Van de Sompel, Michael L. Nelson, and Michele C. Weigle, "[Interoperability for Accessing Versions of Web Resources with the Memento Protocol](http://dx.doi.org/10.1007/978-3-030-63291-5)," In *The Past Web: Exploring Web Archives*. (Daniel Gomes and Elena Demidova and Jane Winters and Thomas Risse, Eds.), Springer, 2021.
+Shawn M. Jones, Martin Klein, Herbert Van de Sompel, Michael L. Nelson, and Michele C. Weigle, "**Interoperability for Accessing Versions of Web Resources with the Memento Protocol**," In *The Past Web: Exploring Web Archives*. (Daniel Gomes and Elena Demidova and Jane Winters and Thomas Risse, Eds.), Springer, 2021. &nbsp;<a href='http://dx.doi.org/10.1007/978-3-030-63291-5' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#jones-memento21Bib)
 **Bibtex entry:**
@@ -176,7 +178,7 @@ Shawn M. Jones, Martin Klein, Herbert Van de Sompel, Michael L. Nelson, and Mich
 ```
 # [jones-websci21](#jones-websci21)
 
-Shawn Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "Automatically Selecting Striking Images for Social Cards," In *Proceedings of ACM WebSci*. June 2021.
+Shawn Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "**Automatically Selecting Striking Images for Social Cards**," In *Proceedings of ACM WebSci*. June 2021.
 
 [](#jones-websci21Bib)
 **Bibtex entry:**
@@ -194,7 +196,7 @@ Shawn Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "Automatica
 ```
 # [mabe-wadl20](#mabe-wadl20)
 
-Abigail Mabe, Dhruv Patel, Maheedhar Gunnam, Surbhi Shankar, Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "TMVis: Visualizing Webpage Changes Over Time," Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL), August 2020.
+Abigail Mabe, Dhruv Patel, Maheedhar Gunnam, Surbhi Shankar, Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**TMVis: Visualizing Webpage Changes Over Time**," Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL), August 2020.
 
 [](#mabe-wadl20Bib)
 **Bibtex entry:**
@@ -212,7 +214,7 @@ Abigail Mabe, Dhruv Patel, Maheedhar Gunnam, Surbhi Shankar, Mat Kelly, Sawood A
 ```
 # [jones-wadl20b](#jones-wadl20b)
 
-Shawn Jones, Alexander Nwala, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "SHARI – An Integration of Tools to Visualize the Story of the Day," Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL), August 2020.
+Shawn Jones, Alexander Nwala, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**SHARI – An Integration of Tools to Visualize the Story of the Day**," Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL), August 2020.
 
 [](#jones-wadl20bBib)
 **Bibtex entry:**
@@ -230,7 +232,7 @@ Shawn Jones, Alexander Nwala, Martin Klein, Michele C. Weigle, and Michael L. Ne
 ```
 # [jones-wadl20a](#jones-wadl20a)
 
-Shawn Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "MementoEmbed and Raintale for Web Archive Storytelling," Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL), August 2020.
+Shawn Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**MementoEmbed and Raintale for Web Archive Storytelling**," Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL), August 2020.
 
 [](#jones-wadl20aBib)
 **Bibtex entry:**
@@ -248,7 +250,7 @@ Shawn Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "MementoEmb
 ```
 # [alkwai-jcdl20](#alkwai-jcdl20)
 
-Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "Making Recommendations from Web Archives for "Lost" Web Pages," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. August 2020.
+Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**Making Recommendations from Web Archives for "Lost" Web Pages**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. August 2020.
 
 [](#alkwai-jcdl20Bib)
 **Bibtex entry:**
@@ -267,7 +269,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "Making Recommendations
 ```
 # [wu-jcdl20](#wu-jcdl20)
 
-Jian Wu, Md Reshad Ul Hoque, Gunnar W. Reiske, Michele C. Weigle, Brenda T. Bradshaw, Holly D. Gaff, Jiang Li, and Chiman Kwan, "A Comparative Study of Sequential Tagging Methods for Domain Knowledge Entity Recognition in Biomedical Papers," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. August 2020.
+Jian Wu, Md Reshad Ul Hoque, Gunnar W. Reiske, Michele C. Weigle, Brenda T. Bradshaw, Holly D. Gaff, Jiang Li, and Chiman Kwan, "**A Comparative Study of Sequential Tagging Methods for Domain Knowledge Entity Recognition in Biomedical Papers**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. August 2020.
 
 [](#wu-jcdl20Bib)
 **Bibtex entry:**
@@ -285,7 +287,7 @@ Jian Wu, Md Reshad Ul Hoque, Gunnar W. Reiske, Michele C. Weigle, Brenda T. Brad
 ```
 # [nwala-cj20](#nwala-cj20)
 
-Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "365 Dots in 2019: Quantifying Attention of News Sources," Poster/demo accepted at the Computation + Journalism Symposium (symposium cancelled due to COVID-19), May 2020.
+Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**365 Dots in 2019: Quantifying Attention of News Sources**," Poster/demo accepted at the Computation + Journalism Symposium (symposium cancelled due to COVID-19), May 2020.
 
 [](#nwala-cj20Bib)
 **Bibtex entry:**
@@ -303,7 +305,7 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "365 Dots in 2019: Qu
 ```
 # [jones-cikm19](#jones-cikm19)
 
-Shawn M. Jones, Michele C. Weigle, and Michael L. Nelson, "[Social Cards Probably Provide For Better Understanding Of Web Archive Collections](http://dx.doi.org/10.1145/3357384.3358039)," In *Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)*. November 2019.
+Shawn M. Jones, Michele C. Weigle, and Michael L. Nelson, "**Social Cards Probably Provide For Better Understanding Of Web Archive Collections**," In *Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)*. November 2019. &nbsp;<a href='http://dx.doi.org/10.1145/3357384.3358039' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#jones-cikm19Bib)
 **Bibtex entry:**
@@ -322,7 +324,7 @@ Shawn M. Jones, Michele C. Weigle, and Michael L. Nelson, "[Social Cards Probabl
 ```
 # [alam-arxiv19b](#alam-arxiv19b)
 
-Sawood Alam, Plinio Vargas, Michele C. Weigle, and Michael L. Nelson, "[Impact of HTTP Cookie Violations in Web Archives](https://arxiv.org/abs/1906.07141)," Presented at the ACM/IEEE JCDL 2019 Workshop on Web Archiving and Digital Libraries (WADL), June 2019.
+Sawood Alam, Plinio Vargas, Michele C. Weigle, and Michael L. Nelson, "**Impact of HTTP Cookie Violations in Web Archives**," Presented at the ACM/IEEE JCDL 2019 Workshop on Web Archiving and Digital Libraries (WADL), June 2019. ([URL](https://arxiv.org/abs/1906.07141))
 
 [](#alam-arxiv19bBib)
 **Bibtex entry:**
@@ -340,7 +342,7 @@ Sawood Alam, Plinio Vargas, Michele C. Weigle, and Michael L. Nelson, "[Impact o
 ```
 # [alam-arxiv19a](#alam-arxiv19a)
 
-Sawood Alam, Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert Van de Sompel, "[Supporting Web Archiving via Web Packaging](https://arxiv.org/abs/1906.07104)," Technical report arXiv:1906.07104, June 2019.
+Sawood Alam, Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert Van de Sompel, "**Supporting Web Archiving via Web Packaging**," Technical report arXiv:1906.07104, June 2019. ([URL](https://arxiv.org/abs/1906.07104))
 
 [](#alam-arxiv19aBib)
 **Bibtex entry:**
@@ -359,7 +361,7 @@ Sawood Alam, Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert Van
 ```
 # [aturban-arxiv19](#aturban-arxiv19)
 
-Mohamed Aturban, Michael L. Nelson, Michele C. Weigle, Martin Klein, and Herbert Van de Sompel, "[Collecting 16K archived web pages from 17 public web archives](https://arxiv.org/abs/1905.03836)," Technical report arXiv:1905.03836, May 2019.
+Mohamed Aturban, Michael L. Nelson, Michele C. Weigle, Martin Klein, and Herbert Van de Sompel, "**Collecting 16K archived web pages from 17 public web archives**," Technical report arXiv:1905.03836, May 2019. ([URL](https://arxiv.org/abs/1905.03836))
 
 [](#aturban-arxiv19Bib)
 **Bibtex entry:**
@@ -377,7 +379,7 @@ Mohamed Aturban, Michael L. Nelson, Michele C. Weigle, Martin Klein, and Herbert
 ```
 # [nwala-jcdl19](#nwala-jcdl19)
 
-Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "[Using Micro-collections in Social Media to Generate Seeds for Web Archive Collections](http://dx.doi.org/https://doi.org/10.1109/JCDL.2019.00042)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Urbana-Champaign, IL, June 2019.
+Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Using Micro-collections in Social Media to Generate Seeds for Web Archive Collections**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Urbana-Champaign, IL, June 2019. &nbsp;<a href='http://dx.doi.org/https://doi.org/10.1109/JCDL.2019.00042' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#nwala-jcdl19Bib)
 **Bibtex entry:**
@@ -397,7 +399,7 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "[Using Micro-collect
 ```
 # [aturban-jcdl19](#aturban-jcdl19)
 
-Mohamed Aturban, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "Archive Assisted Archival Fixity Verification Framework," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Urbana-Champaign, IL, June 2019.
+Mohamed Aturban, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Archive Assisted Archival Fixity Verification Framework**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Urbana-Champaign, IL, June 2019.
 
 [](#aturban-jcdl19Bib)
 **Bibtex entry:**
@@ -416,7 +418,7 @@ Mohamed Aturban, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "Archive
 ```
 # [alam-jcdl19](#alam-jcdl19)
 
-Sawood Alam, Michele C. Weigle, Michael L. Nelson, Fernando Melo, Daniel Bicho, and Daniel Gomes, "MementoMap Framework for Flexible and Adaptive Web Archive Profiling," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Urbana-Champaign, IL, June 2019.
+Sawood Alam, Michele C. Weigle, Michael L. Nelson, Fernando Melo, Daniel Bicho, and Daniel Gomes, "**MementoMap Framework for Flexible and Adaptive Web Archive Profiling**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Urbana-Champaign, IL, June 2019.
 
 [](#alam-jcdl19Bib)
 **Bibtex entry:**
@@ -435,7 +437,7 @@ Sawood Alam, Michele C. Weigle, Michael L. Nelson, Fernando Melo, Daniel Bicho, 
 ```
 # [weigle-ssrc18](#weigle-ssrc18)
 
-Michele C. Weigle, "[On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/)," *SSRC Parameters*, September 2018.
+Michele C. Weigle, "**On the importance of web archiving**," *SSRC Parameters*, September 2018. ([URL](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/))
 
 [](#weigle-ssrc18Bib)
 **Bibtex entry:**
@@ -453,7 +455,7 @@ Michele C. Weigle, "[On the importance of web archiving](https://items.ssrc.org/
 ```
 # [mccoy-idd18](#mccoy-idd18)
 
-Corren McCoy, Michael L. Nelson, and Michele C. Weigle, "[Mining the Web to Approximate University Rankings](http://dx.doi.org/10.1108/IDD-05-2018-0014)," *Information Discovery and Delivery*, Vol. 46, No. 3, November 2018, pp. 173-183.
+Corren McCoy, Michael L. Nelson, and Michele C. Weigle, "**Mining the Web to Approximate University Rankings**," *Information Discovery and Delivery*, Vol. 46, No. 3, November 2018, pp. 173-183. &nbsp;<a href='http://dx.doi.org/10.1108/IDD-05-2018-0014' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#mccoy-idd18Bib)
 **Bibtex entry:**
@@ -474,7 +476,7 @@ Corren McCoy, Michael L. Nelson, and Michele C. Weigle, "[Mining the Web to Appr
 ```
 # [almaksousy-isths18](#almaksousy-isths18)
 
-Hassan Al-Maksousy, Michele C. Weigle, and Cong Wang, "[NNIDS: Neural Network based Intrusion Detection System](http://dx.doi.org/10.1109/THS.2018.8574174)," In *Proceedings of the IEEE International Symposium on Technologies for Homeland Security*. Woburn, MA, October 2018.
+Hassan Al-Maksousy, Michele C. Weigle, and Cong Wang, "**NNIDS: Neural Network based Intrusion Detection System**," In *Proceedings of the IEEE International Symposium on Technologies for Homeland Security*. Woburn, MA, October 2018. &nbsp;<a href='http://dx.doi.org/10.1109/THS.2018.8574174' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#almaksousy-isths18Bib)
 **Bibtex entry:**
@@ -493,7 +495,7 @@ Hassan Al-Maksousy, Michele C. Weigle, and Cong Wang, "[NNIDS: Neural Network ba
 ```
 # [almaksousy-icdf2c18](#almaksousy-icdf2c18)
 
-Hassan Al-Maksousy, and Michele C. Weigle, "[Hybrid Intrusion Detection System for Worm Attacks Based on Their Network Behavior](http://dx.doi.org/10.1007/978-3-030-05487-8_12)," In *Proceedings of the EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C)*. New Orleans, LA, September 2018, pp. 225-234.
+Hassan Al-Maksousy, and Michele C. Weigle, "**Hybrid Intrusion Detection System for Worm Attacks Based on Their Network Behavior**," In *Proceedings of the EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C)*. New Orleans, LA, September 2018, pp. 225-234. &nbsp;<a href='http://dx.doi.org/10.1007/978-3-030-05487-8_12' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#almaksousy-icdf2c18Bib)
 **Bibtex entry:**
@@ -513,7 +515,7 @@ Hassan Al-Maksousy, and Michele C. Weigle, "[Hybrid Intrusion Detection System f
 ```
 # [atkins-ipres18](#atkins-ipres18)
 
-Grant Atkins, Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "Measuring News Similarity Across Ten U.S. News Sites," In *Proceedings of the International Conference on Digital Preservation (iPres)*. Boston, MA, September 2018.
+Grant Atkins, Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Measuring News Similarity Across Ten U.S. News Sites**," In *Proceedings of the International Conference on Digital Preservation (iPres)*. Boston, MA, September 2018.
 
 [](#atkins-ipres18Bib)
 **Bibtex entry:**
@@ -533,7 +535,7 @@ Grant Atkins, Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "Measur
 ```
 # [jones-ipres18a](#jones-ipres18a)
 
-Shawn M. Jones, Michele C. Weigle, and Michael L. Nelson, "The Off-Topic Memento Toolkit," In *Proceedings of the International Conference on Digital Preservation (iPres)*. Boston, MA, September 2018.
+Shawn M. Jones, Michele C. Weigle, and Michael L. Nelson, "**The Off-Topic Memento Toolkit**," In *Proceedings of the International Conference on Digital Preservation (iPres)*. Boston, MA, September 2018.
 
 [](#jones-ipres18aBib)
 **Bibtex entry:**
@@ -553,7 +555,7 @@ Shawn M. Jones, Michele C. Weigle, and Michael L. Nelson, "The Off-Topic Memento
 ```
 # [jones-ipres18b](#jones-ipres18b)
 
-Shawn M. Jones, Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "The Many Shapes of Archive-It," In *Proceedings of the International Conference on Digital Preservation (iPres)*. Boston, MA, September 2018.
+Shawn M. Jones, Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**The Many Shapes of Archive-It**," In *Proceedings of the International Conference on Digital Preservation (iPres)*. Boston, MA, September 2018.
 
 [](#jones-ipres18bBib)
 **Bibtex entry:**
@@ -573,7 +575,7 @@ Shawn M. Jones, Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "The 
 ```
 # [nwala-ht18](#nwala-ht18)
 
-Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "[Bootstrapping Web Archive Collections from Social Media](http://dx.doi.org/10.1145/3209542.3209560)," In *Proceedings of ACM Hypertext (HT)*. Baltimore, MD, July 2018.
+Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Bootstrapping Web Archive Collections from Social Media**," In *Proceedings of ACM Hypertext (HT)*. Baltimore, MD, July 2018. &nbsp;<a href='http://dx.doi.org/10.1145/3209542.3209560' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#nwala-ht18Bib)
 **Bibtex entry:**
@@ -593,7 +595,7 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "[Bootstrapping Web A
 ```
 # [weigle-wadl18](#weigle-wadl18)
 
-Michele C. Weigle, "Enabling Personal Use of Web Archives," Keynote given at the Web Archiving and Digital Libraries Workshop (WADL) at JCDL 2018, June 2018.
+Michele C. Weigle, "**Enabling Personal Use of Web Archives**," Keynote given at the Web Archiving and Digital Libraries Workshop (WADL) at JCDL 2018, June 2018.
 
 [](#weigle-wadl18Bib)
 **Bibtex entry:**
@@ -612,7 +614,7 @@ Michele C. Weigle, "Enabling Personal Use of Web Archives," Keynote given at the
 ```
 # [mccoy-kddl18](#mccoy-kddl18)
 
-Corren McCoy, Michael L. Nelson, and Michele C. Weigle, "Mining the Web to Approximate University Rankings," Presented at the ACM/IEEE JCDL 2018 Workshop on Knowledge Discovery from Digital Libraries, June 2018.
+Corren McCoy, Michael L. Nelson, and Michele C. Weigle, "**Mining the Web to Approximate University Rankings**," Presented at the ACM/IEEE JCDL 2018 Workshop on Knowledge Discovery from Digital Libraries, June 2018.
 
 [](#mccoy-kddl18Bib)
 **Bibtex entry:**
@@ -631,7 +633,7 @@ Corren McCoy, Michael L. Nelson, and Michele C. Weigle, "Mining the Web to Appro
 ```
 # [kelly-wadl18](#kelly-wadl18)
 
-Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "Client-Assisted Memento Aggregation Using the Prefer Header," Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL), June 2018.
+Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Client-Assisted Memento Aggregation Using the Prefer Header**," Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL), June 2018.
 
 [](#kelly-wadl18Bib)
 **Bibtex entry:**
@@ -649,7 +651,7 @@ Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "Client-Assist
 ```
 # [berlin-wadl18](#berlin-wadl18)
 
-John Berlin, Michele C. Weigle, and Michael L. Nelson, "Swimming In A Sea Of JavaScript, Or: How I Learned To Stop Worrying And Love High-Fidelity Replay," Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL), June 2018.
+John Berlin, Michele C. Weigle, and Michael L. Nelson, "**Swimming In A Sea Of JavaScript, Or: How I Learned To Stop Worrying And Love High-Fidelity Replay**," Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL), June 2018.
 
 [](#berlin-wadl18Bib)
 **Bibtex entry:**
@@ -667,7 +669,7 @@ John Berlin, Michele C. Weigle, and Michael L. Nelson, "Swimming In A Sea Of Jav
 ```
 # [aturban-wadl18](#aturban-wadl18)
 
-Mohamed Aturban, Michele C. Weigle, and Michael L. Nelson, "It is Hard to Compute Fixity on Archived Web Pages," Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL), June 2018.
+Mohamed Aturban, Michele C. Weigle, and Michael L. Nelson, "**It is Hard to Compute Fixity on Archived Web Pages**," Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL), June 2018.
 
 [](#aturban-wadl18Bib)
 **Bibtex entry:**
@@ -685,7 +687,7 @@ Mohamed Aturban, Michele C. Weigle, and Michael L. Nelson, "It is Hard to Comput
 ```
 # [aturban-jcdl18](#aturban-jcdl18)
 
-Mohamed Aturban, Mat Kelly, Sawood Alam, John Berlin, Michael L. Nelson, and Michele C. Weigle, "ArchiveNow: Simplified, Extensible, Multi-Archive Preservation," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 321-322, poster. ***Best Poster Award***. 
+Mohamed Aturban, Mat Kelly, Sawood Alam, John Berlin, Michael L. Nelson, and Michele C. Weigle, "**ArchiveNow: Simplified, Extensible, Multi-Archive Preservation**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 321-322, poster. ***Best Poster Award***. 
 
 [](#aturban-jcdl18Bib)
 **Bibtex entry:**
@@ -708,7 +710,7 @@ Mohamed Aturban, Mat Kelly, Sawood Alam, John Berlin, Michael L. Nelson, and Mic
 ```
 # [alam-jcdl18](#alam-jcdl18)
 
-Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "Unobtrusive and Extensible Archival Replay Banners Using Custom Elements," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 319-320, poster.
+Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "**Unobtrusive and Extensible Archival Replay Banners Using Custom Elements**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 319-320, poster.
 
 [](#alam-jcdl18Bib)
 **Bibtex entry:**
@@ -729,7 +731,7 @@ Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "Unobtrusive a
 ```
 # [kelly-jcdl18](#kelly-jcdl18)
 
-Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "A Framework for Aggregating Private and Public Web Archives," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 273-282.
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**A Framework for Aggregating Private and Public Web Archives**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 273-282.
 
 [](#kelly-jcdl18Bib)
 **Bibtex entry:**
@@ -750,7 +752,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "A Framework for Aggregatin
 ```
 # [nwala-jcdl18](#nwala-jcdl18)
 
-Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "Scraping SERPs for archival seeds: it matters when you start," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 263-272.
+Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Scraping SERPs for archival seeds: it matters when you start**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Fort Worth, TX, June 2018, pp. 263-272.
 
 [](#nwala-jcdl18Bib)
 **Bibtex entry:**
@@ -771,7 +773,7 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "Scraping SERPs for a
 ```
 # [aturban-arxiv17](#aturban-arxiv17)
 
-Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "[Difficulties of Timestamping Archived Web Pages](https://arxiv.org/abs/1712.03140)," Technical report arXiv:1712.03140, arXiv, December 2017.
+Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Difficulties of Timestamping Archived Web Pages**," Technical report arXiv:1712.03140, arXiv, December 2017. ([URL](https://arxiv.org/abs/1712.03140))
 
 [](#aturban-arxiv17Bib)
 **Bibtex entry:**
@@ -790,7 +792,7 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "[Difficulties of Tim
 ```
 # [mccoy-arxiv17](#mccoy-arxiv17)
 
-Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "[University Twitter Engagement: Using Twitter Followers to Rank Universities](https://arxiv.org/abs/1708.05790)," Technical report arXiv:1708.05790, arXiv, August 2017.
+Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "**University Twitter Engagement: Using Twitter Followers to Rank Universities**," Technical report arXiv:1708.05790, arXiv, August 2017. ([URL](https://arxiv.org/abs/1708.05790))
 
 [](#mccoy-arxiv17Bib)
 **Bibtex entry:**
@@ -809,7 +811,7 @@ Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "[University Twitter 
 ```
 # [alnoamany-arxiv17](#alnoamany-arxiv17)
 
-Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Stories From the Past Web](http://arxiv.org/abs/1705.06218)," Technical report arXiv:1705.06218, arXiv, May 2017.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Stories From the Past Web**," Technical report arXiv:1705.06218, arXiv, May 2017. ([URL](http://arxiv.org/abs/1705.06218))
 
 [](#alnoamany-arxiv17Bib)
 **Bibtex entry:**
@@ -828,7 +830,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Stories From the P
 ```
 # [kelly-arxiv17](#kelly-arxiv17)
 
-Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "[Impact of URI Canonicalization on Memento Count](http://arxiv.org/abs/1703.03302)," Technical report arxiv:1601.05142, arXiv, March 2017.
+Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "**Impact of URI Canonicalization on Memento Count**," Technical report arxiv:1601.05142, arXiv, March 2017. ([URL](http://arxiv.org/abs/1703.03302))
 
 [](#kelly-arxiv17Bib)
 **Bibtex entry:**
@@ -847,7 +849,7 @@ Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert V
 ```
 # [alnoamany-websci17](#alnoamany-websci17)
 
-Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Generating Stories from Archived Collections](http://dx.doi.org/10.1145/3091478.3091508)," In *Proceedings of the 9th International ACM Web Science Conference*. Troy, NY, June 2017.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Generating Stories from Archived Collections**," In *Proceedings of the 9th International ACM Web Science Conference*. Troy, NY, June 2017. &nbsp;<a href='http://dx.doi.org/10.1145/3091478.3091508' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#alnoamany-websci17Bib)
 **Bibtex entry:**
@@ -867,7 +869,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Generating Stories
 ```
 # [alkwai-tois17](#alkwai-tois17)
 
-Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "[Comparing the Archival Rate of Arabic, English, Danish, and Korean Language Web Pages](http://dx.doi.org/10.1145/3041656)," *ACM Transactions on Information Systems (TOIS)*, Vol. 36, No. 1, July 2017, pp. 1:1-1:34.
+Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**Comparing the Archival Rate of Arabic, English, Danish, and Korean Language Web Pages**," *ACM Transactions on Information Systems (TOIS)*, Vol. 36, No. 1, July 2017, pp. 1:1-1:34. ([URL](http://dl.acm.org/authorize?N39430)) &nbsp;<a href='http://dx.doi.org/10.1145/3041656' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#alkwai-tois17Bib)
 **Bibtex entry:**
@@ -890,7 +892,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "[Comparing the Archiva
 ```
 # [kelly-jcdl17](#kelly-jcdl17)
 
-Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "[Impact of URI Canonicalization on Memento Count](http://dx.doi.org/10.1109/JCDL.2017.7991601)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 303-304, poster. ***Best Poster Award***. 
+Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "**Impact of URI Canonicalization on Memento Count**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 303-304, poster. ***Best Poster Award***.  &nbsp;<a href='http://dx.doi.org/10.1109/JCDL.2017.7991601' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#kelly-jcdl17Bib)
 **Bibtex entry:**
@@ -914,7 +916,7 @@ Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, 
 ```
 # [berlin-jcdl17](#berlin-jcdl17)
 
-John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "[WAIL: Collection-Based Personal Web Archiving](http://dx.doi.org/10.1109/JCDL.2017.7991619)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 340-341.
+John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**WAIL: Collection-Based Personal Web Archiving**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 340-341. &nbsp;<a href='http://dx.doi.org/10.1109/JCDL.2017.7991619' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#berlin-jcdl17Bib)
 **Bibtex entry:**
@@ -935,7 +937,7 @@ John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "[WAIL: Collec
 ```
 # [alam-jcdl17](#alam-jcdl17)
 
-Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "Client-side Reconstruction of Composite Mementos Using ServiceWorker," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017.
+Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "**Client-side Reconstruction of Composite Mementos Using ServiceWorker**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017.
 
 [](#alam-jcdl17Bib)
 **Bibtex entry:**
@@ -954,7 +956,7 @@ Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "Client-side R
 ```
 # [brunelle-jcdl17](#brunelle-jcdl17)
 
-Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "Archival Crawlers and JavaScript: Discover More Stuff but Crawl More Slowly," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017.
+Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Archival Crawlers and JavaScript: Discover More Stuff but Crawl More Slowly**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017.
 
 [](#brunelle-jcdl17Bib)
 **Bibtex entry:**
@@ -973,7 +975,7 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "Archival Crawlers
 ```
 # [nwala-jcdl17](#nwala-jcdl17)
 
-Alexander C. Nwala, Michele C. Weigle, Michael L. Nelson, Adam B. Ziegler, and Anastasia Aizman, "Local Memory Project: Providing Tools to Build Collections of Stories for Local Events from Local Sources," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017.
+Alexander C. Nwala, Michele C. Weigle, Michael L. Nelson, Adam B. Ziegler, and Anastasia Aizman, "**Local Memory Project: Providing Tools to Build Collections of Stories for Local Events from Local Sources**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017.
 
 [](#nwala-jcdl17Bib)
 **Bibtex entry:**
@@ -992,7 +994,7 @@ Alexander C. Nwala, Michele C. Weigle, Michael L. Nelson, Adam B. Ziegler, and A
 ```
 # [mohrehkesh-chap17](#mohrehkesh-chap17)
 
-Shahram Mohrehkesh, Michele C. Weigle, and Sajal K. Das, "[Energy Harvesting in Nanonetworks](http://dx.doi.org/10.1007/978-3-319-50688-3_14)," In *Modeling, Methodologies and Tools for Molecular and Nano-scale Communications*. (Junichi Suzuki, Tadashi Nakano, Michael John Moore, Eds.), Springer International Publishing, 2017, pp. 319-347.
+Shahram Mohrehkesh, Michele C. Weigle, and Sajal K. Das, "**Energy Harvesting in Nanonetworks**," In *Modeling, Methodologies and Tools for Molecular and Nano-scale Communications*. (Junichi Suzuki, Tadashi Nakano, Michael John Moore, Eds.), Springer International Publishing, 2017, pp. 319-347. &nbsp;<a href='http://dx.doi.org/10.1007/978-3-319-50688-3_14' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#mohrehkesh-chap17Bib)
 **Bibtex entry:**
@@ -1013,7 +1015,7 @@ Shahram Mohrehkesh, Michele C. Weigle, and Sajal K. Das, "[Energy Harvesting in 
 ```
 # [mohrehkesh-computer17](#mohrehkesh-computer17)
 
-Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "[Energy Harvesting in Electromagnetic Nanonetworks](http://dx.doi.org/10.1109/MC.2017.61)," *IEEE Computer*, No. 2, February 2017, pp. 59-67.
+Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "**Energy Harvesting in Electromagnetic Nanonetworks**," *IEEE Computer*, No. 2, February 2017, pp. 59-67. &nbsp;<a href='http://dx.doi.org/10.1109/MC.2017.61' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#mohrehkesh-computer17Bib)
 **Bibtex entry:**
@@ -1035,7 +1037,7 @@ Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "[Energy Harvesting in Ele
 ```
 # [pardue-vis16](#pardue-vis16)
 
-Juliette Pardue, Mridul Sen, Christos Tsolakis, Reid Rankin, Ayush Khandelwal, and Michele C. Weigle, "WorldVis: A Visualization Tool for World Data," Poster presented at IEEE VIS, October 2016.
+Juliette Pardue, Mridul Sen, Christos Tsolakis, Reid Rankin, Ayush Khandelwal, and Michele C. Weigle, "**WorldVis: A Visualization Tool for World Data**," Poster presented at IEEE VIS, October 2016.
 
 [](#pardue-vis16Bib)
 **Bibtex entry:**
@@ -1055,7 +1057,7 @@ Juliette Pardue, Mridul Sen, Christos Tsolakis, Reid Rankin, Ayush Khandelwal, a
 ```
 # [kelly-tpdl16](#kelly-tpdl16)
 
-Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "InterPlanetary Wayback: Peer-To-Peer Permanence of Web Archives," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. Hannover, Germany, September 2016.
+Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**InterPlanetary Wayback: Peer-To-Peer Permanence of Web Archives**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. Hannover, Germany, September 2016.
 
 [](#kelly-tpdl16Bib)
 **Bibtex entry:**
@@ -1074,7 +1076,7 @@ Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "InterPlanetar
 ```
 # [alnoamany-ijdl16a](#alnoamany-ijdl16a)
 
-Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Detecting Off-Topic Pages Within TimeMaps in Web Archives](http://dx.doi.org/10.1007/s00799-016-0183-5)," *International Journal of Digital Libraries (IJDL)*, Vol. 17, No. 3, July 2016, pp. 203-221.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Detecting Off-Topic Pages Within TimeMaps in Web Archives**," *International Journal of Digital Libraries (IJDL)*, Vol. 17, No. 3, July 2016, pp. 203-221. &nbsp;<a href='http://dx.doi.org/10.1007/s00799-016-0183-5' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#alnoamany-ijdl16aBib)
 **Bibtex entry:**
@@ -1096,7 +1098,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Detecting Off-Topi
 ```
 # [alnoamany-ijdl16b](#alnoamany-ijdl16b)
 
-Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Characteristics of Social Media Stories. What makes a good story?](http://dx.doi.org/10.1007/s00799-016-0185-3)," *International Journal of Digital Libraries (IJDL)*, Vol. 17, No. 3, July 2016, pp. 239-256.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Characteristics of Social Media Stories. What makes a good story?**," *International Journal of Digital Libraries (IJDL)*, Vol. 17, No. 3, July 2016, pp. 239-256. &nbsp;<a href='http://dx.doi.org/10.1007/s00799-016-0185-3' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#alnoamany-ijdl16bBib)
 **Bibtex entry:**
@@ -1118,7 +1120,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Characteristics of
 ```
 # [brunelle-ijdl16](#brunelle-ijdl16)
 
-Justin Brunelle, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "[The Impact of JavaScript on Archivability](http://dx.doi.org/10.1007/s00799-015-0140-8)," *International Journal of Digital Libraries (IJDL)*, Vol. 17, No. 2, June 2016, pp. 95-117.
+Justin Brunelle, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "**The Impact of JavaScript on Archivability**," *International Journal of Digital Libraries (IJDL)*, Vol. 17, No. 2, June 2016, pp. 95-117. &nbsp;<a href='http://dx.doi.org/10.1007/s00799-015-0140-8' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#brunelle-ijdl16Bib)
 **Bibtex entry:**
@@ -1140,7 +1142,7 @@ Justin Brunelle, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "[The Impa
 ```
 # [brunelle-arxiv16](#brunelle-arxiv16)
 
-Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "[Adapting the Hypercube Model to Archive Deferred Representations and Their Descendants](http://arxiv.org/abs/1601.05142)," Technical report arxiv:1601.05142, arXiv, January 2016.
+Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Adapting the Hypercube Model to Archive Deferred Representations and Their Descendants**," Technical report arxiv:1601.05142, arXiv, January 2016. ([URL](http://arxiv.org/abs/1601.05142))
 
 [](#brunelle-arxiv16Bib)
 **Bibtex entry:**
@@ -1159,7 +1161,7 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "[Adapting the Hyp
 ```
 # [brunelle-dlib16](#brunelle-dlib16)
 
-Justin F. Brunelle, Krista Ferrante, Eliot Wilczek, Michele C. Weigle, and Michael L. Nelson, "[Leveraging Heritrix and the Wayback Machine on a Corporate Intranet: A Case Study on Improving Corporate Archives](http://dx.doi.org/10.1045/january2016-brunelle)," *D-Lib Magazine*, Vol. 22, No. 1/2, Jan/Feb 2016.
+Justin F. Brunelle, Krista Ferrante, Eliot Wilczek, Michele C. Weigle, and Michael L. Nelson, "**Leveraging Heritrix and the Wayback Machine on a Corporate Intranet: A Case Study on Improving Corporate Archives**," *D-Lib Magazine*, Vol. 22, No. 1/2, Jan/Feb 2016. ([URL](http://www.dlib.org/dlib/november13/kelly/11kelly.html)) &nbsp;<a href='http://dx.doi.org/10.1045/january2016-brunelle' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#brunelle-dlib16Bib)
 **Bibtex entry:**
@@ -1180,7 +1182,7 @@ Justin F. Brunelle, Krista Ferrante, Eliot Wilczek, Michele C. Weigle, and Micha
 ```
 # [mohrehkesh-tmbmc15](#mohrehkesh-tmbmc15)
 
-Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "[DRIH-MAC: A Distributed Receiver-Initiated Harvesting-aware MAC for NanoNetworks](http://dx.doi.org/10.1109/TMBMC.2015.2465519)," *IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (T-MBMC)*, Vol. 1, No. 1, 2015, pp. 97-110.
+Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "**DRIH-MAC: A Distributed Receiver-Initiated Harvesting-aware MAC for NanoNetworks**," *IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (T-MBMC)*, Vol. 1, No. 1, 2015, pp. 97-110. &nbsp;<a href='http://dx.doi.org/10.1109/TMBMC.2015.2465519' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#mohrehkesh-tmbmc15Bib)
 **Bibtex entry:**
@@ -1201,7 +1203,7 @@ Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "[DRIH-MAC: A Distributed 
 ```
 # [weigle-cuwarc15](#weigle-cuwarc15)
 
-Michele C. Weigle, "[Tools for Managing Seed URIs](https://www.youtube.com/watch?v=yeuk_vIOXcw&t=1226)," Talk given at the Columbia University Web Archiving Collaboration: New Tools and Models Workshop, June 2015.
+Michele C. Weigle, "**Tools for Managing Seed URIs**," Talk given at the Columbia University Web Archiving Collaboration: New Tools and Models Workshop, June 2015. ([URL](https://www.youtube.com/watch?v=yeuk_vIOXcw&t=1226))
 
 [](#weigle-cuwarc15Bib)
 **Bibtex entry:**
@@ -1221,7 +1223,7 @@ Michele C. Weigle, "[Tools for Managing Seed URIs](https://www.youtube.com/watch
 ```
 # [brunelle-ipres15](#brunelle-ipres15)
 
-Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "[Archiving Deferred Representations Using a Two-Tiered Crawling Approach](http://arxiv.org/abs/1508.02315)," In *Proceedings of the International Conference on Digital Preservation (iPRES)*. Chapel Hill, NC, November 2015.
+Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Archiving Deferred Representations Using a Two-Tiered Crawling Approach**," In *Proceedings of the International Conference on Digital Preservation (iPRES)*. Chapel Hill, NC, November 2015. ([URL](http://arxiv.org/abs/1508.02315))
 
 [](#brunelle-ipres15Bib)
 **Bibtex entry:**
@@ -1240,7 +1242,7 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "[Archiving Deferr
 ```
 # [aturban-tpdl15](#aturban-tpdl15)
 
-Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "Quantifying Orphaned Annotations in Hypothes.is," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. Poznan, Poland, September 2015.
+Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Quantifying Orphaned Annotations in Hypothes.is**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. Poznan, Poland, September 2015.
 
 [](#aturban-tpdl15Bib)
 **Bibtex entry:**
@@ -1259,7 +1261,7 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "Quantifying Orphaned
 ```
 # [alnoamany-tpdl15a](#alnoamany-tpdl15a)
 
-Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, "Characteristics of Social Media Stories," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. Poznan, Poland, September 2015.
+Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, "**Characteristics of Social Media Stories**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. Poznan, Poland, September 2015.
 
 [](#alnoamany-tpdl15aBib)
 **Bibtex entry:**
@@ -1278,7 +1280,7 @@ Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, "Characteristics of 
 ```
 # [alnoamany-tpdl15b](#alnoamany-tpdl15b)
 
-Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, "Detecting Off-Topic Pages in Web Archives," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. Poznan, Poland, September 2015.
+Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, "**Detecting Off-Topic Pages in Web Archives**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. Poznan, Poland, September 2015.
 
 [](#alnoamany-tpdl15bBib)
 **Bibtex entry:**
@@ -1297,7 +1299,7 @@ Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, "Detecting Off-Topic
 ```
 # [alkwai-jcdl15](#alkwai-jcdl15)
 
-Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "How Well Are Arabic Websites Archived?" In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Knoxville, TN, June 2015. ***Best Student Paper Award***. 
+Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**How Well Are Arabic Websites Archived?**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Knoxville, TN, June 2015. ***Best Student Paper Award***. 
 
 [](#alkwai-jcdl15Bib)
 **Bibtex entry:**
@@ -1318,7 +1320,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "How Well Are Arabic We
 ```
 # [jordan-jcdl15](#jordan-jcdl15)
 
-Wesley Jordan, Mat Kelly, Justin F. Brunelle, Laura Vobrak, Michele C. Weigle, and Michael L. Nelson, "Mobile Mink: Merging Mobile and Desktop Archived Webs," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Knoxville, TN, June 2015, pp. 243-244, poster. ***Best Poster Award***. 
+Wesley Jordan, Mat Kelly, Justin F. Brunelle, Laura Vobrak, Michele C. Weigle, and Michael L. Nelson, "**Mobile Mink: Merging Mobile and Desktop Archived Webs**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Knoxville, TN, June 2015, pp. 243-244, poster. ***Best Poster Award***. 
 
 [](#jordan-jcdl15Bib)
 **Bibtex entry:**
@@ -1341,7 +1343,7 @@ Wesley Jordan, Mat Kelly, Justin F. Brunelle, Laura Vobrak, Michele C. Weigle, a
 ```
 # [brunelle-ijdl15b](#brunelle-ijdl15b)
 
-Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, "[Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources](http://dx.doi.org/10.1007/s00799-015-0150-6)," *International Journal of Digital Libraries (IJDL)*, Vol. 16, No. 3-4, September 2015, pp. 283-–301.
+Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, "**Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources**," *International Journal of Digital Libraries (IJDL)*, Vol. 16, No. 3-4, September 2015, pp. 283-–301. &nbsp;<a href='http://dx.doi.org/10.1007/s00799-015-0150-6' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#brunelle-ijdl15bBib)
 **Bibtex entry:**
@@ -1363,7 +1365,7 @@ Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. 
 ```
 # [weigle-capwic15](#weigle-capwic15)
 
-Michele C. Weigle, "What's Grad School All About?" Talk given at the Capital Region Celebration of Women in Computing (CAPWIC), February 2015.
+Michele C. Weigle, "**What's Grad School All About?**," Talk given at the Capital Region Celebration of Women in Computing (CAPWIC), February 2015.
 
 [](#weigle-capwic15Bib)
 **Bibtex entry:**
@@ -1383,7 +1385,7 @@ Michele C. Weigle, "What's Grad School All About?" Talk given at the Capital Reg
 ```
 # [weigle-ece15](#weigle-ece15)
 
-Michele C. Weigle, "[Tools for Managing the Past Web](https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html)," Graduate Seminar, ODU Department of Electrical and Computing Engineering, February 2015.
+Michele C. Weigle, "**Tools for Managing the Past Web**," Graduate Seminar, ODU Department of Electrical and Computing Engineering, February 2015. ([URL](https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html))
 
 [](#weigle-ece15Bib)
 **Bibtex entry:**
@@ -1403,7 +1405,7 @@ Michele C. Weigle, "[Tools for Managing the Past Web](https://www.odu.edu/announ
 ```
 # [rawat-ahswn15](#rawat-ahswn15)
 
-Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "[Trust On the Security of Wireless Vehicular Ad-hoc Networking](http://www.oldcitypublishing.com/journals/ahswn-home/ahswn-issue-contents/ahswn-volume-24-number-3-4-2015/ahswn-24-3-4-p-283-305/)," *Ad Hoc & Sensor Wireless Networks*, Vol. 24, No. 3-4, 2015, pp. 283-305.
+Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "**Trust On the Security of Wireless Vehicular Ad-hoc Networking**," *Ad Hoc & Sensor Wireless Networks*, Vol. 24, No. 3-4, 2015, pp. 283-305. ([URL](http://www.oldcitypublishing.com/journals/ahswn-home/ahswn-issue-contents/ahswn-volume-24-number-3-4-2015/ahswn-24-3-4-p-283-305/))
 
 [](#rawat-ahswn15Bib)
 **Bibtex entry:**
@@ -1424,7 +1426,7 @@ Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "[Trust On th
 ```
 # [mohrehkesh-jsac14](#mohrehkesh-jsac14)
 
-Shahram Mohrehkesh, and Michele C. Weigle, "[Optimizing Energy Consumption in Terahertz Band Nanonetworks](http://dx.doi.org/10.1109/JSAC.2014.2367668)," *IEEE Journal on Selected Areas in Communications, Series on Molecular, Biological, and Multi-Scale Communications*, Vol. 32, No. 12, December 2014, pp. 2432-2441.
+Shahram Mohrehkesh, and Michele C. Weigle, "**Optimizing Energy Consumption in Terahertz Band Nanonetworks**," *IEEE Journal on Selected Areas in Communications, Series on Molecular, Biological, and Multi-Scale Communications*, Vol. 32, No. 12, December 2014, pp. 2432-2441. &nbsp;<a href='http://dx.doi.org/10.1109/JSAC.2014.2367668' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#mohrehkesh-jsac14Bib)
 **Bibtex entry:**
@@ -1447,7 +1449,7 @@ Shahram Mohrehkesh, and Michele C. Weigle, "[Optimizing Energy Consumption in Te
 ```
 # [weigle-aitpartners-14](#weigle-aitpartners-14)
 
-Michele C. Weigle, "Tools for Managing the Past Web," Talk given at the Archive-It Partners Meeting, November 2014.
+Michele C. Weigle, "**Tools for Managing the Past Web**," Talk given at the Archive-It Partners Meeting, November 2014.
 
 [](#weigle-aitpartners-14Bib)
 **Bibtex entry:**
@@ -1466,7 +1468,7 @@ Michele C. Weigle, "Tools for Managing the Past Web," Talk given at the Archive-
 ```
 # [mohrehkesh-misenet14](#mohrehkesh-misenet14)
 
-Shahram Mohrehkesh, Aaron Walden, Xianping Wang, Michele C. Weigle, and Stephan Olariu, "[Towards Building Asset Registry in Emergency Response](http://dx.doi.org/10.1109/MASS.2014.91)," In *Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)*. Philadelphia, PA, October 2014. ***Best Paper Award***. 
+Shahram Mohrehkesh, Aaron Walden, Xianping Wang, Michele C. Weigle, and Stephan Olariu, "**Towards Building Asset Registry in Emergency Response**," In *Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)*. Philadelphia, PA, October 2014. ***Best Paper Award***.  &nbsp;<a href='http://dx.doi.org/10.1109/MASS.2014.91' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#mohrehkesh-misenet14Bib)
 **Bibtex entry:**
@@ -1488,7 +1490,7 @@ Shahram Mohrehkesh, Aaron Walden, Xianping Wang, Michele C. Weigle, and Stephan 
 ```
 # [weigle-nehodh-14](#weigle-nehodh-14)
 
-Michele C. Weigle, "[Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher](https://www.youtube.com/watch?v=UI-rxeEnhvk&feature=youtu.be&t=4338)," Talk given at the NEH ODH Project Directors' Meeting, September 2014.
+Michele C. Weigle, "**Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher**," Talk given at the NEH ODH Project Directors' Meeting, September 2014. ([URL](https://www.youtube.com/watch?v=UI-rxeEnhvk&feature=youtu.be&t=4338))
 
 [](#weigle-nehodh-14Bib)
 **Bibtex entry:**
@@ -1508,7 +1510,7 @@ Michele C. Weigle, "[Archive What I See Now: Bringing Institutional Web Archivin
 ```
 # [kelly-jcdl14-a](#kelly-jcdl14-a)
 
-Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "[Mink: Integrating the Live and Archived Web Viewing Experience Using Web Browsers and Memento](http://dx.doi.org/10.1109/JCDL.2014.6970229)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. London, September 2014, pp. 469-470.
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Mink: Integrating the Live and Archived Web Viewing Experience Using Web Browsers and Memento**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. London, September 2014, pp. 469-470. &nbsp;<a href='http://dx.doi.org/10.1109/JCDL.2014.6970229' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#kelly-jcdl14-aBib)
 **Bibtex entry:**
@@ -1529,7 +1531,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "[Mink: Integrating the Liv
 ```
 # [kelly-jcdl14-b](#kelly-jcdl14-b)
 
-Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "[The Archival Acid Test: Evaluating Archive Performance on Advanced HTML and JavaScript](http://dx.doi.org/10.1109/JCDL.2014.6970146)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. London, September 2014, pp. 25-28.
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**The Archival Acid Test: Evaluating Archive Performance on Advanced HTML and JavaScript**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. London, September 2014, pp. 25-28. &nbsp;<a href='http://dx.doi.org/10.1109/JCDL.2014.6970146' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#kelly-jcdl14-bBib)
 **Bibtex entry:**
@@ -1550,7 +1552,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "[The Archival Acid Test: E
 ```
 # [brunelle-jcdl14](#brunelle-jcdl14)
 
-Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, "[Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources](http://dx.doi.org/10.1109/JCDL.2014.6970187)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. London, September 2014, pp. 321-330. ***Best Student Paper Award***. 
+Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, "**Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. London, September 2014, pp. 321-330. ***Best Student Paper Award***.  &nbsp;<a href='http://dx.doi.org/10.1109/JCDL.2014.6970187' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#brunelle-jcdl14Bib)
 **Bibtex entry:**
@@ -1573,7 +1575,7 @@ Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. 
 ```
 # [wang-milcom14](#wang-milcom14)
 
-Xianping Wang, Aaron Walden, Michele C. Weigle, and Stephan Olariu, "[Strategies for Sensor Data Aggregation in Support of Emergency Response](http://dx.doi.org/10.1109/MILCOM.2014.189)," In *Proceedings of the Military Communications Conference (MILCOM)*. Baltimore, MD, October 2014.
+Xianping Wang, Aaron Walden, Michele C. Weigle, and Stephan Olariu, "**Strategies for Sensor Data Aggregation in Support of Emergency Response**," In *Proceedings of the Military Communications Conference (MILCOM)*. Baltimore, MD, October 2014. &nbsp;<a href='http://dx.doi.org/10.1109/MILCOM.2014.189' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#wang-milcom14Bib)
 **Bibtex entry:**
@@ -1594,7 +1596,7 @@ Xianping Wang, Aaron Walden, Michele C. Weigle, and Stephan Olariu, "[Strategies
 ```
 # [ruffing-milcom14](#ruffing-milcom14)
 
-Michael Ruffing, Yang He, Jason Hallstrom, Mat Kelly, Stephan Olariu, and Michele C. Weigle, "[A Retasking Framework For Wireless Sensor Networks](http://dx.doi.org/10.1109/MILCOM.2014.181)," In *Proceedings of the Military Communications Conference (MILCOM)*. Baltimore, MD, October 2014.
+Michael Ruffing, Yang He, Jason Hallstrom, Mat Kelly, Stephan Olariu, and Michele C. Weigle, "**A Retasking Framework For Wireless Sensor Networks**," In *Proceedings of the Military Communications Conference (MILCOM)*. Baltimore, MD, October 2014. &nbsp;<a href='http://dx.doi.org/10.1109/MILCOM.2014.181' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#ruffing-milcom14Bib)
 **Bibtex entry:**
@@ -1615,7 +1617,7 @@ Michael Ruffing, Yang He, Jason Hallstrom, Mat Kelly, Stephan Olariu, and Michel
 ```
 # [alsum-ijdl14](#alsum-ijdl14)
 
-Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, "[Profiling Web Archive Coverage for Top-Level Domain and Content Language](http://dx.doi.org/10.1007/s00799-014-0118-y)," *International Journal of Digital Libraries (IJDL)*, Vol. 14, No. 3-4, August 2014, pp. 149-166.
+Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, "**Profiling Web Archive Coverage for Top-Level Domain and Content Language**," *International Journal of Digital Libraries (IJDL)*, Vol. 14, No. 3-4, August 2014, pp. 149-166. &nbsp;<a href='http://dx.doi.org/10.1007/s00799-014-0118-y' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#alsum-ijdl14Bib)
 **Bibtex entry:**
@@ -1637,7 +1639,7 @@ Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, "[
 ```
 # [alnoamany-ijdl14](#alnoamany-ijdl14)
 
-Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, "[Who and What Links to the Internet Archive](http://dx.doi.org/10.1007/s00799-014-0111-5)," *International Journal of Digital Libraries (IJDL)*, Vol. 14, No. 3-4, August 2014, pp. 101-115.
+Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, "**Who and What Links to the Internet Archive**," *International Journal of Digital Libraries (IJDL)*, Vol. 14, No. 3-4, August 2014, pp. 101-115. &nbsp;<a href='http://dx.doi.org/10.1007/s00799-014-0111-5' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#alnoamany-ijdl14Bib)
 **Bibtex entry:**
@@ -1660,7 +1662,7 @@ Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, "[Who a
 ```
 # [mohrehkesh-nanonet14](#mohrehkesh-nanonet14)
 
-Shahram Mohrehkesh, and Michele C. Weigle, "[RIH-MAC: Receiver-Initiated Harvesting-aware MAC for NanoNetworks](http://dx.doi.org/10.1145/2619955.2619962)," In *Proceedings of the ACM International Conference on Nanoscale Computing and Communication*. Atlanta, GA, May 2014.
+Shahram Mohrehkesh, and Michele C. Weigle, "**RIH-MAC: Receiver-Initiated Harvesting-aware MAC for NanoNetworks**," In *Proceedings of the ACM International Conference on Nanoscale Computing and Communication*. Atlanta, GA, May 2014. &nbsp;<a href='http://dx.doi.org/10.1145/2619955.2619962' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#mohrehkesh-nanonet14Bib)
 **Bibtex entry:**
@@ -1680,7 +1682,7 @@ Shahram Mohrehkesh, and Michele C. Weigle, "[RIH-MAC: Receiver-Initiated Harvest
 ```
 # [olariu-MCCR14](#olariu-MCCR14)
 
-Stephan Olariu, Shahram Mohrehkesh, Xianping Wang, and Michele C. Weigle, "[On Aggregating Information in Actor Networks](http://dx.doi.org/10.1145/2581555.2581569)," *SIGMOBILE Mobile Computing Communications Review*, Vol. 18, No. 1, January 2014, pp. 85-96.
+Stephan Olariu, Shahram Mohrehkesh, Xianping Wang, and Michele C. Weigle, "**On Aggregating Information in Actor Networks**," *SIGMOBILE Mobile Computing Communications Review*, Vol. 18, No. 1, January 2014, pp. 85-96. ([URL](http://doi.acm.org/10.1145/2581555.2581569)) &nbsp;<a href='http://dx.doi.org/10.1145/2581555.2581569' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#olariu-MCCR14Bib)
 **Bibtex entry:**
@@ -1705,7 +1707,7 @@ Stephan Olariu, Shahram Mohrehkesh, Xianping Wang, and Michele C. Weigle, "[On A
 ```
 # [almalag-iccve13](#almalag-iccve13)
 
-Mohammad Almalag, Michele C. Weigle, Stephan Olariu, and Samy El-Tawab, "[A Modified TC-MAC Protocol for Multi-hop Cluster Communications in VANETs](http://dx.doi.org/10.1109/ICCVE.2013.6799909)," In *Proceedings of IEEE Connected Vehicles and Expo (ICCVE)*. Las Vegas, December 2013.
+Mohammad Almalag, Michele C. Weigle, Stephan Olariu, and Samy El-Tawab, "**A Modified TC-MAC Protocol for Multi-hop Cluster Communications in VANETs**," In *Proceedings of IEEE Connected Vehicles and Expo (ICCVE)*. Las Vegas, December 2013. &nbsp;<a href='http://dx.doi.org/10.1109/ICCVE.2013.6799909' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#almalag-iccve13Bib)
 **Bibtex entry:**
@@ -1725,7 +1727,7 @@ Mohammad Almalag, Michele C. Weigle, Stephan Olariu, and Samy El-Tawab, "[A Modi
 ```
 # [weigle-sewic13](#weigle-sewic13)
 
-Michele C. Weigle, "Telling Stories with Web Archives," Keynote given at the Southeast Women in Computing Conference, November 2013.
+Michele C. Weigle, "**Telling Stories with Web Archives**," Keynote given at the Southeast Women in Computing Conference, November 2013.
 
 [](#weigle-sewic13Bib)
 **Bibtex entry:**
@@ -1745,7 +1747,7 @@ Michele C. Weigle, "Telling Stories with Web Archives," Keynote given at the Sou
 ```
 # [kelly-dlib13](#kelly-dlib13)
 
-Mat Kelly, Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "[A Method for Identifying Personalized Representations in the Archives](http://www.dlib.org/dlib/november13/kelly/11kelly.html)," *D-Lib Magazine*, Vol. 19, No. 11/12, Nov/Dec 2013.
+Mat Kelly, Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**A Method for Identifying Personalized Representations in the Archives**," *D-Lib Magazine*, Vol. 19, No. 11/12, Nov/Dec 2013. ([URL](http://www.dlib.org/dlib/november13/kelly/11kelly.html))
 
 [](#kelly-dlib13Bib)
 **Bibtex entry:**
@@ -1765,7 +1767,7 @@ Mat Kelly, Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "[A Met
 ```
 # [kelly-infovis13](#kelly-infovis13)
 
-Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "Graph-Based Navigation of a Box Office Prediction System," Poster presented at IEEE VIS, October 2013.
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Graph-Based Navigation of a Box Office Prediction System**," Poster presented at IEEE VIS, October 2013.
 
 [](#kelly-infovis13Bib)
 **Bibtex entry:**
@@ -1785,7 +1787,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "Graph-Based Navigation of 
 ```
 # [rawat-adhoc13](#rawat-adhoc13)
 
-Danda Rawat, Geert Heijenk, Michele C. Weigle, Bhed Bista, and Yuh-Shyan Chen, "[Special Issue of Ad Hoc Networks on Recent Advances in Vehicular Communications and Networking Editorial](http://dx.doi.org/10.1016/j.adhoc.2013.08.001)," *Ad Hoc Networks*, Vol. 11, No. 7, September 2013, pp. 1989-1991.
+Danda Rawat, Geert Heijenk, Michele C. Weigle, Bhed Bista, and Yuh-Shyan Chen, "**Special Issue of Ad Hoc Networks on Recent Advances in Vehicular Communications and Networking Editorial**," *Ad Hoc Networks*, Vol. 11, No. 7, September 2013, pp. 1989-1991. &nbsp;<a href='http://dx.doi.org/10.1016/j.adhoc.2013.08.001' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#rawat-adhoc13Bib)
 **Bibtex entry:**
@@ -1806,7 +1808,7 @@ Danda Rawat, Geert Heijenk, Michele C. Weigle, Bhed Bista, and Yuh-Shyan Chen, "
 ```
 # [kelly-dp13](#kelly-dp13)
 
-Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "WARCreate and WAIL: WARC, Wayback, and Heritrix Made Easy," Presentation and demo at Digital Preservation, July 2013.
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**WARCreate and WAIL: WARC, Wayback, and Heritrix Made Easy**," Presentation and demo at Digital Preservation, July 2013.
 
 [](#kelly-dp13Bib)
 **Bibtex entry:**
@@ -1825,7 +1827,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "WARCreate and WAIL: WARC, 
 ```
 # [olariu-misenet13](#olariu-misenet13)
 
-Stephan Olariu, Shahram Mohrehkesh, and Michele C. Weigle, "[Toward Aggregating Time-Discounted Information](http://dx.doi.org/10.1145/2509338.2509340)," In *Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)*. Miami, FL, October 2013. ***Best Paper Award***. 
+Stephan Olariu, Shahram Mohrehkesh, and Michele C. Weigle, "**Toward Aggregating Time-Discounted Information**," In *Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)*. Miami, FL, October 2013. ***Best Paper Award***.  &nbsp;<a href='http://dx.doi.org/10.1145/2509338.2509340' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#olariu-misenet13Bib)
 **Bibtex entry:**
@@ -1847,7 +1849,7 @@ Stephan Olariu, Shahram Mohrehkesh, and Michele C. Weigle, "[Toward Aggregating 
 ```
 # [mohrehkesh-misenet13](#mohrehkesh-misenet13)
 
-Shahram Mohrehkesh, Stephan Olariu, and Michele C. Weigle, "[A Framework for Assessing the Quality of Event Detection in Sensor Networks](http://dx.doi.org/10.1145/2509338.2509341)," In *Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)*. Miami, FL, October 2013.
+Shahram Mohrehkesh, Stephan Olariu, and Michele C. Weigle, "**A Framework for Assessing the Quality of Event Detection in Sensor Networks**," In *Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)*. Miami, FL, October 2013. &nbsp;<a href='http://dx.doi.org/10.1145/2509338.2509341' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#mohrehkesh-misenet13Bib)
 **Bibtex entry:**
@@ -1867,7 +1869,7 @@ Shahram Mohrehkesh, Stephan Olariu, and Michele C. Weigle, "[A Framework for Ass
 ```
 # [mohrehkesh-globecom13](#mohrehkesh-globecom13)
 
-Shahram Mohrehkesh, and Michele C. Weigle, "[Optimizing Communication Energy Consumption in Perpetual Wireless Nanosensor Networks](http://dx.doi.org/10.1109/GLOCOM.2013.6831128)," In *Proceedings of the IEEE Globecom*. Atlanta, GA, December 2013.
+Shahram Mohrehkesh, and Michele C. Weigle, "**Optimizing Communication Energy Consumption in Perpetual Wireless Nanosensor Networks**," In *Proceedings of the IEEE Globecom*. Atlanta, GA, December 2013. &nbsp;<a href='http://dx.doi.org/10.1109/GLOCOM.2013.6831128' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#mohrehkesh-globecom13Bib)
 **Bibtex entry:**
@@ -1888,7 +1890,7 @@ Shahram Mohrehkesh, and Michele C. Weigle, "[Optimizing Communication Energy Con
 ```
 # [kelly-tpdl13](#kelly-tpdl13)
 
-Mat Kelly, Justin Brunelle, Michele C. Weigle, and Michael L. Nelson, "[On the Change in Archivability of Websites Over Time](http://dx.doi.org/10.1007/978-3-642-40501-3_5)," In *Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)*. Valletta, Malta, September 2013.
+Mat Kelly, Justin Brunelle, Michele C. Weigle, and Michael L. Nelson, "**On the Change in Archivability of Websites Over Time**," In *Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)*. Valletta, Malta, September 2013. &nbsp;<a href='http://dx.doi.org/10.1007/978-3-642-40501-3_5' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#kelly-tpdl13Bib)
 **Bibtex entry:**
@@ -1911,7 +1913,7 @@ Mat Kelly, Justin Brunelle, Michele C. Weigle, and Michael L. Nelson, "[On the C
 ```
 # [alnoamany-tpdl13](#alnoamany-tpdl13)
 
-Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, "[Who and What Links to the Internet Archive](http://dx.doi.org/10.1007/978-3-642-40501-3_35)," In *Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)*. Valletta, Malta, September 2013. ***Best Student Paper Award***. 
+Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, "**Who and What Links to the Internet Archive**," In *Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)*. Valletta, Malta, September 2013. ***Best Student Paper Award***.  &nbsp;<a href='http://dx.doi.org/10.1007/978-3-642-40501-3_35' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#alnoamany-tpdl13Bib)
 **Bibtex entry:**
@@ -1935,7 +1937,7 @@ Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, "[Who a
 ```
 # [alsum-tpdl13](#alsum-tpdl13)
 
-Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, "[Profiling Web Archive Coverage for Top-Level Domain and Content Language](http://dx.doi.org/10.1007/978-3-642-40501-3_7)," In *Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)*. Valletta, Malta, September 2013.
+Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, "**Profiling Web Archive Coverage for Top-Level Domain and Content Language**," In *Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)*. Valletta, Malta, September 2013. &nbsp;<a href='http://dx.doi.org/10.1007/978-3-642-40501-3_7' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#alsum-tpdl13Bib)
 **Bibtex entry:**
@@ -1958,7 +1960,7 @@ Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, "[
 ```
 # [alnoamany-jcdl13](#alnoamany-jcdl13)
 
-Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Access Patterns for Robots and Humans in Web Archives](http://dx.doi.org/10.1145/2467696.2467722)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Indianapolis, IN, July 2013.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Access Patterns for Robots and Humans in Web Archives**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Indianapolis, IN, July 2013. &nbsp;<a href='http://dx.doi.org/10.1145/2467696.2467722' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#alnoamany-jcdl13Bib)
 **Bibtex entry:**
@@ -1980,7 +1982,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "[Access Patterns fo
 ```
 # [mac-vanet-book](#mac-vanet-book)
 
-Mohammad Almalag, Michele C. Weigle, and Stephan Olariu, "[MAC Protocols for VANETs](http://dx.doi.org/10.1002/9781118511305.ch17)," In *Mobile Ad Hoc Networking: Cutting Edge Directions, 2nd edition*. (Stefano Basagni and Marco Conti and Silvia Giordano and Ivan Stojmenovic, Eds.). Hoboken, NJ, USA, John Wiley & Sons, Inc, 2013.
+Mohammad Almalag, Michele C. Weigle, and Stephan Olariu, "**MAC Protocols for VANETs**," In *Mobile Ad Hoc Networking: Cutting Edge Directions, 2nd edition*. (Stefano Basagni and Marco Conti and Silvia Giordano and Ivan Stojmenovic, Eds.). Hoboken, NJ, USA, John Wiley & Sons, Inc, 2013. &nbsp;<a href='http://dx.doi.org/10.1002/9781118511305.ch17' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#mac-vanet-bookBib)
 **Bibtex entry:**
@@ -2001,7 +2003,7 @@ Mohammad Almalag, Michele C. Weigle, and Stephan Olariu, "[MAC Protocols for VAN
 ```
 # [kelly-pda13](#kelly-pda13)
 
-Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "Making Enterprise-Level Archive Tools Accessible for Personal Web Archiving Using XAMPP," Poster and demo presented at Personal Digital Archiving, February 2013.
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Making Enterprise-Level Archive Tools Accessible for Personal Web Archiving Using XAMPP**," Poster and demo presented at Personal Digital Archiving, February 2013.
 
 [](#kelly-pda13Bib)
 **Bibtex entry:**
@@ -2020,7 +2022,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "Making Enterprise-Level Ar
 ```
 # [almalag-mp2p13](#almalag-mp2p13)
 
-Mohammad Almalag, Stephan Olariu, Michele C. Weigle, and Samy El-Tawab, "[Peer-to-Peer File Sharing in VANETs Using TC-MAC](http://dx.doi.org/10.1109/PerComW.2013.6529461)," In *Proceedings of the International Workshop on Mobile Peer-to-Peer Computing (MP2P)*. San Diego, CA, March 2013.
+Mohammad Almalag, Stephan Olariu, Michele C. Weigle, and Samy El-Tawab, "**Peer-to-Peer File Sharing in VANETs Using TC-MAC**," In *Proceedings of the International Workshop on Mobile Peer-to-Peer Computing (MP2P)*. San Diego, CA, March 2013. &nbsp;<a href='http://dx.doi.org/10.1109/PerComW.2013.6529461' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#almalag-mp2p13Bib)
 **Bibtex entry:**
@@ -2040,7 +2042,7 @@ Mohammad Almalag, Stephan Olariu, Michele C. Weigle, and Samy El-Tawab, "[Peer-t
 ```
 # [weigle-archiveit12](#weigle-archiveit12)
 
-Michele C. Weigle, "Visualizing Digital Collections at Archive-It," Talk given at the Archive-It Partners Meeting, December 2012.
+Michele C. Weigle, "**Visualizing Digital Collections at Archive-It**," Talk given at the Archive-It Partners Meeting, December 2012.
 
 [](#weigle-archiveit12Bib)
 **Bibtex entry:**
@@ -2059,7 +2061,7 @@ Michele C. Weigle, "Visualizing Digital Collections at Archive-It," Talk given a
 ```
 # [weigle-ghc12](#weigle-ghc12)
 
-Michele C. Weigle, "Information Visualization - Visualizing Digital Collections at Archive-It," Faculty Lightning Talk given at the Grace Hopper Celebration of Women in Computing, October 2012.
+Michele C. Weigle, "**Information Visualization - Visualizing Digital Collections at Archive-It**," Faculty Lightning Talk given at the Grace Hopper Celebration of Women in Computing, October 2012.
 
 [](#weigle-ghc12Bib)
 **Bibtex entry:**
@@ -2078,7 +2080,7 @@ Michele C. Weigle, "Information Visualization - Visualizing Digital Collections 
 ```
 # [weigle-biocom12](#weigle-biocom12)
 
-Michele C. Weigle, "Communications and Energy-Harvesting in Nanosensor Networks," Talk given at BioCom2: NSF Workshop on Biological Computations and Communications, November 2012.
+Michele C. Weigle, "**Communications and Energy-Harvesting in Nanosensor Networks**," Talk given at BioCom2: NSF Workshop on Biological Computations and Communications, November 2012.
 
 [](#weigle-biocom12Bib)
 **Bibtex entry:**
@@ -2097,7 +2099,7 @@ Michele C. Weigle, "Communications and Energy-Harvesting in Nanosensor Networks,
 ```
 # [mohrehkesh-casemans12](#mohrehkesh-casemans12)
 
-Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, "[Context-Aware Content Adaptation at the Access Point](http://dx.doi.org/10.1145/2370216.2370384)," In *Proceedings of the International Workshop on Context-Awareness for Self-Managing Systems (Casemans)*. September 2012, pp. 758-761.
+Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, "**Context-Aware Content Adaptation at the Access Point**," In *Proceedings of the International Workshop on Context-Awareness for Self-Managing Systems (Casemans)*. September 2012, pp. 758-761. &nbsp;<a href='http://dx.doi.org/10.1145/2370216.2370384' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#mohrehkesh-casemans12Bib)
 **Bibtex entry:**
@@ -2117,7 +2119,7 @@ Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, "[Context-Aware Content
 ```
 # [yan-its13](#yan-its13)
 
-Gongjun Yan, Ding Wen, Stephan Olariu, and Michele C. Weigle, "[Security Challenges in Vehicular Cloud Computing](http://dx.doi.org/10.1109/TITS.2012.2211870)," *IEEE Transactions on Intelligent Transportation Systems*, Vol. 14, No. 1, March 2013, pp. 284-294.
+Gongjun Yan, Ding Wen, Stephan Olariu, and Michele C. Weigle, "**Security Challenges in Vehicular Cloud Computing**," *IEEE Transactions on Intelligent Transportation Systems*, Vol. 14, No. 1, March 2013, pp. 284-294. &nbsp;<a href='http://dx.doi.org/10.1109/TITS.2012.2211870' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#yan-its13Bib)
 **Bibtex entry:**
@@ -2139,7 +2141,7 @@ Gongjun Yan, Ding Wen, Stephan Olariu, and Michele C. Weigle, "[Security Challen
 ```
 # [mohrehkesh-mdc12](#mohrehkesh-mdc12)
 
-Shahram Mohrehkesh, Shuiwang Ji, Tamer Nadeem, and Michele C. Weigle, "Demographic Prediction of Mobile User from Phone Usage," In *Proceedings of the Nokia Mobile Data Challenge Workshop*. Newcastle, UK, June 2012.
+Shahram Mohrehkesh, Shuiwang Ji, Tamer Nadeem, and Michele C. Weigle, "**Demographic Prediction of Mobile User from Phone Usage**," In *Proceedings of the Nokia Mobile Data Challenge Workshop*. Newcastle, UK, June 2012.
 
 [](#mohrehkesh-mdc12Bib)
 **Bibtex entry:**
@@ -2158,7 +2160,7 @@ Shahram Mohrehkesh, Shuiwang Ji, Tamer Nadeem, and Michele C. Weigle, "Demograph
 ```
 # [almalag-vtp12](#almalag-vtp12)
 
-Mohammad Almalag, Stephan Olariu, and Michele C. Weigle, "[TDMA Cluster-based MAC for VANETs (TC-MAC)](http://dx.doi.org/10.1109/WoWMoM.2012.6263796)," In *Proceedings of the IEEE Workshop on VANETs From Theory to Practice (VTP)*. San Francisco, CA, June 2012.
+Mohammad Almalag, Stephan Olariu, and Michele C. Weigle, "**TDMA Cluster-based MAC for VANETs (TC-MAC)**," In *Proceedings of the IEEE Workshop on VANETs From Theory to Practice (VTP)*. San Francisco, CA, June 2012. &nbsp;<a href='http://dx.doi.org/10.1109/WoWMoM.2012.6263796' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#almalag-vtp12Bib)
 **Bibtex entry:**
@@ -2179,7 +2181,7 @@ Mohammad Almalag, Stephan Olariu, and Michele C. Weigle, "[TDMA Cluster-based MA
 ```
 # [padia-jcdl12](#padia-jcdl12)
 
-Kalpesh Padia, Yasmin AlNoamany, and Michele C. Weigle, "[Visualizing Digital Collections at Archive-It](http://dx.doi.org/10.1145/2232817.2232821)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Washington, DC, June 2012, pp. 15-18.
+Kalpesh Padia, Yasmin AlNoamany, and Michele C. Weigle, "**Visualizing Digital Collections at Archive-It**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Washington, DC, June 2012, pp. 15-18. &nbsp;<a href='http://dx.doi.org/10.1145/2232817.2232821' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#padia-jcdl12Bib)
 **Bibtex entry:**
@@ -2201,7 +2203,7 @@ Kalpesh Padia, Yasmin AlNoamany, and Michele C. Weigle, "[Visualizing Digital Co
 ```
 # [kelly-jcdl12](#kelly-jcdl12)
 
-Mat Kelly, and Michele C. Weigle, "[WARCreate - Create Wayback-Consumable WARC Files from Any Webpage (demo)](http://dx.doi.org/10.1145/2232817.2232930)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Washington, DC, June 2012, pp. 437-438.
+Mat Kelly, and Michele C. Weigle, "**WARCreate - Create Wayback-Consumable WARC Files from Any Webpage (demo)**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Washington, DC, June 2012, pp. 437-438. &nbsp;<a href='http://dx.doi.org/10.1145/2232817.2232930' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#kelly-jcdl12Bib)
 **Bibtex entry:**
@@ -2222,7 +2224,7 @@ Mat Kelly, and Michele C. Weigle, "[WARCreate - Create Wayback-Consumable WARC F
 ```
 # [toh-itsmag12](#toh-itsmag12)
 
-C.K. Toh, T. Higashino, J.-C. Cano, and M. C. Weigle, "[Highlights: IEEE ITS Society Technical Committee on Mobile Communications Networks for ITS](http://dx.doi.org/10.1109/MITS.2011.2178875)," *IEEE ITS Magazine*, Vol. 4, No. 1, 2012.
+C.K. Toh, T. Higashino, J.-C. Cano, and M. C. Weigle, "**Highlights: IEEE ITS Society Technical Committee on Mobile Communications Networks for ITS**," *IEEE ITS Magazine*, Vol. 4, No. 1, 2012. &nbsp;<a href='http://dx.doi.org/10.1109/MITS.2011.2178875' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#toh-itsmag12Bib)
 **Bibtex entry:**
@@ -2241,7 +2243,7 @@ C.K. Toh, T. Higashino, J.-C. Cano, and M. C. Weigle, "[Highlights: IEEE ITS Soc
 ```
 # [mohrehkesh-infocom12](#mohrehkesh-infocom12)
 
-Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, "Efficient Context-Aware Content Adaptation for Mobile Devices," Poster presented at IEEE INFOCOM, March 2012.
+Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, "**Efficient Context-Aware Content Adaptation for Mobile Devices**," Poster presented at IEEE INFOCOM, March 2012.
 
 [](#mohrehkesh-infocom12Bib)
 **Bibtex entry:**
@@ -2259,7 +2261,7 @@ Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, "Efficient Context-Awar
 ```
 # [ainsworth-jcdl11](#ainsworth-jcdl11)
 
-Scott Ainsworth, Ahmed AlSum, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, "[How Much of the Web Is Archived?](http://dx.doi.org/10.1145/1998076.1998100)," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Ottawa, Canada, June 2011, pp. 133-136.
+Scott Ainsworth, Ahmed AlSum, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, "**How Much of the Web Is Archived?**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Ottawa, Canada, June 2011, pp. 133-136. &nbsp;<a href='http://dx.doi.org/10.1145/1998076.1998100' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#ainsworth-jcdl11Bib)
 **Bibtex entry:**
@@ -2282,7 +2284,7 @@ Scott Ainsworth, Ahmed AlSum, Hany SalahEldeen, Michele C. Weigle, and Michael L
 ```
 # [rawat-cisis11](#rawat-cisis11)
 
-Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "[Securing Vehicular Ad-Hoc Networks Against Malicious Drivers: A Probabilistic Approach](http://dx.doi.org/10.1109/CISIS.2011.30)," In *Proceedings of the International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS)*. Seoul, Korea, June 2011, pp. 146-151.
+Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "**Securing Vehicular Ad-Hoc Networks Against Malicious Drivers: A Probabilistic Approach**," In *Proceedings of the International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS)*. Seoul, Korea, June 2011, pp. 146-151. &nbsp;<a href='http://dx.doi.org/10.1109/CISIS.2011.30' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#rawat-cisis11Bib)
 **Bibtex entry:**
@@ -2302,7 +2304,7 @@ Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "[Securing Ve
 ```
 # [arbabi-ivcs11](#arbabi-ivcs11)
 
-Hadi Arbabi, and Michele C. Weigle, "[Monitoring Free-Flow Traffic using Vehicular Networks](http://dx.doi.org/10.1109/CCNC.2011.5766471)," In *Proceedings of the IEEE Intelligent Vehicular Communications System Workshop (IVCS)*. Las Vegas, NV, January 2011, pp. 272-276.
+Hadi Arbabi, and Michele C. Weigle, "**Monitoring Free-Flow Traffic using Vehicular Networks**," In *Proceedings of the IEEE Intelligent Vehicular Communications System Workshop (IVCS)*. Las Vegas, NV, January 2011, pp. 272-276. &nbsp;<a href='http://dx.doi.org/10.1109/CCNC.2011.5766471' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#arbabi-ivcs11Bib)
 **Bibtex entry:**
@@ -2323,7 +2325,7 @@ Hadi Arbabi, and Michele C. Weigle, "[Monitoring Free-Flow Traffic using Vehicul
 ```
 # [arbabi-vnc10](#arbabi-vnc10)
 
-Hadi Arbabi, and Michele C. Weigle, "[Using DTMon to Monitor Transient Flow Traffic](http://dx.doi.org/10.1109/VNC.2010.5698241)," In *Proceedings of the IEEE Vehicular Networking Conference (VNC)*. Jersey City, NJ, December 2010, pp. 110-117.
+Hadi Arbabi, and Michele C. Weigle, "**Using DTMon to Monitor Transient Flow Traffic**," In *Proceedings of the IEEE Vehicular Networking Conference (VNC)*. Jersey City, NJ, December 2010, pp. 110-117. &nbsp;<a href='http://dx.doi.org/10.1109/VNC.2010.5698241' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#arbabi-vnc10Bib)
 **Bibtex entry:**
@@ -2344,7 +2346,7 @@ Hadi Arbabi, and Michele C. Weigle, "[Using DTMon to Monitor Transient Flow Traf
 ```
 # [arbabi-wsc10](#arbabi-wsc10)
 
-Hadi Arbabi, and Michele C. Weigle, "[Highway Mobility and Vehicular Ad-Hoc Networks in ns-3](http://dx.doi.org/10.1109/WSC.2010.5678993)," In *Proceedings of the Winter Simulation Conference*. Baltimore, MD, December 2010, pp. 2991-3003.
+Hadi Arbabi, and Michele C. Weigle, "**Highway Mobility and Vehicular Ad-Hoc Networks in ns-3**," In *Proceedings of the Winter Simulation Conference*. Baltimore, MD, December 2010, pp. 2991-3003. &nbsp;<a href='http://dx.doi.org/10.1109/WSC.2010.5678993' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#arbabi-wsc10Bib)
 **Bibtex entry:**
@@ -2365,7 +2367,7 @@ Hadi Arbabi, and Michele C. Weigle, "[Highway Mobility and Vehicular Ad-Hoc Netw
 ```
 # [almalag-onmove10](#almalag-onmove10)
 
-Mohammad S. Almalag, and Michele C. Weigle, "[Using Traffic Flow for Cluster Formation in Vehicular Ad-hoc Networks](http://dx.doi.org/10.1109/LCN.2010.5735785)," In *Proceedings of the Workshop On User MObility and VEhicular Networks (ON-MOVE)*. Denver, CO, October 2010, pp. 631-636.
+Mohammad S. Almalag, and Michele C. Weigle, "**Using Traffic Flow for Cluster Formation in Vehicular Ad-hoc Networks**," In *Proceedings of the Workshop On User MObility and VEhicular Networks (ON-MOVE)*. Denver, CO, October 2010, pp. 631-636. &nbsp;<a href='http://dx.doi.org/10.1109/LCN.2010.5735785' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#almalag-onmove10Bib)
 **Bibtex entry:**
@@ -2386,7 +2388,7 @@ Mohammad S. Almalag, and Michele C. Weigle, "[Using Traffic Flow for Cluster For
 ```
 # [yan-ivs10a](#yan-ivs10a)
 
-Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "[Cross-Layer Location Verification Enhancement in Vehicular Networks](http://dx.doi.org/10.1109/IVS.2010.5548057)," In *Proceedings of the IEEE Intelligent Vehicles Symposium*. San Diego, June 2010, pp. 95-100.
+Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "**Cross-Layer Location Verification Enhancement in Vehicular Networks**," In *Proceedings of the IEEE Intelligent Vehicles Symposium*. San Diego, June 2010, pp. 95-100. &nbsp;<a href='http://dx.doi.org/10.1109/IVS.2010.5548057' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#yan-ivs10aBib)
 **Bibtex entry:**
@@ -2406,7 +2408,7 @@ Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "[Cross-Layer Location Verif
 ```
 # [yan-ivs10b](#yan-ivs10b)
 
-Gongjun Yan, Weiming Yang, Michele C. Weigle, Stephan Olariu, and Danda Rawat, "[Cooperative Collision Warning through Mobility and Probability Prediction](http://dx.doi.org/10.1109/IVS.2010.5547990)," In *Proceedings of the IEEE Intelligent Vehicles Symposium*. San Diego, June 2010, pp. 1172-1177.
+Gongjun Yan, Weiming Yang, Michele C. Weigle, Stephan Olariu, and Danda Rawat, "**Cooperative Collision Warning through Mobility and Probability Prediction**," In *Proceedings of the IEEE Intelligent Vehicles Symposium*. San Diego, June 2010, pp. 1172-1177. &nbsp;<a href='http://dx.doi.org/10.1109/IVS.2010.5547990' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#yan-ivs10bBib)
 **Bibtex entry:**
@@ -2426,7 +2428,7 @@ Gongjun Yan, Weiming Yang, Michele C. Weigle, Stephan Olariu, and Danda Rawat, "
 ```
 # [weigle-comcom10](#weigle-comcom10)
 
-Michele C. Weigle, Li Cheng, Jasleen Kaur, and V. Kulkarni, "[Generalized Stochastic Performance Models for Loss-based Congestion Control](http://dx.doi.org/10.1016/j.comcom.2009.10.017)," *Computer Communications*, Vol. 33, No. 4, March 2010, pp. 513-525.
+Michele C. Weigle, Li Cheng, Jasleen Kaur, and V. Kulkarni, "**Generalized Stochastic Performance Models for Loss-based Congestion Control**," *Computer Communications*, Vol. 33, No. 4, March 2010, pp. 513-525. &nbsp;<a href='http://dx.doi.org/10.1016/j.comcom.2009.10.017' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#weigle-comcom10Bib)
 **Bibtex entry:**
@@ -2448,7 +2450,7 @@ Michele C. Weigle, Li Cheng, Jasleen Kaur, and V. Kulkarni, "[Generalized Stocha
 ```
 # [yan-wcm-otrc09](#yan-wcm-otrc09)
 
-Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "[Providing Location Security in Vehicular Ad-hoc Networks](http://dx.doi.org/10.1109/MWC.2009.5361178)," *IEEE Wireless Communications, Special Issue on On-the-Road Communications*, Vol. 16, No. 6, December 2009, pp. 48-55.
+Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "**Providing Location Security in Vehicular Ad-hoc Networks**," *IEEE Wireless Communications, Special Issue on On-the-Road Communications*, Vol. 16, No. 6, December 2009, pp. 48-55. &nbsp;<a href='http://dx.doi.org/10.1109/MWC.2009.5361178' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#yan-wcm-otrc09Bib)
 **Bibtex entry:**
@@ -2470,7 +2472,7 @@ Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "[Providing Location Securit
 ```
 # [tmix-docs](#tmix-docs)
 
-Michele C. Weigle, "Tmix: Internet Traffic Generation," The ns Manual, June 2009.
+Michele C. Weigle, "**Tmix: Internet Traffic Generation**," The ns Manual, June 2009.
 
 [](#tmix-docsBib)
 **Bibtex entry:**
@@ -2488,7 +2490,7 @@ Michele C. Weigle, "Tmix: Internet Traffic Generation," The ns Manual, June 2009
 ```
 # [arbabi-vanet09](#arbabi-vanet09)
 
-Hadi Arbabi, and Michele C. Weigle, "[Using Vehicular Networks to Collect Common Traffic Data](http://doi.acm.org/10.1145/1614269.1614289)," In *Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)*. Beijing, September 2009, pp. 117-118.
+Hadi Arbabi, and Michele C. Weigle, "**Using Vehicular Networks to Collect Common Traffic Data**," In *Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)*. Beijing, September 2009, pp. 117-118. &nbsp;<a href='http://doi.acm.org/10.1145/1614269.1614289' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#arbabi-vanet09Bib)
 **Bibtex entry:**
@@ -2509,7 +2511,7 @@ Hadi Arbabi, and Michele C. Weigle, "[Using Vehicular Networks to Collect Common
 ```
 # [rawat-vtc09](#rawat-vtc09)
 
-Danda Rawat, Gongjun Yan, Dimitrie C. Popescu, Michele C. Weigle, and Stephan Olariu, "[Dynamic Adaptation of Joint Transmission Power and Contention Window in VANET](http://dx.doi.org/10.1109/VETECF.2009.5378793)," In *Proceedings of the IEEE Vehicular Technology Conference - Fall*. Anchorage, Alaska, September 2009, pp. 1-5.
+Danda Rawat, Gongjun Yan, Dimitrie C. Popescu, Michele C. Weigle, and Stephan Olariu, "**Dynamic Adaptation of Joint Transmission Power and Contention Window in VANET**," In *Proceedings of the IEEE Vehicular Technology Conference - Fall*. Anchorage, Alaska, September 2009, pp. 1-5. &nbsp;<a href='http://dx.doi.org/10.1109/VETECF.2009.5378793' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#rawat-vtc09Bib)
 **Bibtex entry:**
@@ -2530,7 +2532,7 @@ Danda Rawat, Gongjun Yan, Dimitrie C. Popescu, Michele C. Weigle, and Stephan Ol
 ```
 # [brooks-ijdsn09](#brooks-ijdsn09)
 
-Richard R. Brooks, Brijesh Pillai, Matthew Pirretti, and Michele C. Weigle, "[Multicast Encryption Infrastructure for Security in Sensor Networks](http://dx.doi.org/10.1080/15501320601062114)," *International Journal of Distributed Sensor Networks (IJDSN)*, Vol. 5, No. 2, April 2009, pp. 139 - 157.
+Richard R. Brooks, Brijesh Pillai, Matthew Pirretti, and Michele C. Weigle, "**Multicast Encryption Infrastructure for Security in Sensor Networks**," *International Journal of Distributed Sensor Networks (IJDSN)*, Vol. 5, No. 2, April 2009, pp. 139 - 157. &nbsp;<a href='http://dx.doi.org/10.1080/15501320601062114' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#brooks-ijdsn09Bib)
 **Bibtex entry:**
@@ -2551,7 +2553,7 @@ Richard R. Brooks, Brijesh Pillai, Matthew Pirretti, and Michele C. Weigle, "[Mu
 ```
 # [vanet-book](#vanet-book)
 
-Stephan Olariu and Michele C. Weigle, Eds., [*Vehicular Networks: From Theory to Practice*](http://www.cs.odu.edu/~mweigle/VehicularNetworks-Book), CRC Press / Taylor & Francis, 2009.
+Stephan Olariu and Michele C. Weigle, Eds., *Vehicular Networks: From Theory to Practice*, CRC Press / Taylor & Francis, 2009. ([URL](http://www.cs.odu.edu/~mweigle/VehicularNetworks-Book))
 
 [](#vanet-bookBib)
 **Bibtex entry:**
@@ -2569,7 +2571,7 @@ Stephan Olariu and Michele C. Weigle, Eds., [*Vehicular Networks: From Theory to
 ```
 # [infrastructure-vanet-book](#infrastructure-vanet-book)
 
-Michele C. Weigle, Stephan Olariu, Mahmoud Abuelela, and Gongjun Yan, "Use of Infrastructure in VANETs," In *Vehicular Networks: From Theory to Practice*. (Stephan Olariu and Michele C. Weigle, Eds.), CRC Press / Taylor & Francis, 2009.
+Michele C. Weigle, Stephan Olariu, Mahmoud Abuelela, and Gongjun Yan, "**Use of Infrastructure in VANETs**," In *Vehicular Networks: From Theory to Practice*. (Stephan Olariu and Michele C. Weigle, Eds.), CRC Press / Taylor & Francis, 2009.
 
 [](#infrastructure-vanet-bookBib)
 **Bibtex entry:**
@@ -2587,7 +2589,7 @@ Michele C. Weigle, Stephan Olariu, Mahmoud Abuelela, and Gongjun Yan, "Use of In
 ```
 # [sim-vanet-book](#sim-vanet-book)
 
-Gongjun Yan, Khaled Ibrahim, and Michele C. Weigle, "Vehicular Network Simulators," In *Vehicular Networks: From Theory to Practice*. (Stephan Olariu and Michele C. Weigle, Eds.), CRC Press / Taylor & Francis, 2009.
+Gongjun Yan, Khaled Ibrahim, and Michele C. Weigle, "**Vehicular Network Simulators**," In *Vehicular Networks: From Theory to Practice*. (Stephan Olariu and Michele C. Weigle, Eds.), CRC Press / Taylor & Francis, 2009.
 
 [](#sim-vanet-bookBib)
 **Bibtex entry:**
@@ -2605,7 +2607,7 @@ Gongjun Yan, Khaled Ibrahim, and Michele C. Weigle, "Vehicular Network Simulator
 ```
 # [ibrahim-vtc09](#ibrahim-vtc09)
 
-Khaled Ibrahim, Michele C. Weigle, and Mahmoud Abuelela, "[p-IVG: Probabilistic Inter-Vehicle Geocast for Dense Vehicular Networks](http://dx.doi.org/10.1109/VETECS.2009.5073804)," In *Proceedings of the IEEE Vehicular Technology Conference - Spring*. Barcelona, Spain, April 2009, pp. 1-5.
+Khaled Ibrahim, Michele C. Weigle, and Mahmoud Abuelela, "**p-IVG: Probabilistic Inter-Vehicle Geocast for Dense Vehicular Networks**," In *Proceedings of the IEEE Vehicular Technology Conference - Spring*. Barcelona, Spain, April 2009, pp. 1-5. &nbsp;<a href='http://dx.doi.org/10.1109/VETECS.2009.5073804' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#ibrahim-vtc09Bib)
 **Bibtex entry:**
@@ -2626,7 +2628,7 @@ Khaled Ibrahim, Michele C. Weigle, and Mahmoud Abuelela, "[p-IVG: Probabilistic 
 ```
 # [yan-soli09](#yan-soli09)
 
-Gongjun Yan, Michele C. Weigle, and Stephan Olariu, "[A Novel Parking Service Using Wireless Networks](http://dx.doi.org/10.1109/SOLI.2009.5203967)," In *Proceedings of the IEEE International Conference on Service Operations, Logistics and Informatics*. Chicago, July 2009, pp. 406-411. ***Best Student Paper Award***. 
+Gongjun Yan, Michele C. Weigle, and Stephan Olariu, "**A Novel Parking Service Using Wireless Networks**," In *Proceedings of the IEEE International Conference on Service Operations, Logistics and Informatics*. Chicago, July 2009, pp. 406-411. ***Best Student Paper Award***.  &nbsp;<a href='http://dx.doi.org/10.1109/SOLI.2009.5203967' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#yan-soli09Bib)
 **Bibtex entry:**
@@ -2649,7 +2651,7 @@ Gongjun Yan, Michele C. Weigle, and Stephan Olariu, "[A Novel Parking Service Us
 ```
 # [ibrahim-wave08](#ibrahim-wave08)
 
-Khaled Ibrahim, Michele C. Weigle, and Gongjun Yan, "Light-Weight Laser-Aided Position Verification for CASCADE," In *Proceedings of the International Conference on Wireless Access in Vehicular Environments (WAVE)*. Dearborn, MI, December 2008.
+Khaled Ibrahim, Michele C. Weigle, and Gongjun Yan, "**Light-Weight Laser-Aided Position Verification for CASCADE**," In *Proceedings of the International Conference on Wireless Access in Vehicular Environments (WAVE)*. Dearborn, MI, December 2008.
 
 [](#ibrahim-wave08Bib)
 **Bibtex entry:**
@@ -2668,7 +2670,7 @@ Khaled Ibrahim, Michele C. Weigle, and Gongjun Yan, "Light-Weight Laser-Aided Po
 ```
 # [yan-wave08](#yan-wave08)
 
-Gongjun Yan, Ye Wang, Michele C. Weigle, Stephan Olariu, and Khaled Ibrahim, "WEHealth: A Secure and Privacy Preserving eHealth Using NOTICE," In *Proceedings of the International Conference on Wireless Access in Vehicular Environments (WAVE)*. Dearborn, MI, December 2008.
+Gongjun Yan, Ye Wang, Michele C. Weigle, Stephan Olariu, and Khaled Ibrahim, "**WEHealth: A Secure and Privacy Preserving eHealth Using NOTICE**," In *Proceedings of the International Conference on Wireless Access in Vehicular Environments (WAVE)*. Dearborn, MI, December 2008.
 
 [](#yan-wave08Bib)
 **Bibtex entry:**
@@ -2687,7 +2689,7 @@ Gongjun Yan, Ye Wang, Michele C. Weigle, Stephan Olariu, and Khaled Ibrahim, "WE
 ```
 # [ibrahim-autonet08](#ibrahim-autonet08)
 
-Khaled Ibrahim, and Michele C. Weigle, "[CASCADE: Cluster-based Accurate Syntactic Compression of Aggregated Data in VANETs](http://dx.doi.org/10.1109/GLOCOMW.2008.ECP.59)," In *Proceedings of the IEEE International Workshop on Automotive Networking and Applications (AutoNet), IEEE Globecom Workshop*. New Orleans, LA, December 2008, pp. 1-10.
+Khaled Ibrahim, and Michele C. Weigle, "**CASCADE: Cluster-based Accurate Syntactic Compression of Aggregated Data in VANETs**," In *Proceedings of the IEEE International Workshop on Automotive Networking and Applications (AutoNet), IEEE Globecom Workshop*. New Orleans, LA, December 2008, pp. 1-10. &nbsp;<a href='http://dx.doi.org/10.1109/GLOCOMW.2008.ECP.59' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#ibrahim-autonet08Bib)
 **Bibtex entry:**
@@ -2708,7 +2710,7 @@ Khaled Ibrahim, and Michele C. Weigle, "[CASCADE: Cluster-based Accurate Syntact
 ```
 # [yan-its08](#yan-its08)
 
-Gongjun Yan, Stephan Olariu, Michele C. Weigle, and Mahmoud Abuelela, "[SmartParking: A Secure and Intelligent Parking System Using NOTICE](http://dx.doi.org/10.1109/ITSC.2008.4732702)," In *Proceedings of the International IEEE Conference on Intelligent Transportation Systems*. Beijing, China, October 2008, pp. 569-574.
+Gongjun Yan, Stephan Olariu, Michele C. Weigle, and Mahmoud Abuelela, "**SmartParking: A Secure and Intelligent Parking System Using NOTICE**," In *Proceedings of the International IEEE Conference on Intelligent Transportation Systems*. Beijing, China, October 2008, pp. 569-574. &nbsp;<a href='http://dx.doi.org/10.1109/ITSC.2008.4732702' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#yan-its08Bib)
 **Bibtex entry:**
@@ -2730,7 +2732,7 @@ Gongjun Yan, Stephan Olariu, Michele C. Weigle, and Mahmoud Abuelela, "[SmartPar
 ```
 # [ibrahim-movenet08-a](#ibrahim-movenet08-a)
 
-Khaled Ibrahim, and Michele C. Weigle, "[Optimizing CASCADE Data Aggregation for VANETs](http://dx.doi.org.proxy.lib.odu.edu/10.1109/MAHSS.2008.4660113)," In *Proceedings of the International Workshop on Mobile Vehicular Networks (MoVeNet)*. Atlanta, GA, September 2008, pp. 724-729.
+Khaled Ibrahim, and Michele C. Weigle, "**Optimizing CASCADE Data Aggregation for VANETs**," In *Proceedings of the International Workshop on Mobile Vehicular Networks (MoVeNet)*. Atlanta, GA, September 2008, pp. 724-729. &nbsp;<a href='http://dx.doi.org.proxy.lib.odu.edu/10.1109/MAHSS.2008.4660113' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#ibrahim-movenet08-aBib)
 **Bibtex entry:**
@@ -2751,7 +2753,7 @@ Khaled Ibrahim, and Michele C. Weigle, "[Optimizing CASCADE Data Aggregation for
 ```
 # [ibrahim-movenet08-b](#ibrahim-movenet08-b)
 
-Khaled Ibrahim, and Michele C. Weigle, "Securing CASCADE Data Aggregation for VANETs," Poster presented at the International Workshop on Mobile Vehicular Networks (MoVeNet), September 2008.
+Khaled Ibrahim, and Michele C. Weigle, "**Securing CASCADE Data Aggregation for VANETs**," Poster presented at the International Workshop on Mobile Vehicular Networks (MoVeNet), September 2008.
 
 [](#ibrahim-movenet08-bBib)
 **Bibtex entry:**
@@ -2768,7 +2770,7 @@ Khaled Ibrahim, and Michele C. Weigle, "Securing CASCADE Data Aggregation for VA
 ```
 # [rizvi-sigcomm08](#rizvi-sigcomm08)
 
-Syed R. Rizvi, Michele C. Weigle, and Mona E. Rizvi, "InVANETs for First Responders," Poster presented at ACM SIGCOMM, Seattle, WA, August 2008.
+Syed R. Rizvi, Michele C. Weigle, and Mona E. Rizvi, "**InVANETs for First Responders**," Poster presented at ACM SIGCOMM, Seattle, WA, August 2008.
 
 [](#rizvi-sigcomm08Bib)
 **Bibtex entry:**
@@ -2785,7 +2787,7 @@ Syed R. Rizvi, Michele C. Weigle, and Mona E. Rizvi, "InVANETs for First Respond
 ```
 # [ibrahim-vanet08](#ibrahim-vanet08)
 
-Khaled Ibrahim, and Michele C. Weigle, "[Towards an Optimized and Secure CASCADE for Data Aggregation in VANETs](http://doi.acm.org/10.1145/1410043.1410061)," In *Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)*. San Francisco, CA, September 2008, pp. 84-85, poster.
+Khaled Ibrahim, and Michele C. Weigle, "**Towards an Optimized and Secure CASCADE for Data Aggregation in VANETs**," In *Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)*. San Francisco, CA, September 2008, pp. 84-85, poster. &nbsp;<a href='http://doi.acm.org/10.1145/1410043.1410061' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#ibrahim-vanet08Bib)
 **Bibtex entry:**
@@ -2808,7 +2810,7 @@ Khaled Ibrahim, and Michele C. Weigle, "[Towards an Optimized and Secure CASCADE
 ```
 # [abuelela-vtc08](#abuelela-vtc08)
 
-Mahmoud Abuelela, Stephan Olariu, and Michele C. Weigle, "[NOTICE: An Architecture for Notification of Traffic Incidents](http://dx.doi.org/10.1109/VETECS.2008.320)," In *Proceedings of the IEEE Vehicular Technology Conference - Spring*. Singapore, May 2008, pp. 3001-3005.
+Mahmoud Abuelela, Stephan Olariu, and Michele C. Weigle, "**NOTICE: An Architecture for Notification of Traffic Incidents**," In *Proceedings of the IEEE Vehicular Technology Conference - Spring*. Singapore, May 2008, pp. 3001-3005. &nbsp;<a href='http://dx.doi.org/10.1109/VETECS.2008.320' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#abuelela-vtc08Bib)
 **Bibtex entry:**
@@ -2829,7 +2831,7 @@ Mahmoud Abuelela, Stephan Olariu, and Michele C. Weigle, "[NOTICE: An Architectu
 ```
 # [ibrahim-move08](#ibrahim-move08)
 
-Khaled Ibrahim, and Michele C. Weigle, "[ASH: Application-aware SWANS with Highway mobility](http://dx.doi.org/10.1109/INFOCOM.2008.4544652)," In *Proceedings of IEEE INFOCOM Workshop on MObile Networking for Vehicular Environments (MOVE)*. Phoenix, AZ, April 2008, pp. 1-6.
+Khaled Ibrahim, and Michele C. Weigle, "**ASH: Application-aware SWANS with Highway mobility**," In *Proceedings of IEEE INFOCOM Workshop on MObile Networking for Vehicular Environments (MOVE)*. Phoenix, AZ, April 2008, pp. 1-6. &nbsp;<a href='http://dx.doi.org/10.1109/INFOCOM.2008.4544652' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#ibrahim-move08Bib)
 **Bibtex entry:**
@@ -2850,7 +2852,7 @@ Khaled Ibrahim, and Michele C. Weigle, "[ASH: Application-aware SWANS with Highw
 ```
 # [yan-comcom08](#yan-comcom08)
 
-Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "[Providing VANET Security Through Active Position Detection](http://dx.doi.org/10.1016/j.comcom.2008.01.009)," *Computer Communications: Special Issue on Mobility Protocols for ITS/VANET*, Vol. 31, No. 12, July 2008, pp. 2883-2897.
+Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "**Providing VANET Security Through Active Position Detection**," *Computer Communications: Special Issue on Mobility Protocols for ITS/VANET*, Vol. 31, No. 12, July 2008, pp. 2883-2897. &nbsp;<a href='http://dx.doi.org/10.1016/j.comcom.2008.01.009' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#yan-comcom08Bib)
 **Bibtex entry:**
@@ -2872,7 +2874,7 @@ Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "[Providing VANET Security T
 ```
 # [rizvi-vtc07](#rizvi-vtc07)
 
-Syed Rizvi, Stephan Olariu, Michele C. Weigle, and Mona Rizvi, "[A Novel Approach to Reduce Traffic Chaos in Emergency and Evacuation Scenarios](http://dx.doi.org/10.1109/VETECF.2007.407)," In *Proceedings of the IEEE Vehicular Technology Conference - Fall*. Baltimore, MD, October 2007, pp. 1937-1941.
+Syed Rizvi, Stephan Olariu, Michele C. Weigle, and Mona Rizvi, "**A Novel Approach to Reduce Traffic Chaos in Emergency and Evacuation Scenarios**," In *Proceedings of the IEEE Vehicular Technology Conference - Fall*. Baltimore, MD, October 2007, pp. 1937-1941. &nbsp;<a href='http://dx.doi.org/10.1109/VETECF.2007.407' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#rizvi-vtc07Bib)
 **Bibtex entry:**
@@ -2893,7 +2895,7 @@ Syed Rizvi, Stephan Olariu, Michele C. Weigle, and Mona Rizvi, "[A Novel Approac
 ```
 # [ibrahim-vanet07](#ibrahim-vanet07)
 
-Khaled Ibrahim, and Michele C. Weigle, "[Accurate Data Aggregation for VANETs](http://doi.acm.org/10.1145/1287748.1287761)," In *Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networks (VANET)*. Montreal, Canada, September 2007, pp. 71-72.
+Khaled Ibrahim, and Michele C. Weigle, "**Accurate Data Aggregation for VANETs**," In *Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networks (VANET)*. Montreal, Canada, September 2007, pp. 71-72. &nbsp;<a href='http://doi.acm.org/10.1145/1287748.1287761' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#ibrahim-vanet07Bib)
 **Bibtex entry:**
@@ -2914,7 +2916,7 @@ Khaled Ibrahim, and Michele C. Weigle, "[Accurate Data Aggregation for VANETs](h
 ```
 # [yan-vanet07](#yan-vanet07)
 
-Gongjun Yan, Gyanesh Choudhary, Michele C. Weigle, and Stephan Olariu, "[Providing VANET Security Through Active Position Detection](http://doi.acm.org/10.1145/1287748.1287762)," In *Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networks (VANET)*. Montreal, Canada, September 2007, pp. 73-74.
+Gongjun Yan, Gyanesh Choudhary, Michele C. Weigle, and Stephan Olariu, "**Providing VANET Security Through Active Position Detection**," In *Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networks (VANET)*. Montreal, Canada, September 2007, pp. 73-74. &nbsp;<a href='http://doi.acm.org/10.1145/1287748.1287762' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#yan-vanet07Bib)
 **Bibtex entry:**
@@ -2935,7 +2937,7 @@ Gongjun Yan, Gyanesh Choudhary, Michele C. Weigle, and Stephan Olariu, "[Providi
 ```
 # [brooks-ijdsn07](#brooks-ijdsn07)
 
-Richard R. Brooks, Brijesh Pillai, Michele C. Weigle, and Matthew Pirretti, "[Optimal Layout of Multicast Groups Using Network Embedded Multicast Security in Ad Hoc Sensor Networks](http://dx.doi.org/10.1080/15501320601062080)," *International Journal of Distributed Sensor Networks*, Vol. 3, No. 3, July 2007, pp. 273-287.
+Richard R. Brooks, Brijesh Pillai, Michele C. Weigle, and Matthew Pirretti, "**Optimal Layout of Multicast Groups Using Network Embedded Multicast Security in Ad Hoc Sensor Networks**," *International Journal of Distributed Sensor Networks*, Vol. 3, No. 3, July 2007, pp. 273-287. &nbsp;<a href='http://dx.doi.org/10.1080/15501320601062080' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#brooks-ijdsn07Bib)
 **Bibtex entry:**
@@ -2956,7 +2958,7 @@ Richard R. Brooks, Brijesh Pillai, Michele C. Weigle, and Matthew Pirretti, "[Op
 ```
 # [weigle-netcri07](#weigle-netcri07)
 
-Michele C. Weigle, and Stephan Olariu, "[Intelligent Highway Infrastructure for Planned Evacuations](http://dx.doi.org/10.1109/PCCC.2007.358947)," In *Proceedings of the First International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri)*. New Orleans, LA, April 2007, pp. 594-599.
+Michele C. Weigle, and Stephan Olariu, "**Intelligent Highway Infrastructure for Planned Evacuations**," In *Proceedings of the First International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri)*. New Orleans, LA, April 2007, pp. 594-599. &nbsp;<a href='http://dx.doi.org/10.1109/PCCC.2007.358947' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#weigle-netcri07Bib)
 **Bibtex entry:**
@@ -2978,7 +2980,7 @@ Michele C. Weigle, and Stephan Olariu, "[Intelligent Highway Infrastructure for 
 ```
 # [rizvi-netcri07](#rizvi-netcri07)
 
-Syed Rizvi, Stephan Olariu, Mona Rizvi, and Michele C. Weigle, "[A Traffic Chaos Reduction Approach for Emergency Scenarios](http://dx.doi.org/10.1109/PCCC.2007.358943)," In *Proceedings of the First International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri)*. New Orleans, LA, April 2007, pp. 576-578.
+Syed Rizvi, Stephan Olariu, Mona Rizvi, and Michele C. Weigle, "**A Traffic Chaos Reduction Approach for Emergency Scenarios**," In *Proceedings of the First International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri)*. New Orleans, LA, April 2007, pp. 576-578. &nbsp;<a href='http://dx.doi.org/10.1109/PCCC.2007.358943' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#rizvi-netcri07Bib)
 **Bibtex entry:**
@@ -3000,7 +3002,7 @@ Syed Rizvi, Stephan Olariu, Mona Rizvi, and Michele C. Weigle, "[A Traffic Chaos
 ```
 # [adurthi-tmix06](#adurthi-tmix06)
 
-Prashanth Adurthi, and Michele C. Weigle, "Realistic TCP Traffic Generation in ns-2 and GTNetS," Technical report 2006, Clemson University, June 2006.
+Prashanth Adurthi, and Michele C. Weigle, "**Realistic TCP Traffic Generation in ns-2 and GTNetS**," Technical report 2006, Clemson University, June 2006.
 
 [](#adurthi-tmix06Bib)
 **Bibtex entry:**
@@ -3019,7 +3021,7 @@ Prashanth Adurthi, and Michele C. Weigle, "Realistic TCP Traffic Generation in n
 ```
 # [weigle-wsc06](#weigle-wsc06)
 
-Michele C. Weigle, "[Improving Confidence in Network Simulations](http://dx.doi.org/10.1109/WSC.2006.323020)," In *Proceedings of the Winter Simulation Conference*. Monterey, CA, December 2006, pp. 2188-2194.
+Michele C. Weigle, "**Improving Confidence in Network Simulations**," In *Proceedings of the Winter Simulation Conference*. Monterey, CA, December 2006, pp. 2188-2194. &nbsp;<a href='http://dx.doi.org/10.1109/WSC.2006.323020' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#weigle-wsc06Bib)
 **Bibtex entry:**
@@ -3040,7 +3042,7 @@ Michele C. Weigle, "[Improving Confidence in Network Simulations](http://dx.doi.
 ```
 # [weigle-globecom06](#weigle-globecom06)
 
-Michele C. Weigle, Deepak Vembar, and Zhidian Du, "[Assessing the Impact of Multiple Active Queue Management Routers](http://dx.doi.org/10.1109/GLOCOM.2006.172)," In *Proceedings of IEEE Globecom*. San Francisco, CA, November 2006, pp. 1-6.
+Michele C. Weigle, Deepak Vembar, and Zhidian Du, "**Assessing the Impact of Multiple Active Queue Management Routers**," In *Proceedings of IEEE Globecom*. San Francisco, CA, November 2006, pp. 1-6. &nbsp;<a href='http://dx.doi.org/10.1109/GLOCOM.2006.172' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#weigle-globecom06Bib)
 **Bibtex entry:**
@@ -3061,7 +3063,7 @@ Michele C. Weigle, Deepak Vembar, and Zhidian Du, "[Assessing the Impact of Mult
 ```
 # [weigle-comcom06](#weigle-comcom06)
 
-Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "[Quantifying the Effects of Recent Protocol Improvements to TCP: Impact on Web Performance](http://dx.doi.org/10.1016/j.comcom.2006.03.001)," *Computer Communications*, Vol. 29, No. 15, September 2006, pp. 2853-2866.
+Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Quantifying the Effects of Recent Protocol Improvements to TCP: Impact on Web Performance**," *Computer Communications*, Vol. 29, No. 15, September 2006, pp. 2853-2866. &nbsp;<a href='http://dx.doi.org/10.1016/j.comcom.2006.03.001' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#weigle-comcom06Bib)
 **Bibtex entry:**
@@ -3083,7 +3085,7 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "[Quantifying the Effect
 ```
 # [thottan-wicon06](#thottan-wicon06)
 
-Marina Thottan, and Michele C. Weigle, "[Impact of 802.11e EDCA on Mixed TCP-based Applications](http://doi.acm.org/10.1145/1234161.1234187)," In *Proceedings of the International Wireless Internet Conference (WICON)*. Boston, MA, August 2006.
+Marina Thottan, and Michele C. Weigle, "**Impact of 802.11e EDCA on Mixed TCP-based Applications**," In *Proceedings of the International Wireless Internet Conference (WICON)*. Boston, MA, August 2006. &nbsp;<a href='http://doi.acm.org/10.1145/1234161.1234187' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#thottan-wicon06Bib)
 **Bibtex entry:**
@@ -3103,7 +3105,7 @@ Marina Thottan, and Michele C. Weigle, "[Impact of 802.11e EDCA on Mixed TCP-bas
 ```
 # [weigle-ccr06](#weigle-ccr06)
 
-Michele C. Weigle, Prashanth Adurthi, Felix Hernandez-Campos, Kevin Jeffay, and F. Donelson Smith, "[Tmix: A Tool for Generating Realistic Application Workloads in ns-2](http://doi.acm.org/10.1145/1140086.1140094)," *Computer Communication Review*, Vol. 36, No. 3, July 2006, pp. 67-76.
+Michele C. Weigle, Prashanth Adurthi, Felix Hernandez-Campos, Kevin Jeffay, and F. Donelson Smith, "**Tmix: A Tool for Generating Realistic Application Workloads in ns-2**," *Computer Communication Review*, Vol. 36, No. 3, July 2006, pp. 67-76. &nbsp;<a href='http://doi.acm.org/10.1145/1140086.1140094' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#weigle-ccr06Bib)
 **Bibtex entry:**
@@ -3125,7 +3127,7 @@ Michele C. Weigle, Prashanth Adurthi, Felix Hernandez-Campos, Kevin Jeffay, and 
 ```
 # [weigle-networking06](#weigle-networking06)
 
-Michele C. Weigle, Pankaj Sharma, and Jesse Freeman, IV, "Performance of Competing High-Speed TCP Flows," In *Proceedings of NETWORKING*. Coimbra, Portugal, May 2006, pp. 476-487.
+Michele C. Weigle, Pankaj Sharma, and Jesse Freeman, IV, "**Performance of Competing High-Speed TCP Flows**," In *Proceedings of NETWORKING*. Coimbra, Portugal, May 2006, pp. 476-487.
 
 [](#weigle-networking06Bib)
 **Bibtex entry:**
@@ -3145,7 +3147,7 @@ Michele C. Weigle, Pankaj Sharma, and Jesse Freeman, IV, "Performance of Competi
 ```
 # [packmime-docs](#packmime-docs)
 
-Michele C. Weigle, "PackMime-HTTP: Web Traffic Generation in NS-2," The ns Manual, February 2006.
+Michele C. Weigle, "**PackMime-HTTP: Web Traffic Generation in NS-2**," The ns Manual, February 2006.
 
 [](#packmime-docsBib)
 **Bibtex entry:**
@@ -3163,7 +3165,7 @@ Michele C. Weigle, "PackMime-HTTP: Web Traffic Generation in NS-2," The ns Manua
 ```
 # [delaybox-docs](#delaybox-docs)
 
-Michele C. Weigle, "DelayBox: Per-Flow Delay and Loss," The ns Manual, February 2006.
+Michele C. Weigle, "**DelayBox: Per-Flow Delay and Loss**," The ns Manual, February 2006.
 
 [](#delaybox-docsBib)
 **Bibtex entry:**
@@ -3181,7 +3183,7 @@ Michele C. Weigle, "DelayBox: Per-Flow Delay and Loss," The ns Manual, February 
 ```
 # [weigle-comcom05](#weigle-comcom05)
 
-Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "[Delay-Based Early Congestion Detection and Adaptation: Impact on web performance](http://dx.doi.org/10.1016/j.comcom.2004.11.011)," *Computer Communications*, Vol. 28, No. 8, May 2005, pp. 837-850.
+Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Delay-Based Early Congestion Detection and Adaptation: Impact on web performance**," *Computer Communications*, Vol. 28, No. 8, May 2005, pp. 837-850. &nbsp;<a href='http://dx.doi.org/10.1016/j.comcom.2004.11.011' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#weigle-comcom05Bib)
 **Bibtex entry:**
@@ -3203,7 +3205,7 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "[Delay-Based Early Cong
 ```
 # [cao-infocom04](#cao-infocom04)
 
-Jin Cao, William S. Cleveland, Yuan Gao, Kevin Jeffay, F. Donelson Smith, and Michele C. Weigle, "[Stochastic Models for Generating Synthetic HTTP Source Traffic](http://dx.doi.org/10.1109/INFCOM.2004.1354568)," In *Proceedings of IEEE INFOCOM*. Hong Kong, March 2004, pp. 1547-1558.
+Jin Cao, William S. Cleveland, Yuan Gao, Kevin Jeffay, F. Donelson Smith, and Michele C. Weigle, "**Stochastic Models for Generating Synthetic HTTP Source Traffic**," In *Proceedings of IEEE INFOCOM*. Hong Kong, March 2004, pp. 1547-1558. &nbsp;<a href='http://dx.doi.org/10.1109/INFCOM.2004.1354568' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#cao-infocom04Bib)
 **Bibtex entry:**
@@ -3224,7 +3226,7 @@ Jin Cao, William S. Cleveland, Yuan Gao, Kevin Jeffay, F. Donelson Smith, and Mi
 ```
 # [weigle-03](#weigle-03)
 
-Michele Aylene Clark Weigle, "[Investigating the Use of Synchronized Clocks in TCP Congestion Control](http://www.cs.odu.edu/~mweigle/unc/diss/)," PhD thesis, *University of North Carolina at Chapel Hill*, August 2003.
+Michele Aylene Clark Weigle, "**Investigating the Use of Synchronized Clocks in TCP Congestion Control**," PhD thesis, *University of North Carolina at Chapel Hill*, August 2003. ([URL](http://www.cs.odu.edu/~mweigle/unc/diss/))
 
 [](#weigle-03Bib)
 **Bibtex entry:**
@@ -3242,7 +3244,7 @@ Michele Aylene Clark Weigle, "[Investigating the Use of Synchronized Clocks in T
 ```
 # [weigle-mascots03](#weigle-mascots03)
 
-Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "[Quantifying the Effects of Recent Protocol Improvements to Standards-Track TCP](http://dx.doi.org/10.1109/MASCOT.2003.1240662)," In *Proceedings of the IEEE/ACM International                  Symposium on Modeling, Analysis and Simulation of                  Computer Telecommunication Systems (MASCOTS)*. Orlando, FL, October 2003, pp. 226-229.
+Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Quantifying the Effects of Recent Protocol Improvements to Standards-Track TCP**," In *Proceedings of the IEEE/ACM International                  Symposium on Modeling, Analysis and Simulation of                  Computer Telecommunication Systems (MASCOTS)*. Orlando, FL, October 2003, pp. 226-229. &nbsp;<a href='http://dx.doi.org/10.1109/MASCOT.2003.1240662' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#weigle-mascots03Bib)
 **Bibtex entry:**
@@ -3263,7 +3265,7 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "[Quantifying the Effect
 ```
 # [hudson-mcn01](#hudson-mcn01)
 
-Tom Hudson, Michele C. Weigle, Kevin Jeffay, and Russell M. Taylor, II, "[Experiments in Best-Effort Multimedia Networking for a Distributed Virtual Environment](http://dx.doi.org/10.1117/12.410916)," In *Proceedings of Multimedia Computing and Networking                  (MCN), SPIE Proceedings Series*. San Jose, CA, January 2001, pp. 88-98.
+Tom Hudson, Michele C. Weigle, Kevin Jeffay, and Russell M. Taylor, II, "**Experiments in Best-Effort Multimedia Networking for a Distributed Virtual Environment**," In *Proceedings of Multimedia Computing and Networking                  (MCN), SPIE Proceedings Series*. San Jose, CA, January 2001, pp. 88-98. &nbsp;<a href='http://dx.doi.org/10.1117/12.410916' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#hudson-mcn01Bib)
 **Bibtex entry:**
@@ -3285,7 +3287,7 @@ Tom Hudson, Michele C. Weigle, Kevin Jeffay, and Russell M. Taylor, II, "[Experi
 ```
 # [weigle-sigcomm00](#weigle-sigcomm00)
 
-Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "Sync-TCP: Using GPS Synchronized Clocks for Early Congestion Detection in TCP," Poster presented at ACM SIGCOMM, Stockholm, Sweden, August 2000.
+Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Sync-TCP: Using GPS Synchronized Clocks for Early Congestion Detection in TCP**," Poster presented at ACM SIGCOMM, Stockholm, Sweden, August 2000.
 
 [](#weigle-sigcomm00Bib)
 **Bibtex entry:**
@@ -3303,7 +3305,7 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "Sync-TCP: Using GPS Syn
 ```
 # [clark-icmcs99](#clark-icmcs99)
 
-Michele Clark, and Kevin Jeffay, "[Application-Level Measurements of Performance on the vBNS](http://dx.doi.org/10.1109/MMCS.1999.778437)," In *Proceedings of the IEEE International Conference on Multimedia Computing and Systems*. Florence, Italy, June 1999, pp. 362-366, poster.
+Michele Clark, and Kevin Jeffay, "**Application-Level Measurements of Performance on the vBNS**," In *Proceedings of the IEEE International Conference on Multimedia Computing and Systems*. Florence, Italy, June 1999, pp. 362-366, poster. &nbsp;<a href='http://dx.doi.org/10.1109/MMCS.1999.778437' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#clark-icmcs99Bib)
 **Bibtex entry:**
@@ -3326,7 +3328,7 @@ Michele Clark, and Kevin Jeffay, "[Application-Level Measurements of Performance
 ```
 # [nee-av97](#nee-av97)
 
-Peter Nee, Kevin Jeffay, Michele Clark, and Gunner Danneels, "[Two-Dimensional Audio Scaling Enhancement to an Internet Videoconferencing System](http://dx.doi.org/10.1109/NOSDAV.1997.629389)," In *Proceedings of the International Workshop on                  Audio-Visual Services over Packet Networks*. Aberdeen, Scotland, UK, September 1997, pp. 201-206.
+Peter Nee, Kevin Jeffay, Michele Clark, and Gunner Danneels, "**Two-Dimensional Audio Scaling Enhancement to an Internet Videoconferencing System**," In *Proceedings of the International Workshop on                  Audio-Visual Services over Packet Networks*. Aberdeen, Scotland, UK, September 1997, pp. 201-206. &nbsp;<a href='http://dx.doi.org/10.1109/NOSDAV.1997.629389' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#nee-av97Bib)
 **Bibtex entry:**
