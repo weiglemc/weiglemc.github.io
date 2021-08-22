@@ -49,6 +49,17 @@ $type-size-notice           : 0.925em;
    Colors
    ========================================================================== */
 
+/* ODU colors: https://www.odu.edu/facultystaff/communication/toolkit/identity-standards/palette-fonts */
+$skyblue : #98c5ea;
+$royalblue: #2b1ed9;
+$bigblue: #202898;
+$monarchblue: #003057;
+$carriermetal: #404a5a;
+$midnight: #0a192d;
+$hamptonblue: #4d89c1;
+$denim: #3658ad;
+$barryblue: #729be6;
+
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -67,7 +78,7 @@ $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 //$info-color                 : #52adc8;
-$info-color : #365BAD;  // https://www.odu.edu/facultystaff/communication/toolkit/identity-standards/palette-fonts
+$info-color : $denim;  
 
 /* brands */
 $behance-color              : #1769FF;
