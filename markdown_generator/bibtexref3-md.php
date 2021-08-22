@@ -34,9 +34,16 @@ $BibtexPosterLink = "poster"; // added link to poster -MCW
 $BibtexArxivLink = "arXiv";  // added link to arXiv.org version -MCW 12/18/13     
 $BibtexTripReportLink = "trip report"; // added link to trip report -MCW 5/28/14
 
+/* Markdown buttons/icons */
+$BibtexDoiIcon = "<i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i>";
+$BibtexButton = "class='btn btn--mcwpub'>";
+$BibtexArxivButton = "<img src='../images/arxiv-logo-20px-high.png'/>";
+$BibtexBibtexButton = "<img src='../images/BibTeX_logo-18px-high.png'/>";
+
 $BibtexGenerateDefaultUrlField = false;
 
-$TitleLinkDOIURL = true;   // added -MCW 04/21/08
+//$TitleLinkDOIURL = true;   // added -MCW 04/21/08
+$TitleLinkDOIURL = false;
 
 $BibtexLang = array();
 
@@ -308,10 +315,14 @@ class BibtexEntry {
               $ret = $ret . ", \"" . $this->getTitle();
 	            // don't make title italics -MCW 04/25/08
         }
-	      else
-              $ret = $ret . ", \"" . $this->getTitle();
+	      else {
+          // bold title
+          //$ret = $ret . ", \"" . $this->getTitle();
+          $ret = $ret . ", \"**" . $this->getTitle() . "**";
+        }
 
-        if (strlen($ret) > 2 && $ret[strlen($ret) - 1] != '?')
+     //   if (strlen($ret) > 2 && $ret[strlen($ret) - 1] != '?')
+          if (strlen($ret) > 2)  // MCW: put comma after titles ending w/? too
             $ret = $ret . ",";
 
         $ret = $ret . "\"";
@@ -328,7 +339,8 @@ class BibtexEntry {
       // because you're never sure there is going to be something after the field inserted.
       // *****************************************
 
-      global $ScriptUrl, $BibtexUrlLink, $BibtexBibLink, $BibtexPreprintLink, $pagename, $TitleLinkDOIURL;
+      global $ScriptUrl, $BibtexUrlLink, $BibtexBibLink, $BibtexBibtexButton, $BibtexButton, 
+          $BibtexPreprintLink, $pagename, $TitleLinkDOIURL;
 
       $ret = ".";
 
@@ -353,53 +365,83 @@ class BibtexEntry {
           $doi = $this->get("DOI");
           if ($doi)
           {
-             global $BibtexDoiUrl, $BibtexDoiLink, $UploadUrlFmt;
+             global $BibtexDoiUrl, $BibtexDoiLink, $BibtexDoiIcon, $UploadUrlFmt;
 	     //             if (!$BibtexDoiUrl) $BibtexDoiUrl = FmtPageName('$UploadUrlFmt$UploadPrefixFmt', $pagename);
 	     //            $ret = $ret . " [[$BibtexDoiUrl" . $doi . " | $BibtexDoiLink]][==]";
+
 		        # if DOI is just the number, append http://dx.doi.org/
 		        $httppos = strpos ($doi, "http://");
 		        if ($httppos === false) {
 		          $doi = "http://dx.doi.org/" . $doi;
 		        }
-           $ret = $ret . " [" . $BibtexDoiLink . "[(". $doi . ")";
+
+            $ret = $ret . " &nbsp;<a href='" . $doi . "' target='_blank'>" . $BibtexDoiIcon . "</a>";
+//           $ret = $ret . " [" . $BibtexDoiLink . "[(". $doi . ")";
           }
       }
 
       if ($dourl && $this->entryname != " ") {
-	      $ret = $ret . " (";
+        $openparen = false;
 	      # add PDF, slides, preprint, poster, trip report before BibTeX
 	      $pdf = $this->get("PDF");
 	      if ($pdf) {
 	        global $BibtexPdfUrl, $BibtexPdfLink, $UploadUrlFmt;
+          if (! $openparen) {
+            $ret = $ret . " (";
+            $openparen = true;
+          }
 	        $ret = $ret . "[" . $BibtexPdfLink . "](". $pdf . ")" . ", ";
 	      }
 	      $preprint = $this->get("PREPRINT");
 	      if ($preprint) {
 	        global $BibtexPreprintUrl, $BibtexPreprintLink, $UploadUrlFmt;
+          if (! $openparen) {
+            $ret = $ret . " (";
+            $openparen = true;
+          }
           $ret = $ret . "[" . $BibtexPreprintLink . "](" . $preprint . ")" . ", ";
-        }
-        $arxiv = $this->get("ARXIV");
-	      if ($arxiv) {
-          global $BibtexArxivUrl, $BibtexArxivLink, $UploadUrlFmt;
-	        $ret = $ret . "[" . $BibtexArxivLink . "](" . $arxiv . ")" . ", ";
         }
 	      $slides = $this->get("SLIDES");
 	      if ($slides) {
 	        global $BibtexSlidesUrl, $BibtexSlidesLink, $UploadUrlFmt;
+          if (! $openparen) {
+            $ret = $ret . " (";
+            $openparen = true;
+          }
 	        $ret = $ret . "[" . $BibtexSlidesLink . "](" . $slides . ")" . ", ";
 	      }
 	      $poster = $this->get("POSTER");                                               
 	      if ($poster) {                                                                
-	        global $BibtexPosterUrl, $BibtexPosterLink, $UploadUrlFmt;                 
+	        global $BibtexPosterUrl, $BibtexPosterLink, $UploadUrlFmt;   
+          if (! $openparen) {
+            $ret = $ret . " (";
+            $openparen = true;
+          }              
           $ret = $ret . "[" . $BibtexPosterLink . "](" . $poster . ")" . ", ";                                                                                	
         }             
 	      $tripreport = $this->get("TRIPREPORT");
 	      if ($tripreport) {
 	        global $BibtexTripReportUrl, $BibtexTripReportLink, $UploadUrlFmt;
+          if (! $openparen) {
+            $ret = $ret . " (";
+            $openparen = true;
+          }
 	        $ret = $ret . "[" . $BibtexTripReportLink . "](" . $tripreport . ")" . ", ";
 	      }
+        if ($openparen) {
+          $ret = $ret . ")";
+        }
 
-	      $ret = $ret . "[" . $BibtexBibLink . "](" . $this->getCompleteEntryUrl() . "))";
+        $arxiv = $this->get("ARXIV");
+	      if ($arxiv) {
+          global $BibtexArxivUrl, $BibtexArxivLink, $BibtexArxivButton, $BibtexButton, $UploadUrlFmt;
+          $ret = $ret . " &nbsp;<a href='" . $arxiv . "' target='_blank' " . $BibtexButton . $BibtexArxivButton . "</a>";
+//	        $ret = $ret . "[" . $BibtexArxivLink . "](" . $arxiv . ")" . ", ";
+        }
+
+        // BibTeX button
+        $ret = $ret . " &nbsp;<a href='" . $this->getCompleteEntryUrl() . "' target='_blank' " . $BibtexButton . $BibtexBibtexButton . "</a>";
+//	      $ret = $ret . "[" . $BibtexBibLink . "](" . $this->getCompleteEntryUrl() . "))";
       }
       return $ret;
     }
