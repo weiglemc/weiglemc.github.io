@@ -22,6 +22,8 @@
     $bibTexFile = 'mweigle.bib';
     $outputDir = '../_publications';
 
+    $common_preamble = "collection: 'publications'\ndoi-color: '#fcab22'\nacrobat-color: '#f70e0c'\nblogger-color: '#F37100'\n";
+
     // generate one file per year of publications
     $years = range("1997", "2021");
     foreach ($years as $year) {
@@ -30,10 +32,9 @@
         $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
         fwrite($fp, "---\n");
         fwrite($fp, "title: \"" . $year . "\"\n");
-        fwrite($fp, "collection: 'publications'\n");
         fwrite($fp, "type: 'year'\n");
         fwrite($fp, "permalink: /publications/" . $year . "\n");
-        fwrite($fp, "doi-color: '#fcab22'\n");
+        fwrite($fp, $common_preamble);
         fwrite($fp, "---\n");
         // BibQuery(bibtex_filename, filter_condition, sort_condition, max_results)
         $paper_string = BibQuery($bibTexFile, "(\$this->get('YEAR') == $year)", "!\$this->get('PUBDATE')", "100");
@@ -69,10 +70,9 @@
                 $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'MISC')!==FALSE || strpos(\$this->entrytype,'PHDTHESIS')!==FALSE", "!\$this->get('PUBDATE')", "100");
                 break;
         }
-        fwrite($fp, "collection: 'publications'\n");
         fwrite($fp, "type: 'type'\n");
         fwrite($fp, "permalink: /publications/" . $type . "\n");
-        fwrite($fp, "doi-color: '#fcab22'\n");
+        fwrite($fp, $common_preamble);
         fwrite($fp, "---\n");
         fwrite($fp, $paper_string);
         fclose($fp);
@@ -83,10 +83,9 @@
     $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
     fwrite($fp, "---\n");
     fwrite($fp, "title: BibTeX\n");
-    fwrite($fp, "collection: 'publications'\n");
     fwrite($fp, "type: 'bibtex'\n");
     fwrite($fp, "permalink: /publications/bibtex\n");
-    fwrite($fp, "doi-color: '#fcab22'\n");
+    fwrite($fp, $common_preamble);
     fwrite($fp, "---\n");
 
     $bibentries = ParseBibFile($bibTexFile);
@@ -106,10 +105,9 @@
     $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
     fwrite($fp, "---\n");
     fwrite($fp, "title: \"Recent Publications and Talks\"\n");
-    fwrite($fp, "collection: 'publications'\n");
     fwrite($fp, "type: 'recent'\n");
     fwrite($fp, "permalink: /publications/recent\n");
-    fwrite($fp, "doi-color: '#fcab22'\n");
+    fwrite($fp, $common_preamble);
     fwrite($fp, "---\n");
     // set a max of 10 recent papers
     $paper_string = BibQuery($bibTexFile, "(\$this->get('YEAR') >= \"$year\")", "!\$this->get('PUBDATE')", "10");
@@ -121,10 +119,9 @@
     $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
     fwrite($fp, "---\n");
     fwrite($fp, "title: \"Award Publications\"\n");
-    fwrite($fp, "collection: 'publications'\n");
     fwrite($fp, "type: 'award'\n");
     fwrite($fp, "permalink: /publications/award\n");
-    fwrite($fp, "doi-color: '#fcab22'\n");
+    fwrite($fp, $common_preamble);
     fwrite($fp, "---\n");
     $paper_string = BibQuery($bibTexFile, "(\$this->get('KEYWORD') == 'award')", "!\$this->get('PUBDATE')", "100");
     fwrite($fp, $paper_string);

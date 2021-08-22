@@ -36,9 +36,14 @@ $BibtexTripReportLink = "trip report"; // added link to trip report -MCW 5/28/14
 
 /* Markdown buttons/icons */
 $BibtexDoiIcon = "<i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i>";
+$BibtexLinkIcon = "<i class='fas fa-fw fa-link'></i>";
+$BibtexPDFIcon = "<i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i>";
+$BibtexTripIcon = "<i class='fab fa-blogger' style='color: {{ page.blogger-color }}'></i>";
 $BibtexButton = "class='btn btn--mcwpub'>";
-$BibtexArxivButton = "<img src='../images/arxiv-logo-20px-high.png'/>";
-$BibtexBibtexButton = "<img src='../images/BibTeX_logo-18px-high.png'/>";
+$BibtexSlideshare = "class='btn btn--mcwslideshare'>";
+$BibtexSlideshareButton = "<img src='../images/slideshare-16px-high.png'/>";
+$BibtexArxivButton = "<img src='../images/arxiv-logo-16px-high.png'/>";
+$BibtexBibtexButton = "<img src='../images/BibTeX_logo-16px-high.png'/>";
 
 $BibtexGenerateDefaultUrlField = false;
 
@@ -261,7 +266,7 @@ class BibtexEntry {
       return $RetUrl;
     }
 
-    function getPreString($dourl = true)
+    function getPreString()
     {
       // *****************************
       // Add LANG, AUTHOR, YEAR, TITLE
@@ -291,36 +296,10 @@ class BibtexEntry {
 
       if ($this->getTitle() != "")
       {
-        if (false && $dourl && $this->entryname != " ")
-              $ret = $ret . "[''" . $this->getTitle() . "](" . $this->getCompleteEntryUrl() . ")]";
-        else if ($TitleLinkDOIURL) {
-            // if DOI or URL given, make link on title -MCW 04/21/08
-	          $doi = $this->get("DOI");
-            $url = $this->get("URL");
-	      
-           if ($doi) {
-		          # if DOI is just the number, append http://dx.doi.org/
-		          $httppos = strpos ($doi, "http://");
-		          if ($httppos === false) {
-		              $doi = "http://dx.doi.org/" . $doi;
-		          }
-//		          $ret = $ret . ", \"[[" . $doi . " | " . $this->getTitle() . "]]";
-		          $ret = $ret . ", \"[" . $this->getTitle() . "](" . $doi . ")";
-
-            } else if ($url) {
-//		        $ret = $ret . ", \"[[" . $url . " | " . $this->getTitle() . "]]";
-              $ret = $ret . ", \"[" . $this->getTitle() . "](" . $url . ")";
-            } 
-            else
-              $ret = $ret . ", \"" . $this->getTitle();
-	            // don't make title italics -MCW 04/25/08
-        }
-	      else {
           // bold title
           //$ret = $ret . ", \"" . $this->getTitle();
           $ret = $ret . ", \"**" . $this->getTitle() . "**";
-        }
-
+        
      //   if (strlen($ret) > 2 && $ret[strlen($ret) - 1] != '?')
           if (strlen($ret) > 2)  // MCW: put comma after titles ending w/? too
             $ret = $ret . ",";
@@ -331,7 +310,7 @@ class BibtexEntry {
       return $ret;
   }
 
-  function getPostString($dourl = true)
+  function getPostString($dobibtex = true)
   {
       // *****************************************
       // Add a point, NOTE, URL, PDF and BibTeX
@@ -340,7 +319,7 @@ class BibtexEntry {
       // *****************************************
 
       global $ScriptUrl, $BibtexUrlLink, $BibtexBibLink, $BibtexBibtexButton, $BibtexButton, 
-          $BibtexPreprintLink, $pagename, $TitleLinkDOIURL;
+          $BibtexPreprintLink, $BibtexLinkIcon, $BibtexSlideshare, $BibtexPDFIcon, $pagename, $TitleLinkDOIURL;
 
       $ret = ".";
 
@@ -353,13 +332,11 @@ class BibtexEntry {
       if (!$TitleLinkDOIURL) {
 	    // Don't add (URL) (DOI) to end if given in title link  -MCW 04/21/08
            $url = $this->get("URL");
-           // Try and get url from bib2html_dl_pdf
-           if (!$url) 
-              $url = $this->get("bib2html_dl_pdf");
-      
+
           if ($url) 
           {
-             $ret = $ret . " ([$BibtexUrlLink](" . $url . "))";
+ //            $ret = $ret . " ([$BibtexUrlLink](" . $url . "))";
+             $ret = $ret . " <a href='" . $url . "' target='_blank'>" . $BibtexLinkIcon . "</a>";
           }
 
           $doi = $this->get("DOI");
@@ -374,46 +351,14 @@ class BibtexEntry {
 		        if ($httppos === false) {
 		          $doi = "http://dx.doi.org/" . $doi;
 		        }
-
-            $ret = $ret . " &nbsp;<a href='" . $doi . "' target='_blank'>" . $BibtexDoiIcon . "</a>";
+            $ret = $ret . " <a href='" . $doi . "' target='_blank'>" . $BibtexDoiIcon . "</a>";
 //           $ret = $ret . " [" . $BibtexDoiLink . "[(". $doi . ")";
           }
       }
 
-      if ($dourl && $this->entryname != " ") {
+      if ($this->entryname != " ") {
         $openparen = false;
 	      # add PDF, slides, preprint, poster, trip report before BibTeX
-	      $pdf = $this->get("PDF");
-	      if ($pdf) {
-	        global $BibtexPdfUrl, $BibtexPdfLink, $UploadUrlFmt;
-          if (! $openparen) {
-            $ret = $ret . " (";
-            $openparen = true;
-          }
-	        $ret = $ret . "[" . $BibtexPdfLink . "](". $pdf . ")";
-	      }
-	      $preprint = $this->get("PREPRINT");
-	      if ($preprint) {
-	        global $BibtexPreprintUrl, $BibtexPreprintLink, $UploadUrlFmt;
-          if (! $openparen) {
-            $ret = $ret . " (";
-            $openparen = true;
-          } else {
-            $ret = $ret . ", ";
-          }
-          $ret = $ret . "[" . $BibtexPreprintLink . "](" . $preprint . ")";
-        }
-	      $slides = $this->get("SLIDES");
-	      if ($slides) {
-	        global $BibtexSlidesUrl, $BibtexSlidesLink, $UploadUrlFmt;
-          if (! $openparen) {
-            $ret = $ret . " (";
-            $openparen = true;
-          } else {
-            $ret = $ret . ", ";
-          }
-	        $ret = $ret . "[" . $BibtexSlidesLink . "](" . $slides . ")";
-	      }
 	      $poster = $this->get("POSTER");                                               
 	      if ($poster) {                                                                
 	        global $BibtexPosterUrl, $BibtexPosterLink, $UploadUrlFmt;   
@@ -425,20 +370,23 @@ class BibtexEntry {
           }  
           $ret = $ret . "[" . $BibtexPosterLink . "](" . $poster . ")";                                                                                	
         }             
-	      $tripreport = $this->get("TRIPREPORT");
-	      if ($tripreport) {
-	        global $BibtexTripReportUrl, $BibtexTripReportLink, $UploadUrlFmt;
-          if (! $openparen) {
-            $ret = $ret . " (";
-            $openparen = true;
-          } else {
-            $ret = $ret . ", ";
-          }
-	        $ret = $ret . "[" . $BibtexTripReportLink . "](" . $tripreport . ")";
-	      }
         if ($openparen) {
           $ret = $ret . ")";
         }
+
+        $preprint = $this->get("PREPRINT");
+	      if ($preprint) {
+	        global $BibtexPreprintUrl, $BibtexPDFIcon, $BibtexPreprintLink, $UploadUrlFmt;
+          $ret = $ret . " <a href='" . $preprint . "' target='_blank'>" . $BibtexPDFIcon . "</a>";
+//          $ret = $ret . "[" . $BibtexPreprintLink . "](" . $preprint . ")";
+        }
+
+        $pdf = $this->get("PDF");
+	      if ($pdf) {
+	        global $BibtexPdfUrl, $BibtexPdfLink, $BibtexPDFIcon, $UploadUrlFmt;
+//	        $ret = $ret . "[" . $BibtexPdfLink . "](". $pdf . ")";
+          $ret = $ret . " <a href='" . $pdf . "' target='_blank'>" . $BibtexPDFIcon . "</a>";
+	      }
 
         $arxiv = $this->get("ARXIV");
 	      if ($arxiv) {
@@ -447,9 +395,25 @@ class BibtexEntry {
 //	        $ret = $ret . "[" . $BibtexArxivLink . "](" . $arxiv . ")" . ", ";
         }
 
-        // BibTeX button
-        $ret = $ret . " &nbsp;<a href='" . $this->getCompleteEntryUrl() . "' target='_blank' " . $BibtexButton . $BibtexBibtexButton . "</a>";
+        $slides = $this->get("SLIDES");
+	      if ($slides) {
+	        global $BibtexSlidesUrl, $BibtexSlidesLink, $BibtexSlideshareButton, $UploadUrlFmt;
+          $ret = $ret . " <a href='" . $slides . "' target='_blank' " . $BibtexSlideshare . $BibtexSlideshareButton . "</a>";
+//	        $ret = $ret . "[" . $BibtexSlidesLink . "](" . $slides . ")";
+	      }
+
+        $tripreport = $this->get("TRIPREPORT");
+	      if ($tripreport) {
+	        global $BibtexTripReportUrl, $BibtexTripReportLink, $BibtexTripIcon, $UploadUrlFmt;
+          $ret = $ret . " <a href='" . $tripreport . "' target='_blank'>" . $BibtexTripIcon . "</a>";
+//	        $ret = $ret . "[" . $BibtexTripReportLink . "](" . $tripreport . ")";
+	      }
+
+        if ($dobibtex) {
+          // BibTeX button
+          $ret = $ret . " &nbsp;<a href='" . $this->getCompleteEntryUrl() . "' target='_blank' " . $BibtexButton . $BibtexBibtexButton . "</a>";
 //	      $ret = $ret . "[" . $BibtexBibLink . "](" . $this->getCompleteEntryUrl() . "))";
+        }
       }
       return $ret;
     }
@@ -531,9 +495,9 @@ class BibtexEntry {
       $this->entrytype = "PHDTHESIS";
     }
 
-    function getSummary($dourl = true)
+    function getSummary($dobibtex = true)
     {
-      $ret = parent::getPreString($dourl);
+      $ret = parent::getPreString();
       $ret = $ret . " PhD thesis";
       $school = parent::get("SCHOOL");
       if ($school)
@@ -557,7 +521,7 @@ class BibtexEntry {
 	}
 
 
-      return $ret . parent::getPostString($dourl);
+      return $ret . parent::getPostString($dobibtex);
     }
   }
 
@@ -573,9 +537,9 @@ class MasterThesis extends BibtexEntry {
     $this->entrytype = "MASTERSTHESIS";
   }
 
-  function getSummary($dourl = true)
+  function getSummary($dobibtex = true)
   {
-    $ret = parent::getPreString($dourl);
+    $ret = parent::getPreString();
 
     $ret = $ret . " Master's thesis";
     $school = parent::get("SCHOOL");
@@ -600,7 +564,7 @@ class MasterThesis extends BibtexEntry {
 	  $ret = $ret . " " . $year;
 	}
 
-    return $ret . parent::getPostString($dourl);
+    return $ret . parent::getPostString($dobibtex);
   }
 }
 
@@ -615,9 +579,9 @@ class TechReport extends BibtexEntry {
     $this->entrytype = "TECHREPORT";
   }
 
-  function getSummary($dourl = true)
+  function getSummary($dobibtex = true)
   {
-    $ret = parent::getPreString($dourl);
+    $ret = parent::getPreString();
     $type = parent::get("TYPE");
     if ( $type )
        $ret = $ret . " $type";
@@ -649,7 +613,7 @@ class TechReport extends BibtexEntry {
       $ret = $ret . " " . $year;
     }
 
-    return $ret . parent::getPostString($dourl);
+    return $ret . parent::getPostString($dobibtex);
   }
 }
 
@@ -664,9 +628,9 @@ class Article extends BibtexEntry {
     $this->entrytype = "ARTICLE";
   }
 
-  function getSummary($dourl = true)
+  function getSummary($dobibtex = true)
   {
-    $ret = parent::getPreString($dourl);
+    $ret = parent::getPreString();
     $journal = parent::get("JOURNAL");
     if ($journal)
     {
@@ -716,7 +680,7 @@ class Article extends BibtexEntry {
           $ret = $ret . ", " . $pages;
         }
     }
-    return $ret . parent::getPostString($dourl);
+    return $ret . parent::getPostString($dobibtex);
   }
 }
 
@@ -732,9 +696,9 @@ class InProceedings extends BibtexEntry
       $this->entrytype = "INPROCEEDINGS";
     }
 
-    function getSummary($dourl = true)
+    function getSummary($dobibtex = true)
     {
-        $ret = parent::getPreString($dourl);
+        $ret = parent::getPreString();
         $booktitle = parent::get("BOOKTITLE");
 
         if ($booktitle)
@@ -806,7 +770,7 @@ class InProceedings extends BibtexEntry
             }
         }
 
-        return $ret . parent::getPostString($dourl);
+        return $ret . parent::getPostString($dobibtex);
     }
 
 }
@@ -822,9 +786,9 @@ class InCollection extends BibtexEntry {
     $this->entrytype = "INCOLLECTION";
   }
 
-  function getSummary($dourl = true)
+  function getSummary($dobibtex = true)
   {
-    $ret = parent::getPreString($dourl);
+    $ret = parent::getPreString();
     $booktitle = parent::get("BOOKTITLE");
     if ($booktitle)
     {
@@ -857,7 +821,7 @@ class InCollection extends BibtexEntry {
       }
 
     }
-    return $ret . parent::getPostString($dourl);
+    return $ret . parent::getPostString($dobibtex);
 
   }
 
@@ -874,7 +838,7 @@ class Book extends BibtexEntry {
       $this->entrytype = "BOOK";
     }
 
-    function getSummary($dourl = true)
+    function getSummary($dobibtex = true)
     {
 
       global $TitleLinkDOIURL;
@@ -898,9 +862,7 @@ class Book extends BibtexEntry {
         
       if ($this->getTitle() != "")
       {
-          if (false && $dourl && $this->entryname != " ")
-              $ret = $ret . "''[[" . $this->getCompleteEntryUrl() . " | " . $this->getTitle() . "]]";
-          else if ($TitleLinkDOIURL) {
+         if ($TitleLinkDOIURL) {
               // if DOI or URL given, make link on title -MCW 04/21/08
               $doi = $this->get("DOI");
               $url = $this->get("URL");
@@ -950,7 +912,7 @@ class Book extends BibtexEntry {
         if ($ret && $ret[strlen($ret) - 3] == '.')
             $ret = substr_replace($ret, "", strlen($ret) - 3, 1);
         
-        $post = parent::getPostString($dourl);
+        $post = parent::getPostString($dobibtex);
         $ret = $ret . $post;
         
         return $ret;
@@ -969,9 +931,9 @@ class InBook extends BibtexEntry {
   }
 
  
-    function getSummary($dourl = true)
+    function getSummary($dobibtex = true)
     {
-        $ret = parent::getPreString($dourl);
+        $ret = parent::getPreString();
         $booktitle = parent::get("BOOKTITLE");
         if ($booktitle)
         {
@@ -1029,7 +991,7 @@ class InBook extends BibtexEntry {
             }
         }
 
-        return $ret . parent::getPostString($dourl);
+        return $ret . parent::getPostString($dobibtex);
     }
 
 }
@@ -1045,9 +1007,9 @@ class Proceedings extends BibtexEntry {
          $this->entrytype = "PROCEEDINGS";
       }
 
-      function getSummary($dourl = true)
+      function getSummary($dobibtex = true)
       {
-         $ret = parent::getPreString($dourl);
+         $ret = parent::getPreString();
          $editor = parent::get("EDITOR");
          if ($editor)
              $ret = $ret . " (" . $editor .", Eds.)";
@@ -1069,7 +1031,7 @@ class Proceedings extends BibtexEntry {
          $publisher = parent::get("PUBLISHER");
          if ($publisher)
             $ret = $ret . ", $publisher";
-         $ret = $ret . parent::getPostString($dourl);
+         $ret = $ret . parent::getPostString($dobibtex);
          return $ret;
       }
 }
@@ -1085,9 +1047,9 @@ class Misc extends BibtexEntry {
     $this->entrytype = "MISC";
   }
 
-  function getSummary($dourl = true)
+  function getSummary($dobibtex = true)
   {
-    $ret = parent::getPreString($dourl);
+    $ret = parent::getPreString();
     
     $howpublished = parent::get("HOWPUBLISHED");
     if ($howpublished)
@@ -1108,7 +1070,7 @@ class Misc extends BibtexEntry {
       $ret = $ret . " " . $year;
     }
 
-    $ret = $ret . parent::getPostString($dourl);
+    $ret = $ret . parent::getPostString($dobibtex);
     return $ret;
   }
 }
@@ -1256,11 +1218,11 @@ function CompleteBibEntry($bib, $ref)
   return $entry->getCompleteEntry();
 }
 
-function BibSummary($bib, $ref)
+function BibSummary($bib, $ref, $dobibtex='true')
 {
   $entry = GetEntry($bib, $ref);
   if ($entry == false) return "%red%Invalid BibTex Entry!";
-  return $entry->getSummary();
+  return $entry->getSummary($dobibtex);
 }
 
 function ParseEntries($fname, $entries)
