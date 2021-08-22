@@ -6,6 +6,7 @@ linkedin-color: "#007bb6"
 orcid-color: "#a6ce39"
 google-scholar-color: "#397AF2"
 github-color: "#171516"
+acrobat-color: "#f70e0c"
 ---
 ## Current Students
 
@@ -92,50 +93,50 @@ ABD (advisor: Michael L. Nelson)
    * "[Applying Machine Learning to Advance Cyber Security: Network Based Intrusion Detection Systems](https://digitalcommons.odu.edu/computerscience_etds/42)," PhD thesis, *Old Dominion University*, December 2018, co-advised with Cong Wang
 3. Shahram Mohrehkesh
 <a href="https://www.linkedin.com/in/shahram-m-9160602/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[Energy Harvesting-Aware Design for Wireless Nanonetworks](http://digitalcommons.odu.edu/computerscience_etds/2/)," PhD thesis, *Old Dominion University*, August 2015. ([PDF](http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-dissertation-2015.pdf), [slides](http://www.slideshare.net/mweigle/energy-harvestingaware-design-for-wireless-nanonetworks))
+   * "[Energy Harvesting-Aware Design for Wireless Nanonetworks](http://digitalcommons.odu.edu/computerscience_etds/2/)," PhD thesis, *Old Dominion University*, August 2015. <a href='http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-dissertation-2015.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/energy-harvestingaware-design-for-wireless-nanonetworks' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
    * First Job: Lead Software Engineer, Retail Solutions (RSI)
    * Current Job: Machine Learning Engineer, Intuit
 4. Mohammad Almalag
 <a href="http://cnu.edu/people/mohammadalmalag/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/dr-mohammad-almalag/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[TDMA Slot Reservation in Cluster-Based VANETs](https://digitalcommons.odu.edu/computerscience_etds/9)," PhD thesis, *Old Dominion University*, May 2013. ([PDF](http://www.cs.odu.edu/~mweigle/papers/almalag-dissertation-2013.pdf), [slides](http://www.slideshare.net/mweigle/defense-final-19921446))
+   * "[TDMA Slot Reservation in Cluster-Based VANETs](https://digitalcommons.odu.edu/computerscience_etds/9)," PhD thesis, *Old Dominion University*, May 2013. <a href='http://www.cs.odu.edu/~mweigle/papers/almalag-dissertation-2013.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/defense-final-19921446' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
    * Current Job: Assistant Professor of Computer Science, Christopher Newport University
 4. Hadi Arbabi
 <a href="https://www.linkedin.com/in/hadi-arbabi-2421659/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[A Framework for Dynamic Traffic Monitoring using Vehicular Ad-Hoc Networks](https://digitalcommons.odu.edu/computerscience_etds/8)," PhD thesis, *Old Dominion University*, August 2011. ([PDF](http://www.cs.odu.edu/~mweigle/papers/arbabi-dissertation-2011.pdf), [slides](http://www.slideshare.net/mweigle/a-framework-for-dynamic-traffic-monitoring-using-vehicular-adhoc-networks-8765710/))
+   * "[A Framework for Dynamic Traffic Monitoring using Vehicular Ad-Hoc Networks](https://digitalcommons.odu.edu/computerscience_etds/8)," PhD thesis, *Old Dominion University*, August 2011. <a href='http://www.cs.odu.edu/~mweigle/papers/arbabi-dissertation-2011.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/a-framework-for-dynamic-traffic-monitoring-using-vehicular-adhoc-networks-8765710/' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
    * Current Job: Director of Engineering, Siemens Healthineers
 5. Khaled Ibrahim
 <a href="https://www.linkedin.com/in/khaled-ibrahim-93852a49/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[Data Aggregation and Dissemination in Vehicular Ad-Hoc Networks](https://digitalcommons.odu.edu/computerscience_etds/7)," PhD thesis, *Old Dominion University*, May 2011. ([PDF](http://www.cs.odu.edu/~mweigle/papers/ibrahim-dissertation-2011.pdf), [slides](http://www.slideshare.net/mweigle/data-aggregation-and-dissemination-in-vehicular-adhoc-networks))
+   * "[Data Aggregation and Dissemination in Vehicular Ad-Hoc Networks](https://digitalcommons.odu.edu/computerscience_etds/7)," PhD thesis, *Old Dominion University*, May 2011. <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-dissertation-2011.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/data-aggregation-and-dissemination-in-vehicular-adhoc-networks' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
    * First Job: Software Engineer, Microsoft (Redmond, Washington)
 3. Gongjun Yan
 <a href="http://faculty.usi.edu/gyan" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://www.linkedin.com/in/gongjun-yan-9b9318b2/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[Providing Location Security in Vehicular Networks](https://digitalcommons.odu.edu/computerscience_etds/5)," PhD thesis, *Old Dominion University*, May 2010. ([PDF](http://www.cs.odu.edu/~mweigle/papers/yan-dissertation-2010.pdf), [slides](http://www.slideshare.net/mweigle/providing-location-security-in-vehicular-networks)), co-advised with Stephan Olariu
+   * "[Providing Location Security in Vehicular Networks](https://digitalcommons.odu.edu/computerscience_etds/5)," PhD thesis, *Old Dominion University*, May 2010. <a href='http://www.cs.odu.edu/~mweigle/papers/yan-dissertation-2010.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/providing-location-security-in-vehicular-networks' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>, co-advised with Stephan Olariu
    * Current Job: Associate Professor of Computer Science, University of Southern Indiana
 
 ### MS Thesis
 
 1. John Berlin 
 <a href="https://www.linkedin.com/in/john-berlin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[To Relive The Web: A Framework for the Transformation and Archival Replay of Web Pages](https://digitalcommons.odu.edu/computerscience_etds/38/)," Master's thesis, *Old Dominion University*, May 2018. ([PDF](http://www.cs.odu.edu/~mweigle/papers/berlin-ms-thesis-18.pdf))
+   * "[To Relive The Web: A Framework for the Transformation and Archival Replay of Web Pages](https://digitalcommons.odu.edu/computerscience_etds/38/)," Master's thesis, *Old Dominion University*, May 2018. <a href='http://www.cs.odu.edu/~mweigle/papers/berlin-ms-thesis-18.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 2. Mat Kelly
 <a href="https://matkelly.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/machawk1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/matkelly/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   *  "[An Extensible Framework for Creating Personal Archives of Web Resources Requiring Authentication](https://digitalcommons.odu.edu/computerscience_etds/6)," Master's thesis, *Old Dominion University*, August 2012. ([PDF](http://www.cs.odu.edu/~mweigle/papers/kelly-thesis12.pdf), [slides](http://www.slideshare.net/matkelly01/an-extensible-framework-for-creating-personal-web-archives-of-content-behind-authentication))
+   *  "[An Extensible Framework for Creating Personal Archives of Web Resources Requiring Authentication](https://digitalcommons.odu.edu/computerscience_etds/6)," Master's thesis, *Old Dominion University*, August 2012. <a href='http://www.cs.odu.edu/~mweigle/papers/kelly-thesis12.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/matkelly01/an-extensible-framework-for-creating-personal-web-archives-of-content-behind-authentication' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
    * PhD, ODU, 2019
 3. Kalpesh Padia
 <a href="https://www.linkedin.com/in/kalpeshpadia/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[Visualizing Digital Collections at Archive-It](https://digitalcommons.odu.edu/computerscience_etds/4)," Master's thesis, *Old Dominion University*, August 2012. ([PDF](http://www.cs.odu.edu/~mweigle/papers/padia-thesis12.pdf), [slides](http://www.slideshare.net/kallumama24/ms-thesis-defense-aug-2012-visualizing-digital-collections-at-archiveit))
+   * "[Visualizing Digital Collections at Archive-It](https://digitalcommons.odu.edu/computerscience_etds/4)," Master's thesis, *Old Dominion University*, August 2012. <a href='http://www.cs.odu.edu/~mweigle/papers/padia-thesis12.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/kallumama24/ms-thesis-defense-aug-2012-visualizing-digital-collections-at-archiveit' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
    * PhD, NC State, 2019
 1. Prashanth Adurthi
 <a href="https://www.linkedin.com/in/prashanth-adurthi-b7303024/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "Generating Tmix-Based TCP Application Workloads in ns-2 and GTNetS," Master's thesis, *Clemson University*, August 2006. ([PDF](http://www.cs.odu.edu/~mweigle/papers/adurthi-thesis06.pdf))
+   * "Generating Tmix-Based TCP Application Workloads in ns-2 and GTNetS," Master's thesis, *Clemson University*, August 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/adurthi-thesis06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 1. Pankaj Sharma
-* "Performance Analysis of High-Speed Transport Control Protocols," Master's thesis, *Clemson University*, August 2006. ([PDF](http://www.cs.odu.edu/~mweigle/papers/sharma-thesis06.pdf))
+* "Performance Analysis of High-Speed Transport Control Protocols," Master's thesis, *Clemson University*, August 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/sharma-thesis06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 ### PhD Committee Member
 

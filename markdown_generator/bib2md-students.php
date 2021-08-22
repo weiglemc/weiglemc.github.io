@@ -29,7 +29,7 @@
 
     foreach ($tags as $tag) {
         // BibSummary($bibTexFile, $reftag);
-        $paper_string = BibSummary($bibTexFile, $tag);
+        $paper_string = BibSummary($bibTexFile, $tag, false);
         fwrite($fp, $paper_string);
         fwrite($fp, "\n\n");
     }
