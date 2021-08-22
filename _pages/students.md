@@ -15,13 +15,13 @@ github-color: "#171516"
 
 * Himarsha Jayanetti
 <a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
-<a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="fas fa-fw fa-graduation-cap" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 * Corren McCoy
 <a href="https://twitter.com/correnmccoy" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
-<a href="https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ" target="_blank"><i class="fas fa-fw fa-graduation-cap" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/correnmccoy/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 * Travis Reid
 <a href="https://twitter.com/treid803" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
@@ -34,14 +34,14 @@ github-color: "#171516"
 * Shawn Jones
 <a href="https://www.shawnmjones.org" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
-<a href="https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ" target="_blank"><i class="fas fa-fw fa-graduation-cap" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/shawnmorganjones/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 ABD (advisor: Michael L. Nelson)
 * Kritika Garg 
 <a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
-<a href="https://scholar.google.com/citations?hl=en&user=pXQRYsAAAAJ" target="_blank"><i class="fas fa-fw fa-graduation-cap" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=pXQRYsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0001-6498-7391" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/kritika-g-b8a824120/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
@@ -70,20 +70,20 @@ ABD (advisor: Michael L. Nelson)
 1. Mohamed Aturban
 <a href="https://www.ccis.edu/departments/ciss/faculty/mohamedaturban.aspx" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/maturban1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
-<a href="https://scholar.google.com/citations?hl=en&user=XdGvjXEAAAAJ" target="_blank"><i class="fas fa-fw fa-graduation-cap" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=XdGvjXEAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/mohamed-aturban-a0777433/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[A Framework for Verifying the Fixity of Archived Web Resources](https://digitalcommons.odu.edu/computerscience_etds/125/)," PhD thesis, *Old Dominion University*, August 2020. 
    * First Job: Assistant Professor, Columbia College
 1. Mat Kelly
 <a href="https://matkelly.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/machawk1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
-<a href="https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ" target="_blank"><i class="fas fa-fw fa-graduation-cap" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/matkelly/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[Aggregating Private and Public Web Archives Using the Mementity Framework](https://digitalcommons.odu.edu/computerscience_etds/94/)," PhD thesis, *Old Dominion University*, August 2019. 
    * First Job: Assistant Professor, Drexel University
 1. Lulwah Alkwai
 <a href="https://twitter.com/LulwahMA" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
-<a href="https://scholar.google.com/citations?hl=en&user=EnQF73AAAAAJ" target="_blank"><i class="fas fa-fw fa-graduation-cap" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=EnQF73AAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/lulwah-alkwai-45495283/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[Expanding the Usage of Web Archives by Recommending Archived Webpages Using Only the URI](https://digitalcommons.odu.edu/computerscience_etds/90)," PhD thesis, *Old Dominion University*, May 2019.
    * First Job: Assistant Professor, University of Hail, Saudi Arabia
@@ -97,7 +97,7 @@ ABD (advisor: Michael L. Nelson)
    * Current Job: Machine Learning Engineer, Intuit
 4. Mohammad Almalag
 <a href="http://cnu.edu/people/mohammadalmalag/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
-<a href="https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ" target="_blank"><i class="fas fa-fw fa-graduation-cap" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/dr-mohammad-almalag/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[TDMA Slot Reservation in Cluster-Based VANETs](https://digitalcommons.odu.edu/computerscience_etds/9)," PhD thesis, *Old Dominion University*, May 2013. ([PDF](http://www.cs.odu.edu/~mweigle/papers/almalag-dissertation-2013.pdf), [slides](http://www.slideshare.net/mweigle/defense-final-19921446))
    * Current Job: Assistant Professor of Computer Science, Christopher Newport University
@@ -123,7 +123,7 @@ ABD (advisor: Michael L. Nelson)
 2. Mat Kelly
 <a href="https://matkelly.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/machawk1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
-<a href="https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ" target="_blank"><i class="fas fa-fw fa-graduation-cap" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/matkelly/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    *  "[An Extensible Framework for Creating Personal Archives of Web Resources Requiring Authentication](https://digitalcommons.odu.edu/computerscience_etds/6)," Master's thesis, *Old Dominion University*, August 2012. ([PDF](http://www.cs.odu.edu/~mweigle/papers/kelly-thesis12.pdf), [slides](http://www.slideshare.net/matkelly01/an-extensible-framework-for-creating-personal-web-archives-of-content-behind-authentication))
    * PhD, ODU, 2019
