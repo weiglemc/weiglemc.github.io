@@ -283,10 +283,17 @@ body:hover .visually-hidden button {
     color: $xing-color;
   }
 
+  // below added by MCW
+
   // from https://github.com/jayrobwilliams/jayrobwilliams.github.io/blob/0ff8195d4d91963c8b4ed9e3a0aeb14c09bce1b5/_sass/_utilities.scss
   .ai-orcid,
   .ai-orcid-square {
     color: $orcid-color;
+  }
+
+  .ai-google-scholar,
+  .ai-google-scholar-square {
+    color: $google-scholar-color;
   }
 
   .fa-graduation-cap {
