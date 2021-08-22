@@ -324,7 +324,7 @@ Shawn M. Jones, Michele C. Weigle, and Michael L. Nelson, "**Social Cards Probab
 ```
 # [alam-arxiv19b](#alam-arxiv19b)
 
-Sawood Alam, Plinio Vargas, Michele C. Weigle, and Michael L. Nelson, "**Impact of HTTP Cookie Violations in Web Archives**," Presented at the ACM/IEEE JCDL 2019 Workshop on Web Archiving and Digital Libraries (WADL), June 2019. ([URL](https://arxiv.org/abs/1906.07141))
+Sawood Alam, Plinio Vargas, Michele C. Weigle, and Michael L. Nelson, "**Impact of HTTP Cookie Violations in Web Archives**," Presented at the ACM/IEEE JCDL 2019 Workshop on Web Archiving and Digital Libraries (WADL), June 2019.
 
 [](#alam-arxiv19bBib)
 **Bibtex entry:**
@@ -335,14 +335,14 @@ Sawood Alam, Plinio Vargas, Michele C. Weigle, and Michael L. Nelson, "**Impact 
       TITLE = {Impact of HTTP Cookie Violations in Web Archives},
       YEAR = {2019},
       MONTH = {June},
-      URL = {https://arxiv.org/abs/1906.07141},
+      ARXIV = {https://arxiv.org/abs/1906.07141},
       HOWPUBLISHED = {Presented at the ACM/IEEE JCDL 2019 Workshop on Web Archiving and Digital Libraries (WADL)},
       PUBDATE = {201906},
 }
 ```
 # [alam-arxiv19a](#alam-arxiv19a)
 
-Sawood Alam, Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert Van de Sompel, "**Supporting Web Archiving via Web Packaging**," Technical report arXiv:1906.07104, June 2019. ([URL](https://arxiv.org/abs/1906.07104))
+Sawood Alam, Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert Van de Sompel, "**Supporting Web Archiving via Web Packaging**," Technical report arXiv:1906.07104, June 2019.
 
 [](#alam-arxiv19aBib)
 **Bibtex entry:**
@@ -354,14 +354,14 @@ Sawood Alam, Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert Van
       NUMBER = {arXiv:1906.07104},
       YEAR = {2019},
       MONTH = {June},
-      URL = {https://arxiv.org/abs/1906.07104},
+      ARXIV = {https://arxiv.org/abs/1906.07104},
       NOTE = {Position paper accepted at the ESCAPE Workshop 2019},
       PUBDATE = {201906},
 }
 ```
 # [aturban-arxiv19](#aturban-arxiv19)
 
-Mohamed Aturban, Michael L. Nelson, Michele C. Weigle, Martin Klein, and Herbert Van de Sompel, "**Collecting 16K archived web pages from 17 public web archives**," Technical report arXiv:1905.03836, May 2019. ([URL](https://arxiv.org/abs/1905.03836))
+Mohamed Aturban, Michael L. Nelson, Michele C. Weigle, Martin Klein, and Herbert Van de Sompel, "**Collecting 16K archived web pages from 17 public web archives**," Technical report arXiv:1905.03836, May 2019.
 
 [](#aturban-arxiv19Bib)
 **Bibtex entry:**
@@ -373,7 +373,7 @@ Mohamed Aturban, Michael L. Nelson, Michele C. Weigle, Martin Klein, and Herbert
       NUMBER = {arXiv:1905.03836},
       YEAR = {2019},
       MONTH = {May},
-      URL = {https://arxiv.org/abs/1905.03836},
+      ARXIV = {https://arxiv.org/abs/1905.03836},
       PUBDATE = {201905},
 }
 ```
@@ -773,7 +773,7 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Scraping SERPs for
 ```
 # [aturban-arxiv17](#aturban-arxiv17)
 
-Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Difficulties of Timestamping Archived Web Pages**," Technical report arXiv:1712.03140, arXiv, December 2017. ([URL](https://arxiv.org/abs/1712.03140))
+Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Difficulties of Timestamping Archived Web Pages**," Technical report arXiv:1712.03140, arXiv, December 2017.
 
 [](#aturban-arxiv17Bib)
 **Bibtex entry:**
@@ -786,13 +786,13 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Difficulties of Ti
       INSTITUTION = {arXiv},
       YEAR = {2017},
       MONTH = {December},
-      URL = {https://arxiv.org/abs/1712.03140},
+      ARXIV = {https://arxiv.org/abs/1712.03140},
       PUBDATE = {201712},
 }
 ```
 # [mccoy-arxiv17](#mccoy-arxiv17)
 
-Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "**University Twitter Engagement: Using Twitter Followers to Rank Universities**," Technical report arXiv:1708.05790, arXiv, August 2017. ([URL](https://arxiv.org/abs/1708.05790))
+Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "**University Twitter Engagement: Using Twitter Followers to Rank Universities**," Technical report arXiv:1708.05790, arXiv, August 2017.
 
 [](#mccoy-arxiv17Bib)
 **Bibtex entry:**
@@ -805,13 +805,13 @@ Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "**University Twitter
       INSTITUTION = {arXiv},
       YEAR = {2017},
       MONTH = {August},
-      URL = {https://arxiv.org/abs/1708.05790},
+      ARXIV = {https://arxiv.org/abs/1708.05790},
       PUBDATE = {201708},
 }
 ```
 # [alnoamany-arxiv17](#alnoamany-arxiv17)
 
-Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Stories From the Past Web**," Technical report arXiv:1705.06218, arXiv, May 2017. ([URL](http://arxiv.org/abs/1705.06218))
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Stories From the Past Web**," Technical report arXiv:1705.06218, arXiv, May 2017.
 
 [](#alnoamany-arxiv17Bib)
 **Bibtex entry:**
@@ -824,13 +824,13 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Stories From the 
       NUMBER = {arXiv:1705.06218},
       YEAR = {2017},
       MONTH = {May},
-      URL = {http://arxiv.org/abs/1705.06218},
+      ARXIV = {http://arxiv.org/abs/1705.06218},
       PUBDATE = {201705},
 }
 ```
 # [kelly-arxiv17](#kelly-arxiv17)
 
-Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "**Impact of URI Canonicalization on Memento Count**," Technical report arxiv:1601.05142, arXiv, March 2017. ([URL](http://arxiv.org/abs/1703.03302))
+Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "**Impact of URI Canonicalization on Memento Count**," Technical report arxiv:1601.05142, arXiv, March 2017.
 
 [](#kelly-arxiv17Bib)
 **Bibtex entry:**
@@ -843,7 +843,7 @@ Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert V
       NUMBER = {arxiv:1601.05142},
       YEAR = {2017},
       MONTH = {March},
-      URL = {http://arxiv.org/abs/1703.03302},
+      ARXIV = {http://arxiv.org/abs/1703.03302},
       PUBDATE = {201703},
 }
 ```
@@ -1142,7 +1142,7 @@ Justin Brunelle, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "**The Imp
 ```
 # [brunelle-arxiv16](#brunelle-arxiv16)
 
-Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Adapting the Hypercube Model to Archive Deferred Representations and Their Descendants**," Technical report arxiv:1601.05142, arXiv, January 2016. ([URL](http://arxiv.org/abs/1601.05142))
+Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Adapting the Hypercube Model to Archive Deferred Representations and Their Descendants**," Technical report arxiv:1601.05142, arXiv, January 2016.
 
 [](#brunelle-arxiv16Bib)
 **Bibtex entry:**
@@ -1155,7 +1155,7 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Adapting the Hy
       NUMBER = {arxiv:1601.05142},
       YEAR = {2016},
       MONTH = {January},
-      URL = {http://arxiv.org/abs/1601.05142},
+      ARXIV = {http://arxiv.org/abs/1601.05142},
       PUBDATE = {201601},
 }
 ```
@@ -1223,7 +1223,7 @@ Michele C. Weigle, "**Tools for Managing Seed URIs**," Talk given at the Columbi
 ```
 # [brunelle-ipres15](#brunelle-ipres15)
 
-Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Archiving Deferred Representations Using a Two-Tiered Crawling Approach**," In *Proceedings of the International Conference on Digital Preservation (iPRES)*. Chapel Hill, NC, November 2015. ([URL](http://arxiv.org/abs/1508.02315))
+Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Archiving Deferred Representations Using a Two-Tiered Crawling Approach**," In *Proceedings of the International Conference on Digital Preservation (iPRES)*. Chapel Hill, NC, November 2015.
 
 [](#brunelle-ipres15Bib)
 **Bibtex entry:**
@@ -1237,7 +1237,7 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Archiving Defer
       ADDRESS = {Chapel Hill, NC},
       MONTH = {November},
       PUBDATE = {201511},
-      URL = {http://arxiv.org/abs/1508.02315},
+      ARXIV = {http://arxiv.org/abs/1508.02315},
 }
 ```
 # [aturban-tpdl15](#aturban-tpdl15)
@@ -1343,7 +1343,7 @@ Wesley Jordan, Mat Kelly, Justin F. Brunelle, Laura Vobrak, Michele C. Weigle, a
 ```
 # [brunelle-ijdl15b](#brunelle-ijdl15b)
 
-Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, "**Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources**," *International Journal of Digital Libraries (IJDL)*, Vol. 16, No. 3-4, September 2015, pp. 283-–301. &nbsp;<a href='http://dx.doi.org/10.1007/s00799-015-0150-6' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, "**Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources**," *International Journal of Digital Libraries (IJDL)*, Vol. 16, No. 3-4, September 2015, pp. 283-301. &nbsp;<a href='http://dx.doi.org/10.1007/s00799-015-0150-6' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#brunelle-ijdl15bBib)
 **Bibtex entry:**
@@ -1357,7 +1357,7 @@ Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. 
       YEAR = {2015},
       VOLUME = {16},
       NUMBER = {3-4},
-      PAGES = {283-–301},
+      PAGES = {283--301},
       PDF = {http://www.cs.odu.edu/~mweigle/papers/brunelle-ijdl15b.pdf},
       DOI = {10.1007/s00799-015-0150-6},
       PUBDATE = {201509},
@@ -1682,7 +1682,7 @@ Shahram Mohrehkesh, and Michele C. Weigle, "**RIH-MAC: Receiver-Initiated Harves
 ```
 # [olariu-MCCR14](#olariu-MCCR14)
 
-Stephan Olariu, Shahram Mohrehkesh, Xianping Wang, and Michele C. Weigle, "**On Aggregating Information in Actor Networks**," *SIGMOBILE Mobile Computing Communications Review*, Vol. 18, No. 1, January 2014, pp. 85-96. ([URL](http://doi.acm.org/10.1145/2581555.2581569)) &nbsp;<a href='http://dx.doi.org/10.1145/2581555.2581569' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Stephan Olariu, Shahram Mohrehkesh, Xianping Wang, and Michele C. Weigle, "**On Aggregating Information in Actor Networks**," *SIGMOBILE Mobile Computing Communications Review*, Vol. 18, No. 1, January 2014, pp. 85-96. &nbsp;<a href='http://dx.doi.org/10.1145/2581555.2581569' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#olariu-MCCR14Bib)
 **Bibtex entry:**
@@ -1700,7 +1700,6 @@ Stephan Olariu, Shahram Mohrehkesh, Xianping Wang, and Michele C. Weigle, "**On 
       PUBDATE = {201401 issn = 1559-1662},
       PAGES = {85--96},
       NUMPAGES = {12},
-      URL = {http://doi.acm.org/10.1145/2581555.2581569},
       PDF = {http://www.cs.odu.edu/~mweigle/papers/olariu-mccr14.pdf},
       DOI = {10.1145/2581555.2581569},
 }

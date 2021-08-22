@@ -390,7 +390,7 @@ class BibtexEntry {
             $ret = $ret . " (";
             $openparen = true;
           }
-	        $ret = $ret . "[" . $BibtexPdfLink . "](". $pdf . ")" . ", ";
+	        $ret = $ret . "[" . $BibtexPdfLink . "](". $pdf . ")";
 	      }
 	      $preprint = $this->get("PREPRINT");
 	      if ($preprint) {
@@ -398,8 +398,10 @@ class BibtexEntry {
           if (! $openparen) {
             $ret = $ret . " (";
             $openparen = true;
+          } else {
+            $ret = $ret . ", ";
           }
-          $ret = $ret . "[" . $BibtexPreprintLink . "](" . $preprint . ")" . ", ";
+          $ret = $ret . "[" . $BibtexPreprintLink . "](" . $preprint . ")";
         }
 	      $slides = $this->get("SLIDES");
 	      if ($slides) {
@@ -407,8 +409,10 @@ class BibtexEntry {
           if (! $openparen) {
             $ret = $ret . " (";
             $openparen = true;
+          } else {
+            $ret = $ret . ", ";
           }
-	        $ret = $ret . "[" . $BibtexSlidesLink . "](" . $slides . ")" . ", ";
+	        $ret = $ret . "[" . $BibtexSlidesLink . "](" . $slides . ")";
 	      }
 	      $poster = $this->get("POSTER");                                               
 	      if ($poster) {                                                                
@@ -416,8 +420,10 @@ class BibtexEntry {
           if (! $openparen) {
             $ret = $ret . " (";
             $openparen = true;
-          }              
-          $ret = $ret . "[" . $BibtexPosterLink . "](" . $poster . ")" . ", ";                                                                                	
+          } else {
+            $ret = $ret . ", ";
+          }  
+          $ret = $ret . "[" . $BibtexPosterLink . "](" . $poster . ")";                                                                                	
         }             
 	      $tripreport = $this->get("TRIPREPORT");
 	      if ($tripreport) {
@@ -425,8 +431,10 @@ class BibtexEntry {
           if (! $openparen) {
             $ret = $ret . " (";
             $openparen = true;
+          } else {
+            $ret = $ret . ", ";
           }
-	        $ret = $ret . "[" . $BibtexTripReportLink . "](" . $tripreport . ")" . ", ";
+	        $ret = $ret . "[" . $BibtexTripReportLink . "](" . $tripreport . ")";
 	      }
         if ($openparen) {
           $ret = $ret . ")";
