@@ -35,15 +35,13 @@ $BibtexArxivLink = "arXiv";  // added link to arXiv.org version -MCW 12/18/13
 $BibtexTripReportLink = "trip report"; // added link to trip report -MCW 5/28/14
 
 /* Markdown buttons/icons */
-$BibtexDoiIcon = "<i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i>";
 $BibtexLinkIcon = "<i class='fas fa-fw fa-link'></i>";
-$BibtexPDFIcon = "<i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i>";
+$BibtexDoiIcon = "<i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i>";
+$BibtexPdfIcon = "<i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i>";
 $BibtexTripIcon = "<i class='fab fa-blogger' style='color: {{ page.blogger-color }}'></i>";
-$BibtexButton = "class='btn btn--mcwpub'>";
-$BibtexSlideshare = "class='btn btn--mcwslideshare'>";
-$BibtexSlideshareButton = "<img src='../images/slideshare-16px-high.png'/>";
-$BibtexArxivButton = "<img src='../images/arxiv-logo-16px-high.png'/>";
-$BibtexBibtexButton = "<img src='../images/BibTeX_logo-16px-high.png'/>";
+$BibtexSlideshareButton = "class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/>";
+$BibtexArxivButton = "class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/>";
+$BibtexBibtexButton = "class='btn btn--mcwbibtex'><img src='../images/BibTeX_logo-16px-high.png'/>";
 
 $BibtexGenerateDefaultUrlField = false;
 
@@ -318,8 +316,8 @@ class BibtexEntry {
       // because you're never sure there is going to be something after the field inserted.
       // *****************************************
 
-      global $ScriptUrl, $BibtexUrlLink, $BibtexBibLink, $BibtexBibtexButton, $BibtexButton, 
-          $BibtexPreprintLink, $BibtexLinkIcon, $BibtexSlideshare, $BibtexPDFIcon, $pagename, $TitleLinkDOIURL;
+      global $ScriptUrl, $BibtexUrlLink, $BibtexBibLink, $BibtexBibtexButton,  
+          $BibtexPreprintLink, $BibtexLinkIcon, $BibtexSlideshare, $BibtexPdfIcon, $pagename, $TitleLinkDOIURL;
 
       $ret = ".";
 
@@ -376,29 +374,29 @@ class BibtexEntry {
 
         $preprint = $this->get("PREPRINT");
 	      if ($preprint) {
-	        global $BibtexPreprintUrl, $BibtexPDFIcon, $BibtexPreprintLink, $UploadUrlFmt;
-          $ret = $ret . " <a href='" . $preprint . "' target='_blank'>" . $BibtexPDFIcon . "</a>";
+	        global $BibtexPreprintUrl, $BibtexPdfIcon, $BibtexPreprintLink, $UploadUrlFmt;
+          $ret = $ret . " <a href='" . $preprint . "' target='_blank'>" . $BibtexPdfIcon . "</a>";
 //          $ret = $ret . "[" . $BibtexPreprintLink . "](" . $preprint . ")";
         }
 
         $pdf = $this->get("PDF");
 	      if ($pdf) {
-	        global $BibtexPdfUrl, $BibtexPdfLink, $BibtexPDFIcon, $UploadUrlFmt;
+	        global $BibtexPdfUrl, $BibtexPdfLink, $BibtexPdfIcon, $UploadUrlFmt;
 //	        $ret = $ret . "[" . $BibtexPdfLink . "](". $pdf . ")";
-          $ret = $ret . " <a href='" . $pdf . "' target='_blank'>" . $BibtexPDFIcon . "</a>";
+          $ret = $ret . " <a href='" . $pdf . "' target='_blank'>" . $BibtexPdfIcon . "</a>";
 	      }
 
         $arxiv = $this->get("ARXIV");
 	      if ($arxiv) {
-          global $BibtexArxivUrl, $BibtexArxivLink, $BibtexArxivButton, $BibtexButton, $UploadUrlFmt;
-          $ret = $ret . " &nbsp;<a href='" . $arxiv . "' target='_blank' " . $BibtexButton . $BibtexArxivButton . "</a>";
+          global $BibtexArxivUrl, $BibtexArxivLink, $BibtexArxivButton, $UploadUrlFmt;
+          $ret = $ret . " &nbsp;<a href='" . $arxiv . "' target='_blank' " . $BibtexArxivButton . "</a>";
 //	        $ret = $ret . "[" . $BibtexArxivLink . "](" . $arxiv . ")" . ", ";
         }
 
         $slides = $this->get("SLIDES");
 	      if ($slides) {
 	        global $BibtexSlidesUrl, $BibtexSlidesLink, $BibtexSlideshareButton, $UploadUrlFmt;
-          $ret = $ret . " <a href='" . $slides . "' target='_blank' " . $BibtexSlideshare . $BibtexSlideshareButton . "</a>";
+          $ret = $ret . " <a href='" . $slides . "' target='_blank' " . $BibtexSlideshareButton . "</a>";
 //	        $ret = $ret . "[" . $BibtexSlidesLink . "](" . $slides . ")";
 	      }
 
@@ -411,7 +409,7 @@ class BibtexEntry {
 
         if ($dobibtex) {
           // BibTeX button
-          $ret = $ret . " &nbsp;<a href='" . $this->getCompleteEntryUrl() . "' target='_blank' " . $BibtexButton . $BibtexBibtexButton . "</a>";
+          $ret = $ret . " &nbsp;<a href='" . $this->getCompleteEntryUrl() . "' target='_blank' " . $BibtexBibtexButton . "</a>";
 //	      $ret = $ret . "[" . $BibtexBibLink . "](" . $this->getCompleteEntryUrl() . "))";
         }
       }
