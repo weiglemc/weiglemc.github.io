@@ -45,7 +45,7 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 * Michele C. Weigle, Michael L. Nelson, Deborah Kempe (Frick Art Reference Library and New York Art Resources Consortium), Pamela Graham (Columbia University Libraries), and Alex Thurman (Columbia University Libraries), [Visualizing Webpage Changes Over Time](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-256368-17), NEH/IMLS Digital Humanities Advancement Grant HAA-256368-17, Oct 2017 – Mar 2020, $75,000 - [blog post](https://ws-dl.blogspot.com/2017/10/2017-10-16-visualizing-webpage-changes.html)
 * Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel (LANL), [Preservation of Scholarly Record on the Web](https://mellon.org/grants/grants-database/grants/old-dominion-university/11600663/), Andrew W. Mellon Foundation 11600663, Apr 2016 - Mar 2020, $830,000.
 
-*My full funding list is available in my [CV](https://www.cs.odu.edu/~mweigle/files/CV.pdf).*
+*My full funding list is available in my [CV](https://weiglemc.github.io/cv/).*
 
 ## Service
 
