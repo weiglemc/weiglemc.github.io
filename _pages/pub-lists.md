@@ -10,7 +10,7 @@ My Lists: [Sorted by Year](/publications/pubsbyyear), [Sorted by Type](/publicat
 External Lists:
 * [Google Scholar](http://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en)
 * [Microsoft Academic](https://preview.academic.microsoft.com/#/detail/777668543)
-* [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weigle:Michele_C=.html)
+* [DBLP](https://dblp.org/pid/38/1669.html)
 * [ACM Digital Library](http://portal.acm.org/author_page.cfm?id=81336493716&coll=portal&dl=ACM&trk=0&CFID=96247224&CFTOKEN=68286160)
 * [ORCID](http://orcid.org/0000-0002-2787-7166) - 0000-0002-2787-7166
 * [Scopus](http://www.scopus.com/authid/detail.url?authorId=17436247000)
