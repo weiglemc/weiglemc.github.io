@@ -3,21 +3,6 @@ permalink: /schedule/
 title: "Schedule/Travel"
 ---
 
-## Summer 2021 Schedule
-
-Monday
-
-* 3-5pm - Student Research Meetings
-
-Wednesday
-
-* 3-4pm - Research Planning Meeting
-* 4-5pm - Student Research Meeting
-
-Friday
-
-* 1-4pm Student Research Meetings
-
 ## Fall 2021 Schedule
 
 *tentative schedule - student research meetings not yet finalized*
@@ -43,7 +28,7 @@ Thursday
 
 Friday
 
-* 1-4pm Student Research Meetings
+* 2-5pm Student Research Meetings
 
 Note: *Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
 
