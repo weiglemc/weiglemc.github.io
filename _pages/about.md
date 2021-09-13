@@ -55,6 +55,7 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 * Faculty Advisor, ACM-W @ ODU
 * Faculty Representative, [NCWIT Academic Alliance](https://www.ncwit.org/alliances/aa)
 * ODU-CS Graduate Program Director, 2013-2019
+* Doctoral Consortium Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2022
 * Program Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2016
 
 ## Bio
