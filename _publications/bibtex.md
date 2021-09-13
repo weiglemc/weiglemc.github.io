@@ -125,7 +125,7 @@ Shawn M. Jones, Valentina Neblitt-Jones, Michele C. Weigle, Martin Klein, and Mi
 ```
 # [garg-jcdl21](#garg-jcdl21)
 
-Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Replaying Archived Twitter: When your bird is broken, will it bring you down?**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021.
+Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Replaying Archived Twitter: When your bird is broken, will it bring you down?**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021. &nbsp;<a href='https://arxiv.org/abs/2108.12092' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#garg-jcdl21Bib)
 **Bibtex entry:**
@@ -138,6 +138,7 @@ Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael
       YEAR = {2021},
       MONTH = {sep},
       PUBDATE = {202109},
+      ARXIV = {https://arxiv.org/abs/2108.12092},
       ACCEPTANCE = {22/76 (29%)},
 }
 ```
