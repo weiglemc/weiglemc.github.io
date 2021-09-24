@@ -144,7 +144,7 @@ Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael
 ```
 # [aturban-tpdl21](#aturban-tpdl21)
 
-Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Where Did the Web Archive Go?**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2021. &nbsp;<a href='https://arxiv.org/abs/2108.05939' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Where Did the Web Archive Go?**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2021. ***Best Research Paper Award***.  &nbsp;<a href='https://arxiv.org/abs/2108.05939' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#aturban-tpdl21Bib)
 **Bibtex entry:**
@@ -157,6 +157,8 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Where Did the Web 
       YEAR = {2021},
       MONTH = {sep},
       ARXIV = {https://arxiv.org/abs/2108.05939},
+      KEYWORD = {award},
+      AWARD = {Best Research Paper},
       PUBDATE = {202109},
 }
 ```
