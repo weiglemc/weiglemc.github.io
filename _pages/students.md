@@ -32,14 +32,7 @@ acrobat-color: "#f70e0c"
 
 ### PhD Committee Member
 
-* Shawn Jones
-<a href="https://www.shawnmjones.org" target="_blank"><i class="fas fa-fw fa-link"></i></a>
-<a href="https://twitter.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
-<a href="https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-<a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
-<a href="https://github.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
-<a href="https://www.linkedin.com/in/shawnmorganjones/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-ABD (advisor: Michael L. Nelson)
+* Kimberley Cossey, Higher Education (advisor: David Ayers)
 * Kritika Garg 
 <a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=pXQRYsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -141,6 +134,14 @@ ABD (advisor: Michael L. Nelson)
 ### PhD Committee Member
 
 * Ryan Florin, August 2021 (advisor: Stephan Olariu)
+* Shawn Jones
+<a href="https://www.shawnmjones.org" target="_blank"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://twitter.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
+<a href="https://github.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://www.linkedin.com/in/shawnmorganjones/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
+August 2021 (advisor: Michael L. Nelson)
 * Sawood Alam, December 2020 (advisor: Michael L. Nelson)
 * Aida Ghazizadeh, August 2020 (advisor: Stephan Olariu)
 * Alexander Nwala, August 2020 (advisor: Michael L. Nelson)
