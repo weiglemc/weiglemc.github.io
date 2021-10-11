@@ -33,6 +33,9 @@ acrobat-color: "#f70e0c"
 ### PhD Committee Member
 
 * Kimberley Cossey, Higher Education (advisor: David Ayers)
+* Emily Escamilla 
+<a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+(advisor: Michael L. Nelson) 
 * Kritika Garg 
 <a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=pXQRYsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -49,13 +52,7 @@ acrobat-color: "#f70e0c"
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 
-### MS Thesis Committee Member
-
-* Nauman Siddique 
-<a href="https://twitter.com/m_nsiddique" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
-<a href="https://github.com/naumansiddiqui4" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
-<a href="https://www.linkedin.com/in/mohammed-nauman-siddique-5a109783/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-(advisor: Michael L. Nelson)
+<!-- ### MS Thesis Committee Member -->
 
 ## Former Students
 
