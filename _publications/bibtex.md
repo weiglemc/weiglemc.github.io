@@ -9,7 +9,7 @@ blogger-color: '#F37100'
 ---
 # [jones-sigweb21](#jones-sigweb21)
 
-Jones, Shawn M., Weigle, Michele C., and Nelson, Michael L., "**Hypercane: Toolkit for Summarizing Large Collections of Archived Webpages**," *SIGWEB Newsl.*, No. Summer, October 2021. <a href='https://doi.org/10.1145/3473044.3473047' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='http://dx.doi.org/10.1145/3473044.3473047' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Jones, Shawn M., Weigle, Michele C., and Nelson, Michael L., "**Hypercane: Toolkit for Summarizing Large Collections of Archived Webpages**," *ACM SIGWEB Newsletter*, No. Summer, October 2021. <a href='http://dx.doi.org/10.1145/3473044.3473047' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#jones-sigweb21Bib)
 **Bibtex entry:**
@@ -22,9 +22,8 @@ Jones, Shawn M., Weigle, Michele C., and Nelson, Michael L., "**Hypercane: Toolk
       ISSUE_DATE = {Summer 2021},
       NUMBER = {Summer},
       ISSN = {1931-1745},
-      URL = {https://doi.org/10.1145/3473044.3473047},
       DOI = {10.1145/3473044.3473047},
-      JOURNAL = {SIGWEB Newsl.},
+      JOURNAL = {ACM SIGWEB Newsletter},
       MONTH = {oct},
       ARTICLENO = {3},
       NUMPAGES = {14},
