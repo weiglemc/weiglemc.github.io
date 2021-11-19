@@ -39,7 +39,7 @@ During Fall 2021, I will not be on campus MWF. The link to my Zoom office hours 
 
 2022
 
-* July: Frankfurt, Germany  - [Ernst Stungmann Forum on Digital Ethology](https://www.esforum.de/forums/esf32_Digital_Ethology.html) - *new date due to COVID-19*
+* July 24-29: Frankfurt, Germany  - [Ernst Stungmann Forum on Digital Ethology](https://www.esforum.de/forums/ESF34_Digital_Ethology.html)
 
 2021 - *no travel due to COVID-19*
 
