@@ -41,7 +41,7 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 
 ## Recent Funding
 
-* Vicky Rampin (NYU), Martin Klein (LANL), wilkie (Univ. of Pittsburgh), Michael L. Nelson, Michele C. Weigle, [Embedding Preservability in New Forms of Scholarship](https://sloan.org/grant-detail/9628), Alfred P. Sloan Foundation, Sep 2021 - Sep 2023, $520,503.
+* Vicky Rampin (NYU), Martin Klein (LANL), wilkie (Univ. of Pittsburgh), Michael L. Nelson, Michele C. Weigle, [CoSAI - Collaborative Software Archiving for Institutions](https://sloan.org/grant-detail/9628), Alfred P. Sloan Foundation, Sep 2021 - Sep 2023, $520,503.
 * Michael L. Nelson, Michele C. Weigle, Sue Kimmel, Jessica Ritchie, and Hongyi Wu, [A Graduate Certificate in Web Archiving](https://www.imls.gov/grants/awarded/re-250048-ols-21), IMLS Laura Bush 21st Century Librarian Program, RE-250048-OLS-21, Aug 2021 - Jul 2022, $98,361.
 * Michael L. Nelson (PI), [Improving the Dark and Stormy Archives Framework by Summarizing the Collections of the National Library of Australia](https://netpreserve.org/projects/dark-and-stormy-archives/), IIPC Discretionary Funding Program, Jan 2021 - Jan 2022, $50,000
 * Michele C. Weigle, Michael L. Nelson, Deborah Kempe (Frick Art Reference Library and New York Art Resources Consortium), Pamela Graham (Columbia University Libraries), and Alex Thurman (Columbia University Libraries), [Visualizing Webpage Changes Over Time](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-256368-17), NEH/IMLS Digital Humanities Advancement Grant HAA-256368-17, Oct 2017 – Mar 2020, $75,000 - [blog post](https://ws-dl.blogspot.com/2017/10/2017-10-16-visualizing-webpage-changes.html)
