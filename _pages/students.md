@@ -59,9 +59,9 @@ acrobat-color: "#f70e0c"
 ### PhD
 
 1. Mohamed Aturban
-<a href="https://www.ccis.edu/departments/ciss/faculty/mohamedaturban.aspx" target="_blank"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://mohamedaturban.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/maturban1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
-<a href="https://scholar.google.com/citations?hl=en&user=XdGvjXEAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://scholar.google.com/citations?user=uFe4KTUAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/mohamed-aturban-a0777433/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[A Framework for Verifying the Fixity of Archived Web Resources](https://digitalcommons.odu.edu/computerscience_etds/125/)," PhD thesis, *Old Dominion University*, August 2020. 
    * First Job: Assistant Professor, Columbia College
