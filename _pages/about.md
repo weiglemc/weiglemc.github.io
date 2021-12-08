@@ -41,6 +41,8 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 
 ## Recent Funding
 
+* Michael L. Nelson, Michele C. Weigle, Jian Wu, "Web Science and Web Security", [COVA CCI Curriculum Development](https://covacci.org/curriculum-development/), Jan 2022 - Aug 2022, $10,000
+* Michael L. Nelson, Michele C. Weigle, "Game Walkthroughs and Web Archiving", IIPC Discretionary Funding Program, Jan 2022 - Dec 2022, $10,000.
 * Vicky Rampin (NYU), Martin Klein (LANL), wilkie (Univ. of Pittsburgh), Michael L. Nelson, Michele C. Weigle, [CoSAI - Collaborative Software Archiving for Institutions](https://sloan.org/grant-detail/9628), Alfred P. Sloan Foundation, Sep 2021 - Sep 2023, $520,503.
 * Michael L. Nelson, Michele C. Weigle, Sue Kimmel, Jessica Ritchie, and Hongyi Wu, [A Graduate Certificate in Web Archiving](https://www.imls.gov/grants/awarded/re-250048-ols-21), IMLS Laura Bush 21st Century Librarian Program, RE-250048-OLS-21, Aug 2021 - Jul 2022, $98,361.
 * Michael L. Nelson (PI), [Improving the Dark and Stormy Archives Framework by Summarizing the Collections of the National Library of Australia](https://netpreserve.org/projects/dark-and-stormy-archives/), IIPC Discretionary Funding Program, Jan 2021 - Jan 2022, $50,000
