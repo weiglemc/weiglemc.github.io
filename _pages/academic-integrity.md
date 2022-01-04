@@ -82,4 +82,4 @@ You are strongly encouraged to read through the following resources to get a bet
 * [12 types of plagiarism](https://www.myperfectwords.com/blog/general/types-of-plagiarism)
 * [“What is Plagiarism?”](http://www.plagiarism.org/article/what-is-plagiarism), from plagiarism.org
 * [“Preventing Plagiarism When Writing”](http://www.plagiarism.org/article/preventing-plagiarism-when-writing), from plagiarism.org
-* examples of plagiarism and tips on avoiding it – https://writing.wisc.edu/Handbook/QPA_paraphrase.html, from the University of Wisconsin
+* examples of plagiarism and tips on avoiding it – <https://writing.wisc.edu/Handbook/QPA_paraphrase.html>, from the University of Wisconsin
