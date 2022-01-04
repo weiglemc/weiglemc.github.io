@@ -18,10 +18,10 @@ I am a Professor of Computer Science at Old Dominion University, where I've been
 
 For an overview of what I've been working on the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018.
 
-## Teaching (Fall 2021)
+## Teaching (Spring 2022)
 
-1. [CS 432/532 - Web Science](/teaching/2021-fall-cs432532) / online, asynchronous
-1. [CS 625 - Data Visualization](/teaching/2021-fall-cs625) / TR 9:30-10:45am, ECSB 2120 and online via Zoom
+1. [CS 725/825 - Information Visualization & Data Analytics](/teaching/2022-spr-cs725825) / Tu 4:20-7pm, MGB 0127 and online via Zoom
+1. [CS 800 - Research Methods](/teaching/2022-spr-cs800) / TR 11am-12:15pm, GORNT 0205 and online via Zoom
 
 ## Research
 
