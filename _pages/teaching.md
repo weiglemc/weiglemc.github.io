@@ -7,6 +7,8 @@ current_semester: "Spring 2022"
 ---
 {% include base_path %}
 
+I taught hybrid classes for several years before COVID, so in May 2020 I wrote a blog post on my experiences, ["Teaching a Flipped Hybrid (In-Class/Online) Course"](https://ws-dl.blogspot.com/2020/05/2020-05-06-teaching-flipped-hybrid-in.html). 
+
 ## {{ page.current_semester }}
 
 {% for post in site.teaching %}
