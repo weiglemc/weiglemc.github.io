@@ -5,33 +5,31 @@ title: "Schedule/Travel"
 
 ## Spring 2022 Schedule
 
-*student research meetings tentative*
-
 Monday
 
 * 11am-12pm - PhD Student Research Meeting
-* 3-5pm - PhD Student Research Meetings
 
 Tuesday
 
-* 11-12:15pm - [CS 800](https://weiglemc.github.io/teaching/2022-spr-cs800), MGB 0127
+* 11-12:15pm - [CS 800](https://weiglemc.github.io/teaching/2022-spr-cs800), GORNT 0205
 * 2-3:30pm - Office Hours (in-person and via Zoom)
-* 3:30-4:30pm - PhD Student Research Meeting
-* 4:20-7pm - [CS 725/825](https://weiglemc.github.io/teaching/2022-spr-cs725825), GORNT 0205
+* 4:20-7pm - [CS 725/825](https://weiglemc.github.io/teaching/2022-spr-cs725825), MGB 0127
 
 Wednesday
 
+* 2-3pm - Faculty Research Planning Meeting
 * 3-4pm - PhD Student Research Meeting
-* 4-5pm - Faculty Research Planning Meeting
 * 5-6:30pm - Office Hours (via Zoom only)
 
 Thursday
 
-* 11-12:15pm - [CS 800](https://weiglemc.github.io/teaching/2022-spr-cs800), MGB 0127
+* 9:30-10:30am - PhD Student Research Meeting
+* 11-12:15pm - [CS 800](https://weiglemc.github.io/teaching/2022-spr-cs800), GORNT 0205
+* 3-5pm - PhD Student Research Meetings
 
 Friday
 
-* 3-5pm - PhD Student Research Meetings
+* 2-5pm - PhD Student Research Meetings
 
 Note: *Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
 
