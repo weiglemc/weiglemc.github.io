@@ -2,7 +2,7 @@
 permalink: /schedule/
 title: "Schedule/Travel"
 ---
-
+ 
 ## Spring 2022 Schedule
 
 Monday
