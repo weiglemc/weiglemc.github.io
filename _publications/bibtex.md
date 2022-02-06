@@ -308,7 +308,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**Making Recommendatio
       arxiv = {https://arxiv.org/abs/1908.02819},
       doi = {10.1145/3383583.3398533},
       pages = {87-–96},
-      acceptance = {106 long paper submissions and accepted 33 (31.1%)}
+      acceptance = {106 long paper submissions and accepted 33 (31.1\%)}
 }
 ```
 # [wu-jcdl20](#wu-jcdl20)
@@ -328,7 +328,7 @@ Jian Wu, Md Reshad Ul Hoque, Gunnar W. Reiske, Michele C. Weigle, Brenda T. Brad
       pubdate = {202008},
       pages = {397-–400},
       doi = {10.1145/3383583.3398602},
-      acceptance = {90 short paper submissions and accepted 28 (31.1%)}
+      acceptance = {90 short paper submissions and accepted 28 (31.1\%)}
 }
 ```
 # [nwala-cj20](#nwala-cj20)
