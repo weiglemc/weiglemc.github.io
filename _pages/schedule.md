@@ -19,7 +19,7 @@ Wednesday
 
 * 2-3pm - Faculty Research Planning Meeting
 * 3-4pm - PhD Student Research Meeting
-* 4:30-5:30pm - PhD Student Research Meeting (every other week)
+* 4:30-5:30pm - PhD Student Research Meeting (every other week, starting Feb 2)
 * 5:30-6:30pm - Office Hours (via Zoom only)
 
 Thursday
