@@ -21,6 +21,7 @@ See the COPYING file for more details. */
 /*
  * Based on BibtexRef plugin for PmWiki, https://www.pmwiki.org/wiki/Cookbook/BibtexRef
  * Modified to generate Markdown - Michele Weigle, July 2021 
+ * Modified to keep {} in output of raw BibTeX - Michele Weigle, February 2022
 */
 
 $BibtexPdfLink = "PDF";    // removed parens -MCW
@@ -424,11 +425,19 @@ class BibtexEntry {
 
     function getBibEntry()
     {
+      global $OrigBibEntries;
       global $BibtexSilentFields, $BibtexGenerateDefaultUrlField;
-      $INDENT = "      ";
+      $INDENT = "    ";
 
-      $ret = "```bibtex\n@" . $this->entrytype . " {" . $this->entryname . ",\n";
+      $ret = "```bibtex\n@" . $this->entrytype . " {" . $this->entryname . ",\n$INDENT";
 
+      // MCW 2022-02-06 - for every *, replace with , then newline and indent
+      $one_bib_entry = $OrigBibEntries[$this->entryname];
+      $commas_bib_entry = preg_replace("/\*/", ",\n$INDENT", $one_bib_entry);
+      $ret = $ret . $commas_bib_entry;
+      $ret = $ret . "\n}\n```\n";
+
+      /*
       //while (list($key, $value)=each($this->values))  // each deprecated  MCW, Jul 4, 2021
       foreach ($this->values as $key => $value)
       {
@@ -439,6 +448,7 @@ class BibtexEntry {
       if ($BibtexGenerateDefaultUrlField && ($this->get("URL") == false)) 
         $ret = $ret . $INDENT . "URL = {" . $this->getCompleteEntryUrl() . "},\n";
       $ret = $ret . "}\n```\n";
+    */
 
       return $ret;
     }
@@ -1226,13 +1236,18 @@ function BibSummary($bib, $ref, $dobibtex='true')
 function ParseEntries($fname, $entries)
 {
    global $BibEntries;
+
+     // MCW 2022-02-06
+  global $OrigBibEntries;
+  $OrigBibEntries = [];
+
    $nb_entries = count($entries[0]);
 
    $bibfileentry = array();
    for ($i = 0 ; $i < $nb_entries ; ++$i)
    {
-      $entrytype = strtoupper($entries[1][$i]);
-      
+      $entrytype = strtoupper($entries[1][$i]); 
+
       $entryname = $entries[2][$i];
 
       //if ($i < 5)
@@ -1249,6 +1264,9 @@ function ParseEntries($fname, $entries)
       else if ($entrytype == "PROCEEDINGS") $entry = new Proceedings($fname, $entryname);
       else if ($entrytype == "MISC") $entry = new Misc($fname, $entryname);
       else $entry = new Misc($fname, $entryname);
+
+      // MCW 2022-02-06 - save original BibTeX text
+     $OrigBibEntries[$entryname] = $entries[3][$i];
 
       // match all keys
 //      preg_match_all("/(\w+)\s*=\s*([^�]+)�?/", $entries[3][$i], $all_keys);

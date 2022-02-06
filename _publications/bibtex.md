@@ -16,18 +16,18 @@ Jones, Shawn M., Weigle, Michele C., and Nelson, Michael L., "**Hypercane: Toolk
 
 ```bibtex
 @ARTICLE {jones-sigweb21,
-      AUTHOR = {Jones, Shawn M. and Weigle, Michele C. and Nelson, Michael L.},
-      TITLE = {Hypercane: Toolkit for Summarizing Large Collections of Archived Webpages},
-      YEAR = {2021},
-      ISSUE_DATE = {Summer 2021},
-      NUMBER = {Summer},
-      ISSN = {1931-1745},
-      DOI = {10.1145/3473044.3473047},
-      JOURNAL = {ACM SIGWEB Newsletter},
-      MONTH = {oct},
-      ARTICLENO = {3},
-      NUMPAGES = {14},
-      PUBDATE = {202110},
+      author = {Jones, Shawn M. and Weigle, Michele C. and Nelson, Michael L.},
+      title = {Hypercane: Toolkit for Summarizing Large Collections of Archived Webpages},
+      year = {2021},
+      issue_date = {Summer 2021},
+      number = {Summer},
+      issn = {1931-1745},
+      doi = {10.1145/3473044.3473047},
+      journal = {ACM SIGWEB Newsletter},
+      month = oct,
+      articleno = {3},
+      numpages = {14},
+      pubdate = {202110}
 }
 ```
 # [patel-jcdl21](#patel-jcdl21)
@@ -39,17 +39,17 @@ Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "**Wh
 
 ```bibtex
 @INPROCEEDINGS {patel-jcdl21,
-      AUTHOR = {Dhruv Patel and Alexander C. Nwala and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {What Did It Look Like: A service for creating website timelapses using the Memento framework},
-      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2021},
-      MONTH = {sep},
-      PUBDATE = {202109},
-      ARXIV = {https://arxiv.org/abs/2104.14041},
-      NOTE = {poster},
-      PAGES = {340--341},
-      DOI = {10.1109/JCDL52503.2021.00061},
-      ACCEPTANCE = {poster 79%)},
+      author = {Dhruv Patel and Alexander C. Nwala and Michele C. Weigle and Michael L. Nelson},
+      title = {{What Did It Look Like}: A service for creating website timelapses using the {Memento} framework},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2021,
+      month = sep,
+      pubdate = {202109},
+      arxiv = {https://arxiv.org/abs/2104.14041},
+      note = {poster},
+      pages = {340--341},
+      doi = {10.1109/JCDL52503.2021.00061},
+      acceptance = {poster 79\%)}
 }
 ```
 # [jones-jcdl21b](#jones-jcdl21b)
@@ -61,16 +61,16 @@ Shawn Jones, Michele C. Weigle, and Michael L. Nelson, "**Hypercane: Intelligent
 
 ```bibtex
 @INPROCEEDINGS {jones-jcdl21b,
-      AUTHOR = {Shawn Jones and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Hypercane: Intelligent Sampling for Web Archive Collections},
-      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2021},
-      MONTH = {sep},
-      PUBDATE = {202109},
-      NOTE = {poster},
-      PAGES = {316--317},
-      DOI = {10.1109/JCDL52503.2021.00049},
-      ACCEPTANCE = {poster 79%)},
+      author = {Shawn Jones and Michele C. Weigle and Michael L. Nelson},
+      title = {Hypercane: Intelligent Sampling for Web Archive Collections},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2021,
+      month = sep,
+      pubdate = {202109},
+      note = {poster},
+      pages = {316--317},
+      doi = {10.1109/JCDL52503.2021.00049},
+      acceptance = {poster 79\%)}
 }
 ```
 # [mabe-jcdl21](#mabe-jcdl21)
@@ -82,17 +82,17 @@ Abigail Mabe, Michael L. Nelson, and Michele C. Weigle, "**Extending Chromium: M
 
 ```bibtex
 @INPROCEEDINGS {mabe-jcdl21,
-      AUTHOR = {Abigail Mabe and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Extending Chromium: Memento-aware Browser},
-      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2021},
-      MONTH = {sep},
-      PUBDATE = {202109},
-      ARXIV = {https://arxiv.org/abs/2104.13361},
-      NOTE = {poster},
-      PAGES = {310--311},
-      DOI = {10.1109/JCDL52503.2021.00046},
-      ACCEPTANCE = {poster 79%)},
+      author = {Abigail Mabe and Michael L. Nelson and Michele C. Weigle},
+      title = {Extending {Chromium}: Memento-aware Browser},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2021,
+      month = sep,
+      pubdate = {202109},
+      arxiv = {https://arxiv.org/abs/2104.13361},
+      note = {poster},
+      pages = {310--311},
+      doi = {10.1109/JCDL52503.2021.00046},
+      acceptance = {poster 79\%)}
 }
 ```
 # [alam-jcdl21](#alam-jcdl21)
@@ -104,16 +104,16 @@ Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Profiling Web Archival
 
 ```bibtex
 @INPROCEEDINGS {alam-jcdl21,
-      AUTHOR = {Sawood Alam and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Profiling Web Archival Voids for Memento Routing},
-      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2021},
-      MONTH = {sep},
-      PUBDATE = {202109},
-      ARXIV = {https://arxiv.org/abs/2108.03311},
-      PAGES = {150--159},
-      DOI = {10.1109/JCDL52503.2021.00027},
-      ACCEPTANCE = {22/76 (29%)},
+      author = {Sawood Alam and Michele C. Weigle and Michael L. Nelson},
+      title = {Profiling Web Archival Voids for Memento Routing},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2021,
+      month = sep,
+      pubdate = {202109},
+      arxiv = {https://arxiv.org/abs/2108.03311},
+      pages = {150--159},
+      doi = {10.1109/JCDL52503.2021.00027},
+      acceptance = {22/76 (29\%)}
 }
 ```
 # [nwala-jcdl21](#nwala-jcdl21)
@@ -125,16 +125,16 @@ Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "**Garbage, Glitte
 
 ```bibtex
 @INPROCEEDINGS {nwala-jcdl21,
-      AUTHOR = {Alexander C. Nwala and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Garbage, Glitter, or Gold: Assigning Multi-dimensional Quality Scores to Social Media Seeds for Web Archive Collections},
-      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2021},
-      MONTH = {sep},
-      PUBDATE = {202109},
-      ARXIV = {https://arxiv.org/abs/2107.02680},
-      PAGES = {80--89},
-      DOI = {10.1109/JCDL52503.2021.00020},
-      ACCEPTANCE = {22/76 (29%)},
+      author = {Alexander C. Nwala and Michele C. Weigle and Michael L. Nelson},
+      title = {Garbage, Glitter, or Gold: Assigning Multi-dimensional Quality Scores to Social Media Seeds for Web Archive Collections},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2021,
+      month = sep,
+      pubdate = {202109},
+      arxiv = {https://arxiv.org/abs/2107.02680},
+      pages = {80--89},
+      doi = {10.1109/JCDL52503.2021.00020},
+      acceptance = {22/76 (29\%)}
 }
 ```
 # [jones-jcdl21a](#jones-jcdl21a)
@@ -146,16 +146,16 @@ Shawn M. Jones, Valentina Neblitt-Jones, Michele C. Weigle, Martin Klein, and Mi
 
 ```bibtex
 @INPROCEEDINGS {jones-jcdl21a,
-      AUTHOR = {Shawn M. Jones and Valentina Neblitt-Jones and Michele C. Weigle and Martin Klein and Michael L. Nelson},
-      TITLE = {It's All About The Cards: Sharing on Social Media Probably Encouraged HTML Metadata Growth},
-      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2021},
-      MONTH = {sep},
-      ARXIV = {https://arxiv.org/abs/2104.04116},
-      PUBDATE = {202109},
-      PAGES = {110--119},
-      DOI = {10.1109/JCDL52503.2021.00023},
-      ACCEPTANCE = {22/76 (29%)},
+      author = {Shawn M. Jones and Valentina Neblitt-Jones and Michele C. Weigle and Martin Klein and Michael L. Nelson},
+      title = {It's All About The Cards: Sharing on Social Media Probably Encouraged {HTML} Metadata Growth},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year = {2021},
+      month = sep,
+      arxiv = {https://arxiv.org/abs/2104.04116},
+      pubdate = {202109},
+      pages = {110--119},
+      doi = {10.1109/JCDL52503.2021.00023},
+      acceptance = {22/76 (29\%)}
 }
 ```
 # [garg-jcdl21](#garg-jcdl21)
@@ -167,16 +167,16 @@ Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael
 
 ```bibtex
 @INPROCEEDINGS {garg-jcdl21,
-      AUTHOR = {Kritika Garg and Himarsha R. Jayanetti and Sawood Alam and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Replaying Archived Twitter: When your bird is broken, will it bring you down?},
-      BOOKTITLE = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2021},
-      MONTH = {sep},
-      PUBDATE = {202109},
-      ARXIV = {https://arxiv.org/abs/2108.12092},
-      PAGES = {160--169},
-      DOI = {10.1109/JCDL52503.2021.00028},
-      ACCEPTANCE = {22/76 (29%)},
+      author = {Kritika Garg and Himarsha R. Jayanetti and Sawood Alam and Michele C. Weigle and Michael L. Nelson},
+      title = {Replaying Archived {Twitter}: When your bird is broken, will it bring you down?},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year = {2021},
+      month = sep,
+      pubdate = {202109},
+      arxiv = {https://arxiv.org/abs/2108.12092},
+      pages = {160--169},
+      doi = {10.1109/JCDL52503.2021.00028},
+      acceptance = {22/76 (29\%)}
 }
 ```
 # [aturban-tpdl21](#aturban-tpdl21)
@@ -188,15 +188,15 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Where Did the Web 
 
 ```bibtex
 @INPROCEEDINGS {aturban-tpdl21,
-      AUTHOR = {Mohamed Aturban and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Where Did the Web Archive Go?},
-      BOOKTITLE = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
-      YEAR = {2021},
-      MONTH = {sep},
-      ARXIV = {https://arxiv.org/abs/2108.05939},
-      KEYWORD = {award},
-      AWARD = {Best Research Paper},
-      PUBDATE = {202109},
+      author = {Mohamed Aturban and Michael L. Nelson and Michele C. Weigle},
+      title = {Where Did the Web Archive Go?},
+      booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+      year = {2021},
+      month = sep,
+      arxiv = {https://arxiv.org/abs/2108.05939},
+      keyword = {award},
+      award = {Best Research Paper},
+      pubdate = {202109}
 }
 ```
 # [jones-memento21](#jones-memento21)
@@ -208,14 +208,14 @@ Shawn M. Jones, Martin Klein, Herbert Van de Sompel, Michael L. Nelson, and Mich
 
 ```bibtex
 @INBOOK {jones-memento21,
-      AUTHOR = {Shawn M. Jones and Martin Klein and Herbert Van de Sompel and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Interoperability for Accessing Versions of Web Resources with the Memento Protocol},
-      BOOKTITLE = {The Past Web: Exploring Web Archives},
-      EDITOR = {Daniel Gomes and Elena Demidova and Jane Winters and Thomas Risse},
-      YEAR = {2021},
-      DOI = {10.1007/978-3-030-63291-5},
-      PUBLISHER = {Springer},
-      PUBDATE = {202107},
+       author     = 	 {Shawn M. Jones and Martin Klein and Herbert {Van de Sompel} and Michael L. Nelson and Michele C. Weigle},
+       title      = 	 {Interoperability for Accessing Versions of Web Resources with the Memento Protocol},
+       booktitle  = 	 {The Past Web: Exploring Web Archives},
+       editor = {Daniel Gomes and Elena Demidova and Jane Winters and Thomas Risse},
+       year       =	 2021,
+       doi = {10.1007/978-3-030-63291-5},
+       publisher = {Springer},
+       pubdate={202107}
 }
 ```
 # [jones-websci21](#jones-websci21)
@@ -227,13 +227,13 @@ Shawn Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "**Automati
 
 ```bibtex
 @INPROCEEDINGS {jones-websci21,
-      AUTHOR = {Shawn Jones and Michele C. Weigle and Martin Klein and Michael L. Nelson},
-      TITLE = {Automatically Selecting Striking Images for Social Cards},
-      BOOKTITLE = {Proceedings of ACM WebSci},
-      YEAR = {2021},
-      MONTH = {jun},
-      ARXIV = {https://arxiv.org/abs/2103.04899},
-      PUBDATE = {202106},
+      author = {Shawn Jones and Michele C. Weigle and Martin Klein and Michael L. Nelson},
+      title = {Automatically Selecting Striking Images for Social Cards},
+      booktitle = {Proceedings of ACM WebSci},
+      year =  2021,
+      month = jun,
+      arxiv = {https://arxiv.org/abs/2103.04899},
+      pubdate = {202106}
 }
 ```
 # [mabe-wadl20](#mabe-wadl20)
@@ -245,13 +245,13 @@ Abigail Mabe, Dhruv Patel, Maheedhar Gunnam, Surbhi Shankar, Mat Kelly, Sawood A
 
 ```bibtex
 @MISC {mabe-wadl20,
-      AUTHOR = {Abigail Mabe and Dhruv Patel and Maheedhar Gunnam and Surbhi Shankar and Mat Kelly and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {TMVis: Visualizing Webpage Changes Over Time},
-      YEAR = {2020},
-      MONTH = {aug},
+      author    = {Abigail Mabe and Dhruv Patel and Maheedhar Gunnam and Surbhi Shankar and Mat Kelly and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
+      title     = {{TMVis}: Visualizing Webpage Changes Over Time},
+      year      = {2020},
+      month     = aug,
       HOWPUBLISHED = {Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL) },
-      PUBDATE = {202008},
-      ARXIV = {https://arxiv.org/abs/2006.02487},
+      pubdate = {202008},
+      arxiv = {https://arxiv.org/abs/2006.02487}
 }
 ```
 # [jones-wadl20b](#jones-wadl20b)
@@ -263,13 +263,13 @@ Shawn Jones, Alexander Nwala, Martin Klein, Michele C. Weigle, and Michael L. Ne
 
 ```bibtex
 @MISC {jones-wadl20b,
-      AUTHOR = { Shawn Jones and Alexander Nwala and Martin Klein and Michele C. Weigle and Michael L. Nelson },
-      TITLE = { SHARI – An Integration of Tools to Visualize the Story of the Day },
-      YEAR = { 2020 },
-      MONTH = {aug},
-      HOWPUBLISHED = { Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL) },
-      PUBDATE = { 202008 },
-      ARXIV = {http://arxiv.org/abs/2008.00139},
+       AUTHOR = { Shawn Jones and Alexander Nwala and Martin Klein and Michele C. Weigle and Michael L. Nelson },
+       TITLE = { {SHARI} – An Integration of Tools to Visualize the Story of the Day },
+       YEAR = { 2020 },
+       MONTH = aug,
+       HOWPUBLISHED = { Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL) },
+       PUBDATE = { 202008 },
+       arxiv = {http://arxiv.org/abs/2008.00139}
 }
 ```
 # [jones-wadl20a](#jones-wadl20a)
@@ -281,13 +281,13 @@ Shawn Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**MementoE
 
 ```bibtex
 @MISC {jones-wadl20a,
-      AUTHOR = { Shawn Jones and Martin Klein and Michele C. Weigle and Michael L. Nelson },
-      TITLE = { MementoEmbed and Raintale for Web Archive Storytelling },
-      YEAR = { 2020 },
-      MONTH = {aug },
-      HOWPUBLISHED = { Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL) },
-      PUBDATE = { 202008 },
-      ARXIV = {http://arxiv.org/abs/2008.00137},
+       AUTHOR = { Shawn Jones and Martin Klein and Michele C. Weigle and Michael L. Nelson },
+       TITLE = { {MementoEmbed} and {Raintale} for Web Archive Storytelling },
+       YEAR = { 2020 },
+       MONTH = aug ,
+       HOWPUBLISHED = { Presented at the ACM/IEEE JCDL 2020 Workshop on Web Archiving and Digital Libraries (WADL) },
+       PUBDATE = { 202008 },
+       arxiv = {http://arxiv.org/abs/2008.00137}
 }
 ```
 # [alkwai-jcdl20](#alkwai-jcdl20)
@@ -299,16 +299,16 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**Making Recommendatio
 
 ```bibtex
 @INPROCEEDINGS {alkwai-jcdl20,
-      AUTHOR = {Lulwah Alkwai and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Making Recommendations from Web Archives for "Lost" Web Pages},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2020},
-      MONTH = {aug},
-      PUBDATE = {202008},
-      ARXIV = {https://arxiv.org/abs/1908.02819},
-      DOI = {10.1145/3383583.3398533},
-      PAGES = {87-–96},
-      ACCEPTANCE = {106 long paper submissions and accepted 33 (31.1%)},
+      author = {Lulwah Alkwai and Michael L. Nelson and Michele C. Weigle},
+      title = {Making Recommendations from Web Archives for "Lost" Web Pages},
+      booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year = {2020},
+      month = aug,
+      pubdate = {202008},
+      arxiv = {https://arxiv.org/abs/1908.02819},
+      doi = {10.1145/3383583.3398533},
+      pages = {87-–96},
+      acceptance = {106 long paper submissions and accepted 33 (31.1%)}
 }
 ```
 # [wu-jcdl20](#wu-jcdl20)
@@ -320,15 +320,15 @@ Jian Wu, Md Reshad Ul Hoque, Gunnar W. Reiske, Michele C. Weigle, Brenda T. Brad
 
 ```bibtex
 @INPROCEEDINGS {wu-jcdl20,
-      AUTHOR = {Jian Wu and Md Reshad Ul Hoque and Gunnar W. Reiske and Michele C. Weigle and Brenda T. Bradshaw and Holly D. Gaff and Jiang Li and Chiman Kwan},
-      TITLE = {A Comparative Study of Sequential Tagging Methods for Domain Knowledge Entity Recognition in Biomedical Papers},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2020},
-      MONTH = {aug},
-      PUBDATE = {202008},
-      PAGES = {397-–400},
-      DOI = {10.1145/3383583.3398602},
-      ACCEPTANCE = {90 short paper submissions and accepted 28 (31.1%)},
+      author = {Jian Wu and Md Reshad Ul Hoque and Gunnar W. Reiske and Michele C. Weigle and Brenda T. Bradshaw and Holly D. Gaff and Jiang Li and Chiman Kwan},
+      title = {A Comparative Study of Sequential Tagging Methods for Domain Knowledge Entity Recognition in Biomedical Papers},
+      booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year = {2020},
+      month = aug,
+      pubdate = {202008},
+      pages = {397-–400},
+      doi = {10.1145/3383583.3398602},
+      acceptance = {90 short paper submissions and accepted 28 (31.1%)}
 }
 ```
 # [nwala-cj20](#nwala-cj20)
@@ -340,13 +340,13 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**365 Dots in 2019: 
 
 ```bibtex
 @MISC {nwala-cj20,
-      AUTHOR = {Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {365 Dots in 2019: Quantifying Attention of News Sources},
-      YEAR = {2020},
-      MONTH = {may},
-      HOWPUBLISHED = {Poster/demo accepted at the Computation + Journalism Symposium (symposium cancelled due to COVID-19)},
-      ARXIV = {https://arxiv.org/abs/2003.09989},
-      PUBDATE = {202005},
+      author = {Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
+     title = {365 Dots in 2019: Quantifying Attention of News Sources},
+     year = {2020},
+      month = may,
+     howpublished = {Poster/demo accepted at the Computation + Journalism Symposium (symposium cancelled due to COVID-19)},
+     arxiv = {https://arxiv.org/abs/2003.09989},
+     pubdate = {202005}
 }
 ```
 # [jones-cikm19](#jones-cikm19)
@@ -358,14 +358,14 @@ Shawn M. Jones, Michele C. Weigle, and Michael L. Nelson, "**Social Cards Probab
 
 ```bibtex
 @INPROCEEDINGS {jones-cikm19,
-      AUTHOR = {Shawn M. Jones and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Social Cards Probably Provide For Better Understanding Of Web Archive Collections},
-      BOOKTITLE = {Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)},
-      YEAR = {2019},
-      DOI = {10.1145/3357384.3358039},
-      ARXIV = {https://arxiv.org/abs/1905.11342},
-      MONTH = {nov},
-      PUBDATE = {201911},
+     author = {Shawn M. Jones and Michele C. Weigle and Michael L. Nelson},
+     title = {Social Cards Probably Provide For Better Understanding Of Web Archive Collections},
+     booktitle = {Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)},
+     year = {2019},
+     doi = {10.1145/3357384.3358039},
+     arxiv = {https://arxiv.org/abs/1905.11342},
+     month = nov,
+     pubdate = {201911}
 }
 ```
 # [alam-arxiv19b](#alam-arxiv19b)
@@ -377,13 +377,13 @@ Sawood Alam, Plinio Vargas, Michele C. Weigle, and Michael L. Nelson, "**Impact 
 
 ```bibtex
 @MISC {alam-arxiv19b,
-      AUTHOR = {Sawood Alam and Plinio Vargas and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Impact of HTTP Cookie Violations in Web Archives},
-      YEAR = {2019},
-      MONTH = {June},
-      ARXIV = {https://arxiv.org/abs/1906.07141},
-      HOWPUBLISHED = {Presented at the ACM/IEEE JCDL 2019 Workshop on Web Archiving and Digital Libraries (WADL)},
-      PUBDATE = {201906},
+      author = {Sawood Alam and Plinio Vargas and Michele C. Weigle and Michael L. Nelson},
+     title = {Impact of {HTTP} Cookie Violations in Web Archives},
+     year = {2019},
+      month = {June},
+     arxiv = {https://arxiv.org/abs/1906.07141},
+     howpublished = {Presented at the ACM/IEEE JCDL 2019 Workshop on Web Archiving and Digital Libraries (WADL)},
+     pubdate = {201906}
 }
 ```
 # [alam-arxiv19a](#alam-arxiv19a)
@@ -395,14 +395,14 @@ Sawood Alam, Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert Van
 
 ```bibtex
 @TECHREPORT {alam-arxiv19a,
-      AUTHOR = {Sawood Alam and Michele C. Weigle and Michael L. Nelson and Martin Klein and Herbert Van de Sompel},
-      TITLE = {Supporting Web Archiving via Web Packaging},
-      NUMBER = {arXiv:1906.07104},
-      YEAR = {2019},
-      MONTH = {June},
-      ARXIV = {https://arxiv.org/abs/1906.07104},
-      NOTE = {Position paper accepted at the ESCAPE Workshop 2019},
-      PUBDATE = {201906},
+      author = {Sawood Alam and Michele C. Weigle and Michael L. Nelson and Martin Klein and Herbert {Van de Sompel}},
+      title = {Supporting Web Archiving via Web Packaging},
+      number = {arXiv:1906.07104},
+      year = {2019},
+      month = {June},
+      arxiv = {https://arxiv.org/abs/1906.07104},
+      note = {Position paper accepted at the ESCAPE Workshop 2019},
+      pubdate = {201906}
 }
 ```
 # [aturban-arxiv19](#aturban-arxiv19)
@@ -414,13 +414,13 @@ Mohamed Aturban, Michael L. Nelson, Michele C. Weigle, Martin Klein, and Herbert
 
 ```bibtex
 @TECHREPORT {aturban-arxiv19,
-      AUTHOR = {Mohamed Aturban and Michael L. Nelson and Michele C. Weigle and Martin Klein and Herbert Van de Sompel},
-      TITLE = {Collecting 16K archived web pages from 17 public web archives},
-      NUMBER = {arXiv:1905.03836},
-      YEAR = {2019},
-      MONTH = {May},
-      ARXIV = {https://arxiv.org/abs/1905.03836},
-      PUBDATE = {201905},
+      author = {Mohamed Aturban and Michael L. Nelson and Michele C. Weigle and Martin Klein and Herbert {Van de Sompel}},
+      title = {Collecting 16K archived web pages from 17 public web archives},
+      number = {arXiv:1905.03836},
+      year = {2019},
+      month = {May},
+      arxiv = {https://arxiv.org/abs/1905.03836},
+      pubdate = {201905}
 }
 ```
 # [nwala-jcdl19](#nwala-jcdl19)
@@ -432,16 +432,16 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Using Micro-collec
 
 ```bibtex
 @INPROCEEDINGS {nwala-jcdl19,
-      AUTHOR = {Alexander Nwala and Michele C. Weigle and Michael L. Nelson },
-      TITLE = {Using Micro-collections in Social Media to Generate Seeds for Web Archive Collections},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2019},
-      MONTH = {June},
-      ADDRESS = {Urbana-Champaign, IL},
-      PUBDATE = {201906},
-      DOI = {https://doi.org/10.1109/JCDL.2019.00042},
-      PAGES = {251-–260},
-      ARXIV = {https://arxiv.org/abs/1905.12220},
+     author={Alexander Nwala and Michele C. Weigle and Michael L. Nelson },
+     title = {Using Micro-collections in Social Media to Generate Seeds for Web Archive Collections},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2019},
+     month = {June},
+     address = {Urbana-Champaign, IL},
+     pubdate = {201906},
+     doi = {https://doi.org/10.1109/JCDL.2019.00042},
+     pages = {251-–260},
+     arxiv = {https://arxiv.org/abs/1905.12220} 
 }
 ```
 # [aturban-jcdl19](#aturban-jcdl19)
@@ -453,16 +453,16 @@ Mohamed Aturban, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Archi
 
 ```bibtex
 @INPROCEEDINGS {aturban-jcdl19,
-      AUTHOR = {Mohamed Aturban and Sawood Alam and Michael L. Nelson and Michele C. Weigle },
-      TITLE = {Archive Assisted Archival Fixity Verification Framework},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2019},
-      MONTH = {June},
-      ADDRESS = {Urbana-Champaign, IL},
-      PUBDATE = {201906},
-      PAGES = {162-–171},
-      DOI = {10.1109/JCDL.2019.00032},
-      ARXIV = {https://arxiv.org/abs/1905.12565},
+     author={Mohamed Aturban and Sawood Alam and Michael L. Nelson and Michele C. Weigle },
+     title = {Archive Assisted Archival Fixity Verification Framework},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2019},
+     month = {June},
+     address = {Urbana-Champaign, IL},
+     pubdate = {201906},
+     pages = {162-–171},
+     doi = {10.1109/JCDL.2019.00032},
+     arxiv = {https://arxiv.org/abs/1905.12565} 
 }
 ```
 # [alam-jcdl19](#alam-jcdl19)
@@ -474,16 +474,16 @@ Sawood Alam, Michele C. Weigle, Michael L. Nelson, Fernando Melo, Daniel Bicho, 
 
 ```bibtex
 @INPROCEEDINGS {alam-jcdl19,
-      AUTHOR = {Sawood Alam and Michele C. Weigle and Michael L. Nelson and Fernando Melo and Daniel Bicho and Daniel Gomes},
-      TITLE = {MementoMap Framework for Flexible and Adaptive Web Archive Profiling},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2019},
-      MONTH = {June},
-      ADDRESS = {Urbana-Champaign, IL},
-      PUBDATE = {201906},
-      PAGES = {172-–181},
-      DOI = {10.1109/JCDL.2019.00033},
-      ARXIV = {https://arxiv.org/abs/1905.12607},
+     author={Sawood Alam and Michele C. Weigle and Michael L. Nelson and Fernando Melo and Daniel Bicho and Daniel Gomes},
+     title = {MementoMap Framework for Flexible and Adaptive Web Archive Profiling},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2019},
+     month = {June},
+     address = {Urbana-Champaign, IL},
+     pubdate = {201906},
+     pages = {172-–181},
+     doi = {10.1109/JCDL.2019.00033},
+     arxiv = {https://arxiv.org/abs/1905.12607} 
 }
 ```
 # [weigle-ssrc18](#weigle-ssrc18)
@@ -495,13 +495,13 @@ Michele C. Weigle, "**On the importance of web archiving**," *SSRC Parameters*, 
 
 ```bibtex
 @ARTICLE {weigle-ssrc18,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {On the importance of web archiving},
-      JOURNAL = {SSRC Parameters},
-      YEAR = {2018},
-      MONTH = {sep},
-      URL = {https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/},
-      PUBDATE = {201809},
+     author = {Michele C. Weigle},
+     title = {On the importance of web archiving},
+     journal = {{SSRC} Parameters},
+     year = 2018,
+     month = sep,
+     url = {https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/},
+     pubdate = {201809}
 }
 ```
 # [mccoy-idd18](#mccoy-idd18)
@@ -513,16 +513,16 @@ Corren McCoy, Michael L. Nelson, and Michele C. Weigle, "**Mining the Web to App
 
 ```bibtex
 @ARTICLE {mccoy-idd18,
-      AUTHOR = {Corren McCoy and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Mining the Web to Approximate University Rankings},
-      JOURNAL = {Information Discovery and Delivery},
-      YEAR = {2018},
-      PAGES = {173--183},
-      MONTH = {nov},
-      VOLUME = {46},
-      NUMBER = {3},
-      DOI = {10.1108/IDD-05-2018-0014},
-      PUBDATE = {201811},
+     author = {Corren McCoy and Michael L. Nelson and Michele C. Weigle},
+     title = {Mining the Web to Approximate University Rankings},
+     journal = {Information Discovery and Delivery},
+     year = 2018,
+     pages = {173--183},
+     month = nov,
+     volume = 46,
+     number = 3,
+     doi = {10.1108/IDD-05-2018-0014},
+     pubdate = {201811}
 }
 ```
 # [almaksousy-isths18](#almaksousy-isths18)
@@ -534,14 +534,14 @@ Hassan Al-Maksousy, Michele C. Weigle, and Cong Wang, "**NNIDS: Neural Network b
 
 ```bibtex
 @INPROCEEDINGS {almaksousy-isths18,
-      AUTHOR = {Hassan Al-Maksousy and Michele C. Weigle and Cong Wang},
-      TITLE = {NNIDS: Neural Network based Intrusion Detection System},
-      BOOKTITLE = {Proceedings of the IEEE International Symposium on Technologies for Homeland Security},
-      YEAR = {2018},
-      MONTH = {oct},
-      ADDRESS = {Woburn, MA},
-      PUBDATE = {201810},
-      DOI = {10.1109/THS.2018.8574174},
+     author={Hassan Al-Maksousy and Michele C. Weigle and Cong Wang},
+     title = {{NNIDS}: Neural Network based Intrusion Detection System},
+     booktitle = {Proceedings of the IEEE International Symposium on Technologies for Homeland Security},
+     year = {2018},
+     month = oct,
+     address = {Woburn, MA},
+     pubdate = {201810},
+     doi = {10.1109/THS.2018.8574174} 
 }
 ```
 # [almaksousy-icdf2c18](#almaksousy-icdf2c18)
@@ -553,15 +553,15 @@ Hassan Al-Maksousy, and Michele C. Weigle, "**Hybrid Intrusion Detection System 
 
 ```bibtex
 @INPROCEEDINGS {almaksousy-icdf2c18,
-      AUTHOR = {Hassan Al-Maksousy and Michele C. Weigle},
-      TITLE = {Hybrid Intrusion Detection System for Worm Attacks Based on Their Network Behavior},
-      BOOKTITLE = {Proceedings of the EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C)},
-      YEAR = {2018},
-      MONTH = {sep},
-      ADDRESS = {New Orleans, LA},
-      PUBDATE = {201809},
-      PAGES = {225--234},
-      DOI = {10.1007/978-3-030-05487-8_12},
+     author={Hassan Al-Maksousy and Michele C. Weigle},
+     title = {Hybrid Intrusion Detection System for Worm Attacks Based on Their Network Behavior},
+     booktitle = {Proceedings of the EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C)},
+     year = {2018},
+     month = sep,
+     address = {New Orleans, LA},
+     pubdate = {201809},
+     pages = {225--234},
+     doi = {10.1007/978-3-030-05487-8_12} 
 }
 ```
 # [atkins-ipres18](#atkins-ipres18)
@@ -573,15 +573,15 @@ Grant Atkins, Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Meas
 
 ```bibtex
 @INPROCEEDINGS {atkins-ipres18,
-      AUTHOR = {Grant Atkins and Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Measuring News Similarity Across Ten U.S. News Sites},
-      BOOKTITLE = {Proceedings of the International Conference on Digital Preservation (iPres)},
-      YEAR = {2018},
-      MONTH = {sep},
-      ADDRESS = {Boston, MA},
-      PUBDATE = {201809},
-      PDF = {https://www.cs.odu.edu/~mln/pubs/ipres-2018/ipres-2018-atkins-news-similarity.pdf},
-      ARXIV = {https://arxiv.org/abs/1806.09082},
+     author={Grant Atkins and Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
+     title = {Measuring News Similarity Across Ten {U.S.} News Sites},
+     booktitle = {Proceedings of the International Conference on Digital Preservation (iPres)},
+     year = {2018},
+     month = sep,
+     address = {Boston, MA},
+     pubdate = {201809},
+     pdf = {https://www.cs.odu.edu/~mln/pubs/ipres-2018/ipres-2018-atkins-news-similarity.pdf},
+     arxiv = {https://arxiv.org/abs/1806.09082} 
 }
 ```
 # [jones-ipres18a](#jones-ipres18a)
@@ -593,15 +593,15 @@ Shawn M. Jones, Michele C. Weigle, and Michael L. Nelson, "**The Off-Topic Memen
 
 ```bibtex
 @INPROCEEDINGS {jones-ipres18a,
-      AUTHOR = {Shawn M. Jones and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {The Off-Topic Memento Toolkit},
-      BOOKTITLE = {Proceedings of the International Conference on Digital Preservation (iPres)},
-      YEAR = {2018},
-      MONTH = {sep},
-      ADDRESS = {Boston, MA},
-      ARXIV = {https://arxiv.org/abs/1806.06870},
-      PDF = {https://www.cs.odu.edu/~mln/pubs/ipres-2018/ipres-2018-jones-off-topic.pdf},
-      PUBDATE = {201809},
+     author={Shawn M. Jones and Michele C. Weigle and Michael L. Nelson},
+     title = {The Off-Topic Memento Toolkit},
+     booktitle = {Proceedings of the International Conference on Digital Preservation (iPres)},
+     year = {2018},
+     month = sep,
+     address = {Boston, MA},
+     arxiv = {https://arxiv.org/abs/1806.06870},
+     pdf = {https://www.cs.odu.edu/~mln/pubs/ipres-2018/ipres-2018-jones-off-topic.pdf},
+     pubdate = {201809} 
 }
 ```
 # [jones-ipres18b](#jones-ipres18b)
@@ -613,15 +613,15 @@ Shawn M. Jones, Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Th
 
 ```bibtex
 @INPROCEEDINGS {jones-ipres18b,
-      AUTHOR = {Shawn M. Jones and Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {The Many Shapes of Archive-It},
-      BOOKTITLE = {Proceedings of the International Conference on Digital Preservation (iPres)},
-      YEAR = {2018},
-      MONTH = {sep},
-      ADDRESS = {Boston, MA},
-      ARXIV = {https://arxiv.org/abs/1806.06878},
-      PDF = {https://www.cs.odu.edu/~mln/pubs/ipres-2018/ipres-2018-jones-archiveit.pdf},
-      PUBDATE = {201809},
+     author={Shawn M. Jones and Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
+     title = {The Many Shapes of Archive-It},
+     booktitle = {Proceedings of the International Conference on Digital Preservation (iPres)},
+     year = {2018},
+     month = sep,
+     address = {Boston, MA},
+     arxiv = {https://arxiv.org/abs/1806.06878},
+     pdf = {https://www.cs.odu.edu/~mln/pubs/ipres-2018/ipres-2018-jones-archiveit.pdf},
+     pubdate = {201809} 
 }
 ```
 # [nwala-ht18](#nwala-ht18)
@@ -633,15 +633,15 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Bootstrapping Web 
 
 ```bibtex
 @INPROCEEDINGS {nwala-ht18,
-      AUTHOR = {Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Bootstrapping Web Archive Collections from Social Media},
-      BOOKTITLE = {Proceedings of ACM Hypertext (HT)},
-      YEAR = {2018},
-      MONTH = {July},
-      ADDRESS = {Baltimore, MD},
-      DOI = {10.1145/3209542.3209560},
-      PDF = {https://www.cs.odu.edu/~mln/pubs/ht-2018/hypertext-2018-nwala-bootstrapping.pdf},
-      PUBDATE = {201807},
+     author={Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
+     title = {Bootstrapping Web Archive Collections from Social Media},
+     booktitle = {Proceedings of ACM Hypertext (HT)},
+     year = {2018},
+     month = {July},
+     address = {Baltimore, MD},
+     doi = {10.1145/3209542.3209560},
+     pdf = {https://www.cs.odu.edu/~mln/pubs/ht-2018/hypertext-2018-nwala-bootstrapping.pdf},
+     pubdate = {201807} 
 }
 ```
 # [weigle-wadl18](#weigle-wadl18)
@@ -653,14 +653,14 @@ Michele C. Weigle, "**Enabling Personal Use of Web Archives**," Keynote given at
 
 ```bibtex
 @MISC {weigle-wadl18,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {Enabling Personal Use of Web Archives},
-      HOWPUBLISHED = {Keynote given at the Web Archiving and Digital Libraries Workshop (WADL) at JCDL 2018},
-      YEAR = {2018},
-      MONTH = {June},
-      SLIDES = {https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives/},
-      ADDRESS = {Forth Worth, TX},
-      PUBDATE = {201806},
+     author={Michele C. Weigle},
+     title={Enabling Personal Use of Web Archives},
+     howpublished ={Keynote given at the Web Archiving and Digital Libraries Workshop (WADL) at JCDL 2018},
+     year = 2018,
+      month = {June},
+     slides = {https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives/},
+     address = {Forth Worth, TX},
+     pubdate = {201806} 
 }
 ```
 # [mccoy-kddl18](#mccoy-kddl18)
@@ -672,14 +672,14 @@ Corren McCoy, Michael L. Nelson, and Michele C. Weigle, "**Mining the Web to App
 
 ```bibtex
 @MISC {mccoy-kddl18,
-      AUTHOR = {Corren McCoy and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Mining the Web to Approximate University Rankings},
-      HOWPUBLISHED = {Presented at the ACM/IEEE JCDL 2018 Workshop on Knowledge Discovery from Digital Libraries},
-      YEAR = {2018},
-      MONTH = {June},
-      ADDRESS = {Fort Worth, TX},
-      PDF = {https://www.cs.odu.edu/~mweigle/papers/mccoy-kddl18.pdf},
-      PUBDATE = {201806},
+     author={Corren McCoy and Michael L. Nelson and Michele C. Weigle},
+     title = {Mining the Web to Approximate University Rankings},
+     howpublished = {Presented at the ACM/IEEE JCDL 2018 Workshop on Knowledge Discovery from Digital Libraries},
+     year = {2018},
+     month = {June},
+     address = {Fort Worth, TX},
+     pdf = {https://www.cs.odu.edu/~mweigle/papers/mccoy-kddl18.pdf},
+     pubdate = {201806} 
 }
 ```
 # [kelly-wadl18](#kelly-wadl18)
@@ -691,13 +691,13 @@ Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Client-Assi
 
 ```bibtex
 @MISC {kelly-wadl18,
-      AUTHOR = {Mat Kelly and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Client-Assisted Memento Aggregation Using the Prefer Header},
-      HOWPUBLISHED = {Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL)},
-      YEAR = {2018},
-      MONTH = {June},
-      ADDRESS = {Fort Worth, TX},
-      PUBDATE = {201806},
+     author={Mat Kelly and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
+     title = {Client-Assisted Memento Aggregation Using the Prefer Header},
+     howpublished = {Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL)},
+     year = {2018},
+     month = {June},
+     address = {Fort Worth, TX},
+     pubdate = {201806} 
 }
 ```
 # [berlin-wadl18](#berlin-wadl18)
@@ -709,13 +709,13 @@ John Berlin, Michele C. Weigle, and Michael L. Nelson, "**Swimming In A Sea Of J
 
 ```bibtex
 @MISC {berlin-wadl18,
-      AUTHOR = {John Berlin and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Swimming In A Sea Of JavaScript, Or: How I Learned To Stop Worrying And Love High-Fidelity Replay},
-      HOWPUBLISHED = {Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL)},
-      YEAR = {2018},
-      MONTH = {June},
-      ADDRESS = {Fort Worth, TX},
-      PUBDATE = {201806},
+     author={John Berlin and Michele C. Weigle and Michael L. Nelson},
+     title = {Swimming In A Sea Of JavaScript, Or: How I Learned To Stop Worrying And Love High-Fidelity Replay},
+     howpublished = {Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL)},
+     year = {2018},
+     month = {June},
+     address = {Fort Worth, TX},
+     pubdate = {201806} 
 }
 ```
 # [aturban-wadl18](#aturban-wadl18)
@@ -727,13 +727,13 @@ Mohamed Aturban, Michele C. Weigle, and Michael L. Nelson, "**It is Hard to Comp
 
 ```bibtex
 @MISC {aturban-wadl18,
-      AUTHOR = {Mohamed Aturban and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {It is Hard to Compute Fixity on Archived Web Pages},
-      HOWPUBLISHED = {Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL)},
-      YEAR = {2018},
-      MONTH = {June},
-      ADDRESS = {Fort Worth, TX},
-      PUBDATE = {201806},
+     author={Mohamed Aturban and Michele C. Weigle and Michael L. Nelson},
+     title = {It is Hard to Compute Fixity on Archived Web Pages},
+     howpublished = {Presented at the ACM/IEEE JCDL 2018 Workshop on Web Archiving and Digital Libraries (WADL)},
+     year = {2018},
+     month = {June},
+     address = {Fort Worth, TX},
+     pubdate = {201806} 
 }
 ```
 # [aturban-jcdl18](#aturban-jcdl18)
@@ -745,19 +745,19 @@ Mohamed Aturban, Mat Kelly, Sawood Alam, John Berlin, Michael L. Nelson, and Mic
 
 ```bibtex
 @INPROCEEDINGS {aturban-jcdl18,
-      AUTHOR = {Mohamed Aturban and Mat Kelly and Sawood Alam and John Berlin and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {ArchiveNow: Simplified, Extensible, Multi-Archive Preservation},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2018},
-      MONTH = {June},
-      ADDRESS = {Fort Worth, TX},
-      PUBDATE = {201806},
-      NOTE = {poster},
-      PAGES = {321--322},
-      DOI = {10.1145/3197026.3203880},
-      PDF = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-aturban-archivenow.pdf},
-      AWARD = {Best Poster},
-      KEYWORD = {award},
+     author={Mohamed Aturban and Mat Kelly and Sawood Alam and John Berlin and Michael L. Nelson and Michele C. Weigle},
+     title = {{ArchiveNow}: Simplified, Extensible, Multi-Archive Preservation},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2018},
+     month = {June},
+     address = {Fort Worth, TX},
+     pubdate = {201806},
+     note = {poster},
+     pages = {321--322},
+     doi = {10.1145/3197026.3203880},
+     pdf = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-aturban-archivenow.pdf},
+     award = {Best Poster},
+      keyword = {award} 
 }
 ```
 # [alam-jcdl18](#alam-jcdl18)
@@ -769,16 +769,16 @@ Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "**Unobtrusive
 
 ```bibtex
 @INPROCEEDINGS {alam-jcdl18,
-      AUTHOR = {Sawood Alam and Mat Kelly and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Unobtrusive and Extensible Archival Replay Banners Using Custom Elements},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2018},
-      MONTH = {June},
-      ADDRESS = {Fort Worth, TX},
-      PAGES = {319--320},
-      NOTE = {poster},
-      PDF = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-alam-archive-banner.pdf},
-      PUBDATE = {201806},
+      author={Sawood Alam and Mat Kelly and Michele C. Weigle and Michael L. Nelson},
+      title = {Unobtrusive and Extensible Archival Replay Banners Using Custom Elements},
+      booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year = {2018},
+      month = {June},
+      address = {Fort Worth, TX},
+      pages = {319--320},
+      note = {poster},
+      pdf = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-alam-archive-banner.pdf},
+      pubdate = {201806} 
 }
 ```
 # [kelly-jcdl18](#kelly-jcdl18)
@@ -790,17 +790,17 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**A Framework for Aggregat
 
 ```bibtex
 @INPROCEEDINGS {kelly-jcdl18,
-      AUTHOR = {Mat Kelly and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {A Framework for Aggregating Private and Public Web Archives},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2018},
-      MONTH = {June},
-      ADDRESS = {Fort Worth, TX},
-      PUBDATE = {201806},
-      PAGES = {273--282},
-      DOI = {10.1145/3197026.3203881},
-      PDF = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-kelly-private-public-web-archives.pdf},
-      ARXIV = {https://arxiv.org/abs/1806.00871},
+     author={Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+     title = {A Framework for Aggregating Private and Public Web Archives},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2018},
+     month = {June},
+     address = {Fort Worth, TX},
+     pubdate = {201806},
+     pages = {273--282},
+     doi = {10.1145/3197026.3203881},
+     pdf = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-kelly-private-public-web-archives.pdf},
+     arxiv = {https://arxiv.org/abs/1806.00871} 
 }
 ```
 # [nwala-jcdl18](#nwala-jcdl18)
@@ -812,16 +812,16 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Scraping SERPs for
 
 ```bibtex
 @INPROCEEDINGS {nwala-jcdl18,
-      AUTHOR = {Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Scraping SERPs for archival seeds: it matters when you start},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2018},
-      MONTH = {June},
-      ADDRESS = {Fort Worth, TX},
-      PUBDATE = {201806},
-      PAGES = {263--272},
-      PDF = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-nwala-scraping-serps-seeds.pdf},
-      ARXIV = {https://arxiv.org/abs/1805.10260},
+     author={Alexander Nwala and Michele C. Weigle and Michael L. Nelson},
+     title = {Scraping {SERPs} for archival seeds: it matters when you start},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2018},
+     month = {June},
+     address = {Fort Worth, TX},
+     pubdate = {201806},
+     pages = {263--272},
+     pdf = {https://www.cs.odu.edu/~mln/pubs/jcdl-2018/jcdl-2018-nwala-scraping-serps-seeds.pdf},
+     arxiv = {https://arxiv.org/abs/1805.10260} 
 }
 ```
 # [aturban-arxiv17](#aturban-arxiv17)
@@ -833,14 +833,14 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Difficulties of Ti
 
 ```bibtex
 @TECHREPORT {aturban-arxiv17,
-      AUTHOR = {Mohamed Aturban and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Difficulties of Timestamping Archived Web Pages},
-      NUMBER = {arXiv:1712.03140},
-      INSTITUTION = {arXiv},
-      YEAR = {2017},
-      MONTH = {December},
-      ARXIV = {https://arxiv.org/abs/1712.03140},
-      PUBDATE = {201712},
+      author = {Mohamed Aturban and Michael L. Nelson and Michele C. Weigle},
+      title = {Difficulties of Timestamping Archived Web Pages},
+      number = {arXiv:1712.03140},
+      institution = {arXiv},
+      year = {2017},
+      month = {December},
+      arxiv = {https://arxiv.org/abs/1712.03140},
+      pubdate = {201712}
 }
 ```
 # [mccoy-arxiv17](#mccoy-arxiv17)
@@ -852,14 +852,14 @@ Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "**University Twitter
 
 ```bibtex
 @TECHREPORT {mccoy-arxiv17,
-      AUTHOR = {Corren G. McCoy and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {University Twitter Engagement: Using Twitter Followers to Rank Universities},
-      NUMBER = {arXiv:1708.05790},
-      INSTITUTION = {arXiv},
-      YEAR = {2017},
-      MONTH = {August},
-      ARXIV = {https://arxiv.org/abs/1708.05790},
-      PUBDATE = {201708},
+      author = {Corren G. McCoy and Michael L. Nelson and Michele C. Weigle},
+      title = {{University Twitter Engagement}: Using {Twitter} Followers to Rank Universities},
+      number = {arXiv:1708.05790},
+      institution = {arXiv},
+      year = {2017},
+      month = {August},
+      arxiv = {https://arxiv.org/abs/1708.05790},
+      pubdate = {201708}
 }
 ```
 # [alnoamany-arxiv17](#alnoamany-arxiv17)
@@ -871,14 +871,14 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Stories From the 
 
 ```bibtex
 @TECHREPORT {alnoamany-arxiv17,
-      AUTHOR = {Yasmin AlNoamany and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Stories From the Past Web},
-      INSTITUTION = {arXiv},
-      NUMBER = {arXiv:1705.06218},
-      YEAR = {2017},
-      MONTH = {May},
-      ARXIV = {http://arxiv.org/abs/1705.06218},
-      PUBDATE = {201705},
+      author = {Yasmin AlNoamany and Michele C. Weigle and Michael L. Nelson},
+      title = {Stories From the Past Web},
+      institution = {arXiv},
+      number = {arXiv:1705.06218},
+      year = {2017},
+      month = {May},
+      arxiv = {http://arxiv.org/abs/1705.06218},
+      pubdate = {201705}
 }
 ```
 # [kelly-arxiv17](#kelly-arxiv17)
@@ -890,14 +890,14 @@ Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert V
 
 ```bibtex
 @TECHREPORT {kelly-arxiv17,
-      AUTHOR = {Mat Kelly and Lulwah M. Alkwai and Michael L. Nelson and Michele C. Weigle and Herbert Van de Sompel},
-      TITLE = {Impact of URI Canonicalization on Memento Count},
-      INSTITUTION = {arXiv},
-      NUMBER = {arxiv:1601.05142},
-      YEAR = {2017},
-      MONTH = {March},
-      ARXIV = {http://arxiv.org/abs/1703.03302},
-      PUBDATE = {201703},
+      author = {Mat Kelly and Lulwah M. Alkwai and Michael L. Nelson and Michele C. Weigle and Herbert {Van de Sompel}},
+      title = {Impact of {URI} Canonicalization on Memento Count},
+      institution = {arXiv},
+      number = {arxiv:1601.05142},
+      year = {2017},
+      month = {March},
+      arxiv = {http://arxiv.org/abs/1703.03302},
+      pubdate = {201703}
 }
 ```
 # [alnoamany-websci17](#alnoamany-websci17)
@@ -909,15 +909,15 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Generating Storie
 
 ```bibtex
 @INPROCEEDINGS {alnoamany-websci17,
-      AUTHOR = {Yasmin AlNoamany and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Generating Stories from Archived Collections},
-      BOOKTITLE = {Proceedings of the 9th International ACM Web Science Conference},
-      YEAR = {2017},
-      MONTH = {June},
-      ADDRESS = {Troy, NY},
-      DOI = {10.1145/3091478.3091508},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/alnoamany-websci17.pdf},
-      PUBDATE = {201706},
+     author={Yasmin AlNoamany and Michele C. Weigle and Michael L. Nelson},
+     title = {Generating Stories from Archived Collections},
+     booktitle = {Proceedings of the 9th International ACM Web Science Conference},
+     year = {2017},
+     month = {June},
+     address = {Troy, NY},
+     doi = {10.1145/3091478.3091508},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/alnoamany-websci17.pdf},
+     pubdate = {201706} 
 }
 ```
 # [alkwai-tois17](#alkwai-tois17)
@@ -929,17 +929,17 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**Comparing the Archiv
 
 ```bibtex
 @ARTICLE {alkwai-tois17,
-      AUTHOR = {Lulwah Alkwai and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Comparing the Archival Rate of Arabic, English, Danish, and Korean Language Web Pages},
-      JOURNAL = {ACM Transactions on Information Systems (TOIS)},
-      YEAR = {2017},
-      VOLUME = {36},
-      NUMBER = {1},
-      PREPRINT = {http://www.cs.odu.edu/~mweigle/papers/alkwai-tois17-preprint.pdf},
-      DOI = {10.1145/3041656},
-      PAGES = {1:1--1:34},
-      MONTH = {jul},
-      PUBDATE = {201707},
+     author = {Lulwah Alkwai and Michael L. Nelson and Michele C. Weigle},
+     title = {Comparing the Archival Rate of Arabic, English, Danish, and Korean Language Web Pages},
+     journal = {ACM Transactions on Information Systems (TOIS)},
+     year = 2017,
+     volume = 36,
+     number = 1,
+     preprint = {http://www.cs.odu.edu/~mweigle/papers/alkwai-tois17-preprint.pdf},
+     doi = {10.1145/3041656},
+     pages = {1:1--1:34},
+     month = jul,
+     pubdate = {201707}
 }
 ```
 # [kelly-jcdl17](#kelly-jcdl17)
@@ -951,19 +951,19 @@ Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, 
 
 ```bibtex
 @INPROCEEDINGS {kelly-jcdl17,
-      AUTHOR = {Mat Kelly and Lulwah M. Alkwai and Sawood Alam and Michael L. Nelson and Michele C. Weigle and Herbert Van de Sompel},
-      TITLE = {Impact of URI Canonicalization on Memento Count},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2017},
-      MONTH = {June},
-      ADDRESS = {Toronto, Ontario, Canada},
-      AWARD = {Best Poster},
-      NOTE = {poster},
-      KEYWORD = {award},
-      PAGES = {303--304},
-      PDF = {http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf},
-      DOI = {10.1109/JCDL.2017.7991601},
-      PUBDATE = {201706},
+     author={Mat Kelly and Lulwah M. Alkwai and Sawood Alam and Michael L. Nelson and Michele C. Weigle and Herbert {Van de Sompel}},
+     title = {Impact of {URI} Canonicalization on Memento Count},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2017},
+     month = {June},
+     address = {Toronto, Ontario, Canada},
+     award = {Best Poster},
+     note = {poster},
+     keyword = {award},
+     pages = {303--304},
+     pdf = {http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf},
+     doi = {10.1109/JCDL.2017.7991601},
+     pubdate = {201706} 
 }
 ```
 # [berlin-jcdl17](#berlin-jcdl17)
@@ -975,16 +975,16 @@ John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**WAIL: Colle
 
 ```bibtex
 @INPROCEEDINGS {berlin-jcdl17,
-      AUTHOR = {John Berlin and Mat Kelly and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {WAIL: Collection-Based Personal Web Archiving},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2017},
-      MONTH = {June},
-      ADDRESS = {Toronto, Ontario, Canada},
-      PAGES = {340--341},
-      PDF = {http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_wail.pdf},
-      DOI = {10.1109/JCDL.2017.7991619},
-      PUBDATE = {201706},
+     author={John Berlin and Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+     title = {{WAIL}: Collection-Based Personal Web Archiving},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2017},
+     month = {June},
+     address = {Toronto, Ontario, Canada},
+     pages = {340--341},
+     pdf = {http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_wail.pdf},
+     doi = {10.1109/JCDL.2017.7991619},
+     pubdate = {201706} 
 }
 ```
 # [alam-jcdl17](#alam-jcdl17)
@@ -996,15 +996,15 @@ Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "**Client-side
 
 ```bibtex
 @INPROCEEDINGS {alam-jcdl17,
-      AUTHOR = {Sawood Alam and Mat Kelly and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Client-side Reconstruction of Composite Mementos Using ServiceWorker},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2017},
-      MONTH = {June},
-      ADDRESS = {Toronto, Ontario, Canada},
-      PREPRINT = {http://www.cs.odu.edu/~mweigle/papers/alam-jcdl17.pdf},
-      PAGES = {237–-240},
-      PUBDATE = {201706},
+     author={Sawood Alam and Mat Kelly and Michele C. Weigle and Michael L. Nelson},
+     title = {Client-side Reconstruction of Composite Mementos Using {ServiceWorker}},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2017},
+     month = {June},
+     address = {Toronto, Ontario, Canada},
+     preprint = {http://www.cs.odu.edu/~mweigle/papers/alam-jcdl17.pdf},
+     pages = {237–-240},
+     pubdate = {201706} 
 }
 ```
 # [brunelle-jcdl17](#brunelle-jcdl17)
@@ -1016,14 +1016,14 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Archival Crawle
 
 ```bibtex
 @INPROCEEDINGS {brunelle-jcdl17,
-      AUTHOR = {Justin F. Brunelle and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Archival Crawlers and JavaScript: Discover More Stuff but Crawl More Slowly},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2017},
-      MONTH = {June},
-      ADDRESS = {Toronto, Ontario, Canada},
-      PREPRINT = {http://www.cs.odu.edu/~mweigle/papers/brunelle-jcdl17.pdf},
-      PUBDATE = {201706},
+     author={Justin F. Brunelle and Michele C. Weigle and Michael L. Nelson},
+     title = {Archival Crawlers and {JavaScript}: Discover More Stuff but Crawl More Slowly},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2017},
+     month = {June},
+     address = {Toronto, Ontario, Canada},
+     preprint = {http://www.cs.odu.edu/~mweigle/papers/brunelle-jcdl17.pdf},
+     pubdate = {201706} 
 }
 ```
 # [nwala-jcdl17](#nwala-jcdl17)
@@ -1035,16 +1035,16 @@ Alexander C. Nwala, Michele C. Weigle, Michael L. Nelson, Adam B. Ziegler, and A
 
 ```bibtex
 @INPROCEEDINGS {nwala-jcdl17,
-      AUTHOR = {Alexander C. Nwala and Michele C. Weigle and Michael L. Nelson and Adam B. Ziegler and Anastasia Aizman},
-      TITLE = {Local Memory Project: Providing Tools to Build Collections of Stories for Local Events from Local Sources},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2017},
-      MONTH = {June},
-      ADDRESS = {Toronto, Ontario, Canada},
-      PREPRINT = {http://www.cs.odu.edu/~anwala/files/publications/NwalaJCDL_LMP.pdf},
-      PAGES = {219–-228},
-      DOI = {},
-      PUBDATE = {201706},
+     author={Alexander C. Nwala and Michele C. Weigle and Michael L. Nelson and Adam B. Ziegler and Anastasia Aizman},
+     title = {Local Memory Project: Providing Tools to Build Collections of Stories for Local Events from Local Sources},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2017},
+     month = {June},
+     address = {Toronto, Ontario, Canada},
+     preprint = {http://www.cs.odu.edu/~anwala/files/publications/NwalaJCDL_LMP.pdf},
+     pages = {219–-228},
+     doi = {},
+     pubdate = {201706} 
 }
 ```
 # [mohrehkesh-chap17](#mohrehkesh-chap17)
@@ -1056,16 +1056,16 @@ Shahram Mohrehkesh, Michele C. Weigle, and Sajal K. Das, "**Energy Harvesting in
 
 ```bibtex
 @INBOOK {mohrehkesh-chap17,
-      AUTHOR = {Shahram Mohrehkesh and Michele C. Weigle and Sajal K. Das},
-      TITLE = {Energy Harvesting in Nanonetworks},
-      BOOKTITLE = {Modeling, Methodologies and Tools for Molecular and Nano-scale Communications},
-      PUBLISHER = {Springer International Publishing},
-      YEAR = {2017},
-      PAGES = {319--347},
-      EDITOR = {Junichi Suzuki, Tadashi Nakano, Michael John Moore},
-      PREPRINT = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-nanonetbookchapter-preprint17.pdf},
-      DOI = {10.1007/978-3-319-50688-3_14},
-      PUBDATE = {201703},
+      author     = 	 {Shahram Mohrehkesh and Michele C. Weigle and Sajal K. Das},
+      title      = 	 {Energy Harvesting in Nanonetworks},
+      booktitle  = 	 {Modeling, Methodologies and Tools for Molecular and Nano-scale Communications},
+      publisher  =	 {Springer International Publishing},
+      year       =	 {2017},
+     pages = {319--347},
+      editor     =	 {Junichi Suzuki, Tadashi Nakano, Michael John Moore},
+     preprint = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-nanonetbookchapter-preprint17.pdf},
+     doi = {10.1007/978-3-319-50688-3_14},
+      pubdate    =   {201703}
 }
 ```
 # [mohrehkesh-computer17](#mohrehkesh-computer17)
@@ -1077,17 +1077,17 @@ Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "**Energy Harvesting in El
 
 ```bibtex
 @ARTICLE {mohrehkesh-computer17,
-      AUTHOR = {Shahram Mohrehkesh and Michele C. Weigle and Sajal Das},
-      TITLE = {Energy Harvesting in Electromagnetic Nanonetworks},
-      JOURNAL = {IEEE Computer},
-      MONTH = {feb},
-      VOL = {50},
-      NUMBER = {2},
-      YEAR = {2017},
-      PAGES = {59--67},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-computer17.pdf},
-      DOI = {10.1109/MC.2017.61},
-      PUBDATE = {201702},
+     author={Shahram Mohrehkesh and Michele C. Weigle and Sajal Das},
+     title = {Energy Harvesting in Electromagnetic Nanonetworks},
+     journal = {IEEE Computer},
+     month = feb,
+     vol = 50,
+     number = 2,
+     year = {2017},
+     pages = {59--67},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-computer17.pdf},
+     doi = {10.1109/MC.2017.61},
+     pubdate = {201702} 
 }
 ```
 # [pardue-vis16](#pardue-vis16)
@@ -1099,15 +1099,15 @@ Juliette Pardue, Mridul Sen, Christos Tsolakis, Reid Rankin, Ayush Khandelwal, a
 
 ```bibtex
 @MISC {pardue-vis16,
-      AUTHOR = {Juliette Pardue and Mridul Sen and Christos Tsolakis and Reid Rankin and Ayush Khandelwal and Michele C. Weigle},
-      TITLE = {WorldVis: A Visualization Tool for World Data},
-      HOWPUBLISHED = {Poster presented at IEEE VIS},
-      YEAR = {2016},
-      PUBDATE = {201610},
-      ADDRESS = {Baltimore, MD},
-      MONTH = {October},
-      POSTER = {http://www.cs.odu.edu/~mweigle/papers/pardue-vis16-poster.pdf},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/pardue-vis16-2pg-poster.pdf},
+     author = {Juliette Pardue and Mridul Sen and Christos Tsolakis and Reid Rankin and Ayush Khandelwal and Michele C. Weigle},
+     title = {WorldVis: A Visualization Tool for World Data},
+     howpublished = {Poster presented at IEEE VIS},
+     year = {2016},
+     pubdate = {201610},
+     address = {Baltimore, MD},
+     month = {October},
+     poster = {http://www.cs.odu.edu/~mweigle/papers/pardue-vis16-poster.pdf},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/pardue-vis16-2pg-poster.pdf} 
 }
 ```
 # [kelly-tpdl16](#kelly-tpdl16)
@@ -1119,14 +1119,14 @@ Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**InterPlanet
 
 ```bibtex
 @INPROCEEDINGS {kelly-tpdl16,
-      AUTHOR = {Mat Kelly and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {InterPlanetary Wayback: Peer-To-Peer Permanence of Web Archives},
-      BOOKTITLE = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
-      ADDRESS = {Hannover, Germany},
-      YEAR = {2016},
-      MONTH = {September},
-      PDF = {http://www.cs.odu.edu/~mln/pubs/tpdl-2016/tpdl-2016-kelly.pdf},
-      PUBDATE = {201609},
+     author = {Mat Kelly and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
+     title = {InterPlanetary Wayback: Peer-To-Peer Permanence of Web Archives},
+     booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+     address = {Hannover, Germany},
+     year = 2016,
+     month = {September},
+     pdf = {http://www.cs.odu.edu/~mln/pubs/tpdl-2016/tpdl-2016-kelly.pdf},
+     pubdate = {201609}
 }
 ```
 # [alnoamany-ijdl16a](#alnoamany-ijdl16a)
@@ -1138,17 +1138,17 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Detecting Off-Top
 
 ```bibtex
 @ARTICLE {alnoamany-ijdl16a,
-      AUTHOR = {Yasmin AlNoamany and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Detecting Off-Topic Pages Within TimeMaps in Web Archives},
-      JOURNAL = {International Journal of Digital Libraries (IJDL)},
-      YEAR = {2016},
-      VOLUME = {17},
-      NUMBER = {3},
-      PAGES = {203--221},
-      MONTH = {July},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/alnoamany-ijdl16a.pdf},
-      DOI = {10.1007/s00799-016-0183-5},
-      PUBDATE = {201607},
+     author={Yasmin AlNoamany and Michele C. Weigle and Michael L. Nelson},
+     title = {Detecting Off-Topic Pages Within TimeMaps in Web Archives},
+     journal = {International Journal of Digital Libraries (IJDL)},
+     year = {2016},
+     volume = 17,
+     number = 3,
+     pages = {203--221},
+     month = {July},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/alnoamany-ijdl16a.pdf},
+     doi = {10.1007/s00799-016-0183-5},
+     pubdate = {201607}   
 }
 ```
 # [alnoamany-ijdl16b](#alnoamany-ijdl16b)
@@ -1160,17 +1160,17 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Characteristics o
 
 ```bibtex
 @ARTICLE {alnoamany-ijdl16b,
-      AUTHOR = {Yasmin AlNoamany and Michele C. Weigle and Michael L. Nelson},
-      TITLE = { Characteristics of Social Media Stories. What makes a good story?},
-      JOURNAL = {International Journal of Digital Libraries (IJDL)},
-      YEAR = {2016},
-      VOLUME = {17},
-      NUMBER = {3},
-      PAGES = {239--256},
-      MONTH = {July},
-      DOI = {10.1007/s00799-016-0185-3},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/alnoamany-ijdl16b.pdf},
-      PUBDATE = {201607},
+     author={Yasmin AlNoamany and Michele C. Weigle and Michael L. Nelson},
+     title = { Characteristics of Social Media Stories. What makes a good story?},
+     journal = {International Journal of Digital Libraries (IJDL)},
+     year = {2016},
+     volume = 17,
+     number = 3,
+     pages = {239--256},
+     month = {July},
+     doi = {10.1007/s00799-016-0185-3},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/alnoamany-ijdl16b.pdf},
+     pubdate = {201607}   
 }
 ```
 # [brunelle-ijdl16](#brunelle-ijdl16)
@@ -1182,17 +1182,17 @@ Justin Brunelle, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "**The Imp
 
 ```bibtex
 @ARTICLE {brunelle-ijdl16,
-      AUTHOR = {Justin Brunelle and Mat Kelly and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {The Impact of JavaScript on Archivability},
-      JOURNAL = {International Journal of Digital Libraries (IJDL)},
-      YEAR = {2016},
-      VOLUME = {17},
-      NUMBER = {2},
-      PAGES = {95--117},
-      MONTH = {June},
-      DOI = {10.1007/s00799-015-0140-8},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/brunelle-ijdl16.pdf},
-      PUBDATE = {201606},
+     author={Justin Brunelle and Mat Kelly and Michele C. Weigle and Michael L. Nelson},
+     title = {The Impact of JavaScript on Archivability},
+     journal = {International Journal of Digital Libraries (IJDL)},
+     year = {2016},
+     volume = 17,
+     number = 2,
+     pages = {95--117},
+     month = {June},
+     doi = {10.1007/s00799-015-0140-8},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/brunelle-ijdl16.pdf},
+     pubdate = {201606}   
 }
 ```
 # [brunelle-arxiv16](#brunelle-arxiv16)
@@ -1204,14 +1204,14 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Adapting the Hy
 
 ```bibtex
 @TECHREPORT {brunelle-arxiv16,
-      AUTHOR = {Justin F. Brunelle and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Adapting the Hypercube Model to Archive Deferred Representations and Their Descendants},
-      INSTITUTION = {arXiv},
-      NUMBER = {arxiv:1601.05142},
-      YEAR = {2016},
-      MONTH = {January},
-      ARXIV = {http://arxiv.org/abs/1601.05142},
-      PUBDATE = {201601},
+      author = {Justin F. Brunelle and Michele C. Weigle and Michael L. Nelson},
+      title = {Adapting the Hypercube Model to Archive Deferred Representations and Their Descendants},
+      institution = {arXiv},
+      number = {arxiv:1601.05142},
+      year = {2016},
+      month = {January},
+      arxiv = {http://arxiv.org/abs/1601.05142},
+      pubdate = {201601}
 }
 ```
 # [brunelle-dlib16](#brunelle-dlib16)
@@ -1223,16 +1223,16 @@ Justin F. Brunelle, Krista Ferrante, Eliot Wilczek, Michele C. Weigle, and Micha
 
 ```bibtex
 @ARTICLE {brunelle-dlib16,
-      AUTHOR = {Justin F. Brunelle and Krista Ferrante and Eliot Wilczek and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Leveraging Heritrix and the Wayback Machine on a Corporate Intranet: A Case Study on Improving Corporate Archives},
-      URL = {http://www.dlib.org/dlib/november13/kelly/11kelly.html},
-      JOURNAL = {D-Lib Magazine},
-      YEAR = {2016},
-      VOLUME = {22},
-      NUMBER = {1/2},
-      MONTH = {Jan/Feb},
-      DOI = {10.1045/january2016-brunelle},
-      PUBDATE = {201601},
+     author = {Justin F. Brunelle and Krista Ferrante and Eliot Wilczek and Michele C. Weigle and Michael L. Nelson},
+     title = {Leveraging Heritrix and the Wayback Machine on a Corporate Intranet: A Case Study on Improving Corporate Archives},
+     url = {http://www.dlib.org/dlib/november13/kelly/11kelly.html},
+     journal = {D-Lib Magazine},
+     year = {2016},
+     volume = 22,
+     number = {1/2},
+     month = {Jan/Feb},
+     doi = {10.1045/january2016-brunelle},
+     pubdate = {201601}
 }
 ```
 # [mohrehkesh-tmbmc15](#mohrehkesh-tmbmc15)
@@ -1244,16 +1244,16 @@ Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "**DRIH-MAC: A Distributed
 
 ```bibtex
 @ARTICLE {mohrehkesh-tmbmc15,
-      AUTHOR = {Shahram Mohrehkesh and Michele C. Weigle and Sajal Das},
-      TITLE = {DRIH-MAC: A Distributed Receiver-Initiated Harvesting-aware MAC for NanoNetworks},
-      JOURNAL = {IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (T-MBMC)},
-      YEAR = {2015},
-      VOLUME = {1},
-      NUMBER = {1},
-      PAGES = {97-110},
-      DOI = {10.1109/TMBMC.2015.2465519},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-tmbmc15.pdf},
-      PUBDATE = {201508},
+     author={Shahram Mohrehkesh and Michele C. Weigle and Sajal Das},
+     title = {{DRIH-MAC}: {A Distributed Receiver-Initiated Harvesting-aware MAC for NanoNetworks}},
+     journal = {IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (T-MBMC)},
+     year = {2015},
+     volume = {1},
+     number = {1},
+     pages = {97-110},
+     doi = {10.1109/TMBMC.2015.2465519},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-tmbmc15.pdf},
+     pubdate = {201508} 
 }
 ```
 # [weigle-cuwarc15](#weigle-cuwarc15)
@@ -1265,15 +1265,15 @@ Michele C. Weigle, "**Tools for Managing Seed URIs**," Talk given at the Columbi
 
 ```bibtex
 @MISC {weigle-cuwarc15,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {Tools for Managing Seed URIs},
-      HOWPUBLISHED = {Talk given at the Columbia University Web Archiving Collaboration: New Tools and Models Workshop},
-      YEAR = {2015},
-      MONTH = {June},
-      SLIDES = {http://www.slideshare.net/mweigle/detecting-offtopic-web-pages-at-cuwarc},
-      URL = {https://www.youtube.com/watch?v=yeuk_vIOXcw&t=1226},
-      ADDRESS = {New York, NY},
-      PUBDATE = {201506},
+     author={Michele C. Weigle},
+     title={Tools for Managing Seed URIs},
+     howpublished ={Talk given at the Columbia University Web Archiving Collaboration: New Tools and Models Workshop},
+     year = 2015,
+      month = {June},
+     slides = {http://www.slideshare.net/mweigle/detecting-offtopic-web-pages-at-cuwarc},
+     url = {https://www.youtube.com/watch?v=yeuk_vIOXcw&t=1226},
+     address = {New York, NY},
+     pubdate = {201506} 
 }
 ```
 # [brunelle-ipres15](#brunelle-ipres15)
@@ -1285,14 +1285,14 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Archiving Defer
 
 ```bibtex
 @INPROCEEDINGS {brunelle-ipres15,
-      AUTHOR = {Justin F. Brunelle and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Archiving Deferred Representations Using a Two-Tiered Crawling Approach},
-      BOOKTITLE = {Proceedings of the International Conference on Digital Preservation (iPRES)},
-      YEAR = {2015},
-      ADDRESS = {Chapel Hill, NC},
-      MONTH = {November},
-      PUBDATE = {201511},
-      ARXIV = {http://arxiv.org/abs/1508.02315},
+     author = {Justin F. Brunelle and Michele C. Weigle and Michael L. Nelson},
+     title = {Archiving Deferred Representations Using a Two-Tiered Crawling Approach},
+     booktitle = {Proceedings of the International Conference on Digital Preservation (iPRES)},
+     year = 2015,
+     address = {Chapel Hill, NC},
+     month = {November},
+     pubdate = {201511},
+     arxiv = {http://arxiv.org/abs/1508.02315}
 }
 ```
 # [aturban-tpdl15](#aturban-tpdl15)
@@ -1304,14 +1304,14 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Quantifying Orphan
 
 ```bibtex
 @INPROCEEDINGS {aturban-tpdl15,
-      AUTHOR = {Mohamed Aturban and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Quantifying Orphaned Annotations in Hypothes.is},
-      BOOKTITLE = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
-      ADDRESS = {Poznan, Poland},
-      YEAR = {2015},
-      MONTH = {September},
-      PUBDATE = {201509},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/aturban-tpdl15.pdf},
+     author = {Mohamed Aturban and Michael L. Nelson and Michele C. Weigle},
+     title = {Quantifying Orphaned Annotations in Hypothes.is},
+     booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+     address = {Poznan, Poland},
+     year = 2015,
+     month = {September},
+     pubdate = {201509},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/aturban-tpdl15.pdf}
 }
 ```
 # [alnoamany-tpdl15a](#alnoamany-tpdl15a)
@@ -1323,14 +1323,14 @@ Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, "**Characteristics o
 
 ```bibtex
 @INPROCEEDINGS {alnoamany-tpdl15a,
-      AUTHOR = {Yasmin Alnoamany and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Characteristics of Social Media Stories},
-      BOOKTITLE = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
-      ADDRESS = {Poznan, Poland},
-      YEAR = {2015},
-      MONTH = {September},
-      PUBDATE = {201509},
-      PDF = {http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-stories.pdf},
+     author = {Yasmin Alnoamany and Michele C. Weigle and Michael L. Nelson},
+     title = {Characteristics of Social Media Stories},
+     booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+     address = {Poznan, Poland},
+     year = 2015,
+     month = {September},
+     pubdate = {201509},
+     pdf = {http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-stories.pdf}
 }
 ```
 # [alnoamany-tpdl15b](#alnoamany-tpdl15b)
@@ -1342,14 +1342,14 @@ Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, "**Detecting Off-Top
 
 ```bibtex
 @INPROCEEDINGS {alnoamany-tpdl15b,
-      AUTHOR = {Yasmin Alnoamany and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Detecting Off-Topic Pages in Web Archives},
-      BOOKTITLE = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
-      ADDRESS = {Poznan, Poland},
-      YEAR = {2015},
-      MONTH = {September},
-      PUBDATE = {201509},
-      PDF = {http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-off-topic.pdf},
+     author = {Yasmin Alnoamany and Michele C. Weigle and Michael L. Nelson},
+     title = {Detecting Off-Topic Pages in Web Archives},
+     booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+     address = {Poznan, Poland},
+     year = 2015,
+     month = {September},
+     pubdate = {201509},
+     pdf = {http://www.cs.odu.edu/~mln/pubs/tpdl-2015/tpdl-2015-off-topic.pdf}
 }
 ```
 # [alkwai-jcdl15](#alkwai-jcdl15)
@@ -1361,18 +1361,18 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**How Well Are Arabic 
 
 ```bibtex
 @INPROCEEDINGS {alkwai-jcdl15,
-      AUTHOR = {Lulwah Alkwai and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {How Well Are Arabic Websites Archived?},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2015},
-      MONTH = {June},
-      ADDRESS = {Knoxville, TN},
-      PDF = {http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-arabic-sites.pdf},
-      KEYWORD = {award},
-      PAGES = {223-–232},
-      DOI = {10.1145/2756406.2756912},
-      AWARD = {Best Student Paper},
-      PUBDATE = {201506},
+     author={Lulwah Alkwai and Michael L. Nelson and Michele C. Weigle},
+     title = {How Well Are Arabic Websites Archived?},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2015},
+     month = {June},
+     address = {Knoxville, TN},
+     pdf = {http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-arabic-sites.pdf},
+     keyword = {award},
+     pages = {223-–232},
+     doi = {10.1145/2756406.2756912},
+     award = {Best Student Paper},
+     pubdate = {201506} 
 }
 ```
 # [jordan-jcdl15](#jordan-jcdl15)
@@ -1384,18 +1384,18 @@ Wesley Jordan, Mat Kelly, Justin F. Brunelle, Laura Vobrak, Michele C. Weigle, a
 
 ```bibtex
 @INPROCEEDINGS {jordan-jcdl15,
-      AUTHOR = {Wesley Jordan and Mat Kelly and Justin F. Brunelle and Laura Vobrak and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Mobile Mink: Merging Mobile and Desktop Archived Webs},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2015},
-      MONTH = {June},
-      ADDRESS = {Knoxville, TN},
-      AWARD = {Best Poster},
-      NOTE = {poster},
-      KEYWORD = {award},
-      PAGES = {243--244},
-      PDF = {http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-mink.pdf},
-      PUBDATE = {201506},
+     author={Wesley Jordan and Mat Kelly and Justin F. Brunelle and Laura Vobrak and Michele C. Weigle and Michael L. Nelson},
+     title = {Mobile Mink: Merging Mobile and Desktop Archived Webs},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2015},
+     month = {June},
+     address = {Knoxville, TN},
+     award = {Best Poster},
+     note = {poster},
+     keyword = {award},
+     pages = {243--244},
+     pdf = {http://www.cs.odu.edu/~mln/pubs/jcdl-2015/jcdl-2015-mink.pdf},
+     pubdate ={201506} 
 }
 ```
 # [brunelle-ijdl15b](#brunelle-ijdl15b)
@@ -1407,17 +1407,17 @@ Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. 
 
 ```bibtex
 @ARTICLE {brunelle-ijdl15b,
-      AUTHOR = {Justin Brunelle and Mat Kelly and Hany SalahEldeen and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources},
-      JOURNAL = {International Journal of Digital Libraries (IJDL)},
-      MONTH = {September},
-      YEAR = {2015},
-      VOLUME = {16},
-      NUMBER = {3-4},
-      PAGES = {283--301},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/brunelle-ijdl15b.pdf},
-      DOI = {10.1007/s00799-015-0150-6},
-      PUBDATE = {201509},
+     author={Justin Brunelle and Mat Kelly and Hany SalahEldeen and Michele C. Weigle and Michael L. Nelson},
+     title = {Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources},
+     journal = {International Journal of Digital Libraries (IJDL)},
+     month = {September},
+     year = {2015},
+     volume = {16},
+     number = {3-4},
+     pages = {283--301},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/brunelle-ijdl15b.pdf},
+     doi = {10.1007/s00799-015-0150-6},
+     pubdate = {201509} 
 }
 ```
 # [weigle-capwic15](#weigle-capwic15)
@@ -1429,15 +1429,15 @@ Michele C. Weigle, "**What's Grad School All About?**," Talk given at the Capita
 
 ```bibtex
 @MISC {weigle-capwic15,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {What's Grad School All About?},
-      HOWPUBLISHED = {Talk given at the Capital Region Celebration of Women in Computing (CAPWIC)},
-      YEAR = {2015},
-      MONTH = {February},
-      SLIDES = {http://www.slideshare.net/mweigle/2015-cap-wic},
-      ADDRESS = {Harrisonburg, VA},
-      TRIPREPORT = {http://ws-dl.blogspot.com/2015/03/2015-03-23-2015-capital-region.html},
-      PUBDATE = {201502},
+     author={Michele C. Weigle},
+     title={What's Grad School All About?},
+     howpublished ={Talk given at the Capital Region Celebration of Women in Computing (CAPWIC)},
+     year = 2015,
+      month = {February},
+     slides = {http://www.slideshare.net/mweigle/2015-cap-wic},
+     address = {Harrisonburg, VA},
+     tripreport = {http://ws-dl.blogspot.com/2015/03/2015-03-23-2015-capital-region.html},
+     pubdate = {201502} 
 }
 ```
 # [weigle-ece15](#weigle-ece15)
@@ -1449,15 +1449,15 @@ Michele C. Weigle, "**Tools for Managing the Past Web**," Graduate Seminar, ODU 
 
 ```bibtex
 @MISC {weigle-ece15,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {Tools for Managing the Past Web},
-      HOWPUBLISHED = {Graduate Seminar, ODU Department of Electrical and Computing Engineering},
-      URL = {https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html},
-      YEAR = {2015},
-      MONTH = {February},
-      SLIDES = {http://www.slideshare.net/mweigle/2015-oduecetalk},
-      ADDRESS = {Norfolk, VA},
-      PUBDATE = {201502},
+     author={Michele C. Weigle},
+     title={Tools for Managing the Past Web},
+     howpublished ={Graduate Seminar, ODU Department of Electrical and Computing Engineering},
+     url = {https://www.odu.edu/announcements/faculty-staff/2015/2/16/ece_graduate_seminar.iframe.html},
+     year = 2015,
+      month = {February},
+     slides = {http://www.slideshare.net/mweigle/2015-oduecetalk},
+     address = {Norfolk, VA},
+     pubdate = {201502} 
 }
 ```
 # [rawat-ahswn15](#rawat-ahswn15)
@@ -1469,16 +1469,16 @@ Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "**Trust On t
 
 ```bibtex
 @ARTICLE {rawat-ahswn15,
-      AUTHOR = {Danda B. Rawat and Bhed B. Bista and Gongjun Yan and Michele C. Weigle},
-      TITLE = {Trust On the Security of Wireless Vehicular Ad-hoc Networking},
-      JOURNAL = {Ad Hoc & Sensor Wireless Networks},
-      YEAR = {2015},
-      PUBDATE = {201503},
-      VOLUME = {24},
-      NUMBER = {3-4},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/rawat-ahswn15.pdf},
-      URL = {http://www.oldcitypublishing.com/journals/ahswn-home/ahswn-issue-contents/ahswn-volume-24-number-3-4-2015/ahswn-24-3-4-p-283-305/},
-      PAGES = {283--305},
+     author = {Danda B. Rawat and Bhed B. Bista and Gongjun Yan and Michele C. Weigle},
+     title = {Trust On the Security of Wireless Vehicular Ad-hoc Networking},
+     journal = {Ad Hoc \& Sensor Wireless Networks},
+     year = 2015,
+     pubdate ={201503},
+     volume = 24,
+     number ={3-4},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/rawat-ahswn15.pdf},
+     url = {http://www.oldcitypublishing.com/journals/ahswn-home/ahswn-issue-contents/ahswn-volume-24-number-3-4-2015/ahswn-24-3-4-p-283-305/},
+     pages = {283--305}
 }
 ```
 # [mohrehkesh-jsac14](#mohrehkesh-jsac14)
@@ -1490,18 +1490,18 @@ Shahram Mohrehkesh, and Michele C. Weigle, "**Optimizing Energy Consumption in T
 
 ```bibtex
 @ARTICLE {mohrehkesh-jsac14,
-      AUTHOR = {Shahram Mohrehkesh and Michele C. Weigle},
-      JOURNAL = {IEEE Journal on Selected Areas in Communications, Series on Molecular, Biological, and Multi-Scale Communications},
-      TITLE = {Optimizing Energy Consumption in Terahertz Band Nanonetworks},
-      YEAR = {2014},
-      MONTH = {December},
-      VOLUME = {32},
-      NUMBER = {12},
-      PAGES = {2432-2441},
-      DOI = {10.1109/JSAC.2014.2367668},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-jsac14.pdf},
-      ISSN = {0733-8716},
-      PUBDATE = {201412},
+      author={Shahram Mohrehkesh and Michele C. Weigle},
+      journal={IEEE Journal on Selected Areas in Communications, Series on Molecular, Biological, and Multi-Scale Communications},
+      title={Optimizing Energy Consumption in Terahertz Band Nanonetworks},
+       year={2014},
+      month={December},
+      volume={32},
+      number={12},
+      pages={2432-2441},
+      doi={10.1109/JSAC.2014.2367668},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-jsac14.pdf},
+     ISSN={0733-8716},
+     pubdate = {201412}
 }
 ```
 # [weigle-aitpartners-14](#weigle-aitpartners-14)
@@ -1513,14 +1513,14 @@ Michele C. Weigle, "**Tools for Managing the Past Web**," Talk given at the Arch
 
 ```bibtex
 @MISC {weigle-aitpartners-14,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {Tools for Managing the Past Web},
-      HOWPUBLISHED = {Talk given at the Archive-It Partners Meeting},
-      YEAR = {2014},
-      MONTH = {November},
-      SLIDES = {http://www.slideshare.net/mweigle/2014-weigleaitpublic},
-      ADDRESS = {Montgomery, AL},
-      PUBDATE = {201411},
+     author={Michele C. Weigle},
+     title={Tools for Managing the Past Web},
+     howpublished ={Talk given at the Archive-It Partners Meeting},
+     year = 2014,
+      month = {November},
+     slides = {http://www.slideshare.net/mweigle/2014-weigleaitpublic},
+     address = {Montgomery, AL},
+     pubdate = {201411} 
 }
 ```
 # [mohrehkesh-misenet14](#mohrehkesh-misenet14)
@@ -1532,17 +1532,17 @@ Shahram Mohrehkesh, Aaron Walden, Xianping Wang, Michele C. Weigle, and Stephan 
 
 ```bibtex
 @INPROCEEDINGS {mohrehkesh-misenet14,
-      AUTHOR = {Shahram Mohrehkesh and Aaron Walden and Xianping Wang and Michele C. Weigle and Stephan Olariu},
-      TITLE = {Towards Building Asset Registry in Emergency Response},
-      BOOKTITLE = {Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)},
-      YEAR = {2014},
-      PUBDATE = {201410},
-      ADDRESS = {Philadelphia, PA},
-      DOI = {10.1109/MASS.2014.91},
-      MONTH = {October},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-misenet14.pdf},
-      AWARD = {Best Paper},
-      KEYWORD = {award},
+     author = {Shahram Mohrehkesh and Aaron Walden and Xianping Wang and Michele C. Weigle and Stephan Olariu},
+     title = {Towards Building Asset Registry in Emergency Response},
+     booktitle = {Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)},
+     year = {2014},
+     pubdate = {201410},
+     address = {Philadelphia, PA},
+     doi = {10.1109/MASS.2014.91},
+     month = {October},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-misenet14.pdf},
+     award = {Best Paper},
+     keyword = {award}
 }
 ```
 # [weigle-nehodh-14](#weigle-nehodh-14)
@@ -1554,15 +1554,15 @@ Michele C. Weigle, "**Archive What I See Now: Bringing Institutional Web Archivi
 
 ```bibtex
 @MISC {weigle-nehodh-14,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher},
-      HOWPUBLISHED = {Talk given at the NEH ODH Project Directors' Meeting},
-      YEAR = {2014},
-      MONTH = {September},
-      URL = {https://www.youtube.com/watch?v=UI-rxeEnhvk&feature=youtu.be&t=4338},
-      SLIDES = {http://www.slideshare.net/mweigle/2014-weigleneh},
-      ADDRESS = {Washington, DC},
-      PUBDATE = {201409},
+     author={Michele C. Weigle},
+     title={Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher},
+     howpublished ={Talk given at the NEH ODH Project Directors' Meeting},
+     year = 2014,
+      month = {September},
+     url = {https://www.youtube.com/watch?v=UI-rxeEnhvk&feature=youtu.be&t=4338},
+     slides = {http://www.slideshare.net/mweigle/2014-weigleneh},
+     address = {Washington, DC},
+     pubdate = {201409} 
 }
 ```
 # [kelly-jcdl14-a](#kelly-jcdl14-a)
@@ -1574,16 +1574,16 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Mink: Integrating the Li
 
 ```bibtex
 @INPROCEEDINGS {kelly-jcdl14-a,
-      AUTHOR = {Mat Kelly and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Mink: Integrating the Live and Archived Web Viewing Experience Using Web Browsers and Memento},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2014},
-      PUBDATE = {201409},
-      PAGES = {469--470},
-      DOI = {10.1109/JCDL.2014.6970229},
-      ADDRESS = {London},
-      MONTH = {September},
-      PDF = {http://www.cs.odu.edu/~mln/pubs/jcdl-2014/jcdl-2014-kelly-mink.pdf},
+     author={Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+     title = {Mink: Integrating the Live and Archived Web Viewing Experience Using Web Browsers and Memento},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2014},
+     pubdate = {201409},
+     pages = {469--470},
+     doi = {10.1109/JCDL.2014.6970229},
+     address = {London},
+      month = {September},
+     pdf = {http://www.cs.odu.edu/~mln/pubs/jcdl-2014/jcdl-2014-kelly-mink.pdf} 
 }
 ```
 # [kelly-jcdl14-b](#kelly-jcdl14-b)
@@ -1595,16 +1595,16 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**The Archival Acid Test: 
 
 ```bibtex
 @INPROCEEDINGS {kelly-jcdl14-b,
-      AUTHOR = {Mat Kelly and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {The Archival Acid Test: Evaluating Archive Performance on Advanced HTML and JavaScript},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2014},
-      PUBDATE = {201409},
-      PAGES = {25--28},
-      DOI = {10.1109/JCDL.2014.6970146},
-      ADDRESS = {London},
-      MONTH = {September},
-      PDF = {http://www.cs.odu.edu/~mkelly/papers/2014_dl_acid.pdf},
+     author={Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+     title = {The Archival Acid Test: Evaluating Archive Performance on Advanced {HTML} and {JavaScript}},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2014},
+     pubdate = {201409},
+     pages = {25--28},
+     doi = {10.1109/JCDL.2014.6970146},
+     address = {London},
+      month = {September},
+     pdf = {http://www.cs.odu.edu/~mkelly/papers/2014_dl_acid.pdf} 
 }
 ```
 # [brunelle-jcdl14](#brunelle-jcdl14)
@@ -1616,18 +1616,18 @@ Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. 
 
 ```bibtex
 @INPROCEEDINGS {brunelle-jcdl14,
-      AUTHOR = {Justin Brunelle and Mat Kelly and Hany SalahEldeen and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2014},
-      PUBDATE = {201409},
-      PAGES = {321--330},
-      DOI = {10.1109/JCDL.2014.6970187},
-      ADDRESS = {London},
-      MONTH = {September},
-      AWARD = {Best Student Paper},
-      KEYWORD = {award},
-      PDF = {http://www.cs.odu.edu/~mln/pubs/jcdl-2014/jcdl-2014-brunelle-damage.pdf},
+     author={Justin Brunelle and Mat Kelly and Hany SalahEldeen and Michele C. Weigle and Michael L. Nelson},
+     title = {Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2014},
+     pubdate = {201409},
+     pages = {321--330},
+     doi  = {10.1109/JCDL.2014.6970187},
+     address = {London},
+      month = {September},
+     award = {Best Student Paper},
+     keyword = {award},
+     pdf = {http://www.cs.odu.edu/~mln/pubs/jcdl-2014/jcdl-2014-brunelle-damage.pdf} 
 }
 ```
 # [wang-milcom14](#wang-milcom14)
@@ -1639,16 +1639,16 @@ Xianping Wang, Aaron Walden, Michele C. Weigle, and Stephan Olariu, "**Strategie
 
 ```bibtex
 @INPROCEEDINGS {wang-milcom14,
-      AUTHOR = {Xianping Wang and Aaron Walden and Michele C. Weigle and Stephan Olariu},
-      TITLE = {Strategies for Sensor Data Aggregation in Support of Emergency Response},
-      BOOKTITLE = {Proceedings of the Military Communications Conference (MILCOM)},
-      YEAR = {2014},
-      DOI = {http://dx.doi.org/10.1109/MILCOM.2014.189},
-      ADDRESS = {Baltimore, MD},
-      PUBDATE = {201410},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/wang-milcom14.pdf},
-      SLIDES = {http://www.slideshare.net/mweigle/wangmilcom2014},
-      MONTH = {October},
+     author = {Xianping Wang and Aaron Walden and Michele C. Weigle and Stephan Olariu},
+     title = {Strategies for Sensor Data Aggregation in Support of Emergency Response},
+     booktitle = {Proceedings of the Military Communications Conference (MILCOM)},
+     year = {2014},
+     doi = {http://dx.doi.org/10.1109/MILCOM.2014.189},
+     address = {Baltimore, MD},
+     pubdate = {201410},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/wang-milcom14.pdf},
+     slides = {http://www.slideshare.net/mweigle/wangmilcom2014},
+     month = {October} 
 }
 ```
 # [ruffing-milcom14](#ruffing-milcom14)
@@ -1660,16 +1660,16 @@ Michael Ruffing, Yang He, Jason Hallstrom, Mat Kelly, Stephan Olariu, and Michel
 
 ```bibtex
 @INPROCEEDINGS {ruffing-milcom14,
-      AUTHOR = {Michael Ruffing and Yang He and Jason Hallstrom and Mat Kelly and Stephan Olariu and Michele C. Weigle},
-      TITLE = {A Retasking Framework For Wireless Sensor Networks},
-      BOOKTITLE = {Proceedings of the Military Communications Conference (MILCOM)},
-      DOI = {http://dx.doi.org/10.1109/MILCOM.2014.181},
-      YEAR = {2014},
-      ADDRESS = {Baltimore, MD},
-      PUBDATE = {201410},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/ruffing-milcom14.pdf},
-      SLIDES = {http://www.slideshare.net/mweigle/yangmilcom2014},
-      MONTH = {October},
+     author = {Michael Ruffing and Yang He and Jason Hallstrom and Mat Kelly and Stephan Olariu and Michele C. Weigle},
+     title = {A Retasking Framework For Wireless Sensor Networks},
+     booktitle = {Proceedings of the Military Communications Conference (MILCOM)},
+     doi = {http://dx.doi.org/10.1109/MILCOM.2014.181},
+     year = {2014},
+     address = {Baltimore, MD},
+     pubdate = {201410},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/ruffing-milcom14.pdf},
+     slides = {http://www.slideshare.net/mweigle/yangmilcom2014},
+     month = {October} 
 }
 ```
 # [alsum-ijdl14](#alsum-ijdl14)
@@ -1681,17 +1681,17 @@ Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, "*
 
 ```bibtex
 @ARTICLE {alsum-ijdl14,
-      AUTHOR = {Ahmed AlSum and Michele C. Weigle and Michael L. Nelson and Herbert Van de Sompel},
-      TITLE = {Profiling Web Archive Coverage for Top-Level Domain and Content Language},
-      JOURNAL = {International Journal of Digital Libraries (IJDL)},
-      YEAR = {2014},
-      VOLUME = {14},
-      NUMBER = {3-4},
-      PAGES = {149--166},
-      PUBDATE = {201408},
-      MONTH = {August},
-      DOI = {10.1007/s00799-014-0118-y},
-      PDF = {http://www.cs.odu.edu/~aalsum/pubs/ArchiveDescriptor.pdf},
+     author={Ahmed AlSum and Michele C. Weigle and Michael L. Nelson and Herbert Van de Sompel},
+     title = {Profiling Web Archive Coverage for Top-Level Domain and Content Language},
+     journal = {International Journal of Digital Libraries (IJDL)},
+     year = {2014},
+     volume = 14,
+     number = {3-4},
+     pages = {149--166},
+     pubdate = {201408},
+     month = {August},
+     doi = {10.1007/s00799-014-0118-y},
+     pdf = {http://www.cs.odu.edu/~aalsum/pubs/ArchiveDescriptor.pdf} 
 }
 ```
 # [alnoamany-ijdl14](#alnoamany-ijdl14)
@@ -1703,18 +1703,18 @@ Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, "**Who 
 
 ```bibtex
 @ARTICLE {alnoamany-ijdl14,
-      AUTHOR = {Yasmin AlNoamany and Ahmed AlSum and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Who and What Links to the Internet Archive},
-      JOURNAL = {International Journal of Digital Libraries (IJDL)},
-      YEAR = {2014},
-      MONTH = {August},
-      VOLUME = {14},
-      NUMBER = {3-4},
-      PAGES = {101--115},
-      PUBDATE = {201408},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/alnoamany-ijdl14.pdf},
-      ISSN = {1432-5012},
-      DOI = {10.1007/s00799-014-0111-5},
+     author={Yasmin AlNoamany and Ahmed AlSum and Michele C. Weigle and Michael L. Nelson},
+     title = {Who and What Links to the Internet Archive},
+     journal = {International Journal of Digital Libraries (IJDL)},
+     year = {2014},
+     month = {August},
+     volume = 14,
+     number = {3-4},
+     pages = {101--115},
+     pubdate = {201408},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/alnoamany-ijdl14.pdf},
+     issn={1432-5012},
+     doi={10.1007/s00799-014-0111-5} 
 }
 ```
 # [mohrehkesh-nanonet14](#mohrehkesh-nanonet14)
@@ -1726,15 +1726,15 @@ Shahram Mohrehkesh, and Michele C. Weigle, "**RIH-MAC: Receiver-Initiated Harves
 
 ```bibtex
 @INPROCEEDINGS {mohrehkesh-nanonet14,
-      AUTHOR = {Shahram Mohrehkesh and Michele C. Weigle},
-      TITLE = {RIH-MAC: Receiver-Initiated Harvesting-aware MAC for NanoNetworks},
-      BOOKTITLE = {Proceedings of the ACM International Conference on Nanoscale Computing and Communication},
-      YEAR = {2014},
-      ADDRESS = {Atlanta, GA},
-      DOI = {10.1145/2619955.2619962},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-nanocom14.pdf},
-      PUBDATE = {201405},
-      MONTH = {May},
+     author = {Shahram Mohrehkesh and Michele C. Weigle},
+     title = {{RIH-MAC: Receiver-Initiated Harvesting-aware MAC for NanoNetworks}},
+     booktitle = {Proceedings of the ACM International Conference on Nanoscale Computing and Communication},
+     year = {2014},
+     address = {Atlanta, GA},
+     doi = {10.1145/2619955.2619962},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-nanocom14.pdf},
+     pubdate = {201405},
+     month = {May} 
 }
 ```
 # [olariu-MCCR14](#olariu-MCCR14)
@@ -1746,19 +1746,19 @@ Stephan Olariu, Shahram Mohrehkesh, Xianping Wang, and Michele C. Weigle, "**On 
 
 ```bibtex
 @ARTICLE {olariu-MCCR14,
-      AUTHOR = {Stephan Olariu and Shahram Mohrehkesh and Xianping Wang and Michele C. Weigle},
-      TITLE = {On Aggregating Information in Actor Networks},
-      JOURNAL = {SIGMOBILE Mobile Computing Communications Review},
-      ISSUE_DATE = {January 2014},
-      VOLUME = {18},
-      NUMBER = {1},
-      MONTH = {January},
-      YEAR = {2014},
-      PUBDATE = {201401 issn = 1559-1662},
-      PAGES = {85--96},
-      NUMPAGES = {12},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/olariu-mccr14.pdf},
-      DOI = {10.1145/2581555.2581569},
+     author = {Stephan Olariu and Shahram Mohrehkesh and Xianping Wang and Michele C. Weigle},
+     title = {On Aggregating Information in Actor Networks},
+     journal = {SIGMOBILE Mobile Computing Communications Review},
+     issue_date = {January 2014},
+     volume = {18},
+     number = {1},
+     month = January,
+     year = {2014},
+     pubdate = {201401} issn = {1559-1662},
+     pages = {85--96},
+     numpages = {12},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/olariu-mccr14.pdf},
+     doi = {10.1145/2581555.2581569}
 }
 ```
 # [almalag-iccve13](#almalag-iccve13)
@@ -1770,15 +1770,15 @@ Mohammad Almalag, Michele C. Weigle, Stephan Olariu, and Samy El-Tawab, "**A Mod
 
 ```bibtex
 @INPROCEEDINGS {almalag-iccve13,
-      AUTHOR = {Mohammad Almalag and Michele C. Weigle and Stephan Olariu and Samy El-Tawab},
-      TITLE = {A Modified TC-MAC Protocol for Multi-hop Cluster Communications in VANETs},
-      BOOKTITLE = {Proceedings of IEEE Connected Vehicles and Expo (ICCVE)},
-      YEAR = {2013},
-      PUBDATE = {201312},
-      DOI = {http://dx.doi.org/10.1109/ICCVE.2013.6799909},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/almalag-iccve13.pdf},
-      ADDRESS = {Las Vegas},
-      MONTH = {December},
+     author = {Mohammad Almalag and Michele C. Weigle and Stephan Olariu and Samy El-Tawab},
+     title = {A Modified {TC-MAC} Protocol for Multi-hop Cluster Communications in {VANETs}},
+     booktitle = {Proceedings of IEEE Connected Vehicles and Expo (ICCVE)},
+     year = {2013},
+     pubdate = {201312},
+     doi = {http://dx.doi.org/10.1109/ICCVE.2013.6799909},
+     pdf ={http://www.cs.odu.edu/~mweigle/papers/almalag-iccve13.pdf},
+     address = {Las Vegas},
+     month = {December} 
 }
 ```
 # [weigle-sewic13](#weigle-sewic13)
@@ -1790,15 +1790,15 @@ Michele C. Weigle, "**Telling Stories with Web Archives**," Keynote given at the
 
 ```bibtex
 @MISC {weigle-sewic13,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {Telling Stories with Web Archives},
-      HOWPUBLISHED = {Keynote given at the Southeast Women in Computing Conference},
-      YEAR = {2013},
-      MONTH = {November},
-      SLIDES = {http://www.slideshare.net/mweigle/telling-stories-with-web-archives},
-      ADDRESS = {Lake Guntersville, AL},
-      TRIPREPORT = {http://ws-dl.blogspot.com/2013/11/2013-11-21-2013-southeast-women-in.html},
-      PUBDATE = {201311},
+     author={Michele C. Weigle},
+     title={Telling Stories with Web Archives},
+     howpublished ={Keynote given at the Southeast Women in Computing Conference},
+     year = 2013,
+      month = {November},
+     slides = {http://www.slideshare.net/mweigle/telling-stories-with-web-archives},
+     address = {Lake Guntersville, AL},
+     tripreport = {http://ws-dl.blogspot.com/2013/11/2013-11-21-2013-southeast-women-in.html},
+     pubdate = {201311} 
 }
 ```
 # [kelly-dlib13](#kelly-dlib13)
@@ -1810,15 +1810,15 @@ Mat Kelly, Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**A Me
 
 ```bibtex
 @ARTICLE {kelly-dlib13,
-      AUTHOR = {Mat Kelly and Justin F. Brunelle and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {A Method for Identifying Personalized Representations in the Archives},
-      URL = {http://www.dlib.org/dlib/november13/kelly/11kelly.html},
-      JOURNAL = {D-Lib Magazine},
-      YEAR = {2013},
-      VOLUME = {19},
-      NUMBER = {11/12},
-      MONTH = {Nov/Dec},
-      PUBDATE = {201311},
+     author = {Mat Kelly and Justin F. Brunelle and Michele C. Weigle and Michael L. Nelson},
+     title = {A Method for Identifying Personalized Representations in the Archives},
+     url = {http://www.dlib.org/dlib/november13/kelly/11kelly.html},
+     journal = {D-Lib Magazine},
+     year = {2013},
+     volume = 19,
+     number = {11/12},
+     month = {Nov/Dec},
+     pubdate = {201311}
 }
 ```
 # [kelly-infovis13](#kelly-infovis13)
@@ -1830,15 +1830,15 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Graph-Based Navigation o
 
 ```bibtex
 @MISC {kelly-infovis13,
-      AUTHOR = {Mat Kelly and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Graph-Based Navigation of a Box Office Prediction System},
-      HOWPUBLISHED = {Poster presented at IEEE VIS},
-      YEAR = {2013},
-      PUBDATE = {201310},
-      ADDRESS = {Atlanta, GA},
-      MONTH = {October},
-      PDF = {http://www.cs.odu.edu/~mkelly/papers/2013_ieeevis_boxofficeprediction.pdf},
-      POSTER = {http://www.cs.odu.edu/~mkelly/posters/2013_vis_boxoffice.pdf},
+     author = {Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+     title = {Graph-Based Navigation of a Box Office Prediction System},
+     howpublished = {Poster presented at IEEE VIS},
+     year = {2013},
+     pubdate = {201310},
+     address = {Atlanta, GA},
+     month = {October},
+     pdf = {http://www.cs.odu.edu/~mkelly/papers/2013_ieeevis_boxofficeprediction.pdf},
+     poster = {http://www.cs.odu.edu/~mkelly/posters/2013_vis_boxoffice.pdf} 
 }
 ```
 # [rawat-adhoc13](#rawat-adhoc13)
@@ -1850,16 +1850,16 @@ Danda Rawat, Geert Heijenk, Michele C. Weigle, Bhed Bista, and Yuh-Shyan Chen, "
 
 ```bibtex
 @ARTICLE {rawat-adhoc13,
-      AUTHOR = {Danda Rawat and Geert Heijenk and Michele C. Weigle and Bhed Bista and Yuh-Shyan Chen},
-      TITLE = {Special Issue of Ad Hoc Networks on Recent Advances in Vehicular Communications and Networking Editorial},
-      JOURNAL = {Ad Hoc Networks},
-      YEAR = {2013},
-      VOLUME = {11},
-      NUMBER = {7},
-      DOI = {http://dx.doi.org/10.1016/j.adhoc.2013.08.001},
-      PAGES = {1989--1991},
-      MONTH = {September},
-      PUBDATE = {201309},
+    author = {Danda Rawat and Geert Heijenk and Michele C. Weigle and Bhed Bista and Yuh-Shyan Chen},
+    title = {Special Issue of Ad Hoc Networks on Recent Advances in Vehicular Communications and Networking Editorial},
+    journal = {Ad Hoc Networks},
+    year = {2013},
+    volume = 11,
+    number = 7,
+    doi = {http://dx.doi.org/10.1016/j.adhoc.2013.08.001},
+    pages = {1989--1991},
+    month = {September},
+    pubdate = {201309}
 }
 ```
 # [kelly-dp13](#kelly-dp13)
@@ -1871,14 +1871,14 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**WARCreate and WAIL: WARC
 
 ```bibtex
 @MISC {kelly-dp13,
-      AUTHOR = {Mat Kelly and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {WARCreate and WAIL: WARC, Wayback, and Heritrix Made Easy},
-      HOWPUBLISHED = {Presentation and demo at Digital Preservation},
-      YEAR = {2013},
-      MONTH = {July},
-      ADDRESS = {Arlington, VA},
-      SLIDES = {http://www.slideshare.net/matkelly01/digital-preservation-2013},
-      PUBDATE = {201307},
+     author={Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+     title={{WARCreate} and {WAIL}: {WARC}, {Wayback}, and {Heritrix} Made Easy},
+     howpublished ={Presentation and demo at Digital Preservation},
+     year = 2013,
+      month = {July},
+     address = {Arlington, VA},
+     slides = {http://www.slideshare.net/matkelly01/digital-preservation-2013},
+     pubdate = {201307} 
 }
 ```
 # [olariu-misenet13](#olariu-misenet13)
@@ -1890,17 +1890,17 @@ Stephan Olariu, Shahram Mohrehkesh, and Michele C. Weigle, "**Toward Aggregating
 
 ```bibtex
 @INPROCEEDINGS {olariu-misenet13,
-      AUTHOR = {Stephan Olariu and Shahram Mohrehkesh and Michele C. Weigle},
-      TITLE = {Toward Aggregating Time-Discounted Information},
-      BOOKTITLE = {Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)},
-      YEAR = {2013},
-      PUBDATE = {201310},
-      ADDRESS = {Miami, FL},
-      DOI = {http://dx.doi.org/10.1145/2509338.2509340},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/olariu-misenet13.pdf},
-      MONTH = {October},
-      KEYWORD = {award},
-      AWARD = {Best Paper},
+     author = {Stephan Olariu and Shahram Mohrehkesh and Michele C. Weigle},
+     title = {Toward Aggregating Time-Discounted Information},
+     booktitle = {Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)},
+     year = {2013},
+     pubdate = {201310},
+     address = {Miami, FL},
+     doi = {http://dx.doi.org/10.1145/2509338.2509340},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/olariu-misenet13.pdf},
+     month = {October},
+     keyword = {award},
+     award = {Best Paper} 
 }
 ```
 # [mohrehkesh-misenet13](#mohrehkesh-misenet13)
@@ -1912,15 +1912,15 @@ Shahram Mohrehkesh, Stephan Olariu, and Michele C. Weigle, "**A Framework for As
 
 ```bibtex
 @INPROCEEDINGS {mohrehkesh-misenet13,
-      AUTHOR = {Shahram Mohrehkesh and Stephan Olariu and Michele C. Weigle},
-      TITLE = {A Framework for Assessing the Quality of Event Detection in Sensor Networks},
-      BOOKTITLE = {Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)},
-      YEAR = {2013},
-      PUBDATE = {201310},
-      DOI = {http://dx.doi.org/10.1145/2509338.2509341},
-      ADDRESS = {Miami, FL},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-misenet13.pdf},
-      MONTH = {October},
+     author = {Shahram Mohrehkesh and Stephan Olariu and Michele C. Weigle},
+     title = {A Framework for Assessing the Quality of Event Detection in Sensor Networks},
+     booktitle = {Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet)},
+     year = {2013},
+     pubdate = {201310},
+     doi = {http://dx.doi.org/10.1145/2509338.2509341},
+     address = {Miami, FL},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-misenet13.pdf},
+     month = {October} 
 }
 ```
 # [mohrehkesh-globecom13](#mohrehkesh-globecom13)
@@ -1932,16 +1932,16 @@ Shahram Mohrehkesh, and Michele C. Weigle, "**Optimizing Communication Energy Co
 
 ```bibtex
 @INPROCEEDINGS {mohrehkesh-globecom13,
-      AUTHOR = {Shahram Mohrehkesh and Michele C. Weigle},
-      TITLE = {Optimizing Communication Energy Consumption in Perpetual Wireless Nanosensor Networks},
-      BOOKTITLE = {Proceedings of the IEEE Globecom},
-      YEAR = {2013},
-      PUBDATE = {201312},
-      ADDRESS = {Atlanta, GA},
-      MONTH = {December},
-      DOI = {http://dx.doi.org/10.1109/GLOCOM.2013.6831128},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-globecom13.pdf},
-      AR = {acceptance: 37% (841/2272)},
+     author = {Shahram Mohrehkesh and Michele C. Weigle},
+     title = {Optimizing Communication Energy Consumption in Perpetual Wireless Nanosensor Networks},
+     booktitle = {Proceedings of the IEEE Globecom},
+     year = {2013},
+     pubdate = {201312},
+     address = {Atlanta, GA},
+     month = {December},
+     doi = {http://dx.doi.org/10.1109/GLOCOM.2013.6831128},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-globecom13.pdf},
+     AR = {acceptance: 37\% (841/2272)} 
 }
 ```
 # [kelly-tpdl13](#kelly-tpdl13)
@@ -1953,18 +1953,18 @@ Mat Kelly, Justin Brunelle, Michele C. Weigle, and Michael L. Nelson, "**On the 
 
 ```bibtex
 @INPROCEEDINGS {kelly-tpdl13,
-      AUTHOR = {Mat Kelly and Justin Brunelle and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {On the Change in Archivability of Websites Over Time},
-      BOOKTITLE = {Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)},
-      YEAR = {2013},
-      PUBDATE = {201309},
-      ADDRESS = {Valletta, Malta},
-      MONTH = {September},
-      DOI = {10.1007/978-3-642-40501-3_5},
-      PDF = {http://www.cs.odu.edu/~mln/pubs/tpdl-2013/paper_126.pdf},
-      SLIDES = {http://www.slideshare.net/phonedude/on-the-change-in-archivability-of-websites-over-time},
-      ARXIV = {http://arxiv.org/abs/1307.8067},
-      AR = {acceptance: 24% (24/101)},
+     author={Mat Kelly and Justin Brunelle and Michele C. Weigle and Michael L. Nelson},
+     title = {On the Change in Archivability of Websites Over Time},
+     booktitle = {Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)},
+     year = {2013},
+     pubdate = {201309},
+     address = {Valletta, Malta},
+      month = {September},
+     doi = {10.1007/978-3-642-40501-3_5},
+     pdf = {http://www.cs.odu.edu/~mln/pubs/tpdl-2013/paper_126.pdf},
+     slides = {http://www.slideshare.net/phonedude/on-the-change-in-archivability-of-websites-over-time},
+     arxiv = {http://arxiv.org/abs/1307.8067},
+     AR = {acceptance: 24\% (24/101)} 
 }
 ```
 # [alnoamany-tpdl13](#alnoamany-tpdl13)
@@ -1976,19 +1976,19 @@ Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, "**Who 
 
 ```bibtex
 @INPROCEEDINGS {alnoamany-tpdl13,
-      AUTHOR = {Yasmin AlNoamany and Ahmed AlSum and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Who and What Links to the Internet Archive},
-      BOOKTITLE = {Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)},
-      YEAR = {2013},
-      PUBDATE = {201309},
-      ADDRESS = {Valletta, Malta},
-      MONTH = {September},
-      AR = {acceptance: 24% (24/101)},
-      ARXIV = {http://arxiv.org/abs/1309.4016},
-      PDF = {http://www.cs.odu.edu/~mln/pubs/tpdl-2013/paper_149.pdf},
-      DOI = {10.1007/978-3-642-40501-3_35},
-      KEYWORD = {award},
-      AWARD = {Best Student Paper},
+     author={Yasmin AlNoamany and Ahmed AlSum and Michele C. Weigle and Michael L. Nelson},
+     title = {Who and What Links to the Internet Archive},
+     booktitle = {Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)},
+     year = {2013},
+     pubdate = {201309},
+     address = {Valletta, Malta},
+      month = {September},
+     AR = {acceptance: 24\% (24/101)},
+     arxiv = {http://arxiv.org/abs/1309.4016},
+     pdf = {http://www.cs.odu.edu/~mln/pubs/tpdl-2013/paper_149.pdf},
+     doi = {10.1007/978-3-642-40501-3_35},
+     keyword = {award},
+     award = {Best Student Paper} 
 }
 ```
 # [alsum-tpdl13](#alsum-tpdl13)
@@ -2000,18 +2000,18 @@ Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, "*
 
 ```bibtex
 @INPROCEEDINGS {alsum-tpdl13,
-      AUTHOR = {Ahmed AlSum and Michele C. Weigle and Michael L. Nelson and Herbert Van de Sompel},
-      TITLE = {Profiling Web Archive Coverage for Top-Level Domain and Content Language},
-      BOOKTITLE = {Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)},
-      YEAR = {2013},
-      PUBDATE = {201309},
-      ADDRESS = {Valletta, Malta},
-      MONTH = {September},
-      SLIDES = {http://www.slideshare.net/phonedude/profiling-web-archive-coverage-for-toplevel-domain-and-content-language},
-      DOI = {10.1007/978-3-642-40501-3_7},
-      PDF = {http://www.cs.odu.edu/~mln/pubs/tpdl-2013/paper_134.pdf},
-      ARXIV = {http://arxiv.org/abs/1309.4008},
-      AR = {acceptance: 24% (24/101)},
+     author={Ahmed AlSum and Michele C. Weigle and Michael L. Nelson and Herbert Van de Sompel},
+     title = {Profiling Web Archive Coverage for Top-Level Domain and Content Language},
+     booktitle = {Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL)},
+     year = {2013},
+     pubdate = {201309},
+     address = {Valletta, Malta},
+      month = {September},
+     slides = {http://www.slideshare.net/phonedude/profiling-web-archive-coverage-for-toplevel-domain-and-content-language},
+     doi = {10.1007/978-3-642-40501-3_7},
+     pdf = {http://www.cs.odu.edu/~mln/pubs/tpdl-2013/paper_134.pdf},
+     arxiv = {http://arxiv.org/abs/1309.4008},
+     AR = {acceptance: 24\% (24/101)} 
 }
 ```
 # [alnoamany-jcdl13](#alnoamany-jcdl13)
@@ -2023,18 +2023,18 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Access Patterns f
 
 ```bibtex
 @INPROCEEDINGS {alnoamany-jcdl13,
-      AUTHOR = {Yasmin AlNoamany and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {Access Patterns for Robots and Humans in Web Archives},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2013},
-      PUBDATE = {201307},
-      ADDRESS = {Indianapolis, IN},
-      DOI = {10.1145/2467696.2467722},
-      MONTH = {July},
-      PAGES = {339-–348},
-      PDF = {http://www.cs.odu.edu/~mln/pubs/jcdl-2013/fp105-AlNoamany.pdf},
-      ARXIV = {http://arxiv.org/abs/1309.4009},
-      AR = {acceptance: 29% (28/97)},
+     author={Yasmin AlNoamany and Michele C. Weigle and Michael L. Nelson},
+     title = {Access Patterns for Robots and Humans in Web Archives},
+     booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+     year = {2013},
+     pubdate = {201307},
+     address = {Indianapolis, IN},
+      doi = {10.1145/2467696.2467722},
+     month = {July},
+     pages = {339-–348},
+     pdf = {http://www.cs.odu.edu/~mln/pubs/jcdl-2013/fp105-AlNoamany.pdf},
+     arxiv = {http://arxiv.org/abs/1309.4009},
+     AR = {acceptance: 29\% (28/97)} 
 }
 ```
 # [mac-vanet-book](#mac-vanet-book)
@@ -2046,16 +2046,16 @@ Mohammad Almalag, Michele C. Weigle, and Stephan Olariu, "**MAC Protocols for VA
 
 ```bibtex
 @INBOOK {mac-vanet-book,
-      AUTHOR = {Mohammad Almalag and Michele C. Weigle and Stephan Olariu},
-      TITLE = {MAC Protocols for VANETs},
-      BOOKTITLE = {Mobile Ad Hoc Networking: Cutting Edge Directions, 2nd edition},
-      PUBLISHER = {John Wiley & Sons, Inc},
-      ADDRESS = {Hoboken, NJ, USA},
-      YEAR = {2013},
-      EDITOR = {Stefano Basagni and Marco Conti and Silvia Giordano and Ivan Stojmenovic},
-      DOI = {10.1002/9781118511305.ch17},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/almalag-vanet-ch17.pdf},
-      PUBDATE = {201303},
+      author     = 	 {Mohammad Almalag and Michele C. Weigle and Stephan Olariu},
+      title      = 	 {{MAC} Protocols for {VANET}s},
+      booktitle  = 	 {Mobile Ad Hoc Networking: Cutting Edge Directions, 2nd edition},
+      publisher  =	 {John Wiley & Sons, Inc},
+      address = {Hoboken, NJ, USA},
+       year       =	 2013,
+      editor     =	 {Stefano Basagni and Marco Conti and Silvia Giordano and Ivan Stojmenovic},
+      doi = {10.1002/9781118511305.ch17},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/almalag-vanet-ch17.pdf},
+      pubdate    =   {201303}
 }
 ```
 # [kelly-pda13](#kelly-pda13)
@@ -2067,14 +2067,14 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Making Enterprise-Level 
 
 ```bibtex
 @MISC {kelly-pda13,
-      AUTHOR = {Mat Kelly and Michael L. Nelson and Michele C. Weigle},
-      TITLE = {Making Enterprise-Level Archive Tools Accessible for Personal Web Archiving Using XAMPP},
-      HOWPUBLISHED = {Poster and demo presented at Personal Digital Archiving},
-      YEAR = {2013},
-      MONTH = {February},
-      ADDRESS = {College Park, MD},
-      POSTER = {http://www.slideshare.net/matkelly01/making-enterpriselevel-archive-tools-accessible-for-personal-web-archiving},
-      PUBDATE = {201302},
+     author={Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+     title={Making Enterprise-Level Archive Tools Accessible for Personal Web Archiving Using {XAMPP}},
+     howpublished ={Poster and demo presented at Personal Digital Archiving},
+     year = 2013,
+      month = {February},
+     address = {College Park, MD},
+     poster = {http://www.slideshare.net/matkelly01/making-enterpriselevel-archive-tools-accessible-for-personal-web-archiving},
+     pubdate = {201302} 
 }
 ```
 # [almalag-mp2p13](#almalag-mp2p13)
@@ -2086,15 +2086,15 @@ Mohammad Almalag, Stephan Olariu, Michele C. Weigle, and Samy El-Tawab, "**Peer-
 
 ```bibtex
 @INPROCEEDINGS {almalag-mp2p13,
-      AUTHOR = {Mohammad Almalag and Stephan Olariu and Michele C. Weigle and Samy El-Tawab},
-      TITLE = {Peer-to-Peer File Sharing in VANETs Using TC-MAC},
-      BOOKTITLE = {Proceedings of the International Workshop on Mobile Peer-to-Peer Computing (MP2P)},
-      YEAR = {2013},
-      PUBDATE = {201303},
-      DOI = {http://dx.doi.org/10.1109/PerComW.2013.6529461},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/almalag-mp2p13.pdf},
-      ADDRESS = {San Diego, CA},
-      MONTH = {March},
+     author={Mohammad Almalag and Stephan Olariu and Michele C. Weigle and Samy El-Tawab},
+     title = {Peer-to-Peer File Sharing in {VANETs} Using {TC-MAC}},
+     booktitle = {Proceedings of the International Workshop on Mobile Peer-to-Peer Computing (MP2P)},
+     year = {2013},
+     pubdate = {201303},
+     doi = {http://dx.doi.org/10.1109/PerComW.2013.6529461},
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/almalag-mp2p13.pdf},
+     address = {San Diego, CA},
+      month = {March} 
 }
 ```
 # [weigle-archiveit12](#weigle-archiveit12)
@@ -2106,14 +2106,14 @@ Michele C. Weigle, "**Visualizing Digital Collections at Archive-It**," Talk giv
 
 ```bibtex
 @MISC {weigle-archiveit12,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {Visualizing Digital Collections at Archive-It},
-      HOWPUBLISHED = {Talk given at the Archive-It Partners Meeting},
-      YEAR = {2012},
-      MONTH = {December},
-      SLIDES = {http://www.slideshare.net/mweigle/visualizing-digital-collections-at-archiveit},
-      ADDRESS = {Annapolis, MD},
-      PUBDATE = {201212},
+     author={Michele C. Weigle},
+     title={Visualizing Digital Collections at Archive-It},
+     howpublished ={Talk given at the Archive-It Partners Meeting},
+     year = 2012,
+      month = {December},
+     slides = {http://www.slideshare.net/mweigle/visualizing-digital-collections-at-archiveit},
+     address = {Annapolis, MD},
+     pubdate = {201212} 
 }
 ```
 # [weigle-ghc12](#weigle-ghc12)
@@ -2125,14 +2125,14 @@ Michele C. Weigle, "**Information Visualization - Visualizing Digital Collection
 
 ```bibtex
 @MISC {weigle-ghc12,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {Information Visualization - Visualizing Digital Collections at Archive-It},
-      HOWPUBLISHED = {Faculty Lightning Talk given at the Grace Hopper Celebration of Women in Computing},
-      YEAR = {2012},
-      MONTH = {October},
-      SLIDES = {http://www.slideshare.net/mweigle/information-visualization-visualizing-digital-collections-at-archiveit},
-      ADDRESS = {Baltimore, MD},
-      PUBDATE = {201210},
+    author={Michele C. Weigle},
+    title={Information Visualization - Visualizing Digital Collections at Archive-It},
+    howpublished ={Faculty Lightning Talk given at the Grace Hopper Celebration of Women in Computing},
+    year = 2012,
+    month = {October},
+    slides = {http://www.slideshare.net/mweigle/information-visualization-visualizing-digital-collections-at-archiveit},
+    address = {Baltimore, MD},
+    pubdate = {201210}
 }
 ```
 # [weigle-biocom12](#weigle-biocom12)
@@ -2144,14 +2144,14 @@ Michele C. Weigle, "**Communications and Energy-Harvesting in Nanosensor Network
 
 ```bibtex
 @MISC {weigle-biocom12,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {Communications and Energy-Harvesting in Nanosensor Networks},
-      HOWPUBLISHED = {Talk given at BioCom2: NSF Workshop on Biological Computations and Communications},
-      YEAR = {2012},
-      MONTH = {November},
-      SLIDES = {http://www.slideshare.net/mweigle/communications-and-energyharvesting-in-nanosensor-networks},
-      ADDRESS = {Boston, MA},
-      PUBDATE = {201211},
+    author={Michele C. Weigle},
+    title={Communications and Energy-Harvesting in Nanosensor Networks},
+    howpublished ={Talk given at BioCom2: NSF Workshop on Biological Computations and Communications},
+    year = 2012,
+    month = {November},
+    slides = {http://www.slideshare.net/mweigle/communications-and-energyharvesting-in-nanosensor-networks},
+    address = {Boston, MA},
+    pubdate = {201211}
 }
 ```
 # [mohrehkesh-casemans12](#mohrehkesh-casemans12)
@@ -2163,15 +2163,15 @@ Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, "**Context-Aware Conten
 
 ```bibtex
 @INPROCEEDINGS {mohrehkesh-casemans12,
-      AUTHOR = {Shahram Mohrehkesh and Tamer Nadeem and Michele C. Weigle},
-      TITLE = {Context-Aware Content Adaptation at the Access Point},
-      BOOKTITLE = {Proceedings of the International Workshop on Context-Awareness for Self-Managing Systems (Casemans)},
-      YEAR = {2012},
-      PAGES = {758--761},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-casemans12.pdf},
-      DOI = {http://dx.doi.org/10.1145/2370216.2370384},
-      PUBDATE = {201209},
-      MONTH = {September},
+    author={Shahram Mohrehkesh and Tamer Nadeem and Michele C. Weigle},
+    title = {Context-Aware Content Adaptation at the Access Point},
+    booktitle = {Proceedings of the International Workshop on Context-Awareness for Self-Managing Systems (Casemans)},
+    year = {2012},
+    pages = {758--761},
+    pdf ={http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-casemans12.pdf},
+    doi = {http://dx.doi.org/10.1145/2370216.2370384},
+    pubdate = {201209},
+    month = {September}
 }
 ```
 # [yan-its13](#yan-its13)
@@ -2183,17 +2183,17 @@ Gongjun Yan, Ding Wen, Stephan Olariu, and Michele C. Weigle, "**Security Challe
 
 ```bibtex
 @ARTICLE {yan-its13,
-      AUTHOR = {Gongjun Yan and Ding Wen and Stephan Olariu and Michele C. Weigle},
-      TITLE = {Security Challenges in Vehicular Cloud Computing},
-      JOURNAL = {IEEE Transactions on Intelligent Transportation Systems},
-      YEAR = {2013},
-      PAGES = {284--294},
-      VOLUME = {14},
-      NUMBER = {1},
-      MONTH = {March},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/yan-its13.pdf},
-      DOI = {http://dx.doi.org/10.1109/TITS.2012.2211870},
-      PUBDATE = {201303},
+    author = {Gongjun Yan and Ding Wen and Stephan Olariu and Michele C. Weigle},
+    title = {Security Challenges in Vehicular Cloud Computing},
+    journal = {IEEE Transactions on Intelligent Transportation Systems},
+    year = {2013},
+    pages = {284--294},
+    volume = 14,
+    number = 1,
+    month = {March},
+    pdf = {http://www.cs.odu.edu/~mweigle/papers/yan-its13.pdf},
+    doi = {http://dx.doi.org/10.1109/TITS.2012.2211870},
+    pubdate = {201303}
 }
 ```
 # [mohrehkesh-mdc12](#mohrehkesh-mdc12)
@@ -2205,14 +2205,14 @@ Shahram Mohrehkesh, Shuiwang Ji, Tamer Nadeem, and Michele C. Weigle, "**Demogra
 
 ```bibtex
 @INPROCEEDINGS {mohrehkesh-mdc12,
-      AUTHOR = {Shahram Mohrehkesh and Shuiwang Ji and Tamer Nadeem and Michele C. Weigle},
-      TITLE = {Demographic Prediction of Mobile User from Phone Usage},
-      BOOKTITLE = {Proceedings of the Nokia Mobile Data Challenge Workshop},
-      YEAR = {2012},
-      MONTH = {June},
-      ADDRESS = {Newcastle, UK},
-      PUBDATE = {201206},
-      PDF = {http://research.nokia.com/files/public/mdc-final450-mohrekesh-new.pdf},
+    author={Shahram Mohrehkesh and Shuiwang Ji and Tamer Nadeem and Michele C. Weigle},
+    title = {Demographic Prediction of Mobile User from Phone Usage},
+    booktitle={Proceedings of the Nokia Mobile Data Challenge Workshop},
+    year = {2012},
+    month = {June},
+    address = {Newcastle, UK},
+    pubdate = {201206},
+    pdf = {http://research.nokia.com/files/public/mdc-final450-mohrekesh-new.pdf}
 }
 ```
 # [almalag-vtp12](#almalag-vtp12)
@@ -2224,16 +2224,16 @@ Mohammad Almalag, Stephan Olariu, and Michele C. Weigle, "**TDMA Cluster-based M
 
 ```bibtex
 @INPROCEEDINGS {almalag-vtp12,
-      AUTHOR = {Mohammad Almalag and Stephan Olariu and Michele C. Weigle},
-      TITLE = {TDMA Cluster-based MAC for VANETs (TC-MAC)},
-      BOOKTITLE = {Proceedings of the IEEE Workshop on VANETs From Theory to Practice (VTP)},
-      YEAR = {2012},
-      MONTH = {June},
-      ADDRESS = {San Francisco, CA},
-      PUBDATE = {201206},
-      DOI = {http://dx.doi.org/10.1109/WoWMoM.2012.6263796},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/almalag-vtp12.pdf},
-      SLIDES = {http://www.slideshare.net/samy_tawab/tdma-clusterbased-mac-for-vanets-tcmac},
+    author={Mohammad Almalag and Stephan Olariu and Michele C. Weigle},
+    title={{TDMA} Cluster-based {MAC} for {VANETs (TC-MAC)}},
+    booktitle ={Proceedings of the IEEE Workshop on VANETs From Theory to Practice (VTP)},
+    year = 2012,
+    month = {June},
+    address = {San Francisco, CA},
+    pubdate = {201206},
+    doi = {http://dx.doi.org/10.1109/WoWMoM.2012.6263796},
+    pdf = {http://www.cs.odu.edu/~mweigle/papers/almalag-vtp12.pdf},
+    slides = {http://www.slideshare.net/samy_tawab/tdma-clusterbased-mac-for-vanets-tcmac}
 }
 ```
 # [padia-jcdl12](#padia-jcdl12)
@@ -2245,17 +2245,17 @@ Kalpesh Padia, Yasmin AlNoamany, and Michele C. Weigle, "**Visualizing Digital C
 
 ```bibtex
 @INPROCEEDINGS {padia-jcdl12,
-      AUTHOR = {Kalpesh Padia and Yasmin AlNoamany and Michele C. Weigle},
-      TITLE = {Visualizing Digital Collections at Archive-It},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2012},
-      MONTH = {June},
-      ADDRESS = {Washington, DC},
-      PAGES = {15--18},
-      DOI = {10.1145/2232817.2232821},
-      SLIDES = {http://www.slideshare.net/kallumama24/visualizing-digital-collections-at-archiveit-jcdl-2012},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/padia-jcdl12.pdf},
-      PUBDATE = {201206},
+    author={Kalpesh Padia and Yasmin AlNoamany and Michele C. Weigle},
+    title={Visualizing Digital Collections at Archive-It},
+    booktitle ={Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+    year = 2012,
+    month = {June},
+    address = {Washington, DC},
+    pages = {15--18},
+    doi = {10.1145/2232817.2232821},
+    slides= {http://www.slideshare.net/kallumama24/visualizing-digital-collections-at-archiveit-jcdl-2012},
+    pdf = {http://www.cs.odu.edu/~mweigle/papers/padia-jcdl12.pdf},
+    pubdate = {201206}
 }
 ```
 # [kelly-jcdl12](#kelly-jcdl12)
@@ -2267,16 +2267,16 @@ Mat Kelly, and Michele C. Weigle, "**WARCreate - Create Wayback-Consumable WARC 
 
 ```bibtex
 @INPROCEEDINGS {kelly-jcdl12,
-      AUTHOR = {Mat Kelly and Michele C. Weigle},
-      TITLE = {WARCreate - Create Wayback-Consumable WARC Files from Any Webpage (demo)},
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      YEAR = {2012},
-      MONTH = {June},
-      ADDRESS = {Washington, DC},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/kelly-jcdl12.pdf},
-      PAGES = {437--438},
-      DOI = {10.1145/2232817.2232930},
-      PUBDATE = {201206},
+    author={Mat Kelly and Michele C. Weigle},
+    title={WARCreate - Create Wayback-Consumable WARC Files from Any Webpage (demo)},
+    booktitle ={Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+    year = 2012,
+    month = {June},
+    address = {Washington, DC},
+    pdf = {http://www.cs.odu.edu/~mweigle/papers/kelly-jcdl12.pdf},
+    pages = {437--438},
+    doi = {10.1145/2232817.2232930},
+    pubdate = {201206}
 }
 ```
 # [toh-itsmag12](#toh-itsmag12)
@@ -2288,14 +2288,14 @@ C.K. Toh, T. Higashino, J.-C. Cano, and M. C. Weigle, "**Highlights: IEEE ITS So
 
 ```bibtex
 @ARTICLE {toh-itsmag12,
-      AUTHOR = {C.K. Toh and T. Higashino and J.-C. Cano and M. C. Weigle},
-      TITLE = {Highlights: IEEE ITS Society Technical Committee on Mobile Communications Networks for ITS},
-      JOURNAL = {IEEE ITS Magazine},
-      VOLUME = {4},
-      NUMBER = {1},
-      YEAR = {2012},
-      DOI = {10.1109/MITS.2011.2178875},
-      PUBDATE = {201204},
+    author={C.K. Toh and T. Higashino and J.-C. Cano and M. C. Weigle},
+    title = {Highlights: {IEEE ITS Society Technical Committee on Mobile Communications Networks for ITS}},
+    journal = {IEEE ITS Magazine},
+    volume = 4,
+    number = 1,
+     year = 2012,
+    doi = {10.1109/MITS.2011.2178875},
+    pubdate = {201204}
 }
 ```
 # [mohrehkesh-infocom12](#mohrehkesh-infocom12)
@@ -2307,13 +2307,13 @@ Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, "**Efficient Context-Aw
 
 ```bibtex
 @MISC {mohrehkesh-infocom12,
-      AUTHOR = {Shahram Mohrehkesh and Tamer Nadeem and Michele C. Weigle},
-      TITLE = {Efficient Context-Aware Content Adaptation for Mobile Devices},
-      HOWPUBLISHED = {Poster presented at IEEE INFOCOM},
-      YEAR = {2012},
-      MONTH = {March},
-      ADDRESS = {Orlando, FL},
-      PUBDATE = {201203},
+    author={Shahram Mohrehkesh and Tamer Nadeem and Michele C. Weigle},
+    title={Efficient Context-Aware Content Adaptation for Mobile Devices},
+    howpublished ={Poster presented at IEEE INFOCOM},
+    year = 2012,
+    month = {March},
+    address = {Orlando, FL},
+    pubdate = {201203}
 }
 ```
 # [ainsworth-jcdl11](#ainsworth-jcdl11)
@@ -2325,18 +2325,18 @@ Scott Ainsworth, Ahmed AlSum, Hany SalahEldeen, Michele C. Weigle, and Michael L
 
 ```bibtex
 @INPROCEEDINGS {ainsworth-jcdl11,
-      AUTHOR = {Scott Ainsworth and Ahmed AlSum and Hany SalahEldeen and Michele C. Weigle and Michael L. Nelson},
-      TITLE = {How Much of the Web Is Archived? },
-      BOOKTITLE = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      MONTH = {June},
-      YEAR = {2011},
-      PAGES = {133--136},
-      ADDRESS = {Ottawa, Canada},
-      DOI = {http://dx.doi.org/10.1145/1998076.1998100},
-      SLIDES = {http://www.slideshare.net/aalsum/jcdl-howmuchisarchived},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/ainsworth-jcdl11.pdf},
-      ARXIV = {http://arxiv.org/abs/1212.6177},
-      PUBDATE = {201106},
+      author = {Scott Ainsworth and Ahmed AlSum and Hany SalahEldeen and Michele C. Weigle and Michael L. Nelson},
+      title = {How Much of the Web Is Archived? },
+      booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      month = {June},
+      year = 2011,
+      pages = {133--136},
+      address = {Ottawa, Canada},
+      doi = {http://dx.doi.org/10.1145/1998076.1998100},
+      slides = {http://www.slideshare.net/aalsum/jcdl-howmuchisarchived},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/ainsworth-jcdl11.pdf},
+      arxiv = {http://arxiv.org/abs/1212.6177},
+      pubdate = {201106}
 }
 ```
 # [rawat-cisis11](#rawat-cisis11)
@@ -2348,15 +2348,15 @@ Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "**Securing V
 
 ```bibtex
 @INPROCEEDINGS {rawat-cisis11,
-      AUTHOR = {Danda B. Rawat and Bhed B. Bista and Gongjun Yan and Michele C. Weigle},
-      TITLE = {Securing Vehicular Ad-Hoc Networks Against Malicious Drivers: A Probabilistic Approach},
-      BOOKTITLE = {Proceedings of the International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS)},
-      YEAR = {2011},
-      MONTH = {June},
-      DOI = {http://dx.doi.org/10.1109/CISIS.2011.30},
-      PAGES = {146--151 },
-      ADDRESS = {Seoul, Korea},
-      PUBDATE = {201106},
+      author = {Danda B. Rawat and Bhed B. Bista and Gongjun Yan and Michele C. Weigle},
+      title = {Securing Vehicular Ad-Hoc Networks Against Malicious Drivers: A Probabilistic Approach},
+      booktitle = {Proceedings of the International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS)},
+      year = 2011,
+      month = {June},
+      doi = {http://dx.doi.org/10.1109/CISIS.2011.30},
+    pages = {146--151 },
+      address = {Seoul, Korea},
+      pubdate = {201106}
 }
 ```
 # [arbabi-ivcs11](#arbabi-ivcs11)
@@ -2368,16 +2368,16 @@ Hadi Arbabi, and Michele C. Weigle, "**Monitoring Free-Flow Traffic using Vehicu
 
 ```bibtex
 @INPROCEEDINGS {arbabi-ivcs11,
-      AUTHOR = {Hadi Arbabi and Michele C. Weigle},
-      TITLE = {Monitoring Free-Flow Traffic using Vehicular Networks},
-      BOOKTITLE = {Proceedings of the IEEE Intelligent Vehicular Communications System Workshop (IVCS)},
-      YEAR = {2011},
-      MONTH = {January},
-      ADDRESS = {Las Vegas, NV},
-      DOI = {http://dx.doi.org/10.1109/CCNC.2011.5766471},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/arbabi-ivcs11.pdf},
-      PAGES = {272--276},
-      PUBDATE = {201101},
+      author = {Hadi Arbabi and Michele C. Weigle},
+      title = {Monitoring Free-Flow Traffic using Vehicular Networks},
+      booktitle = {Proceedings of the IEEE Intelligent Vehicular Communications System Workshop (IVCS)},
+      year = 2011,
+      month = {January},
+      address = {Las Vegas, NV},
+      doi = {http://dx.doi.org/10.1109/CCNC.2011.5766471},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/arbabi-ivcs11.pdf},
+     pages = {272--276},
+      pubdate = {201101}
 }
 ```
 # [arbabi-vnc10](#arbabi-vnc10)
@@ -2389,16 +2389,16 @@ Hadi Arbabi, and Michele C. Weigle, "**Using DTMon to Monitor Transient Flow Tra
 
 ```bibtex
 @INPROCEEDINGS {arbabi-vnc10,
-      AUTHOR = {Hadi Arbabi and Michele C. Weigle},
-      TITLE = {Using DTMon to Monitor Transient Flow Traffic},
-      BOOKTITLE = {Proceedings of the IEEE Vehicular Networking Conference (VNC)},
-      YEAR = {2010},
-      MONTH = {December},
-      ADDRESS = {Jersey City, NJ},
-      DOI = {http://dx.doi.org/10.1109/VNC.2010.5698241},
-      PAGES = {110--117},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/arbabi-vnc10.pdf},
-      PUBDATE = {201012},
+      author = {Hadi Arbabi and Michele C. Weigle},
+      title = {Using DTMon to Monitor Transient Flow Traffic},
+      booktitle = {Proceedings of the IEEE Vehicular Networking Conference (VNC)},
+      year = 2010,
+      month = {December},
+      address = {Jersey City, NJ},
+      doi = {http://dx.doi.org/10.1109/VNC.2010.5698241},
+      pages = {110--117},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/arbabi-vnc10.pdf},
+      pubdate = {201012}
 }
 ```
 # [arbabi-wsc10](#arbabi-wsc10)
@@ -2410,16 +2410,16 @@ Hadi Arbabi, and Michele C. Weigle, "**Highway Mobility and Vehicular Ad-Hoc Net
 
 ```bibtex
 @INPROCEEDINGS {arbabi-wsc10,
-      AUTHOR = {Hadi Arbabi and Michele C. Weigle},
-      TITLE = {Highway Mobility and Vehicular Ad-Hoc Networks in ns-3},
-      BOOKTITLE = {Proceedings of the Winter Simulation Conference},
-      YEAR = {2010},
-      MONTH = {dec},
-      ADDRESS = {Baltimore, MD},
-      PAGES = {2991--3003},
-      DOI = {http://dx.doi.org/10.1109/WSC.2010.5678993},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/arbabi-wsc10.pdf},
-      PUBDATE = {201012},
+      author = {Hadi Arbabi and Michele C. Weigle},
+      title = {Highway Mobility and Vehicular Ad-Hoc Networks in ns-3},
+      booktitle = {Proceedings of the Winter Simulation Conference},
+      year = 2010,
+      month = dec,
+      address = {Baltimore, MD},
+      pages = {2991--3003},
+      doi = {http://dx.doi.org/10.1109/WSC.2010.5678993},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/arbabi-wsc10.pdf},
+      pubdate = {201012}
 }
 ```
 # [almalag-onmove10](#almalag-onmove10)
@@ -2431,16 +2431,16 @@ Mohammad S. Almalag, and Michele C. Weigle, "**Using Traffic Flow for Cluster Fo
 
 ```bibtex
 @INPROCEEDINGS {almalag-onmove10,
-      AUTHOR = {Mohammad S. Almalag and Michele C. Weigle},
-      TITLE = {Using Traffic Flow for Cluster Formation in Vehicular Ad-hoc Networks},
-      BOOKTITLE = {Proceedings of the Workshop On User MObility and VEhicular Networks (ON-MOVE)},
-      YEAR = {2010},
-      MONTH = {October},
-      PUBDATE = {201010},
-      PAGES = {631--636},
-      DOI = {http://dx.doi.org/10.1109/LCN.2010.5735785},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/almalag-onmove10.pdf},
-      ADDRESS = {Denver, CO},
+      author = {Mohammad S. Almalag and Michele C. Weigle},
+      title = {Using Traffic Flow for Cluster Formation in Vehicular Ad-hoc Networks},
+      booktitle = {Proceedings of the Workshop On User MObility and VEhicular Networks (ON-MOVE)},
+      year = 2010,
+      month = October,
+      pubdate = {201010},
+      pages = {631--636},
+      doi = {http://dx.doi.org/10.1109/LCN.2010.5735785},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/almalag-onmove10.pdf},
+      address = {Denver, CO}
 }
 ```
 # [yan-ivs10a](#yan-ivs10a)
@@ -2452,15 +2452,15 @@ Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "**Cross-Layer Location Veri
 
 ```bibtex
 @INPROCEEDINGS {yan-ivs10a,
-      AUTHOR = {Gongjun Yan and Stephan Olariu and Michele C. Weigle},
-      TITLE = {Cross-Layer Location Verification Enhancement in Vehicular Networks},
-      BOOKTITLE = {Proceedings of the IEEE Intelligent Vehicles Symposium},
-      YEAR = {2010},
-      MONTH = {jun},
-      PAGES = {95--100},
-      ADDRESS = {San Diego},
-      DOI = {http://dx.doi.org/10.1109/IVS.2010.5548057},
-      PUBDATE = {201006},
+      author = {Gongjun Yan and Stephan Olariu and Michele C. Weigle},
+      title = {Cross-Layer Location Verification Enhancement in Vehicular Networks},
+      booktitle = {Proceedings of the IEEE Intelligent Vehicles Symposium},
+      year = 2010,
+      month = jun,
+      pages = {95--100},
+      address = {San Diego},
+      doi = {http://dx.doi.org/10.1109/IVS.2010.5548057},
+      pubdate = {201006}
 }
 ```
 # [yan-ivs10b](#yan-ivs10b)
@@ -2472,15 +2472,15 @@ Gongjun Yan, Weiming Yang, Michele C. Weigle, Stephan Olariu, and Danda Rawat, "
 
 ```bibtex
 @INPROCEEDINGS {yan-ivs10b,
-      AUTHOR = {Gongjun Yan and Weiming Yang and Michele C. Weigle and Stephan Olariu and Danda Rawat},
-      TITLE = {Cooperative Collision Warning through Mobility and Probability Prediction},
-      BOOKTITLE = {Proceedings of the IEEE Intelligent Vehicles Symposium},
-      YEAR = {2010},
-      MONTH = {jun},
-      PAGES = {1172--1177},
-      ADDRESS = {San Diego},
-      DOI = {http://dx.doi.org/10.1109/IVS.2010.5547990},
-      PUBDATE = {201006},
+      author = {Gongjun Yan and Weiming Yang and Michele C. Weigle and Stephan Olariu and Danda Rawat},
+      title = {Cooperative Collision Warning through Mobility and Probability Prediction},
+      booktitle = {Proceedings of the IEEE Intelligent Vehicles Symposium},
+      year = 2010,
+      month = jun,
+      pages = {1172--1177},
+      address = {San Diego},
+      doi = {http://dx.doi.org/10.1109/IVS.2010.5547990},
+      pubdate = {201006}
 }
 ```
 # [weigle-comcom10](#weigle-comcom10)
@@ -2492,17 +2492,17 @@ Michele C. Weigle, Li Cheng, Jasleen Kaur, and V. Kulkarni, "**Generalized Stoch
 
 ```bibtex
 @ARTICLE {weigle-comcom10,
-      AUTHOR = {Michele C. Weigle and Li Cheng and Jasleen Kaur and V. Kulkarni},
-      TITLE = {Generalized Stochastic Performance Models for Loss-based Congestion Control},
-      JOURNAL = {Computer Communications},
-      YEAR = {2010},
-      VOLUME = {33},
-      NUMBER = {4},
-      MONTH = {mar},
-      PAGES = {513--525},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/comcom10-preprint.pdf},
-      DOI = {http://dx.doi.org/10.1016/j.comcom.2009.10.017},
-      PUBDATE = {201003},
+      author = {Michele C. Weigle and Li Cheng and Jasleen Kaur and V. Kulkarni},
+      title = {Generalized Stochastic Performance Models for Loss-based Congestion Control},
+      journal = {Computer Communications},
+      year = 2010,
+      volume = 33,
+      number = 4,
+      month = mar,
+      pages = {513--525},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/comcom10-preprint.pdf},
+      doi = {http://dx.doi.org/10.1016/j.comcom.2009.10.017},
+      pubdate = {201003}
 }
 ```
 # [yan-wcm-otrc09](#yan-wcm-otrc09)
@@ -2514,17 +2514,17 @@ Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "**Providing Location Securi
 
 ```bibtex
 @ARTICLE {yan-wcm-otrc09,
-      AUTHOR = {Gongjun Yan and Stephan Olariu and Michele C. Weigle},
-      TITLE = {Providing Location Security in Vehicular Ad-hoc Networks},
-      JOURNAL = {IEEE Wireless Communications, Special Issue on On-the-Road Communications},
-      YEAR = {2009},
-      VOLUME = {16},
-      NUMBER = {6},
-      MONTH = {dec},
-      PAGES = {48--55},
-      DOI = {http://dx.doi.org/10.1109/MWC.2009.5361178},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/yan-ieeewc09-preprint.pdf},
-      PUBDATE = {200912},
+      author = 	 {Gongjun Yan and Stephan Olariu and Michele C. Weigle},
+      title = 	 {Providing Location Security in Vehicular Ad-hoc Networks},
+      journal = 	 {IEEE Wireless Communications, Special Issue on On-the-Road Communications},
+      year =  2009,
+      volume = 16,
+      number = 6,
+      month = dec,
+      pages = {48--55},
+      doi = {http://dx.doi.org/10.1109/MWC.2009.5361178},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/yan-ieeewc09-preprint.pdf},
+      pubdate = {200912}
 }
 ```
 # [tmix-docs](#tmix-docs)
@@ -2536,13 +2536,13 @@ Michele C. Weigle, "**Tmix: Internet Traffic Generation**," The ns Manual, June 
 
 ```bibtex
 @MISC {tmix-docs,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {Tmix: Internet Traffic Generation},
-      HOWPUBLISHED = {The ns Manual},
-      MONTH = {jun},
-      YEAR = {2009},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/tmix-nsdoc.pdf},
-      PUBDATE = {200906},
+     author = {Michele C. Weigle},
+     title = {Tmix: Internet Traffic Generation},
+     howpublished = {The ns Manual},
+     month = jun,
+     year = 2009,
+     pdf = {http://www.cs.odu.edu/~mweigle/papers/tmix-nsdoc.pdf},
+     pubdate = {200906}
 }
 ```
 # [arbabi-vanet09](#arbabi-vanet09)
@@ -2554,16 +2554,16 @@ Hadi Arbabi, and Michele C. Weigle, "**Using Vehicular Networks to Collect Commo
 
 ```bibtex
 @INPROCEEDINGS {arbabi-vanet09,
-      AUTHOR = {Hadi Arbabi and Michele C. Weigle},
-      TITLE = {Using Vehicular Networks to Collect Common Traffic Data},
-      BOOKTITLE = {Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)},
-      YEAR = {2009},
-      MONTH = {sep},
-      ADDRESS = {Beijing},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/arbabi-vanet09.pdf},
-      DOI = {http://doi.acm.org/10.1145/1614269.1614289},
-      PAGES = {117--118},
-      PUBDATE = {200909},
+      author = {Hadi Arbabi and Michele C. Weigle},
+      title = {Using Vehicular Networks to Collect Common Traffic Data},
+      booktitle = {Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)},
+      year = 2009,
+      month = sep,
+      address = {Beijing},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/arbabi-vanet09.pdf},
+      doi = {http://doi.acm.org/10.1145/1614269.1614289},
+      pages = {117--118},
+      pubdate = {200909}
 }
 ```
 # [rawat-vtc09](#rawat-vtc09)
@@ -2575,16 +2575,16 @@ Danda Rawat, Gongjun Yan, Dimitrie C. Popescu, Michele C. Weigle, and Stephan Ol
 
 ```bibtex
 @INPROCEEDINGS {rawat-vtc09,
-      AUTHOR = {Danda Rawat and Gongjun Yan and Dimitrie C. Popescu and Michele C. Weigle and Stephan Olariu},
-      TITLE = {Dynamic Adaptation of Joint Transmission Power and Contention Window in VANET},
-      BOOKTITLE = {Proceedings of the IEEE Vehicular Technology Conference - Fall},
-      MONTH = {sep},
-      YEAR = {2009},
-      PAGES = {1--5},
-      ADDRESS = {Anchorage, Alaska},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/rawat-vtc09.pdf},
-      DOI = {http://dx.doi.org/10.1109/VETECF.2009.5378793},
-      PUBDATE = {200909},
+      author = {Danda Rawat and Gongjun Yan and Dimitrie C. Popescu and Michele C. Weigle and Stephan Olariu},
+      title = {Dynamic Adaptation of Joint Transmission Power and Contention Window in {VANET}},
+      booktitle = {Proceedings of the IEEE Vehicular Technology Conference - Fall},
+      month = sep,
+      year = 2009,
+      pages = {1--5},
+      address = {Anchorage, Alaska},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/rawat-vtc09.pdf},
+      doi = {http://dx.doi.org/10.1109/VETECF.2009.5378793},
+      pubdate = {200909}
 }
 ```
 # [brooks-ijdsn09](#brooks-ijdsn09)
@@ -2596,16 +2596,16 @@ Richard R. Brooks, Brijesh Pillai, Matthew Pirretti, and Michele C. Weigle, "**M
 
 ```bibtex
 @ARTICLE {brooks-ijdsn09,
-      AUTHOR = {Richard R. Brooks and Brijesh Pillai and Matthew Pirretti and Michele C. Weigle},
-      TITLE = {Multicast Encryption Infrastructure for Security in Sensor Networks},
-      JOURNAL = {International Journal of Distributed Sensor Networks (IJDSN)},
-      VOLUME = {5},
-      NUMBER = {2},
-      MONTH = {apr},
-      PAGES = {139 -- 157},
-      YEAR = {2009},
-      DOI = {http://dx.doi.org/10.1080/15501320601062114},
-      PUBDATE = {200904},
+      author = 	 {Richard R. Brooks and Brijesh Pillai and Matthew Pirretti and Michele C. Weigle},
+      title = 	 {Multicast Encryption Infrastructure for Security in Sensor Networks},
+      journal = 	 {International Journal of Distributed Sensor Networks (IJDSN)},
+      volume = 5,
+      number = 2,
+      month = apr,
+      pages = {139 -- 157},
+      year =  2009,
+      doi = {http://dx.doi.org/10.1080/15501320601062114},
+      pubdate = {200904}
 }
 ```
 # [vanet-book](#vanet-book)
@@ -2617,13 +2617,13 @@ Stephan Olariu and Michele C. Weigle, Eds., *Vehicular Networks: From Theory to 
 
 ```bibtex
 @BOOK {vanet-book,
-      EDITOR = {Stephan Olariu and Michele C. Weigle},
-      TITLE = {Vehicular Networks: From Theory to Practice},
-      PUBLISHER = {CRC Press / Taylor & Francis},
-      YEAR = {2009},
-      MONTH = {mar},
-      DOI = {10.1201/9781420085891},
-      PUBDATE = {200903},
+      editor = 	 {Stephan Olariu and Michele C. Weigle},
+      title = 	 {Vehicular Networks: From Theory to Practice},
+      publisher = 	 {CRC Press / Taylor & Francis},
+      year = 	 2009,
+      month = 	 mar,
+      doi = {10.1201/9781420085891},
+      pubdate = {200903}
 }
 ```
 # [infrastructure-vanet-book](#infrastructure-vanet-book)
@@ -2635,13 +2635,13 @@ Michele C. Weigle, Stephan Olariu, Mahmoud Abuelela, and Gongjun Yan, "**Use of 
 
 ```bibtex
 @INBOOK {infrastructure-vanet-book,
-      AUTHOR = {Michele C. Weigle and Stephan Olariu and Mahmoud Abuelela and Gongjun Yan},
-      TITLE = {Use of Infrastructure in VANETs},
-      BOOKTITLE = {Vehicular Networks: From Theory to Practice},
-      PUBLISHER = {CRC Press / Taylor & Francis},
-      YEAR = {2009},
-      EDITOR = {Stephan Olariu and Michele C. Weigle},
-      PUBDATE = {200903},
+      author     = 	 {Michele C. Weigle and Stephan Olariu and Mahmoud Abuelela and Gongjun Yan},
+      title      = 	 {Use of Infrastructure in {VANET}s},
+      booktitle  = 	 {Vehicular Networks: From Theory to Practice},
+      publisher  =	 {CRC Press / Taylor & Francis},
+      year       =	 2009,
+      editor     =	 {Stephan Olariu and Michele C. Weigle},
+      pubdate    =   {200903}
 }
 ```
 # [sim-vanet-book](#sim-vanet-book)
@@ -2653,13 +2653,13 @@ Gongjun Yan, Khaled Ibrahim, and Michele C. Weigle, "**Vehicular Network Simulat
 
 ```bibtex
 @INBOOK {sim-vanet-book,
-      AUTHOR = {Gongjun Yan and Khaled Ibrahim and Michele C. Weigle},
-      TITLE = {Vehicular Network Simulators},
-      BOOKTITLE = {Vehicular Networks: From Theory to Practice},
-      PUBLISHER = {CRC Press / Taylor & Francis},
-      YEAR = {2009},
-      EDITOR = {Stephan Olariu and Michele C. Weigle},
-      PUBDATE = {200903},
+      author     = 	 {Gongjun Yan and Khaled Ibrahim and Michele C. Weigle},
+      title      = 	 {Vehicular Network Simulators},
+      booktitle  = 	 {Vehicular Networks: From Theory to Practice},
+      publisher  =	 {CRC Press / Taylor & Francis},
+      year       =	 2009,
+      editor     =	 {Stephan Olariu and Michele C. Weigle},
+      pubdate    =   {200903}
 }
 ```
 # [ibrahim-vtc09](#ibrahim-vtc09)
@@ -2671,16 +2671,16 @@ Khaled Ibrahim, Michele C. Weigle, and Mahmoud Abuelela, "**p-IVG: Probabilistic
 
 ```bibtex
 @INPROCEEDINGS {ibrahim-vtc09,
-      AUTHOR = {Khaled Ibrahim and Michele C. Weigle and Mahmoud Abuelela},
-      TITLE = {p-IVG: Probabilistic Inter-Vehicle Geocast for Dense Vehicular Networks},
-      BOOKTITLE = {Proceedings of the IEEE Vehicular Technology Conference - Spring},
-      MONTH = {apr},
-      YEAR = {2009},
-      PAGES = {1--5},
-      ADDRESS = {Barcelona, Spain},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-vtc09spr.pdf},
-      DOI = {http://dx.doi.org/10.1109/VETECS.2009.5073804},
-      PUBDATE = {200904},
+      author = {Khaled Ibrahim and Michele C. Weigle and Mahmoud Abuelela},
+      title = {{p-IVG}: Probabilistic Inter-Vehicle Geocast for Dense Vehicular Networks},
+      booktitle = {Proceedings of the IEEE Vehicular Technology Conference - Spring},
+      month = apr,
+      year = 2009,
+      pages = {1--5},
+      address = {Barcelona, Spain},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-vtc09spr.pdf},
+      doi = {http://dx.doi.org/10.1109/VETECS.2009.5073804},
+      pubdate = {200904}
 }
 ```
 # [yan-soli09](#yan-soli09)
@@ -2692,18 +2692,18 @@ Gongjun Yan, Michele C. Weigle, and Stephan Olariu, "**A Novel Parking Service U
 
 ```bibtex
 @INPROCEEDINGS {yan-soli09,
-      AUTHOR = {Gongjun Yan and Michele C. Weigle and Stephan Olariu},
-      TITLE = {A Novel Parking Service Using Wireless Networks},
-      BOOKTITLE = {Proceedings of the IEEE International Conference on Service Operations, Logistics and Informatics},
-      PAGES = {406--411},
-      MONTH = {jul},
-      YEAR = {2009},
-      ADDRESS = {Chicago},
-      AWARD = {Best Student Paper},
-      KEYWORD = {award},
-      PUBDATE = {200907},
-      DOI = {http://dx.doi.org/10.1109/SOLI.2009.5203967},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/yan-soli09.pdf},
+      author = {Gongjun Yan and Michele C. Weigle and Stephan Olariu},
+      title = {A Novel Parking Service Using Wireless Networks},
+      booktitle = {Proceedings of the IEEE International Conference on Service Operations, Logistics and Informatics},
+      pages = {406--411},
+      month = jul,
+      year = 2009,
+      address = {Chicago},
+      award = {Best Student Paper},
+     keyword = {award},
+      pubdate = {200907},
+      doi = {http://dx.doi.org/10.1109/SOLI.2009.5203967},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/yan-soli09.pdf}
 }
 ```
 # [ibrahim-wave08](#ibrahim-wave08)
@@ -2715,14 +2715,14 @@ Khaled Ibrahim, Michele C. Weigle, and Gongjun Yan, "**Light-Weight Laser-Aided 
 
 ```bibtex
 @INPROCEEDINGS {ibrahim-wave08,
-      AUTHOR = {Khaled Ibrahim and Michele C. Weigle and Gongjun Yan},
-      TITLE = {Light-Weight Laser-Aided Position Verification for CASCADE},
-      BOOKTITLE = {Proceedings of the International Conference on Wireless Access in Vehicular Environments (WAVE)},
-      MONTH = {dec},
-      YEAR = {2008},
-      ADDRESS = {Dearborn, MI},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-wave08.pdf},
-      PUBDATE = {200812},
+      author = {Khaled Ibrahim and Michele C. Weigle and Gongjun Yan},
+      title = {Light-Weight Laser-Aided Position Verification for {CASCADE}},
+      booktitle = {Proceedings of the International Conference on Wireless Access in Vehicular Environments (WAVE)},
+      month = dec,
+      year = 2008,
+      address = {Dearborn, MI},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-wave08.pdf},
+      pubdate = {200812}
 }
 ```
 # [yan-wave08](#yan-wave08)
@@ -2734,14 +2734,14 @@ Gongjun Yan, Ye Wang, Michele C. Weigle, Stephan Olariu, and Khaled Ibrahim, "**
 
 ```bibtex
 @INPROCEEDINGS {yan-wave08,
-      AUTHOR = {Gongjun Yan and Ye Wang and Michele C. Weigle and Stephan Olariu and Khaled Ibrahim},
-      TITLE = {WEHealth: A Secure and Privacy Preserving eHealth Using NOTICE},
-      BOOKTITLE = {Proceedings of the International Conference on Wireless Access in Vehicular Environments (WAVE)},
-      MONTH = {dec},
-      YEAR = {2008},
-      ADDRESS = {Dearborn, MI},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/yan-wave08.pdf},
-      PUBDATE = {200812},
+      author = {Gongjun Yan and Ye Wang and Michele C. Weigle and Stephan Olariu and Khaled Ibrahim},
+      title = {{WEHealth}: A Secure and Privacy Preserving {eHealth} Using {NOTICE}},
+      booktitle = {Proceedings of the International Conference on Wireless Access in Vehicular Environments (WAVE)},
+      month = dec,
+      year = 2008,
+      address = {Dearborn, MI},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/yan-wave08.pdf},
+      pubdate = {200812}
 }
 ```
 # [ibrahim-autonet08](#ibrahim-autonet08)
@@ -2753,16 +2753,16 @@ Khaled Ibrahim, and Michele C. Weigle, "**CASCADE: Cluster-based Accurate Syntac
 
 ```bibtex
 @INPROCEEDINGS {ibrahim-autonet08,
-      AUTHOR = {Khaled Ibrahim and Michele C. Weigle},
-      TITLE = {CASCADE: Cluster-based Accurate Syntactic Compression of Aggregated Data in VANETs},
-      BOOKTITLE = {Proceedings of the IEEE International Workshop on Automotive Networking and Applications (AutoNet), IEEE Globecom Workshop},
-      MONTH = {dec},
-      YEAR = {2008},
-      PAGES = {1--10},
-      ADDRESS = {New Orleans, LA},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-autonet08.pdf},
-      DOI = {http://dx.doi.org/10.1109/GLOCOMW.2008.ECP.59},
-      PUBDATE = {200812},
+      author = {Khaled Ibrahim and Michele C. Weigle},
+      title = {{CASCADE}: Cluster-based Accurate Syntactic Compression of Aggregated Data in {VANET}s},
+      booktitle = {Proceedings of the IEEE International Workshop on Automotive Networking and Applications (AutoNet), IEEE Globecom Workshop},
+      month = dec,
+      year = 2008,
+      pages = {1--10},
+      address = {New Orleans, LA},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-autonet08.pdf},
+      doi = {http://dx.doi.org/10.1109/GLOCOMW.2008.ECP.59},
+      pubdate = {200812}
 }
 ```
 # [yan-its08](#yan-its08)
@@ -2774,17 +2774,17 @@ Gongjun Yan, Stephan Olariu, Michele C. Weigle, and Mahmoud Abuelela, "**SmartPa
 
 ```bibtex
 @INPROCEEDINGS {yan-its08,
-      AUTHOR = {Gongjun Yan and Stephan Olariu and Michele C. Weigle and Mahmoud Abuelela},
-      TITLE = {SmartParking: A Secure and Intelligent Parking System Using NOTICE},
-      BOOKTITLE = {Proceedings of the International IEEE Conference on Intelligent Transportation Systems},
-      PAGES = {569--574},
-      MONTH = {oct},
-      YEAR = {2008},
-      ADDRESS = {Beijing, China},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/yan-its08.pdf},
-      SLIDES = {http://www.slideshare.net/mweigle/yan-its08slides},
-      DOI = {http://dx.doi.org/10.1109/ITSC.2008.4732702},
-      PUBDATE = {200810},
+      author = {Gongjun Yan and Stephan Olariu and Michele C. Weigle and Mahmoud Abuelela},
+      title = {SmartParking: A Secure and Intelligent Parking System Using {NOTICE}},
+      booktitle = {Proceedings of the International IEEE Conference on Intelligent Transportation Systems},
+      pages = {569--574},
+      month = oct,
+      year = 2008,
+      address = {Beijing, China},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/yan-its08.pdf},
+      slides = {http://www.slideshare.net/mweigle/yan-its08slides},
+      doi = {http://dx.doi.org/10.1109/ITSC.2008.4732702},
+      pubdate = {200810}
 }
 ```
 # [ibrahim-movenet08-a](#ibrahim-movenet08-a)
@@ -2796,16 +2796,16 @@ Khaled Ibrahim, and Michele C. Weigle, "**Optimizing CASCADE Data Aggregation fo
 
 ```bibtex
 @INPROCEEDINGS {ibrahim-movenet08-a,
-      AUTHOR = {Khaled Ibrahim and Michele C. Weigle},
-      TITLE = {Optimizing CASCADE Data Aggregation for VANETs},
-      BOOKTITLE = {Proceedings of the International Workshop on Mobile Vehicular Networks (MoVeNet)},
-      PAGES = {724--729},
-      MONTH = {sep},
-      YEAR = {2008},
-      ADDRESS = {Atlanta, GA},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-movenet08.pdf},
-      DOI = {http://dx.doi.org.proxy.lib.odu.edu/10.1109/MAHSS.2008.4660113},
-      PUBDATE = {200809},
+      author = {Khaled Ibrahim and Michele C. Weigle},
+      title = {Optimizing {CASCADE} Data Aggregation for {VANETs}},
+      booktitle = {Proceedings of the International Workshop on Mobile Vehicular Networks (MoVeNet)},
+      pages = {724--729},
+      month = sep,
+      year = 2008,
+      address = {Atlanta, GA},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-movenet08.pdf},
+      doi = {http://dx.doi.org.proxy.lib.odu.edu/10.1109/MAHSS.2008.4660113},
+      pubdate = {200809}
 }
 ```
 # [ibrahim-movenet08-b](#ibrahim-movenet08-b)
@@ -2817,12 +2817,12 @@ Khaled Ibrahim, and Michele C. Weigle, "**Securing CASCADE Data Aggregation for 
 
 ```bibtex
 @MISC {ibrahim-movenet08-b,
-      AUTHOR = {Khaled Ibrahim and Michele C. Weigle},
-      TITLE = {Securing CASCADE Data Aggregation for VANETs},
-      HOWPUBLISHED = {Poster presented at the International Workshop on Mobile Vehicular Networks (MoVeNet)},
-      MONTH = {sep},
-      YEAR = {2008},
-      PUBDATE = {200809},
+      author = {Khaled Ibrahim and Michele C. Weigle},
+      title = {Securing {CASCADE} Data Aggregation for {VANETs}},
+      howpublished = {Poster presented at the International Workshop on Mobile Vehicular Networks (MoVeNet)},
+      month = sep,
+      year = 2008,
+      pubdate = {200809}
 }
 ```
 # [rizvi-sigcomm08](#rizvi-sigcomm08)
@@ -2834,12 +2834,12 @@ Syed R. Rizvi, Michele C. Weigle, and Mona E. Rizvi, "**InVANETs for First Respo
 
 ```bibtex
 @MISC {rizvi-sigcomm08,
-      AUTHOR = {Syed R. Rizvi and Michele C. Weigle and Mona E. Rizvi},
-      TITLE = {InVANETs for First Responders},
-      HOWPUBLISHED = {Poster presented at ACM SIGCOMM, Seattle, WA},
-      MONTH = {aug},
-      YEAR = {2008},
-      PUBDATE = {200808},
+      author = {Syed R. Rizvi and Michele C. Weigle and Mona E. Rizvi},
+      title = {{InVANETs} for First Responders},
+      howpublished = {Poster presented at ACM SIGCOMM, Seattle, WA},
+      month = aug,
+      year = 2008,
+      pubdate = {200808}
 }
 ```
 # [ibrahim-vanet08](#ibrahim-vanet08)
@@ -2851,18 +2851,18 @@ Khaled Ibrahim, and Michele C. Weigle, "**Towards an Optimized and Secure CASCAD
 
 ```bibtex
 @INPROCEEDINGS {ibrahim-vanet08,
-      AUTHOR = {Khaled Ibrahim and Michele C. Weigle},
-      TITLE = {Towards an Optimized and Secure CASCADE for Data Aggregation in VANETs},
-      BOOKTITLE = {Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)},
-      YEAR = {2008},
-      MONTH = {sep},
-      PAGES = {84--85},
-      NOTE = {poster},
-      ADDRESS = {San Francisco, CA},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet08.pdf},
-      POSTER = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet08-poster.pdf},
-      DOI = {10.1145/1410043.1410061},
-      PUBDATE = {200809},
+      author = {Khaled Ibrahim and Michele C. Weigle},
+       title = {Towards an Optimized and Secure {CASCADE} for Data Aggregation in {VANETs}},
+       booktitle = {Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)},
+      year = 2008,
+      month = sep,
+      pages = {84--85},
+      note = {poster},
+      address = {San Francisco, CA},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet08.pdf},
+      poster = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet08-poster.pdf},
+      doi = {10.1145/1410043.1410061},
+      pubdate = {200809}
 }
 ```
 # [abuelela-vtc08](#abuelela-vtc08)
@@ -2874,16 +2874,16 @@ Mahmoud Abuelela, Stephan Olariu, and Michele C. Weigle, "**NOTICE: An Architect
 
 ```bibtex
 @INPROCEEDINGS {abuelela-vtc08,
-      AUTHOR = {Mahmoud Abuelela and Stephan Olariu and Michele C. Weigle},
-      TITLE = {NOTICE: An Architecture for Notification of Traffic Incidents},
-      BOOKTITLE = {Proceedings of the IEEE Vehicular Technology Conference - Spring},
-      YEAR = {2008},
-      ADDRESS = {Singapore},
-      PAGES = {3001-3005},
-      MONTH = {may},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/abuelela-vtc08spr.pdf},
-      DOI = {http://dx.doi.org/10.1109/VETECS.2008.320},
-      PUBDATE = {200805},
+      author = 	 {Mahmoud Abuelela and Stephan Olariu and Michele C. Weigle},
+      title = 	 {{NOTICE}: An Architecture for Notification of Traffic Incidents},
+      booktitle = {Proceedings of the IEEE Vehicular Technology Conference - Spring},
+      year = 	 2008,
+      address = 	 {Singapore},
+      pages = {3001-3005},
+      month = 	 may,
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/abuelela-vtc08spr.pdf},
+      doi = {http://dx.doi.org/10.1109/VETECS.2008.320},
+      pubdate = {200805}
 }
 ```
 # [ibrahim-move08](#ibrahim-move08)
@@ -2895,16 +2895,16 @@ Khaled Ibrahim, and Michele C. Weigle, "**ASH: Application-aware SWANS with High
 
 ```bibtex
 @INPROCEEDINGS {ibrahim-move08,
-      AUTHOR = {Khaled Ibrahim and Michele C. Weigle},
-      TITLE = {ASH: Application-aware SWANS with Highway mobility},
-      BOOKTITLE = {Proceedings of IEEE INFOCOM Workshop on MObile Networking for Vehicular Environments (MOVE)},
-      YEAR = {2008},
-      ADDRESS = {Phoenix, AZ},
-      MONTH = {apr},
-      PAGES = {1--6},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-move08.pdf},
-      DOI = {http://dx.doi.org/10.1109/INFOCOM.2008.4544652},
-      PUBDATE = {200804},
+      author = 	 {Khaled Ibrahim and Michele C. Weigle},
+      title = 	 {{ASH}: Application-aware {SWANS} with Highway mobility},
+      booktitle = {Proceedings of IEEE INFOCOM Workshop on MObile Networking for Vehicular Environments (MOVE)},
+      year = 	 2008,
+      address = 	 {Phoenix, AZ},
+      month = 	 apr,
+      pages = {1--6},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-move08.pdf},
+      doi = {http://dx.doi.org/10.1109/INFOCOM.2008.4544652},
+      pubdate = {200804}
 }
 ```
 # [yan-comcom08](#yan-comcom08)
@@ -2916,17 +2916,17 @@ Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "**Providing VANET Security 
 
 ```bibtex
 @ARTICLE {yan-comcom08,
-      AUTHOR = {Gongjun Yan and Stephan Olariu and Michele C. Weigle},
-      TITLE = {Providing VANET Security Through Active Position Detection},
-      JOURNAL = {Computer Communications: Special Issue on Mobility Protocols for ITS/VANET},
-      YEAR = {2008},
-      VOLUME = {31},
-      NUMBER = {12},
-      MONTH = {jul},
-      PAGES = {2883-2897},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/yan-comcom08.pdf},
-      DOI = {http://dx.doi.org/10.1016/j.comcom.2008.01.009},
-      PUBDATE = {200807},
+      author = 	 {Gongjun Yan and Stephan Olariu and Michele C. Weigle},
+      title = 	 {Providing {VANET} Security Through Active Position Detection},
+      journal = 	 {Computer Communications: Special Issue on Mobility Protocols for ITS/VANET},
+      year = 	 2008,
+      volume = 31,
+      number = 12,
+      month = jul,
+      pages = 	 {2883-2897},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/yan-comcom08.pdf},
+      doi = {http://dx.doi.org/10.1016/j.comcom.2008.01.009},
+      pubdate = {200807}
 }
 ```
 # [rizvi-vtc07](#rizvi-vtc07)
@@ -2938,16 +2938,16 @@ Syed Rizvi, Stephan Olariu, Michele C. Weigle, and Mona Rizvi, "**A Novel Approa
 
 ```bibtex
 @INPROCEEDINGS {rizvi-vtc07,
-      AUTHOR = {Syed Rizvi and Stephan Olariu and Michele C. Weigle and Mona Rizvi},
-      TITLE = {A Novel Approach to Reduce Traffic Chaos in Emergency and Evacuation Scenarios},
-      BOOKTITLE = {Proceedings of the IEEE Vehicular Technology Conference - Fall},
-      YEAR = {2007},
-      MONTH = {oct},
-      PAGES = {1937--1941},
-      ADDRESS = {Baltimore, MD},
-      PDF = {http://www.cs.odu.edu/vanet/papers/rizvi-vtc07.pdf},
-      DOI = {http://dx.doi.org/10.1109/VETECF.2007.407},
-      PUBDATE = {200710},
+      author = {Syed Rizvi and Stephan Olariu and Michele C. Weigle and Mona Rizvi},
+      title = {A Novel Approach to Reduce Traffic Chaos in Emergency and Evacuation Scenarios},
+      booktitle = {Proceedings of the IEEE Vehicular Technology Conference - Fall},
+      year = 2007,
+      month = oct,
+      pages = {1937--1941},
+      address = {Baltimore, MD},
+      pdf = {http://www.cs.odu.edu/vanet/papers/rizvi-vtc07.pdf},
+      doi = {http://dx.doi.org/10.1109/VETECF.2007.407},
+      pubdate = {200710}
 }
 ```
 # [ibrahim-vanet07](#ibrahim-vanet07)
@@ -2959,16 +2959,16 @@ Khaled Ibrahim, and Michele C. Weigle, "**Accurate Data Aggregation for VANETs**
 
 ```bibtex
 @INPROCEEDINGS {ibrahim-vanet07,
-      AUTHOR = {Khaled Ibrahim and Michele C. Weigle},
-      TITLE = {Accurate Data Aggregation for VANETs},
-      BOOKTITLE = {Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networks (VANET)},
-      YEAR = {2007},
-      MONTH = {sep},
-      PAGES = {71--72},
-      ADDRESS = {Montreal, Canada},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet07.pdf},
-      DOI = {10.1145/1287748.1287761},
-      PUBDATE = {200709},
+      author = {Khaled Ibrahim and Michele C. Weigle},
+       title = {Accurate Data Aggregation for {VANETs}},
+       booktitle = {Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networks (VANET)},
+      year = 2007,
+      month = sep,
+      pages = {71--72},
+      address = {Montreal, Canada},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet07.pdf},
+      doi = {10.1145/1287748.1287761},
+      pubdate = {200709}
 }
 ```
 # [yan-vanet07](#yan-vanet07)
@@ -2980,16 +2980,16 @@ Gongjun Yan, Gyanesh Choudhary, Michele C. Weigle, and Stephan Olariu, "**Provid
 
 ```bibtex
 @INPROCEEDINGS {yan-vanet07,
-      AUTHOR = {Gongjun Yan and Gyanesh Choudhary and Michele C. Weigle and Stephan Olariu},
-      TITLE = {Providing VANET Security Through Active Position Detection},
-      BOOKTITLE = {Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networks (VANET)},
-      YEAR = {2007},
-      MONTH = {sep},
-      PAGES = {73--74},
-      ADDRESS = {Montreal, Canada},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/yan-vanet07.pdf},
-      DOI = {10.1145/1287748.1287762},
-      PUBDATE = {200709},
+      author = {Gongjun Yan and Gyanesh Choudhary and Michele C. Weigle and Stephan Olariu},
+       title = {Providing {VANET} Security Through Active Position Detection},
+       booktitle = {Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networks (VANET)},
+      year = 2007,
+      month = sep,
+      pages = {73--74},
+      address = {Montreal, Canada},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/yan-vanet07.pdf},
+      doi = {10.1145/1287748.1287762},
+      pubdate = {200709}
 }
 ```
 # [brooks-ijdsn07](#brooks-ijdsn07)
@@ -3001,16 +3001,16 @@ Richard R. Brooks, Brijesh Pillai, Michele C. Weigle, and Matthew Pirretti, "**O
 
 ```bibtex
 @ARTICLE {brooks-ijdsn07,
-      AUTHOR = {Richard R. Brooks and Brijesh Pillai and Michele C. Weigle and Matthew Pirretti},
-      TITLE = {Optimal Layout of Multicast Groups Using Network Embedded Multicast Security in Ad Hoc Sensor Networks},
-      JOURNAL = {International Journal of Distributed Sensor Networks},
-      YEAR = {2007},
-      VOLUME = {3},
-      NUMBER = {3},
-      PAGES = {273--287},
-      MONTH = {jul},
-      DOI = {http://dx.doi.org/10.1080/15501320601062080},
-      PUBDATE = {200707},
+      author = {Richard R. Brooks and Brijesh Pillai and Michele C. Weigle and Matthew Pirretti},
+      title =  {Optimal Layout of Multicast Groups Using Network Embedded Multicast Security in Ad Hoc Sensor Networks},
+      journal = {International Journal of Distributed Sensor Networks},
+      year = 2007,
+      volume = 3,
+      number = 3,
+      pages = {273--287},
+      month = jul,
+      doi = {http://dx.doi.org/10.1080/15501320601062080},
+      pubdate = {200707}
 }
 ```
 # [weigle-netcri07](#weigle-netcri07)
@@ -3022,17 +3022,17 @@ Michele C. Weigle, and Stephan Olariu, "**Intelligent Highway Infrastructure for
 
 ```bibtex
 @INPROCEEDINGS {weigle-netcri07,
-      AUTHOR = {Michele C. Weigle and Stephan Olariu},
-      TITLE = {Intelligent Highway Infrastructure for Planned Evacuations},
-      BOOKTITLE = {Proceedings of the First International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri)},
-      YEAR = {2007},
-      MONTH = {apr},
-      PAGES = {594--599},
-      ADDRESS = {New Orleans, LA},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/weigle-netcri07.pdf},
-      SLIDES = {http://www.slideshare.net/mweigle/weigle-netcri07},
-      DOI = {http://dx.doi.org/10.1109/PCCC.2007.358947},
-      PUBDATE = {200704},
+      author = {Michele C. Weigle and Stephan Olariu},
+       title = {Intelligent Highway Infrastructure for Planned Evacuations},
+      booktitle = {Proceedings of the First International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri)},
+       year = 2007,
+      month = apr,
+       pages = {594--599},
+      address = {New Orleans, LA},
+      pdf  = {http://www.cs.odu.edu/~mweigle/papers/weigle-netcri07.pdf},
+      slides = {http://www.slideshare.net/mweigle/weigle-netcri07},
+      doi = {http://dx.doi.org/10.1109/PCCC.2007.358947},
+      pubdate = {200704}
 }
 ```
 # [rizvi-netcri07](#rizvi-netcri07)
@@ -3044,17 +3044,17 @@ Syed Rizvi, Stephan Olariu, Mona Rizvi, and Michele C. Weigle, "**A Traffic Chao
 
 ```bibtex
 @INPROCEEDINGS {rizvi-netcri07,
-      AUTHOR = {Syed Rizvi and Stephan Olariu and Mona Rizvi and Michele C. Weigle},
-      TITLE = {A Traffic Chaos Reduction Approach for Emergency Scenarios},
-      BOOKTITLE = {Proceedings of the First International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri)},
-      YEAR = {2007},
-      MONTH = {apr},
-      PAGES = {576--578},
-      ADDRESS = {New Orleans, LA},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/rizvi-netcri07.pdf},
-      SLIDES = {http://www.slideshare.net/mweigle/rizvi-netcri07},
-      DOI = {http://dx.doi.org/10.1109/PCCC.2007.358943},
-      PUBDATE = {200704},
+      author = {Syed Rizvi and Stephan Olariu and Mona Rizvi and Michele C. Weigle},
+        title = {A Traffic Chaos Reduction Approach for Emergency Scenarios},
+      booktitle = {Proceedings of the First International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri)},
+       year = 2007,
+      month = apr,
+       pages = {576--578},
+      address = {New Orleans, LA},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/rizvi-netcri07.pdf},
+      slides = {http://www.slideshare.net/mweigle/rizvi-netcri07},
+      doi = {http://dx.doi.org/10.1109/PCCC.2007.358943},
+      pubdate = {200704}
 }
 ```
 # [adurthi-tmix06](#adurthi-tmix06)
@@ -3066,14 +3066,14 @@ Prashanth Adurthi, and Michele C. Weigle, "**Realistic TCP Traffic Generation in
 
 ```bibtex
 @TECHREPORT {adurthi-tmix06,
-      AUTHOR = {Prashanth Adurthi and Michele C. Weigle},
-      TITLE = {Realistic TCP Traffic Generation in ns-2 and GTNetS},
-      MONTH = {jun},
-      YEAR = {2006},
-      INSTITUTION = {Clemson University},
-      NUMBER = {2006},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/adurthi-tmix-TR06.pdf},
-      PUBDATE = {200606},
+      author = 	 {Prashanth Adurthi and Michele C. Weigle},
+      title = 	 {Realistic {TCP} Traffic Generation in ns-2 and {GTNetS}},
+      month = 	 jun,
+      year = 	 2006,
+      institution = {Clemson University},
+      number = {2006},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/adurthi-tmix-TR06.pdf},
+      pubdate = {200606}
 }
 ```
 # [weigle-wsc06](#weigle-wsc06)
@@ -3085,16 +3085,16 @@ Michele C. Weigle, "**Improving Confidence in Network Simulations**," In *Procee
 
 ```bibtex
 @INPROCEEDINGS {weigle-wsc06,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {Improving Confidence in Network Simulations},
-      BOOKTITLE = {Proceedings of the Winter Simulation Conference},
-      YEAR = {2006},
-      PAGES = {2188--2194},
-      ADDRESS = {Monterey, CA},
-      MONTH = {dec},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/wintersim06.pdf},
-      DOI = {http://dx.doi.org/10.1109/WSC.2006.323020},
-      PUBDATE = {200612},
+      author = {Michele C. Weigle},
+      title = {Improving Confidence in Network Simulations},
+      booktitle = {Proceedings of the Winter Simulation Conference},
+      year = 2006,
+      pages = {2188--2194},
+      address = {Monterey, CA},
+      month = dec,
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/wintersim06.pdf},
+      doi = {http://dx.doi.org/10.1109/WSC.2006.323020},
+      pubdate = {200612}
 }
 ```
 # [weigle-globecom06](#weigle-globecom06)
@@ -3106,16 +3106,16 @@ Michele C. Weigle, Deepak Vembar, and Zhidian Du, "**Assessing the Impact of Mul
 
 ```bibtex
 @INPROCEEDINGS {weigle-globecom06,
-      AUTHOR = {Michele C. Weigle and Deepak Vembar and Zhidian Du},
-      TITLE = {Assessing the Impact of Multiple Active Queue Management Routers},
-      BOOKTITLE = {Proceedings of IEEE Globecom},
-      YEAR = {2006},
-      ADDRESS = {San Francisco, CA},
-      MONTH = {nov},
-      PAGES = {1--6},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/globecom06.pdf},
-      DOI = {http://dx.doi.org/10.1109/GLOCOM.2006.172},
-      PUBDATE = {200611},
+      author = {Michele C. Weigle and Deepak Vembar and Zhidian Du},
+       title = {Assessing the Impact of Multiple Active Queue Management Routers},
+       booktitle = {Proceedings of IEEE Globecom},
+      year = 2006,
+      address = {San Francisco, CA},
+      month = nov,
+      pages = {1--6},
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/globecom06.pdf},
+      doi = {http://dx.doi.org/10.1109/GLOCOM.2006.172},
+      pubdate = {200611}
 }
 ```
 # [weigle-comcom06](#weigle-comcom06)
@@ -3127,17 +3127,17 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Quantifying the Effec
 
 ```bibtex
 @ARTICLE {weigle-comcom06,
-      AUTHOR = {Michele C. Weigle and Kevin Jeffay and F. Donelson Smith},
-      TITLE = {Quantifying the Effects of Recent Protocol Improvements to TCP: Impact on Web Performance},
-      JOURNAL = {Computer Communications},
-      YEAR = {2006},
-      VOLUME = {29},
-      NUMBER = {15},
-      PAGES = {2853--2866},
-      MONTH = {sep},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/comcom06-preprint.pdf},
-      DOI = {http://dx.doi.org/10.1016/j.comcom.2006.03.001},
-      PUBDATE = {200609},
+      author = {Michele C. Weigle and Kevin Jeffay and F. Donelson Smith},
+      title =  {Quantifying the Effects of Recent Protocol Improvements to TCP: Impact on Web Performance},
+      journal = {Computer Communications},
+      year = 2006,
+      volume = 29,
+      number = 15,
+      pages = {2853--2866},
+      month = sep,
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/comcom06-preprint.pdf},
+      doi = {http://dx.doi.org/10.1016/j.comcom.2006.03.001},
+      pubdate = {200609}
 }
 ```
 # [thottan-wicon06](#thottan-wicon06)
@@ -3149,15 +3149,15 @@ Marina Thottan, and Michele C. Weigle, "**Impact of 802.11e EDCA on Mixed TCP-ba
 
 ```bibtex
 @INPROCEEDINGS {thottan-wicon06,
-      AUTHOR = {Marina Thottan and Michele C. Weigle},
-      TITLE = {Impact of 802.11e EDCA on Mixed TCP-based Applications},
-      BOOKTITLE = {Proceedings of the International Wireless Internet Conference (WICON)},
-      YEAR = {2006},
-      ADDRESS = {Boston, MA},
-      MONTH = {aug},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/wicon06.pdf},
-      DOI = {10.1145/1234161.1234187},
-      PUBDATE = {200608},
+      author = {Marina Thottan and Michele C. Weigle},
+      title = {Impact of 802.11e {EDCA} on Mixed {TCP}-based Applications},
+      booktitle = {Proceedings of the International Wireless Internet Conference (WICON)},
+      year = 2006,
+      address = {Boston, MA},
+      month = aug,
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/wicon06.pdf},
+      doi = {10.1145/1234161.1234187},
+      pubdate = {200608}
 }
 ```
 # [weigle-ccr06](#weigle-ccr06)
@@ -3169,17 +3169,17 @@ Michele C. Weigle, Prashanth Adurthi, Felix Hernandez-Campos, Kevin Jeffay, and 
 
 ```bibtex
 @ARTICLE {weigle-ccr06,
-      AUTHOR = {Michele C. Weigle and Prashanth Adurthi and Felix Hernandez-Campos and Kevin Jeffay and F. Donelson Smith},
-      TITLE = {Tmix: A Tool for Generating Realistic Application Workloads in ns-2},
-      JOURNAL = {Computer Communication Review},
-      YEAR = {2006},
-      VOLUME = {36},
-      NUMBER = {3},
-      PAGES = {67--76},
-      MONTH = {jul},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/ccr06.pdf},
-      DOI = {10.1145/1140086.1140094},
-      PUBDATE = {200607},
+      author =       {Michele C. Weigle and Prashanth Adurthi and Felix Hernandez-Campos and Kevin Jeffay and F. Donelson Smith},
+       title =        {Tmix: A Tool for Generating Realistic Application Workloads in ns-2},
+       journal =      {Computer Communication Review},
+      year =         2006,
+      volume =       36,
+      number =       3,
+      pages =        {67--76},
+      month =        jul,
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/ccr06.pdf},
+      doi = {10.1145/1140086.1140094},
+      pubdate = {200607}
 }
 ```
 # [weigle-networking06](#weigle-networking06)
@@ -3191,15 +3191,15 @@ Michele C. Weigle, Pankaj Sharma, and Jesse Freeman, IV, "**Performance of Compe
 
 ```bibtex
 @INPROCEEDINGS {weigle-networking06,
-      AUTHOR = {Michele C. Weigle and Pankaj Sharma and Jesse Freeman, IV},
-      TITLE = {Performance of Competing High-Speed TCP Flows},
-      BOOKTITLE = {Proceedings of NETWORKING},
-      PAGES = {476--487},
-      YEAR = {2006},
-      ADDRESS = {Coimbra, Portugal},
-      MONTH = {may},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/networking06.pdf},
-      PUBDATE = {200606},
+      author = 	 {Michele C. Weigle and Pankaj Sharma and Jesse Freeman, IV},
+       title = 	 {Performance of Competing High-Speed {TCP} Flows},
+      booktitle = 	 {Proceedings of NETWORKING},
+      pages =	 {476--487},
+      year =	 2006,
+      address =	 {Coimbra, Portugal},
+      month =	 may,
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/networking06.pdf},
+      pubdate = {200606}
 }
 ```
 # [packmime-docs](#packmime-docs)
@@ -3211,13 +3211,13 @@ Michele C. Weigle, "**PackMime-HTTP: Web Traffic Generation in NS-2**," The ns M
 
 ```bibtex
 @MISC {packmime-docs,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {PackMime-HTTP: Web Traffic Generation in NS-2},
-      HOWPUBLISHED = {The ns Manual},
-      MONTH = {feb},
-      YEAR = {2006},
-      PDF = {http://www.cs.odu.edu/~mweigle/research/netsim/packmime-nsdoc.pdf},
-      PUBDATE = {200602},
+     author = {Michele C. Weigle},
+     title = {{PackMime-HTTP}: Web Traffic Generation in {NS-2}},
+     howpublished = {The ns Manual},
+     month = feb,
+     year = 2006,
+     pdf = {http://www.cs.odu.edu/~mweigle/research/netsim/packmime-nsdoc.pdf},
+     pubdate = {200602}
 }
 ```
 # [delaybox-docs](#delaybox-docs)
@@ -3229,13 +3229,13 @@ Michele C. Weigle, "**DelayBox: Per-Flow Delay and Loss**," The ns Manual, Febru
 
 ```bibtex
 @MISC {delaybox-docs,
-      AUTHOR = {Michele C. Weigle},
-      TITLE = {DelayBox: Per-Flow Delay and Loss},
-      HOWPUBLISHED = {The ns Manual},
-      MONTH = {feb},
-      YEAR = {2006},
-      PDF = {http://www.cs.odu.edu/~mweigle/research/netsim/delaybox-nsdoc.pdf},
-      PUBDATE = {200602},
+     author = {Michele C. Weigle},
+     title = {{DelayBox}: Per-Flow Delay and Loss},
+     howpublished = {The ns Manual},
+     month = feb,
+     year = 2006,
+     pdf = {http://www.cs.odu.edu/~mweigle/research/netsim/delaybox-nsdoc.pdf},
+     pubdate = {200602}
 }
 ```
 # [weigle-comcom05](#weigle-comcom05)
@@ -3247,17 +3247,17 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Delay-Based Early Con
 
 ```bibtex
 @ARTICLE {weigle-comcom05,
-      AUTHOR = {Michele C. Weigle and Kevin Jeffay and F. Donelson Smith},
-      TITLE = {Delay-Based Early Congestion Detection and Adaptation: Impact on web performance},
-      JOURNAL = {Computer Communications},
-      YEAR = {2005},
-      VOLUME = {28},
-      NUMBER = {8},
-      PAGES = {837--850},
-      MONTH = {may},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/comcom05-preprint.pdf},
-      DOI = {http://dx.doi.org/10.1016/j.comcom.2004.11.011},
-      PUBDATE = {200505},
+      author = 	 {Michele C. Weigle and Kevin Jeffay and F. Donelson Smith},
+      title = 	 {Delay-Based Early Congestion Detection and Adaptation: Impact on web performance},
+       journal = 	 {Computer Communications},
+      year = 	 2005,
+      volume =	 28,
+      number =	 8,
+      pages =	 {837--850},
+      month =	 may,
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/comcom05-preprint.pdf},
+      doi = {http://dx.doi.org/10.1016/j.comcom.2004.11.011},
+      pubdate = {200505}
 }
 ```
 # [cao-infocom04](#cao-infocom04)
@@ -3269,16 +3269,16 @@ Jin Cao, William S. Cleveland, Yuan Gao, Kevin Jeffay, F. Donelson Smith, and Mi
 
 ```bibtex
 @INPROCEEDINGS {cao-infocom04,
-      AUTHOR = {Jin Cao and William S. Cleveland and Yuan Gao and Kevin Jeffay and F. Donelson Smith and Michele C. Weigle},
-      TITLE = {Stochastic Models for Generating Synthetic HTTP Source Traffic},
-      BOOKTITLE = {Proceedings of IEEE INFOCOM},
-      PAGES = {1547--1558},
-      YEAR = {2004},
-      ADDRESS = {Hong Kong},
-      MONTH = {mar},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/INFOCOM04.pdf},
-      DOI = {http://dx.doi.org/10.1109/INFCOM.2004.1354568},
-      PUBDATE = {200403},
+      author = 	 {Jin Cao and William S. Cleveland and Yuan Gao and Kevin Jeffay and F. Donelson Smith and Michele C. Weigle},
+      title = 	 {Stochastic Models for Generating Synthetic {HTTP} Source Traffic},
+       booktitle = 	 {Proceedings of IEEE INFOCOM},
+      pages =	 {1547--1558},
+      year =	 2004,
+      address =	 {Hong Kong},
+      month =	 mar,
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/INFOCOM04.pdf},
+      doi = {http://dx.doi.org/10.1109/INFCOM.2004.1354568},
+      pubdate = {200403}
 }
 ```
 # [weigle-03](#weigle-03)
@@ -3290,13 +3290,13 @@ Michele Aylene Clark Weigle, "**Investigating the Use of Synchronized Clocks in 
 
 ```bibtex
 @PHDTHESIS {weigle-03,
-      AUTHOR = {Michele Aylene Clark Weigle},
-      TITLE = {Investigating the Use of Synchronized Clocks in TCP Congestion Control},
-      SCHOOL = {University of North Carolina at Chapel Hill},
-      YEAR = {2003},
-      MONTH = {aug},
-      URL = {http://www.cs.odu.edu/~mweigle/unc/diss/},
-      PUBDATE = {200308},
+      author = 	 {Michele Aylene Clark Weigle},
+      title = 	 {Investigating the Use of Synchronized Clocks in TCP Congestion Control},
+      school = 	 {University of North Carolina at Chapel Hill},
+      year = 	 2003,
+      month = 	 aug,
+      url = {http://www.cs.odu.edu/~mweigle/unc/diss/},
+      pubdate = {200308}
 }
 ```
 # [weigle-mascots03](#weigle-mascots03)
@@ -3308,16 +3308,16 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Quantifying the Effec
 
 ```bibtex
 @INPROCEEDINGS {weigle-mascots03,
-      AUTHOR = {Michele C. Weigle and Kevin Jeffay and F. Donelson Smith},
-      TITLE = {Quantifying the Effects of Recent Protocol Improvements to Standards-Track TCP},
-      BOOKTITLE = {Proceedings of the IEEE/ACM International                  Symposium on Modeling, Analysis and Simulation of                  Computer Telecommunication Systems (MASCOTS)},
-      PAGES = {226--229},
-      YEAR = {2003},
-      ADDRESS = {Orlando, FL},
-      MONTH = {oct},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/MASCOTS03.pdf},
-      DOI = {http://dx.doi.org/10.1109/MASCOT.2003.1240662},
-      PUBDATE = {200310},
+      author = 	 {Michele C. Weigle and Kevin Jeffay and F. Donelson Smith},
+      title = 	 {Quantifying the Effects of Recent Protocol Improvements to Standards-Track {TCP}},
+      booktitle = 	 {Proceedings of the IEEE/ACM International                  Symposium on Modeling, Analysis and Simulation of                  Computer Telecommunication Systems (MASCOTS)},
+      pages =	 {226--229},
+      year =	 2003,
+      address =	 {Orlando, FL},
+      month =	 oct,
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/MASCOTS03.pdf},
+      doi = {http://dx.doi.org/10.1109/MASCOT.2003.1240662},
+      pubdate = {200310}
 }
 ```
 # [hudson-mcn01](#hudson-mcn01)
@@ -3329,17 +3329,17 @@ Tom Hudson, Michele C. Weigle, Kevin Jeffay, and Russell M. Taylor, II, "**Exper
 
 ```bibtex
 @INPROCEEDINGS {hudson-mcn01,
-      AUTHOR = {Tom Hudson and Michele C. Weigle and Kevin Jeffay and Russell M. Taylor, II},
-      TITLE = {Experiments in Best-Effort Multimedia Networking for a Distributed Virtual Environment},
-      BOOKTITLE = {Proceedings of Multimedia Computing and Networking                  (MCN), SPIE Proceedings Series},
-      PAGES = {88--98},
-      YEAR = {2001},
-      VOLUME = {4312},
-      ADDRESS = {San Jose, CA},
-      MONTH = {jan},
-      PDF = {http://www.cs.unc.edu/~jeffay/papers/MMCN-01.pdf},
-      DOI = {http://dx.doi.org/10.1117/12.410916},
-      PUBDATE = {200101},
+      author = 	 {Tom Hudson and Michele C. Weigle and Kevin Jeffay and Russell M. Taylor, II},
+      title = 	 {Experiments in Best-Effort Multimedia Networking for a Distributed Virtual Environment},
+      booktitle = 	 {Proceedings of Multimedia Computing and Networking                  (MCN), SPIE Proceedings Series},
+      pages =	 {88--98},
+      year =	 2001,
+      volume =	 4312,
+      address =	 {San Jose, CA},
+      month =	 jan,
+      pdf = {http://www.cs.unc.edu/~jeffay/papers/MMCN-01.pdf},
+      doi = {http://dx.doi.org/10.1117/12.410916},
+      pubdate = {200101}
 }
 ```
 # [weigle-sigcomm00](#weigle-sigcomm00)
@@ -3351,13 +3351,13 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Sync-TCP: Using GPS S
 
 ```bibtex
 @MISC {weigle-sigcomm00,
-      AUTHOR = {Michele C. Weigle and Kevin Jeffay and F. Donelson Smith},
-      TITLE = {Sync-TCP: Using GPS Synchronized Clocks for Early Congestion Detection in TCP},
-      HOWPUBLISHED = {Poster presented at ACM SIGCOMM, Stockholm, Sweden},
-      YEAR = {2000},
-      MONTH = {aug},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/sigcomm00-abs.pdf},
-      PUBDATE = {200008},
+      author = 	 {Michele C. Weigle and Kevin Jeffay and F. Donelson Smith},
+      title = 	 {Sync-{TCP}: Using {GPS} Synchronized Clocks for Early Congestion Detection in {TCP}},
+      howpublished = {Poster presented at ACM SIGCOMM, Stockholm, Sweden},
+      year = 	 2000,
+      month = 	 aug,
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/sigcomm00-abs.pdf},
+      pubdate = {200008}
 }
 ```
 # [clark-icmcs99](#clark-icmcs99)
@@ -3369,18 +3369,18 @@ Michele Clark, and Kevin Jeffay, "**Application-Level Measurements of Performanc
 
 ```bibtex
 @INPROCEEDINGS {clark-icmcs99,
-      AUTHOR = {Michele Clark and Kevin Jeffay},
-      TITLE = {Application-Level Measurements of Performance on the vBNS},
-      BOOKTITLE = {Proceedings of the IEEE International Conference on Multimedia Computing and Systems},
-      PAGES = {362--366},
-      YEAR = {1999},
-      VOLUME = {II},
-      ADDRESS = {Florence, Italy},
-      NOTE = {poster},
-      MONTH = {jun},
-      PDF = {http://www.cs.odu.edu/~mweigle/papers/icmcs99.pdf},
-      DOI = {http://dx.doi.org/10.1109/MMCS.1999.778437},
-      PUBDATE = {199907},
+      author = 	 {Michele Clark and Kevin Jeffay},
+      title = 	 {Application-Level Measurements of Performance on the {vBNS}},
+      booktitle = 	 {Proceedings of the IEEE International Conference on Multimedia Computing and Systems},
+      pages =	 {362--366},
+      year =	 1999,
+      volume =	 {II},
+      address =	 {Florence, Italy},
+      note = {poster},
+      month =	 jun,
+      pdf = {http://www.cs.odu.edu/~mweigle/papers/icmcs99.pdf},
+      doi = {http://dx.doi.org/10.1109/MMCS.1999.778437},
+      pubdate = {199907}
 }
 ```
 # [nee-av97](#nee-av97)
@@ -3392,14 +3392,14 @@ Peter Nee, Kevin Jeffay, Michele Clark, and Gunner Danneels, "**Two-Dimensional 
 
 ```bibtex
 @INPROCEEDINGS {nee-av97,
-      AUTHOR = {Peter Nee and Kevin Jeffay and Michele Clark and Gunner Danneels},
-      TITLE = {Two-Dimensional Audio Scaling Enhancement to an Internet Videoconferencing System},
-      BOOKTITLE = {Proceedings of the International Workshop on                  Audio-Visual Services over Packet Networks},
-      PAGES = {201--206},
-      YEAR = {1997},
-      ADDRESS = {Aberdeen, Scotland, UK},
-      MONTH = {sep},
-      DOI = {http://dx.doi.org/10.1109/NOSDAV.1997.629389},
-      PUBDATE = {199709},
+      author = 	 {Peter Nee and Kevin Jeffay and Michele Clark and Gunner Danneels},
+       title = 	 {Two-Dimensional Audio Scaling Enhancement to an {Internet} Videoconferencing System},
+      booktitle = 	 {Proceedings of the International Workshop on                  Audio-Visual Services over Packet Networks},
+      pages =	 {201--206},
+      year =	 1997,
+      address =	 {Aberdeen, Scotland, UK},
+      month =	 sep,
+      doi = {http://dx.doi.org/10.1109/NOSDAV.1997.629389},
+      pubdate = {199709}
 }
 ```
