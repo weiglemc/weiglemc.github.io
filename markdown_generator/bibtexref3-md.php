@@ -429,13 +429,14 @@ class BibtexEntry {
       global $BibtexSilentFields, $BibtexGenerateDefaultUrlField;
       $INDENT = "    ";
 
-      $ret = "```bibtex\n@" . $this->entrytype . " {" . $this->entryname . ",\n$INDENT";
+      // MCW 2022-02-07 - adding {% raw %} to escape double-braces for Jekyll
+      $ret = "{% raw %}\n\n```bibtex\n@" . $this->entrytype . " {" . $this->entryname . ",\n$INDENT";
 
       // MCW 2022-02-06 - for every *, replace with , then newline and indent
       $one_bib_entry = $OrigBibEntries[$this->entryname];
       $commas_bib_entry = preg_replace("/\*/", ",\n$INDENT", $one_bib_entry);
       $ret = $ret . $commas_bib_entry;
-      $ret = $ret . "\n}\n```\n";
+      $ret = $ret . "\n}\n```\n\n{% endraw %}\n\n"; // MCW 2022-02-07 - adding {% endraw %} escape
 
       /*
       //while (list($key, $value)=each($this->values))  // each deprecated  MCW, Jul 4, 2021
@@ -455,7 +456,7 @@ class BibtexEntry {
 
     function getCompleteEntry()
     {
-      $ret = "# [" .  $this->entryname . "](#" . $this->entryname . ")\n\n";
+      $ret = "## [" .  $this->entryname . "](#" . $this->entryname . ")\n\n";
       $ret = $ret . $this->getSummary(false);
 
       $abstract = $this->getAbstract();
@@ -470,7 +471,7 @@ class BibtexEntry {
       }
 
       $ret = $ret . "\n\n[](#" . $this->entryname . "Bib)\n";
-      $ret = $ret . "**Bibtex entry:**\n\n" . $this->getBibEntry();
+      $ret = $ret . "**BibTeX entry:**\n\n" . $this->getBibEntry();
       return $ret;
     }
 
