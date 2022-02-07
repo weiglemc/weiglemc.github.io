@@ -7,6 +7,8 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+
+{% raw %}
 # [jones-sigweb21](#jones-sigweb21)
 
 Jones, Shawn M., Weigle, Michele C., and Nelson, Michael L., "**Hypercane: Toolkit for Summarizing Large Collections of Archived Webpages**," *ACM SIGWEB Newsletter*, No. Summer, October 2021. <a href='http://dx.doi.org/10.1145/3473044.3473047' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
@@ -3403,3 +3405,4 @@ Peter Nee, Kevin Jeffay, Michele Clark, and Gunner Danneels, "**Two-Dimensional 
       pubdate = {199709}
 }
 ```
+{% endraw %}
