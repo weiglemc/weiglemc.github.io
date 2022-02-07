@@ -13,6 +13,10 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 I used <https://realfavicongenerator.net> to generate the needed favicons (it's a lot more complicated than it used to be...).
 
+## Debugging
+
+If the page doesn't regenerate automatically after a new commit, check for build or deployment errors.  Check the [pages-build-deployment](https://github.com/weiglemc/weiglemc.github.io/actions/workflows/pages/pages-build-deployment) log in the [Actions](https://github.com/weiglemc/weiglemc.github.io/actions) tab.
+
 ## Generating Publication Pages
 
 I adapted code from PmWiki's [BibtexRef Cookbook](https://www.pmwiki.org/wiki/Cookbook/BibtexRef) to read in a BibTeX file and generate various Markdown files for the website.  The files are all in the [markdown_generator](markdown_generator/) folder in this repo.
