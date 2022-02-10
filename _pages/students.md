@@ -90,7 +90,7 @@ acrobat-color: "#f70e0c"
 3. Shahram Mohrehkesh
 <a href="https://www.linkedin.com/in/shahram-m-9160602/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[Energy Harvesting-Aware Design for Wireless Nanonetworks](http://digitalcommons.odu.edu/computerscience_etds/2/)," PhD thesis, *Old Dominion University*, August 2015. <a href='http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-dissertation-2015.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/energy-harvestingaware-design-for-wireless-nanonetworks' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
-   * First Job: Lead Software Engineer, Retail Solutions (RSI)
+   * First Job: Assistant Professor, Temple University
    * Current Job: Machine Learning Engineer, Intuit
 4. Mohammad Almalag
 <a href="http://cnu.edu/people/mohammadalmalag/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
