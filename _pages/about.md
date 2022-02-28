@@ -56,11 +56,13 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 * Editorial Board
   * [*Journal of the Association for Information Science and Technology*](https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard) (JASIST) (2016-present)
   * [*International Journal on Digital Libraries*](https://www.springer.com/computer/database+management+&+information+retrieval/journal/799/PS2?detailsPage=editorialBoard) (IJDL) (2018-present)
+* Steering Committee Member, ACM/IEEE Joint Conference on Digital Libraries (JCDL) (2020-present)
+* Doctoral Consortium Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2022
+* Program Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2016
 * Faculty Advisor, ACM-W @ ODU
 * Faculty Representative, [NCWIT Academic Alliance](https://www.ncwit.org/alliances/aa)
 * ODU-CS Graduate Program Director, 2013-2019
-* Doctoral Consortium Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2022
-* Program Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2016
+
 
 ## Bio
 
