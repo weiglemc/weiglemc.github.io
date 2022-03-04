@@ -39,16 +39,18 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
   {% endif %}
 {% endfor %}
 
-## Recent Funding
+## Active Funding
 
-* Michael L. Nelson, Michele C. Weigle, Jian Wu, "Web Science and Web Security", [COVA CCI Curriculum Development](https://covacci.org/curriculum-development/), Jan 2022 - Aug 2022, $10,000
-* Michael L. Nelson, Michele C. Weigle, "Game Walkthroughs and Web Archiving", IIPC Discretionary Funding Program, Jan 2022 - Dec 2022, $10,000.
+* Sampath Jayarathna (PI), Jian Wu, Senior Personnel: Michele C. Weigle, Michael Nelson, Vikas Ashok, Faryaneh Poursardar, Anne Perrotti (Education), Erika Frydenlund (VMASC), REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics, NSF, Mar 2022 - Feb 2025, $324,000.
+* Erika Frydenlund (PI), Jose Padilla (VMASC), Michele C. Weigle, Jennifer Fish, Michael L. Nelson, Michaela Hynie (York University, Canada), Hanne Haaland (Univ of Agder, Norway), Hege Wallevik (Univ of Agder, Norway), Katherine Palacio-Salgar (Universidad del Norte, Columbia), [What's Missing? Innovating Interdisciplinary Methods for Hard-to-Reach Environments](https://www.defense.gov/News/Releases/Release/Article/2944623/department-of-defense-awards-287m-in-grants-for-the-fy2021-minerva-research-ini/), Jan 2022 - Dec 2024, Department of Defense Minerva Research Initiative, $1,618,699 - [blog post](https://ws-dl.blogspot.com/2022/03/2022-03-03-whats-missing-innovating.html)
+* Michael L. Nelson, Michele C. Weigle, Jian Wu, Web Science and Web Security, COVA CCI Curriculum Development, Jan 2022 - Aug 2022, $10,000
+* Michael L. Nelson, Michele C. Weigle, Game Walkthroughs and Web Archiving, IIPC Discretionary Funding Program, Jan 2022 - Dec 2022, $10,000.
 * Vicky Rampin (NYU), Martin Klein (LANL), wilkie (Univ. of Pittsburgh), Michael L. Nelson, Michele C. Weigle, [CoSAI - Collaborative Software Archiving for Institutions](https://sloan.org/grant-detail/9628), Alfred P. Sloan Foundation, Sep 2021 - Sep 2023, $520,503.
 * Michael L. Nelson, Michele C. Weigle, Sue Kimmel, Jessica Ritchie, and Hongyi Wu, [A Graduate Certificate in Web Archiving](https://www.imls.gov/grants/awarded/re-250048-ols-21), IMLS Laura Bush 21st Century Librarian Program, RE-250048-OLS-21, Aug 2021 - Jul 2022, $98,361.
-* Michael L. Nelson (PI), [Improving the Dark and Stormy Archives Framework by Summarizing the Collections of the National Library of Australia](https://netpreserve.org/projects/dark-and-stormy-archives/), IIPC Discretionary Funding Program, Jan 2021 - Jan 2022, $50,000
+<!-- * Michael L. Nelson (PI), [Improving the Dark and Stormy Archives Framework by Summarizing the Collections of the National Library of Australia](https://netpreserve.org/projects/dark-and-stormy-archives/), IIPC Discretionary Funding Program, Jan 2021 - Jan 2022, $50,000
 * Michele C. Weigle, Michael L. Nelson, Deborah Kempe (Frick Art Reference Library and New York Art Resources Consortium), Pamela Graham (Columbia University Libraries), and Alex Thurman (Columbia University Libraries), [Visualizing Webpage Changes Over Time](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-256368-17), NEH/IMLS Digital Humanities Advancement Grant HAA-256368-17, Oct 2017 – Mar 2020, $75,000 - [blog post](https://ws-dl.blogspot.com/2017/10/2017-10-16-visualizing-webpage-changes.html)
 * Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel (LANL), [Preservation of Scholarly Record on the Web](https://mellon.org/grants/grants-database/grants/old-dominion-university/11600663/), Andrew W. Mellon Foundation 11600663, Apr 2016 - Mar 2020, $830,000.
-
+-->
 *My full funding list is available in my [CV](https://weiglemc.github.io/cv/).*
 
 ## Service
