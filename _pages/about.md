@@ -13,8 +13,7 @@ blogger-color: "#F37100"
 ---
 I am a Professor of Computer Science at Old Dominion University, where I've been on faculty since 2006.  I'm a graduate of UNC-Chapel Hill (PhD 2003, MS 1998) and Northeast Louisiana University (BS 1996).  I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit about my background and experiences as a woman in computer science.
 
-**Research Interests:** web science, social media, web archiving, digital preservation, information visualization
-<br/>(see some student infovis projects at my [infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
+**Research Interests:** web science, social media, web archiving, digital preservation, information visualization (see some student infovis projects at my [infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
 
 For an overview of what I've been working on the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018.
 
@@ -41,10 +40,10 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 
 ## Active Funding
 
-* Sampath Jayarathna (PI), Jian Wu, Senior Personnel: Michele C. Weigle, Michael Nelson, Vikas Ashok, Faryaneh Poursardar, Anne Perrotti (Education), Erika Frydenlund (VMASC), REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics, NSF, Mar 2022 - Feb 2025, $324,000.
+* Sampath Jayarathna (PI), Jian Wu, Senior Personnel: Michele C. Weigle, Michael Nelson, Vikas Ashok, Faryaneh Poursardar, Anne Perrotti (Education), Erika Frydenlund (VMASC), [REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics](http://reu.cs.odu.edu/), NSF, Mar 2022 - Feb 2025, $324,000.
 * Erika Frydenlund (PI), Jose Padilla (VMASC), Michele C. Weigle, Jennifer Fish, Michael L. Nelson, Michaela Hynie (York University, Canada), Hanne Haaland (Univ of Agder, Norway), Hege Wallevik (Univ of Agder, Norway), Katherine Palacio-Salgar (Universidad del Norte, Columbia), [What's Missing? Innovating Interdisciplinary Methods for Hard-to-Reach Environments](https://www.defense.gov/News/Releases/Release/Article/2944623/department-of-defense-awards-287m-in-grants-for-the-fy2021-minerva-research-ini/), Jan 2022 - Dec 2024, Department of Defense Minerva Research Initiative, $1,618,699 - [blog post](https://ws-dl.blogspot.com/2022/03/2022-03-03-whats-missing-innovating.html)
-* Michael L. Nelson, Michele C. Weigle, Jian Wu, Web Science and Web Security, COVA CCI Curriculum Development, Jan 2022 - Aug 2022, $10,000
-* Michael L. Nelson, Michele C. Weigle, Game Walkthroughs and Web Archiving, IIPC Discretionary Funding Program, Jan 2022 - Dec 2022, $10,000.
+* Michael L. Nelson, Michele C. Weigle, Jian Wu, Web Science and Web Security, COVA CCI Curriculum Development, Jan 2022 - Aug 2022, $10,000 - [blog post](https://ws-dl.blogspot.com/2022/01/2022-01-07-webscidl-with-web-science.html)
+* Michael L. Nelson, Michele C. Weigle, [Game Walkthroughs and Web Archiving](https://netpreserve.org/projects/game-walkthroughs/), IIPC Discretionary Funding Program, Jan 2022 - Dec 2022, $10,000.
 * Vicky Rampin (NYU), Martin Klein (LANL), wilkie (Univ. of Pittsburgh), Michael L. Nelson, Michele C. Weigle, [CoSAI - Collaborative Software Archiving for Institutions](https://sloan.org/grant-detail/9628), Alfred P. Sloan Foundation, Sep 2021 - Sep 2023, $520,503.
 * Michael L. Nelson, Michele C. Weigle, Sue Kimmel, Jessica Ritchie, and Hongyi Wu, [A Graduate Certificate in Web Archiving](https://www.imls.gov/grants/awarded/re-250048-ols-21), IMLS Laura Bush 21st Century Librarian Program, RE-250048-OLS-21, Aug 2021 - Jul 2022, $98,361 - [blog post](https://ws-dl.blogspot.com/2021/08/2021-08-21-imls-laura-bush-award.html)
 
@@ -85,3 +84,4 @@ Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion Univers
 * May 1998, M.S., Computer Science, University of North Carolina
 * May 1996, B.S., [Computer Science](http://www.ulm.edu/cba/computerscience/index.html) ([Honors Program](http://www.ulm.edu/honors)), Northeast Louisiana University (now [UL-Monroe](http://www.ulm.edu))
   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FVIg42xHlvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
