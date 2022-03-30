@@ -82,6 +82,6 @@ Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion Univers
 * August 2003 - June 2004, Visiting Assistant Professor, Computer Science, University of North Carolina
 * August 2003, Ph.D., [Computer Science](https://www.cs.unc.edu), [University of North Carolina](https://www.unc.edu)
 * May 1998, M.S., Computer Science, University of North Carolina
-* May 1996, B.S., [Computer Science](http://www.ulm.edu/cba/computerscience/index.html) ([Honors Program](http://www.ulm.edu/honors)), Northeast Louisiana University (now [UL-Monroe](http://www.ulm.edu))
+* May 1996, B.S., [Computer Science](http://www.ulm.edu/cba/computerscience/index.html) ([Honors Program](http://www.ulm.edu/honors)), Northeast Louisiana University (now [University of Louisiana at Monroe](http://www.ulm.edu))
   
 <iframe width="300" src="https://www.youtube.com/embed/FVIg42xHlvQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
