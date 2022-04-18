@@ -47,13 +47,6 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 * Vicky Rampin (NYU), Martin Klein (LANL), wilkie (Univ. of Pittsburgh), Michael L. Nelson, Michele C. Weigle, [CoSAI - Collaborative Software Archiving for Institutions](https://sloan.org/grant-detail/9628), Alfred P. Sloan Foundation, Sep 2021 - Sep 2023, $520,503.
 * Michael L. Nelson, Michele C. Weigle, Sue Kimmel, Jessica Ritchie, and Hongyi Wu, [A Graduate Certificate in Web Archiving](https://www.imls.gov/grants/awarded/re-250048-ols-21), IMLS Laura Bush 21st Century Librarian Program, RE-250048-OLS-21, Aug 2021 - Jul 2022, $98,361 - [blog post](https://ws-dl.blogspot.com/2021/08/2021-08-21-imls-laura-bush-award.html)
 
-{% comment %}
-* Michael L. Nelson (PI), [Improving the Dark and Stormy Archives Framework by Summarizing the Collections of the National Library of Australia](https://netpreserve.org/projects/dark-and-stormy-archives/), IIPC Discretionary Funding Program, Jan 2021 - Jan 2022, $50,000
-* Michele C. Weigle, Michael L. Nelson, Deborah Kempe (Frick Art Reference Library and New York Art Resources Consortium), Pamela Graham (Columbia University Libraries), and Alex Thurman (Columbia University Libraries), [Visualizing Webpage Changes Over Time](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-256368-17), NEH/IMLS Digital Humanities Advancement Grant HAA-256368-17, Oct 2017 – Mar 2020, $75,000 - [blog post](https://ws-dl.blogspot.com/2017/10/2017-10-16-visualizing-webpage-changes.html)
-* Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel (LANL), [Preservation of Scholarly Record on the Web](https://mellon.org/grants/grants-database/grants/old-dominion-university/11600663/), Andrew W. Mellon Foundation 11600663, Apr 2016 - Mar 2020, $830,000.
-
-{% endcomment %}
-
 *My full funding list is available in my [CV](https://weiglemc.github.io/cv/).*
 
 ## Service
@@ -64,14 +57,14 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 * Steering Committee Member, ACM/IEEE Joint Conference on Digital Libraries (JCDL) (2020-present)
 * Doctoral Consortium Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2022
 * Program Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2016
-* Faculty Advisor, ACM-W @ ODU
+* Faculty Advisor, ACM-W @ ODU, 2013-2022
 * Faculty Representative, [NCWIT Academic Alliance](https://www.ncwit.org/alliances/aa)
 * ODU-CS Graduate Program Director, 2013-2019
 
 
 ## Bio
 
-Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion University. Her research interests include web science, digital preservation, and information visualization. Her research in web archiving includes developing tools for personal web archiving, improving access to web archives for general users and researchers, and applying information visualization to web archives. She has published over 115 articles in peer-reviewed conferences and journals and has served as PI or Co-PI on external research grants totaling over $5.8M from a wide range of funders, including the National Science Foundation, the National Endowment for the Humanities, the Institute of Museum and Library Services, and the Andrew W. Mellon Foundation. She is currently serving on the editorial boards of the *Journal of the Association for Information Science and Technology* (JASIST) and the *International Journal on Digital Libraries* (IJDL). Dr. Weigle received her PhD in computer science from the University of North Carolina in 2003. From 2004-2006, she was an Assistant Professor in the Department of Computer Science at Clemson University. She joined ODU in 2006.
+Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion University. Her research interests include web science, social media, digital preservation, and information visualization. She has published over 115 articles in peer-reviewed conferences and journals and has served as PI or Co-PI on external research grants totaling almost $6M from a wide range of funders, including the National Science Foundation, the National Endowment for the Humanities, the Institute of Museum and Library Services, and the Andrew W. Mellon Foundation. She currently serves on the editorial boards of the *Journal of the Association for Information Science and Technology* (JASIST) and the *International Journal on Digital Libraries* (IJDL). Dr. Weigle received her PhD in computer science from the University of North Carolina in 2003.
 
 ### Academic Timeline
 
