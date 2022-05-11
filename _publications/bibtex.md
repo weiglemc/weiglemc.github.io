@@ -9,7 +9,7 @@ blogger-color: '#F37100'
 ---
 ## [jones-code4lib22](#jones-code4lib22)
 
-Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin,  Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**The DSA Toolkit Shines Light Into Dark and Stormy Archives**," *code{4}lib Journal*, No. 53, May 2022.
+Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin,  Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**The DSA Toolkit Shines Light Into Dark and Stormy Archives**," *code{4}lib Journal*, No. 53, May 2022. <a href='https://journal.code4lib.org/articles/16441' target='_blank'><i class='fas fa-fw fa-link'></i></a>
 
 [](#jones-code4lib22Bib)
 **BibTeX entry:**
@@ -25,6 +25,7 @@ Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin,  Martin Klein
        issn = {ISSN 1940-5758},
       journal = {code\{4\}lib Journal},
       month = may,
+      url = {https://journal.code4lib.org/articles/16441},
       pubdate = {202205}
 }
 ```
