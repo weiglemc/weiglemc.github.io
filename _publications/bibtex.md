@@ -7,6 +7,30 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [jones-code4lib22](#jones-code4lib22)
+
+Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin,  Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**The DSA Toolkit Shines Light Into Dark and Stormy Archives**," *code{4}lib Journal*, No. 53, May 2022.
+
+[](#jones-code4lib22Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {jones-code4lib22,
+      author = {Shawn M. Jones and Himarsha R. Jayanetti and Alex Osborne and Paul Koerbin and  Martin Klein and Michele C. Weigle and Michael L. Nelson},
+      title = {The {DSA} Toolkit Shines Light Into Dark and Stormy Archives},
+      year = {2022},
+      number = 53,
+       issn = {ISSN 1940-5758},
+      journal = {code\{4\}lib Journal},
+      month = may,
+      pubdate = {202205}
+}
+```
+
+{% endraw %}
+
 ## [jones-sigweb21](#jones-sigweb21)
 
 Jones, Shawn M., Weigle, Michele C., and Nelson, Michael L., "**Hypercane: Toolkit for Summarizing Large Collections of Archived Webpages**," *ACM SIGWEB Newsletter*, No. Summer, October 2021. <a href='http://dx.doi.org/10.1145/3473044.3473047' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
