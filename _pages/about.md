@@ -11,16 +11,17 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 ---
-I am a Professor of Computer Science at Old Dominion University, where I've been on faculty since 2006.  I'm a graduate of UNC-Chapel Hill (PhD 2003, MS 1998) and Northeast Louisiana University (BS 1996).  I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit about my background and experiences as a woman in computer science.
+I am a Professor of Computer Science at Old Dominion University, where I've been on faculty since 2006.  For an overview of my research direction for the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018. I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit about my background and experiences as a woman in computer science. (For more information, see my [bio](#bio).)
 
-**Research Interests:** web science, social media, web archiving, digital preservation, information visualization (see some student infovis projects at my [infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
+**Research Interests:** web science, social media, web archiving, digital preservation, information visualization (see some student infovis projects in  my [infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
 
-For an overview of what I've been working on the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018.
+## Graduate Program Director
 
-## Teaching (Spring 2022)
+I am currently serving as the Graduate Program Director (GPD) for Administration in the Department of Computer Science.  See our website for information on our graduate programs ([Master's Program](https://odu.edu/compsci/academics/graduate/masters), [PhD Program](https://odu.edu/compsci/academics/graduate/phd)). If you need to contact a CS GPD, please use [csgpd@odu.edu](mailto:csgpd@odu.edu).
 
-1. [CS 725/825 - Information Visualization & Data Analytics](/teaching/2022-spr-cs725825) / Tu 4:20-7pm, MGB 0127 and online via Zoom
-1. [CS 800 - Research Methods](/teaching/2022-spr-cs800) / TR 11am-12:15pm, GORNT 0205 and online via Zoom
+## Teaching 
+
+*I will be on research leave for the Fall 2022 semester, but will return to teaching courses in Spring 2023.*
 
 ## Research
 
@@ -59,7 +60,7 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 * Program Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2016
 * Faculty Advisor, ACM-W @ ODU, 2013-2022
 * Faculty Representative, [NCWIT Academic Alliance](https://www.ncwit.org/alliances/aa)
-* ODU-CS Graduate Program Director, 2013-2019
+* ODU-CS Graduate Program Director, 2013-2019, 2022-present
 
 
 ## Bio
