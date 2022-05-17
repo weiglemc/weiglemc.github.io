@@ -18,3 +18,6 @@ Dr. Michele C. Weigle
 Dept. of Computer Science  
 Old Dominion University  
 Norfolk, VA 23529-0162
+
+## For GPD matters
+Email: [csgpd@odu.edu](mailto:csgpd@odu.edu)
