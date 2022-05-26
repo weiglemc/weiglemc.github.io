@@ -13,6 +13,7 @@ Tuesday
 
 * 11am-12pm - PhD Student Research Meeting
 * 2-3pm - PhD Student Research Meeting
+* 4-5pm - PhD Student Research Meeting
 
 Wednesday
 
@@ -23,7 +24,6 @@ Wednesday
 Thursday
 
 * 9:30-10:30am - Research Project Meeting (every 4 weeks)
-* 1-2pm - PhD Student Research Meeting
 * 4-5pm - PhD Student Research Meeting
 
 Friday
