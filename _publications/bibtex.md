@@ -7,6 +7,186 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [jayanetti-tpdl22b](#jayanetti-tpdl22b)
+
+Himarsha Jayanetti, Shawn Jones, Martin Klein, Alex Osbourne, Paul Koerbin, Michael L. Nelson, and Michele C. Weigle, "**Creating Structure in Web Archives With Collections: Different Concepts From Web Archivists**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022, short paper.
+
+[](#jayanetti-tpdl22bBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {jayanetti-tpdl22b,
+      author    = {Himarsha Jayanetti and Shawn Jones and Martin Klein and Alex Osbourne and Paul Koerbin and Michael L. Nelson and Michele C. Weigle},
+    	title = {Creating Structure in Web Archives With Collections: Different Concepts From Web Archivists},
+      booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+    	note = {short paper},
+      year = {2022},
+      month = sep,
+      pubdate = {202209}
+}
+```
+
+{% endraw %}
+
+## [mabe-tpdl22](#mabe-tpdl22)
+
+Abby Mabe, Michael L. Nelson, and Michele C. Weigle, "**A Chromium-based Memento-aware Web Browser**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022.
+
+[](#mabe-tpdl22Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {mabe-tpdl22,
+      author = {Abby Mabe and Michael L. Nelson and Michele C. Weigle},
+      title = {A Chromium-based Memento-aware Web Browser},
+      booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+      year = {2022},
+      month = sep,
+      pubdate = {202209},
+      acceptance = {18/50 (36\%)}
+}
+```
+
+{% endraw %}
+
+## [jayanetti-tpdl22a](#jayanetti-tpdl22a)
+
+Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives, But Less Than Before**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022.
+
+[](#jayanetti-tpdl22aBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {jayanetti-tpdl22a,
+      author    = {Himarsha Jayanetti and Kritika Garg and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
+    	title = {Robots Still Outnumber Humans in Web Archives, But Less Than Before},
+      booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+      year = {2022},
+      month = sep,
+      pubdate = {202209},
+      acceptance = {18/50 (36\%)}
+}
+```
+
+{% endraw %}
+
+## [escamilla-tpdl22](#escamilla-tpdl22)
+
+Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**The Rise of GitHub in Scholarly Publications**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022.
+
+[](#escamilla-tpdl22Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {escamilla-tpdl22,
+      author    = {Emily Escamilla and Talya Cooper and Vicky Rampin and Martin Klein and Michele C. Weigle and Michael L. Nelson},
+      title = {The Rise of GitHub in Scholarly Publications},
+      booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+      year = {2022},
+      month = sep,
+      pubdate = {202209},
+      acceptance = {18/50 (36\%)}
+}
+```
+
+{% endraw %}
+
+## [reid-wadl22](#reid-wadl22)
+
+Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Entertainment**," Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL), June 2022.
+
+[](#reid-wadl22Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {reid-wadl22,
+      author    = {Travis Reid and Michael L. Nelson and Michele C. Weigle},
+      title     = {Web Archiving as Entertainment},
+      year      = {2022},
+      month     = jun,
+      HOWPUBLISHED = {Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL) },
+      pubdate = {202206}
+}
+```
+
+{% endraw %}
+
+## [jayanetti-wadl22](#jayanetti-wadl22)
+
+Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Comparison of Access Patterns of Robots and Humans in Web Archives**," Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL), June 2022.
+
+[](#jayanetti-wadl22Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {jayanetti-wadl22,
+      author    = {Himarsha Jayanetti and Kritika Garg and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
+      title     = {Comparison of Access Patterns of Robots and Humans in Web Archives},
+      year      = {2022},
+      month     = jun,
+      HOWPUBLISHED = {Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL) },
+      pubdate = {202206}
+}
+```
+
+{% endraw %}
+
+## [garg-wadl22](#garg-wadl22)
+
+Kritika Garg, Himarsha Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Optimizing Archival Replay by Eliminating Unnecessary Traffic to Web Archives**," Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL), June 2022.
+
+[](#garg-wadl22Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {garg-wadl22,
+      author    = {Kritika Garg and Himarsha Jayanetti and Sawood Alam and Michele C. Weigle and Michael L. Nelson},
+      title     = {Optimizing Archival Replay by Eliminating Unnecessary Traffic to Web Archives},
+      year      = {2022},
+      month     = jun,
+      HOWPUBLISHED = {Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL) },
+      pubdate = {202206}
+}
+```
+
+{% endraw %}
+
+## [escamilla-wadl22](#escamilla-wadl22)
+
+Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**Archiving Source Code in Scholarly Content: One in Five Articles References GitHub**," Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL), June 2022.
+
+[](#escamilla-wadl22Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {escamilla-wadl22,
+      author    = {Emily Escamilla and Talya Cooper and Vicky Rampin and Martin Klein and Michele C. Weigle and Michael L. Nelson},
+      title     = {Archiving Source Code in Scholarly Content: One in Five Articles References GitHub},
+      year      = {2022},
+      month     = jun,
+      HOWPUBLISHED = {Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL) },
+      pubdate = {202206}
+}
+```
+
+{% endraw %}
+
 ## [jones-code4lib22](#jones-code4lib22)
 
 Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin,  Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**The DSA Toolkit Shines Light Into Dark and Stormy Archives**," *code{4}lib Journal*, No. 53, May 2022. <a href='https://journal.code4lib.org/articles/16441' target='_blank'><i class='fas fa-fw fa-link'></i></a>
@@ -60,6 +240,32 @@ Jones, Shawn M., Weigle, Michele C., and Nelson, Michael L., "**Hypercane: Toolk
 
 {% endraw %}
 
+## [jones-jcdl21b](#jones-jcdl21b)
+
+Shawn Jones, Michele C. Weigle, and Michael L. Nelson, "**Hypercane: Intelligent Sampling for Web Archive Collections**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, pp. 316-317, poster. <a href='http://dx.doi.org/10.1109/JCDL52503.2021.00049' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#jones-jcdl21bBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {jones-jcdl21b,
+      author = {Shawn Jones and Michele C. Weigle and Michael L. Nelson},
+      title = {Hypercane: Intelligent Sampling for Web Archive Collections},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2021,
+      month = sep,
+      pubdate = {202109},
+      note = {poster},
+      pages = {316--317},
+      doi = {10.1109/JCDL52503.2021.00049},
+      acceptance = {poster 79\%)}
+}
+```
+
+{% endraw %}
+
 ## [patel-jcdl21](#patel-jcdl21)
 
 Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "**What Did It Look Like: A service for creating website timelapses using the Memento framework**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, pp. 340-341, poster. <a href='http://dx.doi.org/10.1109/JCDL52503.2021.00061' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2104.14041' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
@@ -81,32 +287,6 @@ Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "**Wh
       note = {poster},
       pages = {340--341},
       doi = {10.1109/JCDL52503.2021.00061},
-      acceptance = {poster 79\%)}
-}
-```
-
-{% endraw %}
-
-## [jones-jcdl21b](#jones-jcdl21b)
-
-Shawn Jones, Michele C. Weigle, and Michael L. Nelson, "**Hypercane: Intelligent Sampling for Web Archive Collections**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, pp. 316-317, poster. <a href='http://dx.doi.org/10.1109/JCDL52503.2021.00049' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
-
-[](#jones-jcdl21bBib)
-**BibTeX entry:**
-
-{% raw %}
-
-```bibtex
-@INPROCEEDINGS {jones-jcdl21b,
-      author = {Shawn Jones and Michele C. Weigle and Michael L. Nelson},
-      title = {Hypercane: Intelligent Sampling for Web Archive Collections},
-      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      year =  2021,
-      month = sep,
-      pubdate = {202109},
-      note = {poster},
-      pages = {316--317},
-      doi = {10.1109/JCDL52503.2021.00049},
       acceptance = {poster 79\%)}
 }
 ```
@@ -135,32 +315,6 @@ Abigail Mabe, Michael L. Nelson, and Michele C. Weigle, "**Extending Chromium: M
       pages = {310--311},
       doi = {10.1109/JCDL52503.2021.00046},
       acceptance = {poster 79\%)}
-}
-```
-
-{% endraw %}
-
-## [alam-jcdl21](#alam-jcdl21)
-
-Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Profiling Web Archival Voids for Memento Routing**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, pp. 150-159. <a href='http://dx.doi.org/10.1109/JCDL52503.2021.00027' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2108.03311' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
-
-[](#alam-jcdl21Bib)
-**BibTeX entry:**
-
-{% raw %}
-
-```bibtex
-@INPROCEEDINGS {alam-jcdl21,
-      author = {Sawood Alam and Michele C. Weigle and Michael L. Nelson},
-      title = {Profiling Web Archival Voids for Memento Routing},
-      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-      year =  2021,
-      month = sep,
-      pubdate = {202109},
-      arxiv = {https://arxiv.org/abs/2108.03311},
-      pages = {150--159},
-      doi = {10.1109/JCDL52503.2021.00027},
-      acceptance = {22/76 (29\%)}
 }
 ```
 
@@ -238,6 +392,32 @@ Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael
       arxiv = {https://arxiv.org/abs/2108.12092},
       pages = {160--169},
       doi = {10.1109/JCDL52503.2021.00028},
+      acceptance = {22/76 (29\%)}
+}
+```
+
+{% endraw %}
+
+## [alam-jcdl21](#alam-jcdl21)
+
+Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Profiling Web Archival Voids for Memento Routing**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. September 2021, pp. 150-159. <a href='http://dx.doi.org/10.1109/JCDL52503.2021.00027' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2108.03311' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#alam-jcdl21Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {alam-jcdl21,
+      author = {Sawood Alam and Michele C. Weigle and Michael L. Nelson},
+      title = {Profiling Web Archival Voids for Memento Routing},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2021,
+      month = sep,
+      pubdate = {202109},
+      arxiv = {https://arxiv.org/abs/2108.03311},
+      pages = {150--159},
+      doi = {10.1109/JCDL52503.2021.00027},
       acceptance = {22/76 (29\%)}
 }
 ```
