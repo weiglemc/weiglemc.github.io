@@ -19,7 +19,6 @@ Wednesday
 
 * 2-3pm - Faculty Research Planning Meeting
 * 3-4pm - PhD Student Research Meeting
-* 4:30-5:30pm - PhD Student Research Meeting (every 2 weeks)
 
 Thursday
 
@@ -29,7 +28,7 @@ Thursday
 
 Friday
 
-* 2-4pm - PhD Student Research Meetings
+* 2-5pm - PhD Student Research Meetings
 
 Note: *Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
 
@@ -38,7 +37,7 @@ Note: *Times not specified from 9am-5pm M-F are scheduled for research and plann
 
 2022
 
-* July 24-29: Frankfurt, Germany  - [Ernst Stungmann Forum on Digital Ethology](https://www.esforum.de/forums/ESF34_Digital_Ethology.html)
+* July 23-30: Frankfurt, Germany  - [Ernst Stungmann Forum on Digital Ethology](https://www.esforum.de/forums/ESF34_Digital_Ethology.html)
 
 2021 - *no travel due to COVID-19*
 
