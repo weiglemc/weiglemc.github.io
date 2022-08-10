@@ -78,7 +78,7 @@ Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C.
 
 ## [escamilla-tpdl22](#escamilla-tpdl22)
 
-Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**The Rise of GitHub in Scholarly Publications**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022.
+Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**The Rise of GitHub in Scholarly Publications**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022. &nbsp;<a href='https://arxiv.org/abs/2208.04895' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#escamilla-tpdl22Bib)
 **BibTeX entry:**
@@ -93,6 +93,7 @@ Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, an
       year = {2022},
       month = sep,
       pubdate = {202209},
+      arxiv = {https://arxiv.org/abs/2208.04895},
       acceptance = {18/50 (36\%)}
 }
 ```
