@@ -17,11 +17,11 @@ I am a Professor of Computer Science at Old Dominion University, where I've been
 
 ## Graduate Program Director
 
-I am currently serving as the Graduate Program Director (GPD) for Administration in the Department of Computer Science.  See our website for information on our graduate programs ([Master's Program](https://odu.edu/compsci/academics/graduate/masters), [PhD Program](https://odu.edu/compsci/academics/graduate/phd)). If you need to contact a CS GPD, please use [csgpd@odu.edu](mailto:csgpd@odu.edu).
+*I am currently on research leave for the Fall 2022 semester*, but in January 2023 I will be returning as the Graduate Program Director (GPD) for Administration in the Department of Computer Science.  See our website for information on our graduate programs ([Master's Program](https://odu.edu/compsci/academics/graduate/masters), [PhD Program](https://odu.edu/compsci/academics/graduate/phd)). If you need to contact a CS GPD, please use [csgpd@odu.edu](mailto:csgpd@odu.edu).
 
 ## Teaching 
 
-*I will be on research leave for the Fall 2022 semester, but will return to teaching courses in Spring 2023.*
+*I am currently on research leave for the Fall 2022 semester.*
 
 ## Research
 
