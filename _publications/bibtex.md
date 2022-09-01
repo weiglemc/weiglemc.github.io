@@ -55,7 +55,7 @@ Abby Mabe, Michael L. Nelson, and Michele C. Weigle, "**A Chromium-based Memento
 
 ## [jayanetti-tpdl22a](#jayanetti-tpdl22a)
 
-Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives, But Less Than Before**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022.
+Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives, But Less Than Before**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022. &nbsp;<a href='https://arxiv.org/abs/2208.12914' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#jayanetti-tpdl22aBib)
 **BibTeX entry:**
@@ -70,6 +70,7 @@ Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C.
       year = {2022},
       month = sep,
       pubdate = {202209},
+      arxiv = {https://arxiv.org/abs/2208.12914},
       acceptance = {18/50 (36\%)}
 }
 ```
