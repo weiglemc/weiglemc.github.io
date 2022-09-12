@@ -14,13 +14,11 @@ Monday
 Tuesday
 
 * 11am-12pm - PhD Student Research Meeting
-* 2-3pm - PhD Student Research Meeting
 * 4-5pm - PhD Student Research Meeting
 
 Wednesday
 
-* 2-3pm - Faculty Research Planning Meeting
-* 3-4pm - PhD Student Research Meeting
+* 10-11am - Faculty Research Planning Meeting
 
 Thursday
 
@@ -30,7 +28,8 @@ Thursday
 
 Friday
 
-* 2-5pm - PhD Student Research Meetings
+* 11am-12pm - PhD Student Research Meeting
+* 2-5:30pm - PhD Student Research Meetings
 
 Note: *Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
 
