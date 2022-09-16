@@ -42,9 +42,13 @@ layout: default
 
       <section class="page__content" itemprop="text">
 
+        <!-- Adding talk template here -->
         {% if page.slides_url %}
-  <p><a href="{{ page.slides_url }}" target="_blank" class="btn btn--mcw"><i class="fab fa-google-drive"></i><span> TEMPLATE Slides</span></a> </p> 
-  {% endif %}
+  <p><a href="{{ page.slides_url }}" target="_blank" class="btn btn--mcw"><i class="fab fa-google-drive"></i><span> Slides</span></a> </p> 
+  {% endif %}       
+         {% if page.embed %}
+ <div><iframe src="{{ page.embed }}" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+ {% endif %}
         
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
