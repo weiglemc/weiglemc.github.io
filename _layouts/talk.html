@@ -45,7 +45,10 @@ layout: default
         <!-- Adding talk template here -->
         {% if page.slides_url %}
   <p><a href="{{ page.slides_url }}" target="_blank" class="btn btn--mcw"><i class="fab fa-google-drive"></i><span> Slides</span></a> </p> 
-  {% endif %}       
+  {% endif %}  
+        {% if page.slideshare %}
+         <p><a href="{{ page.slideshare }}" target="_blank" class="btn btn--mcw"><i class="fab fa-slideshare"></i><span> Slides</span></a> </p> 
+  {% endif %} 
          {% if page.embed %}
  <div><iframe src="{{ page.embed }}" frameborder="0" width={{ page.embed_width | default: "640" }} height={{ page.embed_height | default: "400" }} allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
  {% endif %}
