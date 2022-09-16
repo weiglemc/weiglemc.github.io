@@ -1,0 +1,23 @@
+---
+title: "Weigle Project Intro"
+collection: talks
+type: "REU Workshop"
+permalink: /talks/2022-06-22-reu
+venue: "ODU-CS REU Site 2022"
+date: 2022-06-22
+location: "Norfolk, VA"
+excerpt: "Project intro presentation for students in the 2022 ODU-CS REU Site on Disinformation Detection and Analytics"
+share: false
+embed: "https://docs.google.com/presentation/d/e/2PACX-1vT__Un5rZ0cpPCtDfZa1NEGlUkZ6UzvjpbTr4JxgjOHGhHbLtUNagqbJjWhDIQJHJ_pPLUMUZUBwWOn/embed?start=false&loop=false&delayms=3000"
+slides_url: "https://docs.google.com/presentation/d/1g_ZjuoQwJHjM3VxixrtWGJqgVBbEucKh7fYsweX2vzA/preview"
+header:
+  teaser: https://drive.google.com/uc?id=1VKbcqKvaMoYLWZ7y2t0L5_bAsIgJ8qrs  
+---
+ 
+ {% if page.slides_url %}
+  <p><a href="{{ page.slides_url }}" target="_blank" class="btn btn--mcw"><i class="fab fa-google-drive"></i><span> Slides</span></a> </p> 
+  {% endif %}
+  
+ {% if page.embed %}
+ <div><iframe src="{{ page.embed }}" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+ {% endif %}
