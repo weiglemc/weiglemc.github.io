@@ -47,7 +47,7 @@ layout: default
   <p><a href="{{ page.slides_url }}" target="_blank" class="btn btn--mcw"><i class="fab fa-google-drive"></i><span> Slides</span></a> </p> 
   {% endif %}       
          {% if page.embed %}
- <div><iframe src="{{ page.embed }}" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+ <div><iframe src="{{ page.embed }}" frameborder="0" width={{ page.embed_width | default: "960" }} height={{ page.embed_height | default: "569" }} allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
  {% endif %}
         
         {{ content }}
