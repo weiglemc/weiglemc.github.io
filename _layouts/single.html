@@ -56,6 +56,19 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        
+       {% if page.collection == 'teaching' and page.type == 'course' %}
+        {% if page.github %}
+        <a href="{{ page.github }}" target="_blank" class="btn btn--mcw"><i class="fab fa-fw fa-github"></i><span> Class Resources at GitHub</span></a> &nbsp; &nbsp; 
+        {% endif %}
+        {% if page.syllabus_pdf %}
+        <a href="{{ page.syllabus_pdf }}" target="_blank" class="btn btn--mcw"><i class='fas fa-solid fa-file-pdf'></i><span> Syllabus (pdf)</span></a> &nbsp; &nbsp; 
+        {% endif %}
+        {% if page.slides %}
+        <a href="{{ page.slides }}" target="_blank" class="btn btn--mcw"><i class="fab fa-google-drive"></i><span> Slides</span></a>
+        {% endif %}
+        {% endif %}
+        
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
