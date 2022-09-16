@@ -40,3 +40,14 @@
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
 </div>
+
+<div>TESTING</div>
+ 
+ {% if page.slides_url %}
+  <p><a href="{{ page.slides_url }}" target="_blank" class="btn btn--mcw"><i class="fab fa-google-drive"></i><span> Slides</span></a> </p> 
+  {% endif %}
+  
+ {% if page.embed %}
+ <div><iframe src="{{ page.embed }}" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+ {% endif %}
+
