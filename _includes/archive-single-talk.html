@@ -38,17 +38,5 @@
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
-    
-    <p>TESTING</p>
-     
- {% if page.slides_url %}
-  <p><a href="{{ page.slides_url }}" target="_blank" class="btn btn--mcw"><i class="fab fa-google-drive"></i><span> Slides</span></a> </p> 
-  {% endif %}
-  
- {% if page.embed %}
- <div><iframe src="{{ page.embed }}" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
- {% endif %}
-
-    
   </article>
 </div>
