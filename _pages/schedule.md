@@ -19,6 +19,7 @@ Tuesday
 Wednesday
 
 * 10-11am - Faculty Research Planning Meeting
+* 2-3pm - WS-DL Faculty Meeting (3rd Weds of the month)
 
 Thursday
 
@@ -38,7 +39,7 @@ Note: *Times not specified from 9am-5pm M-F are scheduled for research and plann
 
 2022
 
-* July 23-30: Frankfurt, Germany  - [Ernst Stungmann Forum on Digital Ethology](https://www.esforum.de/forums/ESF34_Digital_Ethology.html)
+* July 23-30: Frankfurt, Germany  - [Ernst Stungmann Forum on Digital Ethology](https://www.esforum.de/forums/ESF34_Digital_Ethology.html) ([trip report](https://ws-dl.blogspot.com/2022/08/2022-08-03-ernst-strungmann-forum-on.html))
 
 2021 - *no travel due to COVID-19*
 
