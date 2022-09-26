@@ -19,6 +19,7 @@ Tuesday
 Wednesday
 
 * 10-11am - Faculty Research Planning Meeting
+* 11-12pm - Research Project Meeting
 * 2-3pm - WS-DL Faculty Meeting (3rd Weds of the month)
 
 Thursday
