@@ -9,7 +9,7 @@ title: "Schedule/Travel"
 
 Monday
 
-* *reserved for research and planning*
+* 1-2pm - Research Project Meeting
 
 Tuesday
 
