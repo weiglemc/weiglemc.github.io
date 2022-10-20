@@ -3,7 +3,7 @@ permalink: /schedule/
 title: "Schedule/Travel"
 ---
  
-## Fall 2022 Tenative Schedule
+## Fall 2022 Schedule
 
 *I am on research leave during the Fall 2022 semester.*
 
