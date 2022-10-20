@@ -9,7 +9,7 @@ title: "Schedule/Travel"
 
 Monday
 
-* 1-2pm - Research Project Meeting
+* 1-3pm - Research Project Meetings
 
 Tuesday
 
@@ -31,7 +31,7 @@ Thursday
 Friday
 
 * 11am-12pm - PhD Student Research Meeting
-* 2-5:30pm - PhD Student Research Meetings
+* 2-5pm - PhD Student Research Meetings
 
 Note: *Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
 
