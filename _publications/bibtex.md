@@ -7,6 +7,50 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [garg-icadl22](#garg-icadl22)
+
+Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Entertainment**," In *Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)*. December 2022, short paper.
+
+[](#garg-icadl22Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {garg-icadl22,
+      author    = {Kritika Garg and Himarsha Jayanetti and Sawood Alam and Michele C. Weigle and Michael L. Nelson},
+    	title = {Caching {HTTP} 404 Responses Eliminates Unnecessary Archival Replay Requests},
+      booktitle = {Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)},
+      year = {2022},
+      month = dec,
+      pubdate = {202212}
+}
+```
+
+{% endraw %}
+
+## [garg-icadl22](#garg-icadl22)
+
+Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Entertainment**," In *Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)*. December 2022, short paper.
+
+[](#garg-icadl22Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {garg-icadl22,
+      author    = {Kritika Garg and Himarsha Jayanetti and Sawood Alam and Michele C. Weigle and Michael L. Nelson},
+    	title = {Caching {HTTP} 404 Responses Eliminates Unnecessary Archival Replay Requests},
+      booktitle = {Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)},
+      year = {2022},
+      month = dec,
+      pubdate = {202212}
+}
+```
+
+{% endraw %}
+
 ## [jayanetti-tpdl22b](#jayanetti-tpdl22b)
 
 Himarsha Jayanetti, Shawn Jones, Martin Klein, Alex Osbourne, Paul Koerbin, Michael L. Nelson, and Michele C. Weigle, "**Creating Structure in Web Archives With Collections: Different Concepts From Web Archivists**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022, short paper.
@@ -55,7 +99,7 @@ Abby Mabe, Michael L. Nelson, and Michele C. Weigle, "**A Chromium-based Memento
 
 ## [jayanetti-tpdl22a](#jayanetti-tpdl22a)
 
-Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives, But Less Than Before**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022. &nbsp;<a href='https://arxiv.org/abs/2208.12914' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives, But Less Than Before**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022. ***Best Student Paper Award***.  &nbsp;<a href='https://arxiv.org/abs/2208.12914' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#jayanetti-tpdl22aBib)
 **BibTeX entry:**
@@ -70,6 +114,8 @@ Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C.
       year = {2022},
       month = sep,
       pubdate = {202209},
+      keyword = {award},
+      award = {Best Student Paper},
       arxiv = {https://arxiv.org/abs/2208.12914},
       acceptance = {18/50 (36\%)}
 }
@@ -216,7 +262,7 @@ Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin,  Martin Klein
 
 ## [jones-sigweb21](#jones-sigweb21)
 
-Jones, Shawn M., Weigle, Michele C., and Nelson, Michael L., "**Hypercane: Toolkit for Summarizing Large Collections of Archived Webpages**," *ACM SIGWEB Newsletter*, No. Summer, October 2021. <a href='http://dx.doi.org/10.1145/3473044.3473047' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Jones, Shawn M., Weigle, Michele C., and Nelson, Michael L., "**Hypercane: Toolkit for Summarizing Large Collections of Archived Webpages**," *ACM SIGWEB Newsletter*, No. Summer, October 2021. <a href='http://dx.doi.org/10.1145/3473044.3473047' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://www.cs.odu.edu/~mweigle/papers/jones-sigweb21.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#jones-sigweb21Bib)
 **BibTeX entry:**
@@ -236,6 +282,7 @@ Jones, Shawn M., Weigle, Michele C., and Nelson, Michael L., "**Hypercane: Toolk
       month = oct,
       articleno = {3},
       numpages = {14},
+      pdf = {https://www.cs.odu.edu/~mweigle/papers/jones-sigweb21.pdf},
       pubdate = {202110}
 }
 ```

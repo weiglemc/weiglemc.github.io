@@ -26,8 +26,8 @@
 
     // generate one file per year of publications
 #    $years = range("1997", "2022");
-#    $years = range("2021", "2022");
-	$years = ["2022"];
+    $years = range("2021", "2022");
+#	$years = ["2022"];
     foreach ($years as $year) {
         if ($year == "1998" || $year == "2002") continue;  // MCW: I DIDN'T HAVE PUBS THESE YEARS
         $outfile = $year . ".md";
