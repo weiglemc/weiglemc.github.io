@@ -53,7 +53,7 @@ layout: default
       <a href="{{ page.pdf }}" target="_blank" class="btn btn--mcw"><i class="fas fa-solid fa-file-pdf"></i><span> PDF</span></a>
   {% endif %} 
          {% if page.embed %}
-<br/><div><iframe src="{{ page.embed }}" frameborder="0" width={{ page.embed_width | default: "640" }} height={{ page.embed_height | default: "400" }} allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br/>&nbsp; <div><iframe src="{{ page.embed }}" frameborder="0" width={{ page.embed_width | default: "640" }} height={{ page.embed_height | default: "400" }} allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
  {% endif %}
         
         {{ content }}
