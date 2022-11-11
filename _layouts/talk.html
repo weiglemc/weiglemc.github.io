@@ -44,16 +44,16 @@ layout: default
 
         <!-- Adding talk template here -->
         {% if page.google_slides %}
-  <p><a href="{{ page.google_slides }}" target="_blank" class="btn btn--mcw"><i class="fab fa-google-drive"></i><span> Slides</span></a> </p> 
+ <a href="{{ page.google_slides }}" target="_blank" class="btn btn--mcw"><i class="fab fa-google-drive"></i><span> Slides</span></a> &nbsp;&nbsp;&nbsp;
   {% endif %}  
         {% if page.slideshare %}
-         <p><a href="{{ page.slideshare }}" target="_blank" class="btn btn--mcw"><i class="fab fa-slideshare"></i><span> Slides</span></a> </p> 
+         <a href="{{ page.slideshare }}" target="_blank" class="btn btn--mcw"><i class="fab fa-slideshare"></i><span> Slides</span></a> &nbsp;&nbsp;&nbsp;
   {% endif %} 
         {% if page.pdf %}
-         <p><a href="{{ page.pdf }}" target="_blank" class="btn btn--mcw"><i class="fas fa-solid fa-file-pdf" style='color: {{ page.acrobat-color }}'></i><span> PDF</span></a> </p> 
+      <a href="{{ page.pdf }}" target="_blank" class="btn btn--mcw"><i class="fas fa-solid fa-file-pdf"></i><span> PDF</span></a>
   {% endif %} 
          {% if page.embed %}
- <div><iframe src="{{ page.embed }}" frameborder="0" width={{ page.embed_width | default: "640" }} height={{ page.embed_height | default: "400" }} allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <p>&nbsp;</p> <div><iframe src="{{ page.embed }}" frameborder="0" width={{ page.embed_width | default: "640" }} height={{ page.embed_height | default: "400" }} allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
  {% endif %}
         
         {{ content }}
