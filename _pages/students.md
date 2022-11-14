@@ -37,12 +37,14 @@ acrobat-color: "#f70e0c"
 
 ### PhD Committee Member
 
-* Kimberley Cossey, Higher Education (advisor: David Ayers)
+* Kimberley Cossey, Higher Education 
+<a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+(advisor: David Ayers)
 * Emily Escamilla 
 <a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
-<a href="https:/github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Michael L. Nelson) 
 * Kritika Garg 
@@ -56,7 +58,7 @@ acrobat-color: "#f70e0c"
 <a href="https://twitter.com/@Gavindya2" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=LdfjuHAAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0002-9523-3346" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
-<a href="https:/github.com/gavindya" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://github.com/gavindya" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Sampath Jayarathna) 
 
