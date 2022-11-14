@@ -25,6 +25,8 @@ For an overview of my research over the past few years, see [On the importance o
 
 *I am currently on research leave for the Fall 2022 semester.*
 
+In Spring 2023, I will be teaching [CS 725/825 - Information Visualization & Data Analytics](https://weiglemc.github.io/teaching/2023-spr-cs725825).
+
 ## Research
 
 I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group.  
