@@ -24,7 +24,7 @@ I taught hybrid classes for several years before COVID, so in May 2020 I wrote a
 |Fall | Spring |
 |---|---|
 |**2022-2023** | |
-|*research leave*|CS 725/825 - Information Visualization & Data Analytics|
+|*research leave*|[CS 725/825 - Information Visualization & Data Analytics](https://weiglemc.github.io/teaching/2023-spr-cs725825)|
 |**2021-2022** | |
 |[CS 432/532 - Web Science](https://weiglemc.github.io/teaching/2021-fall-cs432532)<br/>[CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2021-fall-cs625)|[CS 725/825 - Information Visualization & Data Analytics](https://weiglemc.github.io/teaching/2022-spr-cs725825)<br/>[CS 800 - Research Methods](https://weiglemc.github.io/teaching/2022-spr-cs800)|
 |**2020-2021** | |
