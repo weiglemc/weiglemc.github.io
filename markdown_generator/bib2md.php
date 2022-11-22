@@ -106,7 +106,7 @@
     $year = "2021";
     $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
     fwrite($fp, "---\n");
-    fwrite($fp, "title: \"Recent Publications and Talks\"\n");
+    fwrite($fp, "title: \"Recent Publications\"\n");
     fwrite($fp, "type: 'recent'\n");
     fwrite($fp, "permalink: /publications/recent\n");
     fwrite($fp, $common_preamble);

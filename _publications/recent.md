@@ -1,5 +1,5 @@
 ---
-title: "Recent Publications and Talks"
+title: "Recent Publications"
 type: 'recent'
 permalink: /publications/recent
 collection: 'publications'
