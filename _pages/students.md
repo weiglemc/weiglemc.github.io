@@ -20,10 +20,6 @@ acrobat-color: "#f70e0c"
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-* Corren McCoy (ABD) 
-<a href="https://twitter.com/correnmccoy" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
-<a href="https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-<a href="https://www.linkedin.com/in/correnmccoy/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 * Travis Reid
 <a href="https://twitter.com/treid803" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
@@ -78,7 +74,12 @@ acrobat-color: "#f70e0c"
 ## Former Students
 
 ### PhD
-
+1. Corren McCoy
+<a href="https://twitter.com/correnmccoy" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://www.linkedin.com/in/correnmccoy/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
+   * "A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities", PhD thesis, *Old Dominion University*, December 2022. 
+   * Current Job: Vice President of Software Engineering and Chief Data Strategist, [G2 Ops](https://g2-ops.com/)
 1. Mohamed Aturban
 <a href="https://mohamedaturban.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/maturban1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
@@ -147,7 +148,7 @@ acrobat-color: "#f70e0c"
 <a href="https://www.linkedin.com/in/prashanth-adurthi-b7303024/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "Generating Tmix-Based TCP Application Workloads in ns-2 and GTNetS," Master's thesis, *Clemson University*, August 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/adurthi-thesis06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 1. Pankaj Sharma
-* "Performance Analysis of High-Speed Transport Control Protocols," Master's thesis, *Clemson University*, August 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/sharma-thesis06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+   * "Performance Analysis of High-Speed Transport Control Protocols," Master's thesis, *Clemson University*, August 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/sharma-thesis06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 ### PhD Committee Member
 
