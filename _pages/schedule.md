@@ -3,35 +3,30 @@ permalink: /schedule/
 title: "Schedule/Travel"
 ---
  
-## Fall 2022 Schedule
+## Spring 2023 Schedule
 
-*I am on research leave during the Fall 2022 semester.*
+*This schedule is tentative, with several research meetings left to schedule.*
 
 Monday
 
-* 1-3pm - Research Project Meetings
+* 2-3pm - Office Hours (in-person or Zoom)
+* 4:20-7pm - CS 725/825
 
 Tuesday
 
-* 11am-12pm - PhD Student Research Meeting
-* 4-5pm - PhD Student Research Meeting
 
 Wednesday
 
 * 10-11am - Faculty Research Planning Meeting
-* 11-12pm - Research Project Meeting
 * 2-3pm - WS-DL Faculty Meeting (3rd Weds of the month)
+* 5:30-6:30pm - Office Hours (Zoom)
 
 Thursday
 
 * 9:30-10:30am - Research Project Meeting (every 4 weeks)
 * 3-4pm - Research Project Meeting (every 2 weeks)
-* 4-5pm - PhD Student Research Meeting
 
 Friday
-
-* 11am-12pm - PhD Student Research Meeting
-* 2-5pm - PhD Student Research Meetings
 
 Note: *Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
 
