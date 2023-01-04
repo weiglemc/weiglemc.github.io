@@ -7,6 +7,8 @@ title: "Schedule/Travel"
 
 *This schedule is tentative, with several research meetings left to schedule.*
 
+Zoom link for Office Hours is available on my ["Meet Your Instructor" page in Canvas](https://canvas.odu.edu/courses/132393/pages/meet-your-instructor).
+
 Monday
 
 * 2-3pm - Office Hours (in-person or Zoom)
