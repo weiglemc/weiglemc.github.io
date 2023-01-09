@@ -7,22 +7,24 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
-## [garg-icadl22](#garg-icadl22)
+## [reid-icadl22](#reid-icadl22)
 
 Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Entertainment**," In *Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)*. December 2022, short paper. &nbsp;<a href='https://arxiv.org/abs/2211.02188' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
-[](#garg-icadl22Bib)
+[](#reid-icadl22Bib)
 **BibTeX entry:**
 
 {% raw %}
 
 ```bibtex
-@INPROCEEDINGS {garg-icadl22,
-      author    = {Kritika Garg and Himarsha Jayanetti and Sawood Alam and Michele C. Weigle and Michael L. Nelson},
-    	title = {Caching {HTTP} 404 Responses Eliminates Unnecessary Archival Replay Requests},
+@INPROCEEDINGS {reid-icadl22,
+      author    = {Travis Reid and Michael L. Nelson and Michele C. Weigle},
+    	title = {Web Archiving as Entertainment},
       booktitle = {Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)},
+      note = {short paper},
       year = {2022},
       month = dec,
+      arxiv = {https://arxiv.org/abs/2211.02188},
       pubdate = {202212}
 }
 ```
@@ -31,7 +33,7 @@ Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Enter
 
 ## [garg-icadl22](#garg-icadl22)
 
-Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Entertainment**," In *Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)*. December 2022, short paper. &nbsp;<a href='https://arxiv.org/abs/2211.02188' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Kritika Garg, Himarsha Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Caching HTTP 404 Responses Eliminates Unnecessary Archival Replay Requests**," In *Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)*. December 2022.
 
 [](#garg-icadl22Bib)
 **BibTeX entry:**
