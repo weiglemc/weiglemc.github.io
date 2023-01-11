@@ -15,7 +15,7 @@ Monday
 * 4:20-7pm - CS 725/825
 
 Tuesday
-
+* 11-11:30am - Student Research Meeting
 
 Wednesday
 
@@ -26,14 +26,23 @@ Wednesday
 Thursday
 
 * 9:30-10:30am - Research Project Meeting (every 4 weeks)
+* 11am-12:30pm - Student Research Meetings
 * 3-4pm - Research Project Meeting (every 2 weeks)
 
 Friday
+* 2-2:30pm - Student Research Meeting
+* 3:30-4pm - Student Research Meeting
+* 4:30-5pm - Student Research Meeting
 
-Note: *Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
+*Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
 
 
 ## Recent/Upcoming Travel
+
+2023
+
+* June 26-30: Santa Fe, NM - [ACM/IEEE JCDL 2023](https://2023.jcdl.org/)
+* April 18-21: South Bend, IN - Visiting [Dr. Nitesh Chawla](https://lucyinstitute.nd.edu/people/leadership-team/nitesh-chawla/) and the [Lucy Family Institute for Data & Society](https://lucyinstitute.nd.edu/)
 
 2022
 
