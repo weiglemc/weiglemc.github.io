@@ -42,7 +42,7 @@ Friday
 2023
 
 * June 26-30: Santa Fe, NM - [ACM/IEEE JCDL 2023](https://2023.jcdl.org/)
-* April 18-21: South Bend, IN - Visiting [Dr. Nitesh Chawla](https://lucyinstitute.nd.edu/people/leadership-team/nitesh-chawla/) and the [Lucy Family Institute for Data & Society](https://lucyinstitute.nd.edu/)
+* April 18-21: South Bend, IN - Visiting [Dr. Nitesh Chawla](https://lucyinstitute.nd.edu/people/leadership-team/nitesh-chawla/) and the [Lucy Family Institute for Data & Society](https://lucyinstitute.nd.edu/) at the University of Notre Dame
 
 2022
 
