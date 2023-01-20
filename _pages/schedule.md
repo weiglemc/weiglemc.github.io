@@ -5,29 +5,32 @@ title: "Schedule/Travel"
  
 ## Spring 2023 Schedule
 
-*This schedule is tentative, with several research meetings left to schedule.*
-
 Zoom link for Office Hours is available on my ["Meet Your Instructor" page in Canvas](https://canvas.odu.edu/courses/132393/pages/meet-your-instructor).
 
 Monday
 
+* 1-2pm - Research Project Meeting
 * 2-3pm - Office Hours (in-person or Zoom)
 * 4:20-7pm - CS 725/825
 
 Tuesday
 * 11-11:30am - Student Research Meeting
+* 4-4:30pm - Student Research Meeting
 
 Wednesday
 
 * 10-11am - Faculty Research Planning Meeting
+* 11-12pm - Research Project Meeting
 * 2-3pm - WS-DL Faculty Meeting (3rd Weds of the month)
+* 4-5pm - Research Project Meeting
 * 5:30-6:30pm - Office Hours (Zoom)
 
 Thursday
 
 * 9:30-10:30am - Research Project Meeting (every 4 weeks)
-* 11am-12:30pm - Student Research Meetings
+* 11am-12pm - Student Research Meetings
 * 3-4pm - Research Project Meeting (every 2 weeks)
+* 4-4:30pm - Student Research Meeting
 
 Friday
 * 2-2:30pm - Student Research Meeting
