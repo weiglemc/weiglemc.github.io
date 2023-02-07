@@ -88,20 +88,20 @@ blogger-color: "#F37100"
 <a href="https://twitter.com/maturban1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?user=uFe4KTUAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/mohamed-aturban-a0777433/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[A Framework for Verifying the Fixity of Archived Web Resources](https://digitalcommons.odu.edu/computerscience_etds/125/)," PhD thesis, *Old Dominion University*, August 2020. 
+   * "[A Framework for Verifying the Fixity of Archived Web Resources](https://digitalcommons.odu.edu/computerscience_etds/125/)," PhD thesis, *Old Dominion University*, August 2020. <a href="https://ws-dl.blogspot.com/2020/09/2020-09-28-phd-is-very-long-tunnel-with.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * First Job: Assistant Professor, Columbia College
 1. Mat Kelly
 <a href="https://matkelly.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/machawk1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/matkelly/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[Aggregating Private and Public Web Archives Using the Mementity Framework](https://digitalcommons.odu.edu/computerscience_etds/94/)," PhD thesis, *Old Dominion University*, August 2019. 
+   * "[Aggregating Private and Public Web Archives Using the Mementity Framework](https://digitalcommons.odu.edu/computerscience_etds/94/)," PhD thesis, *Old Dominion University*, August 2019. <a href="https://ws-dl.blogspot.com/2019/09/2019-09-02-so-long-and-thanks-for-all.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * First Job: Assistant Professor, Drexel University
 1. Lulwah Alkwai
 <a href="https://twitter.com/LulwahMA" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=EnQF73AAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/lulwah-alkwai-45495283/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[Expanding the Usage of Web Archives by Recommending Archived Webpages Using Only the URI](https://digitalcommons.odu.edu/computerscience_etds/90)," PhD thesis, *Old Dominion University*, May 2019.
+   * "[Expanding the Usage of Web Archives by Recommending Archived Webpages Using Only the URI](https://digitalcommons.odu.edu/computerscience_etds/90)," PhD thesis, *Old Dominion University*, May 2019. <a href="https://ws-dl.blogspot.com/2019/06/2019-06-18-it-is-time-to-go-back-home.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * First Job: Assistant Professor, University of Hail, Saudi Arabia
 1. Hassan Hadi Latheeth AL-Maksousy
 <a href="https://www.linkedin.com/in/hassan-hadi-latheeth-al-maksousy-7a6b15152/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
