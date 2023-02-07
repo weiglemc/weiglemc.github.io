@@ -7,6 +7,7 @@ orcid-color: "#a6ce39"
 google-scholar-color: "#397AF2"
 github-color: "#171516"
 acrobat-color: "#f70e0c"
+blogger-color: "#F37100"
 ---
 ## Current Students
 
@@ -36,13 +37,6 @@ acrobat-color: "#f70e0c"
 * Kimberley Cossey, Higher Education 
 <a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 (advisor: David Ayers)
-* Emily Escamilla 
-<a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
-<a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-<a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
-<a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
-<a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-(advisor: Michael L. Nelson) 
 * Kritika Garg 
 <a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=pXQRYsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -61,6 +55,7 @@ acrobat-color: "#f70e0c"
 <a href="https://twitter.com/liang_xiaoqin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> (advisor: Shuai Hao)
 
 ### MS Thesis Advisees
+
 * Lesley Frew 
 <a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
 * Himarsha Jayanetti
@@ -69,7 +64,15 @@ acrobat-color: "#f70e0c"
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 
-<!-- ### MS Thesis Committee Member -->
+### MS Thesis Committee Member
+
+* Emily Escamilla 
+<a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+<a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
+<a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
+(advisor: Michael L. Nelson) 
 
 ## Former Students
 
@@ -78,7 +81,7 @@ acrobat-color: "#f70e0c"
 <a href="https://twitter.com/correnmccoy" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/correnmccoy/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities", PhD thesis, *Old Dominion University*, December 2022. 
+   * "[A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities](https://digitalcommons.odu.edu/computerscience_etds/136/)", PhD thesis, *Old Dominion University*, December 2022. <a href="https://ws-dl.blogspot.com/2023/01/2023-01-10-i-am-number-10.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * Current Job: Vice President of Software Engineering and Chief Data Strategist, [G2 Ops](https://g2-ops.com/)
 1. Mohamed Aturban
 <a href="https://mohamedaturban.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
