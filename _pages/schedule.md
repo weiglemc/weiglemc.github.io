@@ -33,8 +33,7 @@ Thursday
 * 4-4:30pm - Student Research Meeting
 
 Friday
-* 2-2:30pm - Student Research Meeting
-* 3:30-4pm - Student Research Meeting
+* 2-3pm - Student Research Meetings
 * 4:30-5pm - Student Research Meeting
 
 *Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
