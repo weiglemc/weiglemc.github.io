@@ -125,7 +125,7 @@ Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTM
 
 ## [reid-icadl22](#reid-icadl22)
 
-Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Entertainment**," In *Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)*. December 2022, short paper. &nbsp;<a href='https://arxiv.org/abs/2211.02188' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Entertainment**," In *Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)*. December 2022, short paper. <a href='http://dx.doi.org/10.1007/978-3-031-21756-2_31' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2211.02188' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#reid-icadl22Bib)
 **BibTeX entry:**
@@ -140,6 +140,7 @@ Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Enter
       note = {short paper},
       year = {2022},
       month = dec,
+      doi = {10.1007/978-3-031-21756-2_31},
       arxiv = {https://arxiv.org/abs/2211.02188},
       pubdate = {202212}
 }
@@ -149,7 +150,7 @@ Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Enter
 
 ## [garg-icadl22](#garg-icadl22)
 
-Kritika Garg, Himarsha Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Caching HTTP 404 Responses Eliminates Unnecessary Archival Replay Requests**," In *Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)*. December 2022.
+Kritika Garg, Himarsha Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Caching HTTP 404 Responses Eliminates Unnecessary Archival Replay Requests**," In *Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)*. December 2022. <a href='http://dx.doi.org/10.1007/978-3-031-21756-2_26' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2212.00760' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#garg-icadl22Bib)
 **BibTeX entry:**
@@ -163,6 +164,8 @@ Kritika Garg, Himarsha Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L.
       booktitle = {Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)},
       year = {2022},
       month = dec,
+      doi = {10.1007/978-3-031-21756-2_26},
+      arxiv = {https://arxiv.org/abs/2212.00760},
       pubdate = {202212}
 }
 ```
@@ -171,7 +174,7 @@ Kritika Garg, Himarsha Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L.
 
 ## [jayanetti-tpdl22b](#jayanetti-tpdl22b)
 
-Himarsha Jayanetti, Shawn Jones, Martin Klein, Alex Osbourne, Paul Koerbin, Michael L. Nelson, and Michele C. Weigle, "**Creating Structure in Web Archives With Collections: Different Concepts From Web Archivists**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022, short paper.
+Himarsha Jayanetti, Shawn Jones, Martin Klein, Alex Osbourne, Paul Koerbin, Michael L. Nelson, and Michele C. Weigle, "**Creating Structure in Web Archives With Collections: Different Concepts From Web Archivists**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022, short paper. <a href='http://dx.doi.org/10.1007/978-3-031-16802-4_45' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2209.08649' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#jayanetti-tpdl22bBib)
 **BibTeX entry:**
@@ -186,7 +189,9 @@ Himarsha Jayanetti, Shawn Jones, Martin Klein, Alex Osbourne, Paul Koerbin, Mich
     	note = {short paper},
       year = {2022},
       month = sep,
-      pubdate = {202209}
+      pubdate = {202209},
+      doi = {10.1007/978-3-031-16802-4_45},
+      arxiv = {https://arxiv.org/abs/2209.08649}
 }
 ```
 
@@ -194,7 +199,7 @@ Himarsha Jayanetti, Shawn Jones, Martin Klein, Alex Osbourne, Paul Koerbin, Mich
 
 ## [mabe-tpdl22](#mabe-tpdl22)
 
-Abby Mabe, Michael L. Nelson, and Michele C. Weigle, "**A Chromium-based Memento-aware Web Browser**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022.
+Abby Mabe, Michael L. Nelson, and Michele C. Weigle, "**A Chromium-based Memento-aware Web Browser**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022. <a href='http://dx.doi.org/10.1007/978-3-031-16802-4_12' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://www.cs.odu.edu/~mweigle/papers/mabe-tpdl22.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#mabe-tpdl22Bib)
 **BibTeX entry:**
@@ -209,6 +214,8 @@ Abby Mabe, Michael L. Nelson, and Michele C. Weigle, "**A Chromium-based Memento
       year = {2022},
       month = sep,
       pubdate = {202209},
+      doi = {10.1007/978-3-031-16802-4_12},
+      pdf = {https://www.cs.odu.edu/~mweigle/papers/mabe-tpdl22.pdf},
       acceptance = {18/50 (36\%)}
 }
 ```
@@ -217,7 +224,7 @@ Abby Mabe, Michael L. Nelson, and Michele C. Weigle, "**A Chromium-based Memento
 
 ## [jayanetti-tpdl22a](#jayanetti-tpdl22a)
 
-Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives, But Less Than Before**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022. ***Best Student Paper Award***.  &nbsp;<a href='https://arxiv.org/abs/2208.12914' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives, But Less Than Before**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022. ***Best Student Paper Award***.  <a href='http://dx.doi.org/10.1007/978-3-031-16802-4_19' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2208.12914' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#jayanetti-tpdl22aBib)
 **BibTeX entry:**
@@ -234,6 +241,7 @@ Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C.
       pubdate = {202209},
       keyword = {award},
       award = {Best Student Paper},
+      doi = {10.1007/978-3-031-16802-4_19},
       arxiv = {https://arxiv.org/abs/2208.12914},
       acceptance = {18/50 (36\%)}
 }
@@ -243,7 +251,7 @@ Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C.
 
 ## [escamilla-tpdl22](#escamilla-tpdl22)
 
-Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**The Rise of GitHub in Scholarly Publications**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022. &nbsp;<a href='https://arxiv.org/abs/2208.04895' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**The Rise of GitHub in Scholarly Publications**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2022. <a href='http://dx.doi.org/10.1007/978-3-031-16802-4_15' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2208.04895' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#escamilla-tpdl22Bib)
 **BibTeX entry:**
@@ -258,6 +266,7 @@ Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, an
       year = {2022},
       month = sep,
       pubdate = {202209},
+      doi = {10.1007/978-3-031-16802-4_15},
       arxiv = {https://arxiv.org/abs/2208.04895},
       acceptance = {18/50 (36\%)}
 }
