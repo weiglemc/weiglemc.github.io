@@ -7,6 +7,122 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [berlin-tweb23](#berlin-tweb23)
+
+John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages**," *ACM Transactions on the Web*, 2023. <a href='http://dx.doi.org/https://dl.acm.org/doi/10.1145/3589206' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#berlin-tweb23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {berlin-tweb23,
+      author = {John Berlin and Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+      title = {To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages},
+      year = {2023},
+      journal = {ACM Transactions on the Web},
+      doi = {https://dl.acm.org/doi/10.1145/3589206},
+      pubdate = {202303}
+}
+```
+
+{% endraw %}
+
+## [alam-jcdl23](#alam-jcdl23)
+
+Sawood Alam, Kritika Garg, Michele C. Weigle, Michael L. Nelson,  Mark Graham, and Dietrich Ayala, "**TrendMachine: A Temporal Webpage Resilience Portal**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023, late-breaking results.
+
+[](#alam-jcdl23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {alam-jcdl23,
+      author = {Sawood Alam and Kritika Garg and Michele C. Weigle and Michael L. Nelson and  Mark Graham and Dietrich Ayala},
+      title = {TrendMachine: A Temporal Webpage Resilience Portal},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2023,
+      month = jun,
+      pubdate = {202306},
+      note = {late-breaking results},
+      acceptance = {late-breaking: 8/17 (47\%)}
+}
+```
+
+{% endraw %}
+
+## [bragg-jcdl23](#bragg-jcdl23)
+
+Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Less than 4% of Archived Instagram Account Pages for the Disinformation Dozen are Replayable**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023, short paper.
+
+[](#bragg-jcdl23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {bragg-jcdl23,
+      author = {Haley Bragg and Himarsha Jayanetti and Michael L. Nelson and Michele C. Weigle},
+      title = {Less than 4\% of Archived Instagram Account Pages for the Disinformation Dozen are Replayable},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2023,
+      month = jun,
+      pubdate = {202306},
+      note = {short paper},
+      acceptance = {short: 9/40 (23\%)}
+}
+```
+
+{% endraw %}
+
+## [frew-jcdl23](#frew-jcdl23)
+
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023.
+
+[](#frew-jcdl23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {frew-jcdl23,
+      author = {Lesley Frew and Michael L. Nelson and Michele C. Weigle},
+      title = {Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2023,
+      month = jun,
+      pubdate = {202306},
+      acceptance = {13/56 (23\%)}
+}
+```
+
+{% endraw %}
+
+## [weigle-jcdl23](#weigle-jcdl23)
+
+Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTML, Wrong JSON: Challenges in Replaying Archived Webpages Built with Client-Side Rendering**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023.
+
+[](#weigle-jcdl23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {weigle-jcdl23,
+      author = {Michele C. Weigle and Michael L. Nelson and Sawood Alam and Mark Graham},
+      title = {Right HTML, Wrong JSON: Challenges in Replaying Archived Webpages Built with Client-Side Rendering},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2023,
+      month = jun,
+      pubdate = {202306},
+      acceptance = {13/56 (23\%)}
+}
+```
+
+{% endraw %}
+
 ## [reid-icadl22](#reid-icadl22)
 
 Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Entertainment**," In *Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL)*. December 2022, short paper. &nbsp;<a href='https://arxiv.org/abs/2211.02188' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
