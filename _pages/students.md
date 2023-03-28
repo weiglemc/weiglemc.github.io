@@ -7,6 +7,7 @@ orcid-color: "#a6ce39"
 google-scholar-color: "#397AF2"
 github-color: "#171516"
 acrobat-color: "#f70e0c"
+blogger-color: "#F37100"
 ---
 ## Current Students
 
@@ -20,10 +21,6 @@ acrobat-color: "#f70e0c"
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-* Corren McCoy (ABD) 
-<a href="https://twitter.com/correnmccoy" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
-<a href="https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-<a href="https://www.linkedin.com/in/correnmccoy/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 * Travis Reid
 <a href="https://twitter.com/treid803" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
@@ -40,13 +37,6 @@ acrobat-color: "#f70e0c"
 * Kimberley Cossey, Higher Education 
 <a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 (advisor: David Ayers)
-* Emily Escamilla 
-<a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
-<a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-<a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
-<a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
-<a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-(advisor: Michael L. Nelson) 
 * Kritika Garg 
 <a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=pXQRYsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -55,14 +45,17 @@ acrobat-color: "#f70e0c"
 <a href="https://www.linkedin.com/in/kritika-g-b8a824120/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Michael L. Nelson) 
 * Gavindya Jayawardena
-<a href="https://twitter.com/@Gavindya2" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+<a href="https://twitter.com/Gavindya2" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=LdfjuHAAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0002-9523-3346" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/gavindya" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Sampath Jayarathna) 
+* Xiaoqin Liang
+<a href="https://twitter.com/liang_xiaoqin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> (advisor: Shuai Hao)
 
 ### MS Thesis Advisees
+
 * Lesley Frew 
 <a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
 * Himarsha Jayanetti
@@ -71,31 +64,46 @@ acrobat-color: "#f70e0c"
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 
-<!-- ### MS Thesis Committee Member -->
+### MS Thesis Committee Member
+
+* Emily Escamilla 
+<a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+<a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
+<a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
+(advisor: Michael L. Nelson) 
 
 ## Former Students
 
 ### PhD
-
+1. Corren McCoy
+<a href="https://twitter.com/correnmccoy" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://www.linkedin.com/in/correnmccoy/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
+   * "[A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities](https://digitalcommons.odu.edu/computerscience_etds/136/)", PhD thesis, *Old Dominion University*, December 2022. <a href="https://ws-dl.blogspot.com/2023/01/2023-01-10-i-am-number-10.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
+   * Current Job: Vice President of Software Engineering and Chief Data Strategist, [G2 Ops](https://g2-ops.com/)
 1. Mohamed Aturban
 <a href="https://mohamedaturban.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/maturban1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?user=uFe4KTUAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/mohamed-aturban-a0777433/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[A Framework for Verifying the Fixity of Archived Web Resources](https://digitalcommons.odu.edu/computerscience_etds/125/)," PhD thesis, *Old Dominion University*, August 2020. 
+   * "[A Framework for Verifying the Fixity of Archived Web Resources](https://digitalcommons.odu.edu/computerscience_etds/125/)," PhD thesis, *Old Dominion University*, August 2020. <a href="https://ws-dl.blogspot.com/2020/09/2020-09-28-phd-is-very-long-tunnel-with.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * First Job: Assistant Professor, Columbia College
 1. Mat Kelly
 <a href="https://matkelly.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/machawk1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://orcid.org/0000-0002-0236-7389" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
+<a href="https://github.com/machawk1" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/matkelly/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[Aggregating Private and Public Web Archives Using the Mementity Framework](https://digitalcommons.odu.edu/computerscience_etds/94/)," PhD thesis, *Old Dominion University*, August 2019. 
+   * "[Aggregating Private and Public Web Archives Using the Mementity Framework](https://digitalcommons.odu.edu/computerscience_etds/94/)," PhD thesis, *Old Dominion University*, August 2019. <a href="https://ws-dl.blogspot.com/2019/09/2019-09-02-so-long-and-thanks-for-all.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * First Job: Assistant Professor, Drexel University
 1. Lulwah Alkwai
 <a href="https://twitter.com/LulwahMA" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=EnQF73AAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/lulwah-alkwai-45495283/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[Expanding the Usage of Web Archives by Recommending Archived Webpages Using Only the URI](https://digitalcommons.odu.edu/computerscience_etds/90)," PhD thesis, *Old Dominion University*, May 2019.
+   * "[Expanding the Usage of Web Archives by Recommending Archived Webpages Using Only the URI](https://digitalcommons.odu.edu/computerscience_etds/90)," PhD thesis, *Old Dominion University*, May 2019. <a href="https://ws-dl.blogspot.com/2019/06/2019-06-18-it-is-time-to-go-back-home.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * First Job: Assistant Professor, University of Hail, Saudi Arabia
 1. Hassan Hadi Latheeth AL-Maksousy
 <a href="https://www.linkedin.com/in/hassan-hadi-latheeth-al-maksousy-7a6b15152/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
@@ -134,6 +142,8 @@ acrobat-color: "#f70e0c"
 <a href="https://matkelly.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/machawk1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://orcid.org/0000-0002-0236-7389" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
+<a href="https://github.com/machawk1" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/matkelly/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    *  "[An Extensible Framework for Creating Personal Archives of Web Resources Requiring Authentication](https://digitalcommons.odu.edu/computerscience_etds/6)," Master's thesis, *Old Dominion University*, August 2012. <a href='http://www.cs.odu.edu/~mweigle/papers/kelly-thesis12.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/matkelly01/an-extensible-framework-for-creating-personal-web-archives-of-content-behind-authentication' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
    * PhD, ODU, 2019
@@ -145,7 +155,7 @@ acrobat-color: "#f70e0c"
 <a href="https://www.linkedin.com/in/prashanth-adurthi-b7303024/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "Generating Tmix-Based TCP Application Workloads in ns-2 and GTNetS," Master's thesis, *Clemson University*, August 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/adurthi-thesis06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 1. Pankaj Sharma
-* "Performance Analysis of High-Speed Transport Control Protocols," Master's thesis, *Clemson University*, August 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/sharma-thesis06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+   * "Performance Analysis of High-Speed Transport Control Protocols," Master's thesis, *Clemson University*, August 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/sharma-thesis06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 ### PhD Committee Member
 
