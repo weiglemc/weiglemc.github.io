@@ -9,7 +9,7 @@ blogger-color: '#F37100'
 ---
 ## [berlin-tweb23](#berlin-tweb23)
 
-John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages**," *ACM Transactions on the Web*, 2023. <a href='http://dx.doi.org/https://dl.acm.org/doi/10.1145/3589206' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages**," *ACM Transactions on the Web*, 2023. <a href='http://dx.doi.org/10.1145/3589206' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#berlin-tweb23Bib)
 **BibTeX entry:**
@@ -22,7 +22,7 @@ John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-exper
       title = {To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages},
       year = {2023},
       journal = {ACM Transactions on the Web},
-      doi = {https://dl.acm.org/doi/10.1145/3589206},
+      doi = {10.1145/3589206},
       pubdate = {202303}
 }
 ```
@@ -55,7 +55,7 @@ Sawood Alam, Kritika Garg, Michele C. Weigle, Michael L. Nelson,  Mark Graham, a
 
 ## [bragg-jcdl23](#bragg-jcdl23)
 
-Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Less than 4% of Archived Instagram Account Pages for the Disinformation Dozen are Replayable**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023, short paper.
+Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Less than 4% of Archived Instagram Account Pages for the Disinformation Dozen are Replayable**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023, short paper. <a href='https://www.cs.odu.edu/~mweigle/papers/bragg-jcdl2023-preprint.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#bragg-jcdl23Bib)
 **BibTeX entry:**
@@ -71,6 +71,7 @@ Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Le
       month = jun,
       pubdate = {202306},
       note = {short paper},
+      preprint = {https://www.cs.odu.edu/~mweigle/papers/bragg-jcdl2023-preprint.pdf},
       acceptance = {short: 9/40 (23\%)}
 }
 ```
@@ -102,7 +103,7 @@ Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Making Changes in Webp
 
 ## [weigle-jcdl23](#weigle-jcdl23)
 
-Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTML, Wrong JSON: Challenges in Replaying Archived Webpages Built with Client-Side Rendering**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023.
+Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTML, Wrong JSON: Challenges in Replaying Archived Webpages Built with Client-Side Rendering**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023. <a href='https://www.cs.odu.edu/~mweigle/papers/weigle-jcdl2023-preprint.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#weigle-jcdl23Bib)
 **BibTeX entry:**
@@ -117,6 +118,7 @@ Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTM
       year =  2023,
       month = jun,
       pubdate = {202306},
+      preprint = {https://www.cs.odu.edu/~mweigle/papers/weigle-jcdl2023-preprint.pdf},
       acceptance = {13/56 (23\%)}
 }
 ```
