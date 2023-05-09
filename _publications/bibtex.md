@@ -7,6 +7,32 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [jayanetti-msvcc23](#jayanetti-msvcc23)
+
+Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Exploring Xenophobic Events through GDELT Data Analysis**," Technical report arXiv:2305.01708, May 2023. ***Best Overall Paper, Best Paper in Data Science track Award***.  &nbsp;<a href='https://arxiv.org/abs/2305.01708' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#jayanetti-msvcc23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@TECHREPORT {jayanetti-msvcc23,
+      author = {Himarsha R. Jayanetti and Erika Frydenlund and Michele C. Weigle},
+      title = {Exploring Xenophobic Events through {GDELT} Data Analysis},
+      number = {arXiv:2305.01708},
+      year = {2023},
+      month = {May},
+      arxiv = {https://arxiv.org/abs/2305.01708},
+      note = {Paper presented at the 16th Annual Modeling, Simulation, and Visualization Student Capstone Conference},
+      pubdate = {202305},
+      keyword = {award},
+      award = {Best Overall Paper, Best Paper in Data Science track}
+}
+```
+
+{% endraw %}
+
 ## [berlin-tweb23](#berlin-tweb23)
 
 John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages**," *ACM Transactions on the Web*, 2023. <a href='http://dx.doi.org/10.1145/3589206' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
@@ -45,7 +71,7 @@ Sawood Alam, Kritika Garg, Michele C. Weigle, Michael L. Nelson,  Mark Graham, a
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
-      pubdate = {202306},
+      pubdate = {202306.1},
       note = {late-breaking results},
       acceptance = {late-breaking: 8/17 (47\%)}
 }
@@ -69,7 +95,7 @@ Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Le
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
-      pubdate = {202306},
+      pubdate = {202306.2},
       note = {short paper},
       preprint = {https://www.cs.odu.edu/~mweigle/papers/bragg-jcdl2023-preprint.pdf},
       acceptance = {short: 9/40 (23\%)}
@@ -80,7 +106,7 @@ Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Le
 
 ## [frew-jcdl23](#frew-jcdl23)
 
-Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023.
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023. &nbsp;<a href='https://arxiv.org/abs/2305.00546' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#frew-jcdl23Bib)
 **BibTeX entry:**
@@ -94,7 +120,8 @@ Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Making Changes in Webp
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
-      pubdate = {202306},
+      pubdate = {202306.3},
+      arxiv = {https://arxiv.org/abs/2305.00546},
       acceptance = {13/56 (23\%)}
 }
 ```
@@ -117,7 +144,7 @@ Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTM
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
-      pubdate = {202306},
+      pubdate = {202306.4},
       preprint = {https://www.cs.odu.edu/~mweigle/papers/weigle-jcdl2023-preprint.pdf},
       acceptance = {13/56 (23\%)}
 }
