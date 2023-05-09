@@ -130,7 +130,7 @@ Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Making Changes in Webp
 
 ## [weigle-jcdl23](#weigle-jcdl23)
 
-Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTML, Wrong JSON: Challenges in Replaying Archived Webpages Built with Client-Side Rendering**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023. <a href='https://www.cs.odu.edu/~mweigle/papers/weigle-jcdl2023-preprint.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTML, Wrong JSON: Challenges in Replaying Archived Webpages Built with Client-Side Rendering**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023. &nbsp;<a href='https://arxiv.org/abs/2305.01071' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#weigle-jcdl23Bib)
 **BibTeX entry:**
@@ -145,7 +145,7 @@ Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTM
       year =  2023,
       month = jun,
       pubdate = {202306.4},
-      preprint = {https://www.cs.odu.edu/~mweigle/papers/weigle-jcdl2023-preprint.pdf},
+      arxiv = {https://arxiv.org/abs/2305.01071},
       acceptance = {13/56 (23\%)}
 }
 ```
