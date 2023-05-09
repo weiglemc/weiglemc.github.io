@@ -23,7 +23,7 @@ I serve as the Graduate Program Director (GPD) for Administration in the Departm
 
 ## Teaching 
 
-This semester (Spring 2023), I am teaching [CS 725/825 - Information Visualization & Data Analytics](https://weiglemc.github.io/teaching/2023-spr-cs725825).
+Next semester (Fall 2023), I will be teaching CS 625 - Data Visualization, which will be similar to the version I previously taught in [Fall 2021](https://weiglemc.github.io/teaching/2021-fall-cs625).
 
 ## Research
 
