@@ -3,40 +3,35 @@ permalink: /schedule/
 title: "Schedule/Travel"
 ---
  
-## Spring 2023 Schedule
+## Summer 2023 Schedule
 
-Zoom link for Office Hours is available on my ["Meet Your Instructor" page in Canvas](https://canvas.odu.edu/courses/132393/pages/meet-your-instructor).
-
-Monday
-
-* 1-2pm - Research Project Meeting
-* 2-3pm - Office Hours (in-person or Zoom)
-* 4:20-7pm - CS 725/825
+Monday - *reserved for research and planning*
 
 Tuesday
-* 11-11:30am - Student Research Meeting
-* 4-4:30pm - Student Research Meeting
+
+* 11-12pm - Student Research Meeting
+* 4-5pm - Protocol Labs Research Project Planning Meeting
 
 Wednesday
 
 * 10-11am - Faculty Research Planning Meeting
-* 11-12pm - Research Project Meeting
+* 11-12pm - Data Science Research Project Meeting
 * 2-3pm - WS-DL Faculty Meeting (3rd Weds of the month)
-* 4-5pm - Research Project Meeting
-* 5:30-6:30pm - Office Hours (Zoom)
+* 4-5pm - IMLS ads Research Project Meeting
 
 Thursday
 
-* 9:30-10:30am - Research Project Meeting (every 4 weeks)
+* 9:30-10:30am - Protocol Labs Research Project Meeting (every 4 weeks)
+* 10-11am - IMLS-LB Research Project Meeting
 * 11am-12pm - Student Research Meetings
-* 3-4pm - Research Project Meeting (every 2 weeks)
+* 3-4pm - CoSAI Research Project Meeting (every 2 weeks)
 * 4-4:30pm - Student Research Meeting
 
 Friday
 * 2-3pm - Student Research Meetings
 * 4:30-5pm - Student Research Meeting
 
-*Times not specified from 9am-5pm M-F are scheduled for research and planning. If you need to meet with me outside of office hours, please send an email at least a day in advance to arrange an appointment.*
+*Times not specified from 9am-5pm M-F are scheduled for research and planning.*
 
 
 ## Recent/Upcoming Travel
@@ -44,6 +39,7 @@ Friday
 2023
 
 * June 26-30: Santa Fe, NM - [ACM/IEEE JCDL 2023](https://2023.jcdl.org/)
+* June 18-26: Personal travel
 * April 18-21: South Bend, IN - Visiting [Dr. Nitesh Chawla](https://lucyinstitute.nd.edu/people/leadership-team/nitesh-chawla/) and the [Lucy Family Institute for Data & Society](https://lucyinstitute.nd.edu/) at the University of Notre Dame, <https://lucyinstitute.nd.edu/news-events/events/2023/04/19/lucy-seminar-ft-michele-weigle/>
 
 2022
