@@ -33,6 +33,29 @@ Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Exploring Xen
 
 {% endraw %}
 
+## [bragg-reu-arxiv](#bragg-reu-arxiv)
+
+Haley Bragg, and Michele C. Weigle, "**Discovering the Traces of Disinformation on Instagram in the Internet Archive**," Technical report arXiv:2301.091888, January 2023. &nbsp;<a href='https://arxiv.org/abs/2301.09188' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#bragg-reu-arxivBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@TECHREPORT {bragg-reu-arxiv,
+      author = {Haley Bragg and Michele C. Weigle},
+      title = {Discovering the Traces of Disinformation on Instagram in the {Internet Archive}},
+      number = {arXiv:2301.091888},
+      year = {2023},
+      month = jan,
+      arxiv = {https://arxiv.org/abs/2301.09188},
+      pubdate = {202301}
+}
+```
+
+{% endraw %}
+
 ## [berlin-tweb23](#berlin-tweb23)
 
 John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages**," *ACM Transactions on the Web*, 2023. <a href='http://dx.doi.org/10.1145/3589206' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
