@@ -37,11 +37,13 @@ Update: Since PHP is no longer installed on my Mac and can't be run from the com
 * `cd ~/src/weiglemc.github.io`
 * `git pull`
 * make updates to `mweigle.bib` and/or `mweigle-thesis.bib` for students
-* make updates to `bib2md.php` and/or `bib2md-students.php` so that only needed files are updated
-* `cp ~/src/weiglemc.github.io/*.bib ~/secure_html/bib2md/`
-* `cp ~/src/weiglemc.github.io/bib2*.php ~/secure_html/bib2md/`
-* visit the aforementioned webpage to generate the new files
-* `cp ~/secure_html/bib2md/*.md ~/src/weiglemc.github.io/`
+* make updates to `bib2md.php` to make sure current year will be updated
+* `cp ~/src/weiglemc.github.io/markdown_generator/*.bib ~/secure_html/bib2md/`
+* `cp ~/src/weiglemc.github.io/markdown_generator/bib2*.php ~/secure_html/bib2md/`
+* visit <https://www.cs.odu.edu/~mweigle/bib2md/bib2md.php> to generate my new files
+* visit <https://www.cs.odu.edu/~mweigle/bib2md/bib2md-students.php> to generate the `student-thesis.md` file
+* `cp ~/secure_html/bib2md/*.md ~/src/weiglemc.github.io/_publications/`
+* `mv ~/src/weiglemc.github.io/_publications/ ~/src/weiglemc.github.io/markdown_generator/`
 * commit, `git push`
 
 ## To run locally on MacOS
