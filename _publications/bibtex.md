@@ -7,9 +7,35 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [aturban-plosone-2023](#aturban-plosone-2023)
+
+Mohamed Aturban, Martin Klein, Herbert Van de Sompel, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Hashes are not suitable to verify fixity of the public archived web**," *PLOS ONE*, Vol. 18, No. 6, June 2023, pp. 1-49. <a href='http://dx.doi.org/10.1371/journal.pone.0286879' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#aturban-plosone-2023Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {aturban-plosone-2023,
+        author = {Mohamed Aturban and Martin Klein and Herbert {Van de Sompel} and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
+        title = {Hashes are not suitable to verify fixity of the public archived web},
+        year = {2023},
+        month = jun,
+        journal = {PLOS ONE},
+        volume = {18},
+        pages = {1-49},
+        number = {6},
+        doi = {10.1371/journal.pone.0286879},
+        pubdate={202306.5}
+}
+```
+
+{% endraw %}
+
 ## [jayanetti-msvcc23](#jayanetti-msvcc23)
 
-Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Exploring Xenophobic Events through GDELT Data Analysis**," Technical report arXiv:2305.01708, May 2023. ***Best Overall Paper, Best Paper in Data Science track Award***.  &nbsp;<a href='https://arxiv.org/abs/2305.01708' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Exploring Xenophobic Events through GDELT Data Analysis**," Technical report arXiv:2305.01708, Paper presented at the 16th Annual Modeling, Simulation, and Visualization Student Capstone Conference, May 2023. ***Best Overall Paper, Best Paper in Data Science track Award***.  &nbsp;<a href='https://arxiv.org/abs/2305.01708' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#jayanetti-msvcc23Bib)
 **BibTeX entry:**
@@ -24,7 +50,7 @@ Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Exploring Xen
       year = {2023},
       month = {May},
       arxiv = {https://arxiv.org/abs/2305.01708},
-      note = {Paper presented at the 16th Annual Modeling, Simulation, and Visualization Student Capstone Conference},
+      institution = {Paper presented at the 16th Annual Modeling, Simulation, and Visualization Student Capstone Conference},
       pubdate = {202305},
       keyword = {award},
       award = {Best Overall Paper, Best Paper in Data Science track}
