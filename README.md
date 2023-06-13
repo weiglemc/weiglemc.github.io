@@ -42,8 +42,8 @@ Update: Since PHP is no longer installed on my Mac and can't be run from the com
 * `cp ~/src/weiglemc.github.io/markdown_generator/bib2*.php ~/secure_html/bib2md/`
 * visit <https://www.cs.odu.edu/~mweigle/bib2md/bib2md.php> to generate my new files
 * visit <https://www.cs.odu.edu/~mweigle/bib2md/bib2md-students.php> to generate the `student-thesis.md` file
+* `mv ~/secure_html/bib2md/student-thesis.md ~/src/weiglemc.github.io/markdown_generator/`
 * `cp ~/secure_html/bib2md/*.md ~/src/weiglemc.github.io/_publications/`
-* `mv ~/src/weiglemc.github.io/_publications/ ~/src/weiglemc.github.io/markdown_generator/`
 * commit, `git push`
 
 ## To run locally on MacOS
