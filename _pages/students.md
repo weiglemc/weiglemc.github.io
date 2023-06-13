@@ -37,32 +37,27 @@ blogger-color: "#F37100"
 * Kimberley Cossey, Higher Education 
 <a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 (advisor: David Ayers)
-* Kritika Garg 
+* Kritika Garg (ABD)
 <a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=pXQRYsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0001-6498-7391" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/kritikagarg" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/kritika-g-b8a824120/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Michael L. Nelson) 
-* Gavindya Jayawardena
+* Gavindya Jayawardena (ABD)
 <a href="https://twitter.com/Gavindya2" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=LdfjuHAAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0002-9523-3346" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/gavindya" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Sampath Jayarathna) 
-* Xiaoqin Liang
+* Xiaoqin Liang (ABD)
 <a href="https://twitter.com/liang_xiaoqin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> (advisor: Shuai Hao)
 
 ### MS Thesis Advisees
 
 * Lesley Frew 
 <a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
-* Himarsha Jayanetti
-<a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
-<a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
-<a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
-<a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 
 ### MS Thesis Committee Member
 
@@ -135,9 +130,16 @@ blogger-color: "#F37100"
 
 ### MS Thesis
 
+1. Himarsha Jayanetti
+<a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
+<a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
+<a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
+    * "Supporting Account-Based Queries for Archived Instagram Posts," Master's thesis, *Old Dominion University*, May 2023.
 1. John Berlin 
 <a href="https://www.linkedin.com/in/john-berlin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[To Relive The Web: A Framework for the Transformation and Archival Replay of Web Pages](https://digitalcommons.odu.edu/computerscience_etds/38/)," Master's thesis, *Old Dominion University*, May 2018. <a href='http://www.cs.odu.edu/~mweigle/papers/berlin-ms-thesis-18.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+   * "[To Relive The Web: A Framework for the Transformation and Archival Replay of Web Pages](https://digitalcommons.odu.edu/computerscience_etds/38/)," Master's thesis, *Old Dominion University*, May 2018. <a href='http://www.cs.odu.edu/~mweigle/papers/berlin-ms-thesis-18.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href="https://ws-dl.blogspot.com/2018/04/2018-05-01-high-fidelity-ms-thesis-to.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
 2. Mat Kelly
 <a href="https://matkelly.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/machawk1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
@@ -145,11 +147,11 @@ blogger-color: "#F37100"
 <a href="https://orcid.org/0000-0002-0236-7389" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/machawk1" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/matkelly/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   *  "[An Extensible Framework for Creating Personal Archives of Web Resources Requiring Authentication](https://digitalcommons.odu.edu/computerscience_etds/6)," Master's thesis, *Old Dominion University*, August 2012. <a href='http://www.cs.odu.edu/~mweigle/papers/kelly-thesis12.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/matkelly01/an-extensible-framework-for-creating-personal-web-archives-of-content-behind-authentication' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
+   *  "[An Extensible Framework for Creating Personal Archives of Web Resources Requiring Authentication](https://digitalcommons.odu.edu/computerscience_etds/6)," Master's thesis, *Old Dominion University*, August 2012. <a href='http://www.cs.odu.edu/~mweigle/papers/kelly-thesis12.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/matkelly01/an-extensible-framework-for-creating-personal-web-archives-of-content-behind-authentication' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a> <a href="https://ws-dl.blogspot.com/2012/08/2012-08-20-ms-thesis-extensible.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * PhD, ODU, 2019
 3. Kalpesh Padia
 <a href="https://www.linkedin.com/in/kalpeshpadia/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-   * "[Visualizing Digital Collections at Archive-It](https://digitalcommons.odu.edu/computerscience_etds/4)," Master's thesis, *Old Dominion University*, August 2012. <a href='http://www.cs.odu.edu/~mweigle/papers/padia-thesis12.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/kallumama24/ms-thesis-defense-aug-2012-visualizing-digital-collections-at-archiveit' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
+   * "[Visualizing Digital Collections at Archive-It](https://digitalcommons.odu.edu/computerscience_etds/4)," Master's thesis, *Old Dominion University*, August 2012. <a href='http://www.cs.odu.edu/~mweigle/papers/padia-thesis12.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/kallumama24/ms-thesis-defense-aug-2012-visualizing-digital-collections-at-archiveit' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a> <a href="https://ws-dl.blogspot.com/2012/08/2012-08-10-ms-thesis-visualizing.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * PhD, NC State, 2019
 1. Prashanth Adurthi
 <a href="https://www.linkedin.com/in/prashanth-adurthi-b7303024/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
@@ -225,7 +227,7 @@ August 2021 (advisor: Michael L. Nelson)
 
 ### Undergraduates
 
-* [Haley Bragg](https://haleybragg.github.io/), expected BS May 2022, Christopher Newport Univ (Summer 2022 REU)
+* [Haley Bragg](https://haleybragg.github.io/), BS May 2023, Christopher Newport Univ (Summer 2022 REU)
 * Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
 * Dhruv Patel <a href="https://www.linkedin.com/in/dhruv282/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
 * Erik Jensen, BS M&S May 2016 (Fall 2015 REU)
