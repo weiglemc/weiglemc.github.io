@@ -32,7 +32,7 @@ I adapted code from PmWiki's [BibtexRef Cookbook](https://www.pmwiki.org/wiki/Co
 
 I execute these locally on a checked out copy of the repo using PHP in a terminal.
 
-Update: Since PHP is no longer installed on my Mac and can't be run from the command-line on the CS systems, I set up a [webpage](https://www.cs.odu.edu/~mweigle/bib2md/bib2md.php) that will run the PHP code and generate the files.  Here's the new process:
+Update: Since PHP is no longer installed on my Mac and can't be run from the command-line on the CS systems, we have to use the CS webserver to run the PHP code and generate the files.  Here's the new process:
 * login to CS linux system
 * `cd ~/src/weiglemc.github.io`
 * `git pull`
@@ -40,9 +40,9 @@ Update: Since PHP is no longer installed on my Mac and can't be run from the com
 * make updates to `bib2md.php` to make sure current year will be updated
 * `cp ~/src/weiglemc.github.io/markdown_generator/*.bib ~/secure_html/bib2md/`
 * `cp ~/src/weiglemc.github.io/markdown_generator/bib2*.php ~/secure_html/bib2md/`
-* visit <https://www.cs.odu.edu/~mweigle/bib2md/bib2md.php> to generate my new files
-* visit <https://www.cs.odu.edu/~mweigle/bib2md/bib2md-students.php> to generate the `student-thesis.md` file
-* `mv ~/secure_html/bib2md/student-thesis.md ~/src/weiglemc.github.io/markdown_generator/`
+* open (in new tab) [bib2md.php](https://www.cs.odu.edu/~mweigle/bib2md/bib2md.php) to generate my new pub files
+* open (in new tab) [bib2md-students.php](https://www.cs.odu.edu/~mweigle/bib2md/bib2md-students.php) to generate the `student-thesis.md` file
+* `mv ~/secure_html/bib2md/student-thesis.md ~/src/weiglemc.github.io/markdown_generator/` -- this is just used for copy/paste to `_pages/students.md`
 * `cp ~/secure_html/bib2md/*.md ~/src/weiglemc.github.io/_publications/`
 * commit, `git push`
 
