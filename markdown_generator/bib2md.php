@@ -20,8 +20,8 @@
     include 'bibtexref3-md.php';				
    
     $bibTexFile = 'mweigle.bib';
-    $outputDir = '../_publications';
-//      $outputDir = '.';
+//    $outputDir = '../_publications';
+    $outputDir = '.';  // has to be '.' for generating with ODU CS webserver
 
     $common_preamble = "collection: 'publications'\ndoi-color: '#fcab22'\nacrobat-color: '#f70e0c'\nblogger-color: '#F37100'\n";
 
