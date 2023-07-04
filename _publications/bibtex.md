@@ -7,6 +7,77 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [zaki-2023](#zaki-2023)
+
+Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Extracting Information from Twitter Screenshots**," Technical report arXiv:2306.08236, arXiv, June 2023. <a href='https://arxiv.org/abs/2306.08236' target='_blank'><i class='fas fa-fw fa-link'></i></a>
+
+[](#zaki-2023Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@TECHREPORT {zaki-2023,
+        author = {Tarannum Zaki and Michael L. Nelson and Michele C. Weigle},
+        title = {Extracting Information from Twitter Screenshots},
+        institution = {arXiv},
+        number = {arXiv:2306.08236},
+        url = {https://arxiv.org/abs/2306.08236},
+        year = 2023,
+        month = jun,
+       pubdate = {202306.1} 
+}
+```
+
+{% endraw %}
+
+## [weigle-2023](#weigle-2023)
+
+Michele C. Weigle, "**The Use of Web Archives in Disinformation Research**," Technical report arXiv:2306.10004, arXiv, June 2023. <a href='https://arxiv.org/abs/2306.10004' target='_blank'><i class='fas fa-fw fa-link'></i></a>
+
+[](#weigle-2023Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@TECHREPORT {weigle-2023,
+          title={The Use of Web Archives in Disinformation Research},
+           author={Michele C. Weigle},
+          year={2023},
+          month = jun,
+        pubdate = {202306.2},
+           number={arXiv:2306.10004},
+          institution={arXiv},
+        url = {https://arxiv.org/abs/2306.10004}
+}
+```
+
+{% endraw %}
+
+## [jones-tweb-2023](#jones-tweb-2023)
+
+Shawn M. Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**Summarizing Web Archive Corpora Via Social Media Storytelling By Automatically Selecting and Visualizing Exemplars**," *ACM Transactions on the Web*, July 2023. <a href='http://dx.doi.org/10.1145/3606030' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#jones-tweb-2023Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {jones-tweb-2023,
+      author = {Shawn M. Jones and Martin Klein and Michele C. Weigle and Michael L. Nelson},
+      title = {Summarizing Web Archive Corpora Via Social Media Storytelling By Automatically Selecting and Visualizing Exemplars},
+      journal = {ACM Transactions on the Web},
+      year = {2023},
+      month = jul,
+      doi = {10.1145/3606030},
+      pubdate = {202307}
+}
+```
+
+{% endraw %}
+
 ## [aturban-plosone-2023](#aturban-plosone-2023)
 
 Mohamed Aturban, Martin Klein, Herbert Van de Sompel, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Hashes are not suitable to verify fixity of the public archived web**," *PLOS ONE*, Vol. 18, No. 6, June 2023, pp. 1-49. <a href='http://dx.doi.org/10.1371/journal.pone.0286879' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
@@ -27,7 +98,7 @@ Mohamed Aturban, Martin Klein, Herbert Van de Sompel, Sawood Alam, Michael L. Ne
         pages = {1-49},
         number = {6},
         doi = {10.1371/journal.pone.0286879},
-        pubdate={202306.5}
+        pubdate={202306.7}
 }
 ```
 
@@ -104,6 +175,31 @@ John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-exper
 
 {% endraw %}
 
+## [balakireva-jcdl23](#balakireva-jcdl23)
+
+Lyudmila Balakireva, Emily Escamilla, Talya Cooper, Michael L. Nelson, and Michele C. Weigle, "**The Memento Tracer Toolset for Human-Guided Focused Crawling of Dynamic Web**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023, poster. ***Best Poster Award***. 
+
+[](#balakireva-jcdl23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {balakireva-jcdl23,
+      author = {Lyudmila Balakireva and Emily Escamilla and Talya Cooper and Michael L. Nelson and Michele C. Weigle},
+      title = {The Memento Tracer Toolset for Human-Guided Focused Crawling of Dynamic Web},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2023,
+      month = jun,
+      pubdate = {202306.3},
+      note = {poster},
+      keyword = {award},
+      award = {Best Poster}
+}
+```
+
+{% endraw %}
+
 ## [alam-jcdl23](#alam-jcdl23)
 
 Sawood Alam, Kritika Garg, Michele C. Weigle, Michael L. Nelson,  Mark Graham, and Dietrich Ayala, "**TrendMachine: A Temporal Webpage Resilience Portal**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023, late-breaking results.
@@ -120,7 +216,7 @@ Sawood Alam, Kritika Garg, Michele C. Weigle, Michael L. Nelson,  Mark Graham, a
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
-      pubdate = {202306.1},
+      pubdate = {202306.4},
       note = {late-breaking results},
       acceptance = {late-breaking: 8/17 (47\%)}
 }
@@ -144,7 +240,7 @@ Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Le
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
-      pubdate = {202306.2},
+      pubdate = {202306.5},
       note = {short paper},
       preprint = {https://www.cs.odu.edu/~mweigle/papers/bragg-jcdl2023-preprint.pdf},
       acceptance = {short: 9/40 (23\%)}
@@ -155,7 +251,7 @@ Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Le
 
 ## [frew-jcdl23](#frew-jcdl23)
 
-Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023. &nbsp;<a href='https://arxiv.org/abs/2305.00546' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. June 2023. ***Best Student Paper Award***.  &nbsp;<a href='https://arxiv.org/abs/2305.00546' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#frew-jcdl23Bib)
 **BibTeX entry:**
@@ -169,9 +265,11 @@ Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Making Changes in Webp
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
-      pubdate = {202306.3},
+      pubdate = {202306.6},
       arxiv = {https://arxiv.org/abs/2305.00546},
-      acceptance = {13/56 (23\%)}
+      acceptance = {13/56 (23\%)},
+      keyword = {award},
+      award = {Best Student Paper}
 }
 ```
 
@@ -193,7 +291,7 @@ Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTM
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
-      pubdate = {202306.4},
+      pubdate = {202306.7},
       arxiv = {https://arxiv.org/abs/2305.01071},
       acceptance = {13/56 (23\%)}
 }
