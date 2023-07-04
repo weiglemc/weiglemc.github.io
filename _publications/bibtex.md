@@ -7,54 +7,6 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
-## [zaki-2023](#zaki-2023)
-
-Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Extracting Information from Twitter Screenshots**," Technical report arXiv:2306.08236, arXiv, June 2023. <a href='https://arxiv.org/abs/2306.08236' target='_blank'><i class='fas fa-fw fa-link'></i></a>
-
-[](#zaki-2023Bib)
-**BibTeX entry:**
-
-{% raw %}
-
-```bibtex
-@TECHREPORT {zaki-2023,
-        author = {Tarannum Zaki and Michael L. Nelson and Michele C. Weigle},
-        title = {Extracting Information from Twitter Screenshots},
-        institution = {arXiv},
-        number = {arXiv:2306.08236},
-        url = {https://arxiv.org/abs/2306.08236},
-        year = 2023,
-        month = jun,
-       pubdate = {202306.1} 
-}
-```
-
-{% endraw %}
-
-## [weigle-2023](#weigle-2023)
-
-Michele C. Weigle, "**The Use of Web Archives in Disinformation Research**," Technical report arXiv:2306.10004, arXiv, June 2023. <a href='https://arxiv.org/abs/2306.10004' target='_blank'><i class='fas fa-fw fa-link'></i></a>
-
-[](#weigle-2023Bib)
-**BibTeX entry:**
-
-{% raw %}
-
-```bibtex
-@TECHREPORT {weigle-2023,
-          title={The Use of Web Archives in Disinformation Research},
-           author={Michele C. Weigle},
-          year={2023},
-          month = jun,
-        pubdate = {202306.2},
-           number={arXiv:2306.10004},
-          institution={arXiv},
-        url = {https://arxiv.org/abs/2306.10004}
-}
-```
-
-{% endraw %}
-
 ## [jones-tweb-2023](#jones-tweb-2023)
 
 Shawn M. Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**Summarizing Web Archive Corpora Via Social Media Storytelling By Automatically Selecting and Visualizing Exemplars**," *ACM Transactions on the Web*, July 2023. <a href='http://dx.doi.org/10.1145/3606030' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
@@ -78,98 +30,49 @@ Shawn M. Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**Summa
 
 {% endraw %}
 
-## [aturban-plosone-2023](#aturban-plosone-2023)
+## [zaki-2023](#zaki-2023)
 
-Mohamed Aturban, Martin Klein, Herbert Van de Sompel, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Hashes are not suitable to verify fixity of the public archived web**," *PLOS ONE*, Vol. 18, No. 6, June 2023, pp. 1-49. <a href='http://dx.doi.org/10.1371/journal.pone.0286879' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Extracting Information from Twitter Screenshots**," Technical report arXiv:2306.08236, arXiv, June 2023. &nbsp;<a href='https://arxiv.org/abs/2306.08236' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
-[](#aturban-plosone-2023Bib)
+[](#zaki-2023Bib)
 **BibTeX entry:**
 
 {% raw %}
 
 ```bibtex
-@ARTICLE {aturban-plosone-2023,
-        author = {Mohamed Aturban and Martin Klein and Herbert {Van de Sompel} and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
-        title = {Hashes are not suitable to verify fixity of the public archived web},
-        year = {2023},
+@TECHREPORT {zaki-2023,
+        author = {Tarannum Zaki and Michael L. Nelson and Michele C. Weigle},
+        title = {Extracting Information from Twitter Screenshots},
+        institution = {arXiv},
+        number = {arXiv:2306.08236},
+        arxiv = {https://arxiv.org/abs/2306.08236},
+        year = 2023,
         month = jun,
-        journal = {PLOS ONE},
-        volume = {18},
-        pages = {1-49},
-        number = {6},
-        doi = {10.1371/journal.pone.0286879},
-        pubdate={202306.7}
+       pubdate = {202306.1} 
 }
 ```
 
 {% endraw %}
 
-## [jayanetti-msvcc23](#jayanetti-msvcc23)
+## [weigle-2023](#weigle-2023)
 
-Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Exploring Xenophobic Events through GDELT Data Analysis**," Technical report arXiv:2305.01708, Paper presented at the 16th Annual Modeling, Simulation, and Visualization Student Capstone Conference, May 2023. ***Best Overall Paper, Best Paper in Data Science track Award***.  &nbsp;<a href='https://arxiv.org/abs/2305.01708' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Michele C. Weigle, "**The Use of Web Archives in Disinformation Research**," Technical report arXiv:2306.10004, arXiv, June 2023. &nbsp;<a href='https://arxiv.org/abs/2306.10004' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
-[](#jayanetti-msvcc23Bib)
+[](#weigle-2023Bib)
 **BibTeX entry:**
 
 {% raw %}
 
 ```bibtex
-@TECHREPORT {jayanetti-msvcc23,
-      author = {Himarsha R. Jayanetti and Erika Frydenlund and Michele C. Weigle},
-      title = {Exploring Xenophobic Events through {GDELT} Data Analysis},
-      number = {arXiv:2305.01708},
-      year = {2023},
-      month = {May},
-      arxiv = {https://arxiv.org/abs/2305.01708},
-      institution = {Paper presented at the 16th Annual Modeling, Simulation, and Visualization Student Capstone Conference},
-      pubdate = {202305},
-      keyword = {award},
-      award = {Best Overall Paper, Best Paper in Data Science track}
-}
-```
-
-{% endraw %}
-
-## [bragg-reu-arxiv](#bragg-reu-arxiv)
-
-Haley Bragg, and Michele C. Weigle, "**Discovering the Traces of Disinformation on Instagram in the Internet Archive**," Technical report arXiv:2301.091888, January 2023. &nbsp;<a href='https://arxiv.org/abs/2301.09188' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
-
-[](#bragg-reu-arxivBib)
-**BibTeX entry:**
-
-{% raw %}
-
-```bibtex
-@TECHREPORT {bragg-reu-arxiv,
-      author = {Haley Bragg and Michele C. Weigle},
-      title = {Discovering the Traces of Disinformation on Instagram in the {Internet Archive}},
-      number = {arXiv:2301.091888},
-      year = {2023},
-      month = jan,
-      arxiv = {https://arxiv.org/abs/2301.09188},
-      pubdate = {202301}
-}
-```
-
-{% endraw %}
-
-## [berlin-tweb23](#berlin-tweb23)
-
-John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages**," *ACM Transactions on the Web*, 2023. <a href='http://dx.doi.org/10.1145/3589206' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
-
-[](#berlin-tweb23Bib)
-**BibTeX entry:**
-
-{% raw %}
-
-```bibtex
-@ARTICLE {berlin-tweb23,
-      author = {John Berlin and Mat Kelly and Michael L. Nelson and Michele C. Weigle},
-      title = {To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages},
-      year = {2023},
-      journal = {ACM Transactions on the Web},
-      doi = {10.1145/3589206},
-      pubdate = {202303}
+@TECHREPORT {weigle-2023,
+          title={The Use of Web Archives in Disinformation Research},
+           author={Michele C. Weigle},
+          year={2023},
+          month = jun,
+        pubdate = {202306.2},
+           number={arXiv:2306.10004},
+          institution={arXiv},
+        arxiv = {https://arxiv.org/abs/2306.10004}
 }
 ```
 
@@ -294,6 +197,103 @@ Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTM
       pubdate = {202306.7},
       arxiv = {https://arxiv.org/abs/2305.01071},
       acceptance = {13/56 (23\%)}
+}
+```
+
+{% endraw %}
+
+## [aturban-plosone-2023](#aturban-plosone-2023)
+
+Mohamed Aturban, Martin Klein, Herbert Van de Sompel, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Hashes are not suitable to verify fixity of the public archived web**," *PLOS ONE*, Vol. 18, No. 6, June 2023, pp. 1-49. <a href='http://dx.doi.org/10.1371/journal.pone.0286879' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#aturban-plosone-2023Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {aturban-plosone-2023,
+        author = {Mohamed Aturban and Martin Klein and Herbert {Van de Sompel} and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
+        title = {Hashes are not suitable to verify fixity of the public archived web},
+        year = {2023},
+        month = jun,
+        journal = {PLOS ONE},
+        volume = {18},
+        pages = {1-49},
+        number = {6},
+        doi = {10.1371/journal.pone.0286879},
+        pubdate={202306.8}
+}
+```
+
+{% endraw %}
+
+## [jayanetti-msvcc23](#jayanetti-msvcc23)
+
+Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Exploring Xenophobic Events through GDELT Data Analysis**," Technical report arXiv:2305.01708, Paper presented at the 16th Annual Modeling, Simulation, and Visualization Student Capstone Conference, May 2023. ***Best Overall Paper, Best Paper in Data Science track Award***.  &nbsp;<a href='https://arxiv.org/abs/2305.01708' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#jayanetti-msvcc23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@TECHREPORT {jayanetti-msvcc23,
+      author = {Himarsha R. Jayanetti and Erika Frydenlund and Michele C. Weigle},
+      title = {Exploring Xenophobic Events through {GDELT} Data Analysis},
+      number = {arXiv:2305.01708},
+      year = {2023},
+      month = {May},
+      arxiv = {https://arxiv.org/abs/2305.01708},
+      institution = {Paper presented at the 16th Annual Modeling, Simulation, and Visualization Student Capstone Conference},
+      pubdate = {202305},
+      keyword = {award},
+      award = {Best Overall Paper, Best Paper in Data Science track}
+}
+```
+
+{% endraw %}
+
+## [bragg-reu-arxiv](#bragg-reu-arxiv)
+
+Haley Bragg, and Michele C. Weigle, "**Discovering the Traces of Disinformation on Instagram in the Internet Archive**," Technical report arXiv:2301.091888, January 2023. &nbsp;<a href='https://arxiv.org/abs/2301.09188' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#bragg-reu-arxivBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@TECHREPORT {bragg-reu-arxiv,
+      author = {Haley Bragg and Michele C. Weigle},
+      title = {Discovering the Traces of Disinformation on Instagram in the {Internet Archive}},
+      number = {arXiv:2301.091888},
+      year = {2023},
+      month = jan,
+      arxiv = {https://arxiv.org/abs/2301.09188},
+      pubdate = {202301}
+}
+```
+
+{% endraw %}
+
+## [berlin-tweb23](#berlin-tweb23)
+
+John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages**," *ACM Transactions on the Web*, 2023. <a href='http://dx.doi.org/10.1145/3589206' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#berlin-tweb23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {berlin-tweb23,
+      author = {John Berlin and Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+      title = {To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages},
+      year = {2023},
+      journal = {ACM Transactions on the Web},
+      doi = {10.1145/3589206},
+      pubdate = {202303}
 }
 ```
 
