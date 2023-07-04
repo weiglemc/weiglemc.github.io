@@ -20,8 +20,8 @@
     include 'bibtexref3-md.php';				
    
     $bibTexFile = 'mweigle.bib';
-//    $outputDir = '../_publications';
-      $outputDir = '.';
+    $outputDir = '../_publications';
+//      $outputDir = '.';
 
     $common_preamble = "collection: 'publications'\ndoi-color: '#fcab22'\nacrobat-color: '#f70e0c'\nblogger-color: '#F37100'\n";
 
@@ -47,27 +47,39 @@
     // generate one file per type of publication
     $types = array("book", "journal", "conference", "techreport", "other");
     foreach ($types as $type) {
-        $outfile = $type . ".md";
-        $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
-        fwrite($fp, "---\n");
         switch ($type) {
             case "book":
+                $outfile = "1-" . $type . ".md";
+                $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
+                fwrite($fp, "---\n");
                 fwrite($fp, "title: \"Books and Book Chapters\"\n");
                 $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'BOOK')!==FALSE || strpos(\$this->entrytype,'INCOLLECTION')!==FALSE", "!\$this->get('PUBDATE')", "100");
                 break;
             case "journal":
+                $outfile = "2-" . $type . ".md";
+                $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
+                fwrite($fp, "---\n");
                 fwrite($fp, "title: \"Journals and Magazines\"\n");
                 $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'ARTICLE')!==FALSE", "!\$this->get('PUBDATE')", "100");
                 break;
             case "conference":
+                $outfile = "3-" . $type . ".md";
+                $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
+                fwrite($fp, "---\n");
                 fwrite($fp, "title: \"Conferences and Workshops (Peer-Reviewed)\"\n");
                 $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'INPROCEEDINGS')!==FALSE", "!\$this->get('PUBDATE')", "100");
                 break;
             case "techreport":
+                $outfile = "4-" . $type . ".md";
+                $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
+                fwrite($fp, "---\n");
                 fwrite($fp, "title: \"Tech Reports\"\n");
                 $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'TECHREPORT')!==FALSE", "!\$this->get('PUBDATE')", "100");
                 break;
             case "other":
+                $outfile = "5-" . $type . ".md";
+                $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
+                fwrite($fp, "---\n");
                 fwrite($fp, "title: \"Other (Poster Presentations, Dissertation, Misc)\"\n");
                 $paper_string = BibQuery($bibTexFile, "strpos(\$this->entrytype,'MISC')!==FALSE || strpos(\$this->entrytype,'PHDTHESIS')!==FALSE", "!\$this->get('PUBDATE')", "100");
                 break;
@@ -103,7 +115,7 @@
 
     // generate single file with recent publications (since $year)
     $outfile = "recent.md";
-    $year = "2021";
+    $year = "2022";
     $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
     fwrite($fp, "---\n");
     fwrite($fp, "title: \"Recent Publications\"\n");

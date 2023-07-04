@@ -16,14 +16,14 @@
    
     include 'bibtexref3-md.php';				
    
-    $bibTexFile = 'mweigle-thesis.bib';
+    $bibTexFile = 'students-thesis.bib';
     $outputDir = '.';    
     
-    $outfile = "student-thesis.md";
+    $outfile = "students-thesis.md";
     $fp = fopen("$outputDir/$outfile", "w") or die("Unable to open file!");
 
     // generate one line per student
-    $tags = array('mccoy-phd22', 'aturban-phd20', 'kelly-phd19', 'alkwai-phd19', 'almaksousy-phd18',
+    $tags = array('jayanetti-ms23', 'mccoy-phd22', 'aturban-phd20', 'kelly-phd19', 'alkwai-phd19', 'almaksousy-phd18',
     'mohrehkesh-phd15', 'almalag-phd13', 'arbabi-phd11', 'ibrahim-phd11', 'yan-phd10',
     'jayanetti-ms23', 'berlin-ms18', 'kelly-ms12', 'padia-ms12', 'adurthi-ms06', 'sharma-ms06');
 
