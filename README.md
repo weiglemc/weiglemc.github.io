@@ -41,8 +41,8 @@ Update: Since PHP is no longer installed on my Mac and can't be run from the com
 * `cp ~/src/weiglemc.github.io/markdown_generator/*.bib ~/secure_html/bib2md/`
 * `cp ~/src/weiglemc.github.io/markdown_generator/bib2*.php ~/secure_html/bib2md/`
 * open (in new tab) [bib2md.php](https://www.cs.odu.edu/~mweigle/bib2md/bib2md.php) to generate my new pub files
-* open (in new tab) [bib2md-students.php](https://www.cs.odu.edu/~mweigle/bib2md/bib2md-students.php) to generate the `student-thesis.md` file
-* `mv ~/secure_html/bib2md/student-thesis.md ~/src/weiglemc.github.io/markdown_generator/` -- this is just used for copy/paste to `_pages/students.md`
+* open (in new tab) [bib2md-students.php](https://www.cs.odu.edu/~mweigle/bib2md/bib2md-students.php) to generate the `students-thesis.md` file
+* `mv ~/secure_html/bib2md/students-thesis.md ~/src/weiglemc.github.io/markdown_generator/` -- this is just used for copy/paste to `_pages/students.md`
 * `cp ~/secure_html/bib2md/*.md ~/src/weiglemc.github.io/_publications/`
 * commit, `git push`
 
