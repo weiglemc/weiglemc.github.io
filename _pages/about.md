@@ -21,9 +21,9 @@ For an overview of my research over the past few years, see [On the importance o
 
 I serve as the Graduate Program Director (GPD) for Administration in the Department of Computer Science.  (We also have a GPD for Admissions and a GPD for Advising.) See our website for information on our graduate programs ([Master's Program](https://odu.edu/compsci/academics/graduate/masters), [PhD Program](https://odu.edu/compsci/academics/graduate/phd)). If you need to contact a CS GPD, please use [csgpd@odu.edu](mailto:csgpd@odu.edu).
 
-## Teaching 
+## Teaching (Fall 2023)
 
-Next semester (Fall 2023), I will be teaching CS 625 - Data Visualization, which will be similar to the version I previously taught in [Fall 2021](https://weiglemc.github.io/teaching/2021-fall-cs625).
+[CS 625 - Data Visualization](/teaching/2023-fall-cs625) / TR 11am-12:15pm, BAL 2063
 
 ## Research
 
