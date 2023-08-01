@@ -56,6 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+mastadon:
+  username               : "digipres.club/@weiglemc"
 twitter:
   username               : "weiglemc"
 facebook:
