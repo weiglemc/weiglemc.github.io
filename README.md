@@ -13,6 +13,19 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 I used <https://realfavicongenerator.net> to generate the needed favicons (it's a lot more complicated than it used to be...).
 
+## Customizations
+
+Some of my customizations:
+
+* icons in the sidebar: `_includes/author-profile.html`
+* follow icons (in footer): `_includes/footer.html`
+* share icons (at bottom of individual pages): `_includes/social-share.html`
+* colors and buttons:
+   * `_sass/_variables.scss` - look for comments `/* ODU colors: https://www.odu.edu/facultystaff/communication/toolkit/identity-standards/palette-fonts */` and `/* brands */`
+   * `_sass/_buttons.scss` - look for comment `/* my button */`
+ 
+Rob Williams (author of the guides above) had a couple of commits that replaced his Twitter icons and links with Mastodon, see ['we'll meet again'](https://github.com/jayrobwilliams/jayrobwilliams.github.io/commit/2dbefbb507702b981d5719f1da06c8f57b0872b5) and ['bye bye birdie](https://github.com/jayrobwilliams/jayrobwilliams.github.io/commit/1d759370f1c973f16f3253f24d3bc412e41a1576)
+
 ## Debugging
 
 If the page doesn't regenerate automatically after a new commit, check for build or deployment errors.  Check the [pages-build-deployment](https://github.com/weiglemc/weiglemc.github.io/actions/workflows/pages/pages-build-deployment) log in the [Actions](https://github.com/weiglemc/weiglemc.github.io/actions) tab.
