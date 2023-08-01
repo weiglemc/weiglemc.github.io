@@ -50,9 +50,6 @@
       {% if author.mastodon %}
         <li><a rel="me" href="https://{{ author.mastodon }}"><i class="fab fa-fw fa-mastodon" aria-hidden="true" style="padding-right: 1.5em;"></i> Mastodon</a></li>
       {% endif %}
-      {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a></li>
-      {% endif %}
       {% if author.orcid %}
       <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw"  aria-hidden="true"></i> ORCID</a></li>
       {% endif %}
@@ -79,6 +76,9 @@
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
+      {% endif %}
+      {% if author.twitter %}
+        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
       {% if author.linkedin %}
       <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
