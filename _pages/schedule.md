@@ -5,31 +5,32 @@ title: "Schedule/Travel"
  
 ## Summer 2023 Schedule
 
-Monday - *reserved for research and planning*
+Monday
+
+* 2-3pm - IMLS-LB Research Project Meeting
 
 Tuesday
 
 * 11-12pm - Student Research Meeting
-* 4-5pm - Protocol Labs Research Project Planning Meeting
+* 12-1pm - Protocol Labs Research Project Planning Meeting
 
 Wednesday
 
 * 10-11am - Faculty Research Planning Meeting
 * 11-12pm - Data Science Research Project Meeting
+* 1-1:30pm - Student Research Meeting
 * 2-3pm - WS-DL Faculty Meeting (3rd Weds of the month)
 * 4-5pm - IMLS ads Research Project Meeting
 
 Thursday
 
 * 9:30-10:30am - Protocol Labs Research Project Meeting (every 4 weeks)
-* 10-11am - IMLS-LB Research Project Meeting
 * 11am-12pm - Student Research Meetings
 * 3-4pm - CoSAI Research Project Meeting (every 2 weeks)
-* 4-4:30pm - Student Research Meeting
+* 4-4:30pm - Student Research Meetings
 
 Friday
 * 2-3pm - Student Research Meetings
-* 4:30-5pm - Student Research Meeting
 
 *Times not specified from 9am-5pm M-F are scheduled for research and planning.*
 
