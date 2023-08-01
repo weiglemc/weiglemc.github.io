@@ -39,9 +39,7 @@ Friday
 
 2023
 
-* July 24-30: Personal travel
 * June 26-30: Santa Fe, NM - [ACM/IEEE JCDL 2023](https://2023.jcdl.org/)
-* June 18-26: Personal travel
 * April 18-21: South Bend, IN - Visiting [Dr. Nitesh Chawla](https://lucyinstitute.nd.edu/people/leadership-team/nitesh-chawla/) and the [Lucy Family Institute for Data & Society](https://lucyinstitute.nd.edu/) at the University of Notre Dame, <https://lucyinstitute.nd.edu/news-events/events/2023/04/19/lucy-seminar-ft-michele-weigle/>
 
 2022
