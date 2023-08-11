@@ -42,7 +42,7 @@ Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Extracting Informati
 ```bibtex
 @TECHREPORT {zaki-2023,
         author = {Tarannum Zaki and Michael L. Nelson and Michele C. Weigle},
-        title = {Extracting Information from Twitter Screenshots},
+        title = {Extracting Information from {Twitter} Screenshots},
         institution = {arXiv},
         number = {arXiv:2306.08236},
         arxiv = {https://arxiv.org/abs/2306.08236},
@@ -139,7 +139,7 @@ Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Le
 ```bibtex
 @INPROCEEDINGS {bragg-jcdl23,
       author = {Haley Bragg and Himarsha Jayanetti and Michael L. Nelson and Michele C. Weigle},
-      title = {Less than 4\% of Archived Instagram Account Pages for the Disinformation Dozen are Replayable},
+      title = {Less than 4\% of Archived {Instagram} Account Pages for the Disinformation Dozen are Replayable},
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
