@@ -5,33 +5,35 @@ title: "Schedule/Travel"
 
 ## Fall 2023 Schedule
 
-*Tentative - many meetings yet to be scheduled. I will likely be working from home M/W/F and at ODU Tu/Th.*
+*Tentative - many meetings yet to be scheduled.*  
+
+*I will likely be working from home M/W/F and at ODU Tu/Th.*
 
 Monday
 
-* 2-3pm - IMLS-LB Research Project Meeting
-* 4:30-5pm - Student Research Meeting
+* 2-3pm - IMLS-LB Research Project Meeting, Zoom
+* 4:30-5pm - Student Research Meeting, Skype
 
-Tuesday - at ODU
+Tuesday - *at ODU*
 
-* 9:30-10:30am - Office Hour (ECSB 3327)
+* 9:30-10:30am - Office Hour, ECSB 3327
 * 11-12:15pm - [CS 625](https://weiglemc.github.io/teaching/2023-fall-cs625), BAL 2063
-* 12:30-1:30pm - Activity Hour (faculty meetings, other events)
+* 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
 
 Wednesday
 
-* 3-4pm - CoSAI Research Project Meeting (every 2 weeks, starting Sep 6)
-* 4-5pm - IMLS ads Research Project Meeting
+* 3-4pm - CoSAI Research Project Meeting (every 2 weeks, starting Sep 6), Zoom
+* 4-5pm - IMLS ads Research Project Meeting, Zoom
 
-Thursday - at ODU
+Thursday - *at ODU*
 
-* 9:30-10:30am - Protocol Labs Research Project Meeting (every 4 weeks)
+* 9:30-10:30am - Protocol Labs Research Project Meeting (every 4 weeks), Zoom
 * 11-12:15pm - [CS 625](https://weiglemc.github.io/teaching/2023-fall-cs625), BAL 2063
-* 12:30-1:30pm - Activity Hour (faculty meetings, other events)
+* 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
 
 Friday
 
-* 10-11am - Office Hour (Zoom)
+* 10-11am - Office Hour, [Zoom](https://odu.zoom.us/j/96765985329?pwd=NWNrS2ZFSmpLcWVWdTRyZmg0UXlvUT09&from=addon)
 
 ## Summer 2023 Schedule
 
