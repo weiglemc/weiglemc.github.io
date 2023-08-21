@@ -15,7 +15,8 @@ blogger-color: "#F37100"
 
 ### PhD Advisees
 
-* Himarsha Jayanetti
+* Jhon Botello Maldonado
+* Himarsha Jayanetti (ABD)
 <a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
@@ -34,10 +35,11 @@ blogger-color: "#F37100"
 
 ### PhD Committee Member
 
+* Abrar Alali (ABD) (advisor: Stephan Olariu)
 * Kimberley Cossey, Higher Education 
 <a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 (advisor: David Ayers)
-* Kritika Garg (ABD)
+* Kritika Garg
 <a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=pXQRYsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0001-6498-7391" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
@@ -58,16 +60,6 @@ blogger-color: "#F37100"
 
 * Lesley Frew 
 <a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
-
-### MS Thesis Committee Member
-
-* Emily Escamilla 
-<a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
-<a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-<a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
-<a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
-<a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-(advisor: Michael L. Nelson) 
 
 ## Former Students
 
@@ -169,7 +161,7 @@ blogger-color: "#F37100"
 <a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/shawnmorganjones/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-August 2021 (advisor: Michael L. Nelson)
+, August 2021 (advisor: Michael L. Nelson)
 * Sawood Alam, December 2020 (advisor: Michael L. Nelson)
 * Aida Ghazizadeh, August 2020 (advisor: Stephan Olariu)
 * Alexander Nwala, August 2020 (advisor: Michael L. Nelson)
@@ -191,6 +183,13 @@ August 2021 (advisor: Michael L. Nelson)
 
 ### MS Thesis Committee Member
 
+* Emily Escamilla 
+<a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+<a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
+<a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
+, August 2023, (advisor: Michael L. Nelson) 
 * Ahmed Nasr, August 2018 (advisor: Tamer Nadeem)
 * Aaron Walden, May 2016 (advisors: Desh Ranjan, Mohammad Zubair)
 * Juliette Pardue, Aug 2015 (advisor: Andrey Chernikov)
@@ -227,7 +226,8 @@ August 2021 (advisor: Michael L. Nelson)
 
 ### Undergraduates
 
-* [Haley Bragg](https://haleybragg.github.io/), BS May 2023, Christopher Newport Univ (Summer 2022 REU)
+* [Rachel Zheng](https://rachelzheng03.github.io/) <a href="https://www.linkedin.com/in/rachel-zheng-41478a251/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, William & Mary (Summer 2023 REU)
+* [Haley Bragg](https://haleybragg.github.io/)  <a href="https://www.linkedin.com/in/haley-bragg-896755276/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2023, Christopher Newport Univ (Summer 2022 REU)
 * Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
 * Dhruv Patel <a href="https://www.linkedin.com/in/dhruv282/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
 * Erik Jensen, BS M&S May 2016 (Fall 2015 REU)
