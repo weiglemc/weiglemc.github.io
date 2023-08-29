@@ -20,6 +20,7 @@ Tuesday - *at ODU*
 
 Wednesday
 
+* 10-11am - Research Planning Meeting
 * 11am-12pm - Data Science Grant Meeting w/VMASC, Zoom
 * 3-4pm - CoSAI Research Project Meeting (every 2 weeks, starting Sep 6), Zoom
 * 4-5pm - IMLS Web Ads Research Project Meeting, Zoom
