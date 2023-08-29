@@ -9,7 +9,6 @@ title: "Schedule/Travel"
 
 Monday
 
-* 2-3pm - IMLS-LB Research Project Meeting, Zoom
 * 4:30-5pm - Student Research Meeting, Skype
 
 Tuesday - *at ODU*
