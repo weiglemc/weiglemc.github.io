@@ -10,8 +10,7 @@ title: "Schedule/Travel"
 Monday
 
 * 12-12:30pm - Student Research Meeting, Skype
-* 2-3pm - NYPW (PL) Research Project Meeting, Skype
-* 3-3:30pm - Student Research Meeting, Skype
+* 3-4pm - NYPW (PL) Research Project Meeting, Skype
 * 4:30-5pm - Student Research Meeting, Skype
 
 Tuesday - *at ODU*
