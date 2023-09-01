@@ -9,6 +9,9 @@ title: "Schedule/Travel"
 
 Monday
 
+* 12-12:30pm - Student Research Meeting, Skype
+* 2-3pm - NYPW (PL) Research Project Meeting, Skype
+* 3-3:30pm - Student Research Meeting, Skype
 * 4:30-5pm - Student Research Meeting, Skype
 
 Tuesday - *at ODU*
@@ -21,9 +24,9 @@ Tuesday - *at ODU*
 Wednesday
 
 * 10-11am - Research Planning Meeting
-* 11am-12pm - Data Science Grant Meeting w/VMASC, Zoom
-* 3-4pm - CoSAI Research Project Meeting (every 2 weeks, starting Sep 6), Zoom
-* 4-5pm - IMLS Web Ads Research Project Meeting, Zoom
+* 11am-12pm - VMASC Data Science Project Meeting, Zoom
+* 3-4pm - CoSAI Research Project Meeting (every 2 weeks), Zoom
+* 4-5pm - IMLS Web Ads Research Project Meeting, Zoom - *to be moved*
 
 Thursday - *at ODU*
 
