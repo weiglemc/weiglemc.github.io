@@ -25,6 +25,7 @@ Wednesday
 
 * 10-11am - Research Planning Meeting
 * 11am-12pm - VMASC Data Science Project Meeting, Zoom
+* 2-3pm - WS-DL Faculty Meeting (every 3rd Wed of month), Zoom
 * 3-4pm - CoSAI Research Project Meeting (every 2 weeks), Zoom
 * 4-5pm - IMLS Web Ads Research Project Meeting, Zoom - *to be moved*
 
