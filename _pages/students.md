@@ -15,9 +15,10 @@ blogger-color: "#F37100"
 
 ### PhD Advisees
 
-* Jhon Botello Maldonado
+* Jhon Botello
+<a href="https://twitter.com/Jhon_gbm12" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 * Himarsha Jayanetti (ABD)
-<a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
+<a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
@@ -27,7 +28,7 @@ blogger-color: "#F37100"
 <a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/treid003" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/travis-r-88148ba9/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-* Tarannum Zaki 
+* Tarannum Zaki
 <a href="https://twitter.com/tarannum_zaki/" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=L95eiH4AAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://github.com/Tarannum123" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
@@ -35,9 +36,11 @@ blogger-color: "#F37100"
 
 ### PhD Committee Member
 
-* Abrar Alali (ABD) (advisor: Stephan Olariu)
-* Kimberley Cossey, Higher Education 
+* Abrar Alali (ABD)
+<a href="https://scholar.google.com/citations?hl=en&user=AqeoiPcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>(advisor: Stephan Olariu)
+* Kimberley Cossey, Higher Education
 <a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=ct7cj84AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: David Ayers)
 * Kritika Garg
 <a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
@@ -45,25 +48,32 @@ blogger-color: "#F37100"
 <a href="https://orcid.org/0000-0001-6498-7391" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/kritikagarg" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/kritika-g-b8a824120/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-(advisor: Michael L. Nelson) 
+(advisor: Michael L. Nelson)
 * Gavindya Jayawardena (ABD)
 <a href="https://twitter.com/Gavindya2" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=LdfjuHAAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0002-9523-3346" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/gavindya" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-(advisor: Sampath Jayarathna) 
+(advisor: Sampath Jayarathna)
 * Xiaoqin Liang (ABD)
-<a href="https://twitter.com/liang_xiaoqin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> (advisor: Shuai Hao)
+<a href="https://twitter.com/liang_xiaoqin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+(advisor: Shuai Hao)
+* Xin Wei (ABD)
+<a href="https://twitter.com/Xin9Xin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=6xyfqsgAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+(advisor: Jian Wu)
 
 ### MS Thesis Advisees
 
-* Lesley Frew 
-<a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
+* Lesley Frew
+<a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=JmEpqjMAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 
 ## Former Students
 
 ### PhD
+
 1. Corren McCoy
 <a href="https://twitter.com/correnmccoy" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -122,14 +132,14 @@ blogger-color: "#F37100"
 
 ### MS Thesis
 
-1. Himarsha Jayanetti 
+1. Himarsha Jayanetti
 <a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
     * "[Supporting Account-Based Queries for Archived Instagram Posts](https://digitalcommons.odu.edu/computerscience_etds/139/)," Master's thesis, *Old Dominion University*, May 2023. <a href='https://github.com/himarshaj/himarshaj.github.io/blob/master/Resources/MSThesis_SupportingIGPostsIA.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href="https://ws-dl.blogspot.com/2023/06/2023-06-15-milestone-achieved.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
-1. John Berlin 
+1. John Berlin
 <a href="https://www.linkedin.com/in/john-berlin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[To Relive The Web: A Framework for the Transformation and Archival Replay of Web Pages](https://digitalcommons.odu.edu/computerscience_etds/38/)," Master's thesis, *Old Dominion University*, May 2018. <a href='http://www.cs.odu.edu/~mweigle/papers/berlin-ms-thesis-18.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href="https://ws-dl.blogspot.com/2018/04/2018-05-01-high-fidelity-ms-thesis-to.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
 2. Mat Kelly
@@ -183,13 +193,13 @@ blogger-color: "#F37100"
 
 ### MS Thesis Committee Member
 
-* Emily Escamilla 
+* Emily Escamilla
 <a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-, August 2023, (advisor: Michael L. Nelson) 
+, August 2023, (advisor: Michael L. Nelson)
 * Ahmed Nasr, August 2018 (advisor: Tamer Nadeem)
 * Aaron Walden, May 2016 (advisors: Desh Ranjan, Mohammad Zubair)
 * Juliette Pardue, Aug 2015 (advisor: Andrey Chernikov)
