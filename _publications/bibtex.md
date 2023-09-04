@@ -7,9 +7,79 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [escamilla-tpdl23](#escamilla-tpdl23)
+
+Emily Escamilla, Lamia Salsabil, Martin Klein, Jian Wu, Michele C. Weigle, and Michael L. Nelson, "**It's Not Just GitHub: Identifying Data and Software Sources Included in Publications**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2023. &nbsp;<a href='https://arxiv.org/abs/2307.14469' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#escamilla-tpdl23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {escamilla-tpdl23,
+     author    = {Emily Escamilla and Lamia Salsabil and Martin Klein and Jian Wu and Michele C. Weigle and Michael L. Nelson},
+     title = {It's Not Just {GitHub}: Identifying Data and Software Sources Included in Publications},
+     booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+     year = {2023},
+     month = sep,
+     pubdate = {202309},
+      arxiv = {https://arxiv.org/abs/2307.14469},
+     acceptance = {33\%}
+}
+```
+
+{% endraw %}
+
+## [jayanetti-sbp23](#jayanetti-sbp23)
+
+Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Xenophobic Events vs. Refugee Population -- Using GDELT to Identify Countries with Disproportionate Coverage**," Poster presented at the 16th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS), September 2023. &nbsp;<a href='https://arxiv.org/abs/2308.05038' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#jayanetti-sbp23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {jayanetti-sbp23,
+     author    = {Himarsha R. Jayanetti and Erika Frydenlund and Michele C. Weigle},
+     title = {Xenophobic Events vs. Refugee Population -- Using {GDELT} to Identify Countries with Disproportionate Coverage},
+     howpublished = {Poster presented at the 16th International Conference on Social Computing, Behavioral-Cultural Modeling \& Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMS)},
+     year = {2023},
+     month = sep,
+     pubdate = {202309},
+     arxiv = {https://arxiv.org/abs/2308.05038}
+}
+```
+
+{% endraw %}
+
+## [garg-ijdl23](#garg-ijdl23)
+
+Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Challenges in replaying archived Twitter pages**," *International Journal on Digital Libraries (IJDL)*, August 2023. <a href='http://dx.doi.org/10.1007/s00799-023-00379-w' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#garg-ijdl23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {garg-ijdl23,
+     author = {Kritika Garg and Himarsha R. Jayanetti and Sawood Alam and Michele C. Weigle and Michael L. Nelson},
+     title = {Challenges in replaying archived {Twitter} pages},
+     journal = {International Journal on Digital Libraries (IJDL)},
+     year = {2023},
+     month = aug,
+     pubdate = {202308},
+     doi = {10.1007/s00799-023-00379-w}
+}
+```
+
+{% endraw %}
+
 ## [jones-tweb-2023](#jones-tweb-2023)
 
-Shawn M. Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**Summarizing Web Archive Corpora Via Social Media Storytelling By Automatically Selecting and Visualizing Exemplars**," *ACM Transactions on the Web*, July 2023. <a href='http://dx.doi.org/10.1145/3606030' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Shawn M. Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**Summarizing Web Archive Corpora Via Social Media Storytelling By Automatically Selecting and Visualizing Exemplars**," *ACM Transactions on the Web*, 2023. <a href='http://dx.doi.org/10.1145/3606030' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#jones-tweb-2023Bib)
 **BibTeX entry:**
@@ -22,8 +92,33 @@ Shawn M. Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**Summa
       title = {Summarizing Web Archive Corpora Via Social Media Storytelling By Automatically Selecting and Visualizing Exemplars},
       journal = {ACM Transactions on the Web},
       year = {2023},
-      month = jul,
       doi = {10.1145/3606030},
+      pubdate = {202308}
+}
+```
+
+{% endraw %}
+
+## [berlin-tweb23](#berlin-tweb23)
+
+John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages**," *ACM Transactions on the Web*, Vol. 17, No. 3, July 2023, pp. 1-49. <a href='http://dx.doi.org/10.1145/3589206' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#berlin-tweb23Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {berlin-tweb23,
+      author = {John Berlin and Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+      title = {To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages},
+      year = {2023},
+      journal = {ACM Transactions on the Web},
+      doi = {10.1145/3589206},
+      volume = 17,
+      number = 3,
+      month = jul,
+      pages = {1--49},
       pubdate = {202307}
 }
 ```
@@ -42,7 +137,7 @@ Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Extracting Informati
 ```bibtex
 @TECHREPORT {zaki-2023,
         author = {Tarannum Zaki and Michael L. Nelson and Michele C. Weigle},
-        title = {Extracting Information from {Twitter} Screenshots},
+        title = {Extracting Information from Twitter Screenshots},
         institution = {arXiv},
         number = {arXiv:2306.08236},
         arxiv = {https://arxiv.org/abs/2306.08236},
@@ -139,7 +234,7 @@ Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Le
 ```bibtex
 @INPROCEEDINGS {bragg-jcdl23,
       author = {Haley Bragg and Himarsha Jayanetti and Michael L. Nelson and Michele C. Weigle},
-      title = {Less than 4\% of Archived {Instagram} Account Pages for the Disinformation Dozen are Replayable},
+      title = {Less than 4\% of Archived Instagram Account Pages for the Disinformation Dozen are Replayable},
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
@@ -219,7 +314,7 @@ Mohamed Aturban, Martin Klein, Herbert Van de Sompel, Sawood Alam, Michael L. Ne
         month = jun,
         journal = {PLOS ONE},
         volume = {18},
-        pages = {1-49},
+        pages = {1--49},
         number = {6},
         doi = {10.1371/journal.pone.0286879},
         pubdate={202306.8}
@@ -272,28 +367,6 @@ Haley Bragg, and Michele C. Weigle, "**Discovering the Traces of Disinformation 
       month = jan,
       arxiv = {https://arxiv.org/abs/2301.09188},
       pubdate = {202301}
-}
-```
-
-{% endraw %}
-
-## [berlin-tweb23](#berlin-tweb23)
-
-John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages**," *ACM Transactions on the Web*, 2023. <a href='http://dx.doi.org/10.1145/3589206' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
-
-[](#berlin-tweb23Bib)
-**BibTeX entry:**
-
-{% raw %}
-
-```bibtex
-@ARTICLE {berlin-tweb23,
-      author = {John Berlin and Mat Kelly and Michael L. Nelson and Michele C. Weigle},
-      title = {To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages},
-      year = {2023},
-      journal = {ACM Transactions on the Web},
-      doi = {10.1145/3589206},
-      pubdate = {202303}
 }
 ```
 
@@ -365,7 +438,7 @@ Himarsha Jayanetti, Shawn Jones, Martin Klein, Alex Osbourne, Paul Koerbin, Mich
     	note = {short paper},
       year = {2022},
       month = sep,
-      pubdate = {202209},
+      pubdate = {202209.1},
       doi = {10.1007/978-3-031-16802-4_45},
       arxiv = {https://arxiv.org/abs/2209.08649}
 }
@@ -389,7 +462,7 @@ Abby Mabe, Michael L. Nelson, and Michele C. Weigle, "**A Chromium-based Memento
       booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
       year = {2022},
       month = sep,
-      pubdate = {202209},
+      pubdate = {202209.2},
       doi = {10.1007/978-3-031-16802-4_12},
       pdf = {https://www.cs.odu.edu/~mweigle/papers/mabe-tpdl22.pdf},
       acceptance = {18/50 (36\%)}
@@ -414,7 +487,7 @@ Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C.
       booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
       year = {2022},
       month = sep,
-      pubdate = {202209},
+      pubdate = {202209.4},
       keyword = {award},
       award = {Best Student Paper},
       doi = {10.1007/978-3-031-16802-4_19},
@@ -441,7 +514,7 @@ Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, an
       booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
       year = {2022},
       month = sep,
-      pubdate = {202209},
+      pubdate = {202209.3},
       doi = {10.1007/978-3-031-16802-4_15},
       arxiv = {https://arxiv.org/abs/2208.04895},
       acceptance = {18/50 (36\%)}
@@ -608,7 +681,7 @@ Shawn Jones, Michele C. Weigle, and Michael L. Nelson, "**Hypercane: Intelligent
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2021,
       month = sep,
-      pubdate = {202109},
+      pubdate = {202109.1},
       note = {poster},
       pages = {316--317},
       doi = {10.1109/JCDL52503.2021.00049},
@@ -634,7 +707,7 @@ Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "**Wh
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2021,
       month = sep,
-      pubdate = {202109},
+      pubdate = {202109.2},
       arxiv = {https://arxiv.org/abs/2104.14041},
       note = {poster},
       pages = {340--341},
@@ -661,7 +734,7 @@ Abigail Mabe, Michael L. Nelson, and Michele C. Weigle, "**Extending Chromium: M
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2021,
       month = sep,
-      pubdate = {202109},
+      pubdate = {202109.3},
       arxiv = {https://arxiv.org/abs/2104.13361},
       note = {poster},
       pages = {310--311},
@@ -688,7 +761,7 @@ Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "**Garbage, Glitte
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2021,
       month = sep,
-      pubdate = {202109},
+      pubdate = {202109.4},
       arxiv = {https://arxiv.org/abs/2107.02680},
       pages = {80--89},
       doi = {10.1109/JCDL52503.2021.00020},
@@ -715,7 +788,7 @@ Shawn M. Jones, Valentina Neblitt-Jones, Michele C. Weigle, Martin Klein, and Mi
       year = {2021},
       month = sep,
       arxiv = {https://arxiv.org/abs/2104.04116},
-      pubdate = {202109},
+      pubdate = {202109.5},
       pages = {110--119},
       doi = {10.1109/JCDL52503.2021.00023},
       acceptance = {22/76 (29\%)}
@@ -740,7 +813,7 @@ Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year = {2021},
       month = sep,
-      pubdate = {202109},
+      pubdate = {202109.7},
       arxiv = {https://arxiv.org/abs/2108.12092},
       pages = {160--169},
       doi = {10.1109/JCDL52503.2021.00028},
@@ -766,7 +839,7 @@ Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Profiling Web Archival
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2021,
       month = sep,
-      pubdate = {202109},
+      pubdate = {202109.6},
       arxiv = {https://arxiv.org/abs/2108.03311},
       pages = {150--159},
       doi = {10.1109/JCDL52503.2021.00027},
@@ -933,7 +1006,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**Making Recommendatio
       booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year = {2020},
       month = aug,
-      pubdate = {202008},
+      pubdate = {202008.3},
       arxiv = {https://arxiv.org/abs/1908.02819},
       doi = {10.1145/3383583.3398533},
       pages = {87-–96},
@@ -959,7 +1032,7 @@ Jian Wu, Md Reshad Ul Hoque, Gunnar W. Reiske, Michele C. Weigle, Brenda T. Brad
       booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year = {2020},
       month = aug,
-      pubdate = {202008},
+      pubdate = {202008.2},
       pages = {397-–400},
       doi = {10.1145/3383583.3398602},
       acceptance = {90 short paper submissions and accepted 28 (31.1\%)}
