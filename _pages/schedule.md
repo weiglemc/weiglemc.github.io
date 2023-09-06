@@ -9,7 +9,7 @@ title: "Schedule/Travel"
 
 Monday
 
-* 12-12:30pm - Student Research Meeting, Skype
+* 2-2:30pm - Student Research Meeting, Skype
 * 3-4pm - NYPW (PL) Research Project Meeting, Skype
 * 4:30-5pm - Student Research Meeting, Skype
 
@@ -18,11 +18,12 @@ Tuesday - *at ODU*
 * 9:30-10:30am - Office Hour, ECSB 3327
 * 11-12:15pm - [CS 625](https://weiglemc.github.io/teaching/2023-fall-cs625), BAL 2063
 * 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
+* 2-2:30pm - Student Research Meeting
 * 4-4:30pm - Student Research Meeting
 
 Wednesday
 
-* 10-11am - Research Planning Meeting
+* 10-11am - Research Planning Meeting, Skype
 * 11am-12pm - VMASC Data Science Project Meeting, Zoom
 * 2-3pm - WS-DL Faculty Meeting (every 3rd Wed of month), Zoom
 * 3-4pm - CoSAI Research Project Meeting (every 2 weeks), Zoom
@@ -33,7 +34,7 @@ Thursday - *at ODU*
 * 9:30-10:30am - Protocol Labs Research Project Meeting (every 4 weeks), Zoom
 * 11-12:15pm - [CS 625](https://weiglemc.github.io/teaching/2023-fall-cs625), BAL 2063
 * 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
-* 2-4:30pm - Student Research Meetings
+* 2-5pm - Student Research Meetings
 
 Friday
 
