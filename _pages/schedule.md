@@ -35,8 +35,8 @@ Thursday - *at ODU*
 
 Friday
 
-* 10-11am - Office Hour, [Zoom](https://odu.zoom.us/j/96765985329?pwd=NWNrS2ZFSmpLcWVWdTRyZmg0UXlvUT09&from=addon) - *will be moved*
 * 1-2pm - IMLS Web Ads Research Project Meeting, Zoom
+* 2-3pm - Office Hour, [Zoom](https://odu.zoom.us/j/96765985329?pwd=NWNrS2ZFSmpLcWVWdTRyZmg0UXlvUT09&from=addon)
 
 ## Recent/Upcoming Travel
 
