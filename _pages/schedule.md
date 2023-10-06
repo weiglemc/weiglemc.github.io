@@ -17,7 +17,7 @@ Tuesday - *at ODU*
 * 9:30-10:30am - Office Hour, ECSB 3327
 * 11-12:15pm - [CS 625](https://weiglemc.github.io/teaching/2023-fall-cs625), BAL 2063
 * 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
-* 2-3:30pm - Student Research Meetings
+* 3-3:30pm - Student Research Meeting
 
 Wednesday
 
