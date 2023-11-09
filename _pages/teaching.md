@@ -24,7 +24,7 @@ current_semester: "Fall 2023"
 
 | |Fall | Spring |
 |---|---|---|
-|***2023-2024*** | [CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2023-fall-cs625) | CS 432/532 - Web Science<br/>CS 725/825 - Information Visualization & Data Analytics|
+|***2023-2024*** | [CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2023-fall-cs625) | CS 725/825 - Information Visualization & Data Analytics|
 |**2022-2023** | *research leave*|[CS 725/825 - Information Visualization & Data Analytics](https://weiglemc.github.io/teaching/2023-spr-cs725825)|
 |**2021-2022** | [CS 432/532 - Web Science](https://weiglemc.github.io/teaching/2021-fall-cs432532)<br/>[CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2021-fall-cs625)|[CS 725/825 - Information Visualization & Data Analytics](https://weiglemc.github.io/teaching/2022-spr-cs725825)<br/>[CS 800 - Research Methods](https://weiglemc.github.io/teaching/2022-spr-cs800)|
 |**2020-2021** | [CS 312 - Internet Concepts](https://www.cs.odu.edu/~mweigle/CS312-F20/)<br/>[CS 432/532 - Web Science](https://www.cs.odu.edu/~mweigle/CS432-F20/)<br/>[CS 625 - Data Visualization](https://www.cs.odu.edu/~mweigle/CS625-F20/)|[CS 432/532 - Web Science](https://www.cs.odu.edu/~mweigle/CS432-S21/)<br/>[CS 725/825 - Information Visualization & Data Analytics](https://www.cs.odu.edu/~mweigle/CS725-S21/)<br/>[CS 800 - Research Methods](https://www.cs.odu.edu/~mweigle/CS800-S21/)|
