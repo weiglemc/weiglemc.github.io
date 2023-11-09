@@ -21,6 +21,10 @@ For an overview of my research over the past few years, see [On the importance o
 
 I serve as the Graduate Program Director (GPD) for Administration in the Department of Computer Science.  (We also have a GPD for Admissions and a GPD for Advising.) See our website for information on our graduate programs ([Master's Program](https://odu.edu/compsci/academics/graduate/masters), [PhD Program](https://odu.edu/compsci/academics/graduate/phd)). If you need to contact a CS GPD, please use [csgpd@odu.edu](mailto:csgpd@odu.edu).
 
+## Teaching (Spring 2024)
+
+[CS 725/825 - Information Visualization & Data Analytics](/teaching/2024-spr-cs725825) / MW 3-4:15pm, ECSB 2120
+
 ## Teaching (Fall 2023)
 
 [CS 625 - Data Visualization](/teaching/2023-fall-cs625) / TR 11am-12:15pm, BAL 2063
