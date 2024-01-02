@@ -3,40 +3,42 @@ permalink: /schedule/
 title: "Schedule/Travel"
 ---
 
-## Fall 2023 Schedule
+## Spring 2024 Schedule
 
-*I will likely be working from home M/W/F and at ODU Tu/Th.*
+*tenative*
 
 Monday
 
-* 3-4pm - NYPW (PL) Research Project Meeting, Skype
-* 4:30-5pm - Student Research Meeting, Skype
+* 1:30-2:30pm - Office Hour, ECSB 3327
+* 3-4:15pm - [CS 725/825](https://weiglemc.github.io/teaching/2024-spr-cs725825), ECSB 2120
 
-Tuesday - *at ODU*
+Tuesday
 
-* 9:30-10:30am - Office Hour, ECSB 3327
-* 11-12:15pm - [CS 625](https://weiglemc.github.io/teaching/2023-fall-cs625), BAL 2063
 * 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
 * 3-3:30pm - Student Research Meeting
 
 Wednesday
 
-* 10-11am - Research Planning Meeting, Skype
-* 11am-12pm - VMASC Data Science Project Meeting, Zoom
-* 2-3pm - WS-DL Faculty Meeting (every 3rd Wed of month), Zoom
-* 3-4pm - CoSAI Research Project Meeting (every 2 weeks), Zoom
+* 1:30-2:30pm - Office Hour, ECSB 3327
+* 3-4:15pm - [CS 725/825](https://weiglemc.github.io/teaching/2024-spr-cs725825), ECSB 2120
 
-Thursday - *at ODU*
+<!--
+* 10-11am - Research Planning Meeting
+* 2-3pm - WS-DL Faculty Meeting (every 3rd Wed of month)
+* 3-4pm - CoSAI Research Project Meeting (every 2 weeks)
+-->
+
+Thursday
 
 * 9:30-10:30am - Protocol Labs Research Project Meeting (every 4 weeks), Zoom
-* 11-12:15pm - [CS 625](https://weiglemc.github.io/teaching/2023-fall-cs625), BAL 2063
 * 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
-* 2-4:30pm - Student Research Meetings
+* 2-3:30pm - Student Research Meetings
+* 4:30-5pm - Student Research Meeting
 
 Friday
 
-* 1-2pm - IMLS Web Ads Research Project Meeting, Zoom
-* 2-3pm - Office Hour, [Zoom](https://odu.zoom.us/j/96765985329?pwd=NWNrS2ZFSmpLcWVWdTRyZmg0UXlvUT09&from=addon)
+* 1-2pm - IMLS Web Ads Research Project Meeting
+* 2-2:30pm - Student Research Meeting
 
 ## Recent/Upcoming Travel
 
