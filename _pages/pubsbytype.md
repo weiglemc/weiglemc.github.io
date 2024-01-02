@@ -19,6 +19,8 @@ redirect_from:
 
 [Sorted by Year](/publications/pubsbyyear), [Award Publications](/publications/pubs-awards), [External Publication Lists](/publications/lists)
 
+[**Book Chapters**](publications/book) | [**Journals and Magazines**](/publications/journal) | [**Conferences and Workshops**](/publications/conference) | [**Tech Reports**](/publications/techreport) | [**Other**](/publications/other)
+
 {% for post in site.publications %}
   {% if post.type == "type" %}
     {% include archive-single.html %}
