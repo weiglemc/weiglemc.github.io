@@ -28,7 +28,7 @@ Thursday
 * 9:30-10am - "Not Your Parent's Web" Project Meeting (every 4 weeks)
 * 10-11am - CoSAI Research Project Meeting (every 2 weeks)
 * 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
-* 2-3:30pm - Student Research Meetings
+* 2-4pm - Student Research Meetings
 * 4:30-5pm - Student Research Meeting
 
 Friday
