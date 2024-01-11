@@ -5,8 +5,6 @@ title: "Schedule/Travel"
 
 ## Spring 2024 Schedule
 
-*tenative*
-
 Monday
 
 * 1:30-2:30pm - Office Hour, ECSB 3327
@@ -16,21 +14,19 @@ Tuesday
 
 * 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
 * 3-3:30pm - Student Research Meeting
+* 4-5pm - "Not Your Parent's Web" Planning Meeting
 
 Wednesday
 
+* 9:30-10:30am - WS-DL Faculty Meeting (every 3rd Wed of month)
+* 10-11am - Research Planning Meeting
 * 1:30-2:30pm - Office Hour, ECSB 3327
 * 3-4:15pm - [CS 725/825](https://weiglemc.github.io/teaching/2024-spr-cs725825), ECSB 2120
 
-<!--
-* 10-11am - Research Planning Meeting
-* 2-3pm - WS-DL Faculty Meeting (every 3rd Wed of month)
-* 3-4pm - CoSAI Research Project Meeting (every 2 weeks)
--->
-
 Thursday
 
-* 9:30-10:30am - Protocol Labs Research Project Meeting (every 4 weeks), Zoom
+* 9:30-10am - "Not Your Parent's Web" Project Meeting (every 4 weeks)
+* 10-11am - CoSAI Research Project Meeting (every 2 weeks)
 * 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
 * 2-3:30pm - Student Research Meetings
 * 4:30-5pm - Student Research Meeting
