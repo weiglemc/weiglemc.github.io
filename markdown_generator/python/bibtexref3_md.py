@@ -42,7 +42,7 @@ def sort_by_field(a, b):
     return -1 if f1 < f2 else 1
 
 
-def BibQuery(files, cond, sort, max_entries):
+def bib_query(files, cond, sort, max_entries):
     global BibEntries, SortField
 
     ret = ""
@@ -66,6 +66,10 @@ def BibQuery(files, cond, sort, max_entries):
     res = []
     bib_selected_entries = BibEntries[files]
     for entry in bib_selected_entries:
+#        print ("bib_query>", cond, entry)
+#        print ("bib_query> res:", res)
+        myres = entry.eval_cond(cond)
+#        print ("bib_query> myres:", myres)
         if entry.eval_cond(cond):
             res.append(entry)
 
@@ -128,14 +132,23 @@ def parse_entries(fname, entries):
     global BibEntries
     BibEntries[fname] = []
 
-    for i in range(len(entries[0])):
-        entry_type = entries[1][i].upper()
-        entry_name = entries[2][i]
+    print ("parse_entries> len: ", len(entries[0]), "\nentries: ", entries)
 
+# NOTE: might not have all the entries, test.bib has 4 and len said 3
+
+    for i in range(len(entries[0])):
+#        print ("i: ", i, " entries[i]:", entries[i])
+        entry_type = entries[i][0].upper()
+        entry_name = entries[i][1]
+
+        print ("parse_entries> entry_type:", entry_type)
+        print ("parse_entries> entry_name:", entry_name)
         entry = BibtexEntry(fname, entry_name)
 
-        all_keys = zip(entries[3][i][::2], entries[3][i][1::2])
+#        all_keys = zip(entries[3][i][::2], entries[3][i][1::2])
+        all_keys = zip(entries[i][3][::2], entries[i][3][1::2])
 
+        print ("all_keys:", all_keys)
         for key, value in all_keys:
             key = key.strip().upper()
             value = value.strip().strip("{}").strip('"').replace("\\", "")
@@ -171,7 +184,6 @@ def parse_bib(bib_file, bib_file_string):
         entry_type = match.group(1)
         entry_name = match.group(2)
         entry_contents = match.group(3)
-
         matches.append((entry_type, entry_name, entry_contents))
 
     parse_entries(bib_file, matches)
@@ -187,7 +199,8 @@ def parse_bib_file(bib_file):
 
         bib_file_string = bib_file_string.replace("\n", "")
         parse_bib(bib_file, bib_file_string)
-    return True
+#    return True
+    return BibEntries
 
 class BibtexEntry:
     def __init__(self, bibfile, entryname):
@@ -197,12 +210,15 @@ class BibtexEntry:
         self.entrytype = ""
 
     def eval_cond(self, cond):
-        to_eval = "return (" + cond + ");"
+#        to_eval = "return (" + cond + ");"     # PHP, next line Python that works
+        to_eval = "(" + cond + ")"
         to_eval = to_eval.replace("&gt;", ">")
         to_eval = to_eval.replace("*", ",")   # maybe not right?
+#        print ("eval_cond> to_eval:", to_eval, "self: ", self)
         return eval(to_eval)
 
     def eval_get(self, get):
+#        print ("eval_get>")
         get = get.replace("\\\"", "\"")
         get = get.replace("&gt;", ">")
         get = get.replace("*", ",")  # maybe not right?
@@ -278,6 +294,7 @@ class BibtexEntry:
         return pages
 
     def get(self, field):
+#        print ("get> field:", field, "self.values:", self.values)
         if field not in self.values:
             field = field.lower()
             if field not in self.values:
