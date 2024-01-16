@@ -32,6 +32,7 @@ TitleLinkDOIURL = False
 BibtexLang = {}
 
 BibEntries = {}
+OrigBibEntries = {}
 
 def sort_by_field(a, b):
     global SortField
@@ -66,16 +67,16 @@ def bib_query(files, cond, sort, max_entries):
     res = []
     bib_selected_entries = BibEntries[files]
     for entry in bib_selected_entries:
-#        print ("bib_query>", cond, entry)
-#        print ("bib_query> res:", res)
-        myres = entry.eval_cond(cond)
-#        print ("bib_query> myres:", myres)
+        print ("bib_query> cond:", cond, "\nvalues:", entry.values)
         if entry.eval_cond(cond):
             res.append(entry)
+            print ("    res:", res)
 
     if sort:
+        print ("SORTING")
         SortField = sort
         res.sort(key=lambda x: x.eval_get(SortField))
+        # PROBLEM IS IN SORTING WHEN HAVE MULTIPLE W/SAME MONTH (like 202306.1)
 
     if reverse:
         res.reverse()
@@ -129,30 +130,54 @@ def bib_summary(bib, ref, do_bibtex=True):
 
 
 def parse_entries(fname, entries):
-    global BibEntries
+    global BibEntries, OrigBibEntries
     BibEntries[fname] = []
 
-    print ("parse_entries> len: ", len(entries[0]), "\nentries: ", entries)
+#    print ("parse_entries> len(entries): ", len(entries), 
+#           "\nentries: ", entries)
 
-# NOTE: might not have all the entries, test.bib has 4 and len said 3
+    for i in range(len(entries)):
+        print ("i: ", i, " entries[i]:", entries[i])
+        entrytype = entries[i][0].upper()
+        entryname = entries[i][1]
 
-    for i in range(len(entries[0])):
-#        print ("i: ", i, " entries[i]:", entries[i])
-        entry_type = entries[i][0].upper()
-        entry_name = entries[i][1]
+#        print ("parse_entries> entry_type:", entry_type)
+#        print ("parse_entries> entry_name:", entry_name)
+#        entry = BibtexEntry(fname, entryname)
 
-        print ("parse_entries> entry_type:", entry_type)
-        print ("parse_entries> entry_name:", entry_name)
-        entry = BibtexEntry(fname, entry_name)
+        if entrytype == "ARTICLE":
+            entry = Article(fname, entryname)
+        elif entrytype == "INPROCEEDINGS":
+            entry = InProceedings(fname, entryname)
+        elif entrytype == "PHDTHESIS":
+            entry = PhdThesis(fname, entryname)
+        elif entrytype == "MASTERSTHESIS":
+           entry = MasterThesis(fname, entryname)
+        elif entrytype == "INCOLLECTION":
+            entry = InCollection(fname, entryname)
+        elif entrytype == "BOOK":
+            entry = Book(fname, entryname)
+        elif entrytype == "INBOOK":
+            entry = InBook(fname, entryname)
+        elif entrytype == "TECHREPORT":
+            entry = TechReport(fname, entryname)
+        elif entrytype == "PROCEEDINGS":
+            entry = Proceedings(fname, entryname)
+        elif entrytype == "MISC":
+            entry = Misc(fname, entryname)
+        else:
+            entry = Misc(fname, entryname)
 
-#        all_keys = zip(entries[3][i][::2], entries[3][i][1::2])
-        all_keys = zip(entries[i][3][::2], entries[i][3][1::2])
+        OrigBibEntries[entryname] = entries[i][2]
 
-        print ("all_keys:", all_keys)
+        pattern = r"(\w+)\s*=\s*([^\*]+)\*?"
+        all_keys = re.findall(pattern, entries[i][2])
+
         for key, value in all_keys:
             key = key.strip().upper()
             value = value.strip().strip("{}").strip('"').replace("\\", "")
             entry.values[key] = value
+#            print ("  key: ", key, "value: ", value)
 
         BibEntries[fname].append(entry)
 
@@ -214,14 +239,16 @@ class BibtexEntry:
         to_eval = "(" + cond + ")"
         to_eval = to_eval.replace("&gt;", ">")
         to_eval = to_eval.replace("*", ",")   # maybe not right?
-#        print ("eval_cond> to_eval:", to_eval, "self: ", self)
+        print ("eval_cond> to_eval:", to_eval, "self values: ", self.values)
+        print ("    eval(to_eval):", eval(to_eval))
         return eval(to_eval)
 
     def eval_get(self, get):
-#        print ("eval_get>")
+        print ("eval_get> get:", get)
         get = get.replace("\\\"", "\"")
         get = get.replace("&gt;", ">")
         get = get.replace("*", ",")  # maybe not right?
+        print ("    new get:", get)
         res = None
         exec('res = ' + get)
         return res
@@ -294,11 +321,13 @@ class BibtexEntry:
         return pages
 
     def get(self, field):
-#        print ("get> field:", field, "self.values:", self.values)
+        print ("get> field:", field, "self.values:", self.values)
         if field not in self.values:
             field = field.lower()
             if field not in self.values:
+                print ("  self.values[field] FALSE:", self.values[field].strip())
                 return False
+        print ("  self.values[field]:", self.values[field].strip())
         return self.values[field].strip()
 
     def get_format(self, field):

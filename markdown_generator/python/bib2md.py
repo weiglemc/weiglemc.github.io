@@ -27,7 +27,8 @@ def generate_files(bibTexFile, outputDir):
             continue
         outfile = f"{year}.md"
 #        paper_string = bib_query(bibTexFile, f"(\$this.get('YEAR') == {year})", "!\$this.get('PUBDATE')", "100")
-        paper_string = bib_query(bibTexFile, f"(self.get('YEAR') == {year})", "!self.get('PUBDATE')", "100")
+        paper_string = bib_query(bibTexFile, f"(self.get('YEAR') == \"{year}\")", "!self.get('PUBDATE')", "100")
+        print ("generate_files> paper_string: ", paper_string)
         generate_file(outputDir, outfile, str(year), "year", f"/publications/{year}", paper_string)
 
     sys.exit()
