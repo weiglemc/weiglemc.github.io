@@ -1,3 +1,6 @@
+# bib2md.py
+# updated from PHP to Python, MCW, Jan 18, 2024
+
 from bibtexref3_md import *
 
 def generate_file(output_dir, outfile, title, type_value, permalink, paper_string):
@@ -15,7 +18,7 @@ def generate_file(output_dir, outfile, title, type_value, permalink, paper_strin
         fp.write(paper_string)
 
 def generate_files(bibTexFile, outputDir):
-    years = list(range(1997, 2024))
+    years = list(range(1997, 2025))
     # Skipping the year 1998 and 2002 -- no papers published
     years.remove(1998)  
     years.remove(2002)
@@ -74,7 +77,7 @@ if __name__ == "__main__":
     display_errors = "1"
 
     bibTexFile = 'mweigle.bib'
-    # outputDir = '../_publications'
-    outputDir = '.'  # has to be '.' for generating with ODU CS webserver
+    outputDir = '../_publications'
+#    outputDir = '.'  # has to be '.' for generating with ODU CS webserver
 
     generate_files(bibTexFile, outputDir)
