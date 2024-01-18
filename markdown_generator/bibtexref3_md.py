@@ -339,9 +339,10 @@ class BibtexEntry:
 
         title = self.get_title()
         if title:
-            ret += f', "**{title}**"'
+            ret += f', "**{title}**'
             if len(ret) > 2:
                 ret += ","
+            ret += '"'
 
         return ret
 
@@ -379,7 +380,7 @@ class BibtexEntry:
 
             arxiv = self.get("ARXIV")
             if arxiv:
-                ret += f" <a href='{arxiv}' target='_blank' {BibtexArxivButton}</a>"
+                ret += f" &nbsp;<a href='{arxiv}' target='_blank' {BibtexArxivButton}</a>"
 
             slides = self.get("SLIDES")
             if slides:
@@ -390,7 +391,7 @@ class BibtexEntry:
                 ret += f" <a href='{tripreport}' target='_blank'>{BibtexTripIcon}</a>"
 
             if dobibtex:
-                ret += f" <a href='{self.get_complete_entry_url()}' target='_blank' {BibtexBibtexButton}</a>"
+                ret += f" &nbsp;<a href='{self.get_complete_entry_url()}' target='_blank' {BibtexBibtexButton}</a>"
 
         return ret
 
