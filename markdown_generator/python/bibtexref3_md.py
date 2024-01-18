@@ -1,11 +1,10 @@
-## WORK IN PROGRESS
-
 # bibtexref3-md.py
 import os
 import re
 
+from operator import itemgetter, attrgetter
+
 BibtexPdfLink = "PDF"
-# BibtexPdfLink = "Attach:pdf.gif"  # uses Acrobat icon
 BibtexDoiLink = "DOI"
 BibtexUrlLink = "URL"
 BibtexBibLink = "BibTeX"
@@ -25,8 +24,8 @@ BibtexArxivButton = "class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16
 BibtexBibtexButton = "class='btn btn--mcwbibtex'><img src='../images/BibTeX_logo-16px-high.png'/>"
 
 BibtexGenerateDefaultUrlField = False
+BibtexCompleteEntriesUrl = ""
 
-# TitleLinkDOIURL = True  # added -MCW 04/21/08
 TitleLinkDOIURL = False
 
 BibtexLang = {}
@@ -67,16 +66,12 @@ def bib_query(files, cond, sort, max_entries):
     res = []
     bib_selected_entries = BibEntries[files]
     for entry in bib_selected_entries:
-        print ("bib_query> cond:", cond, "\nvalues:", entry.values)
         if entry.eval_cond(cond):
             res.append(entry)
-            print ("    res:", res)
 
     if sort:
-        print ("SORTING")
         SortField = sort
         res.sort(key=lambda x: x.eval_get(SortField))
-        # PROBLEM IS IN SORTING WHEN HAVE MULTIPLE W/SAME MONTH (like 202306.1)
 
     if reverse:
         res.reverse()
@@ -133,17 +128,9 @@ def parse_entries(fname, entries):
     global BibEntries, OrigBibEntries
     BibEntries[fname] = []
 
-#    print ("parse_entries> len(entries): ", len(entries), 
-#           "\nentries: ", entries)
-
     for i in range(len(entries)):
-        print ("i: ", i, " entries[i]:", entries[i])
         entrytype = entries[i][0].upper()
         entryname = entries[i][1]
-
-#        print ("parse_entries> entry_type:", entry_type)
-#        print ("parse_entries> entry_name:", entry_name)
-#        entry = BibtexEntry(fname, entryname)
 
         if entrytype == "ARTICLE":
             entry = Article(fname, entryname)
@@ -177,7 +164,6 @@ def parse_entries(fname, entries):
             key = key.strip().upper()
             value = value.strip().strip("{}").strip('"').replace("\\", "")
             entry.values[key] = value
-#            print ("  key: ", key, "value: ", value)
 
         BibEntries[fname].append(entry)
 
@@ -224,7 +210,6 @@ def parse_bib_file(bib_file):
 
         bib_file_string = bib_file_string.replace("\n", "")
         parse_bib(bib_file, bib_file_string)
-#    return True
     return BibEntries
 
 class BibtexEntry:
@@ -235,23 +220,17 @@ class BibtexEntry:
         self.entrytype = ""
 
     def eval_cond(self, cond):
-#        to_eval = "return (" + cond + ");"     # PHP, next line Python that works
         to_eval = "(" + cond + ")"
         to_eval = to_eval.replace("&gt;", ">")
         to_eval = to_eval.replace("*", ",")   # maybe not right?
-        print ("eval_cond> to_eval:", to_eval, "self values: ", self.values)
-        print ("    eval(to_eval):", eval(to_eval))
         return eval(to_eval)
 
     def eval_get(self, get):
-        print ("eval_get> get:", get)
         get = get.replace("\\\"", "\"")
         get = get.replace("&gt;", ">")
         get = get.replace("*", ",")  # maybe not right?
-        print ("    new get:", get)
         res = None
-        exec('res = ' + get)
-        return res
+        return eval(get)
 
     def short_month(self, month):
         months = {
@@ -321,13 +300,10 @@ class BibtexEntry:
         return pages
 
     def get(self, field):
-        print ("get> field:", field, "self.values:", self.values)
         if field not in self.values:
             field = field.lower()
             if field not in self.values:
-                print ("  self.values[field] FALSE:", self.values[field].strip())
                 return False
-        print ("  self.values[field]:", self.values[field].strip())
         return self.values[field].strip()
 
     def get_format(self, field):
@@ -337,21 +313,20 @@ class BibtexEntry:
         return ret
 
     def get_complete_entry_url(self):
-        global DefaultTitle, FarmD, BibtexCompleteEntriesUrl
-        global pagename
+        global BibtexCompleteEntriesUrl
 
         bibfile = self.bibfile
         entryname = self.entryname
 
         if entryname != " ":
-            if not BibtexCompleteEntriesUrl:
+            if BibtexCompleteEntriesUrl == "":
                 BibtexCompleteEntriesUrl = "/publications/bibtex#\$Entryname"
 
             ret_url = BibtexCompleteEntriesUrl.replace('\$Bibfile', bibfile).replace('\$Entryname', entryname)
         return ret_url
 
     def get_pre_string(self):
-        global pagename, BibtexLang
+        global BibtexLang
         ret = ""
 
         lang = self.get("LANG")
@@ -359,7 +334,8 @@ class BibtexEntry:
             ret += BibtexLang[lang]
 
         author = self.get_authors()
-        ret += author
+        if author:
+            ret += author
 
         title = self.get_title()
         if title:
