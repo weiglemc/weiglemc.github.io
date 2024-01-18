@@ -79,8 +79,10 @@ def bib_query(files, cond, sort, max_entries):
     if max_entries:
         res = res[:int(max_entries)]
 
+#    for index, entry in enumerate(res, 1):
+#        ret += f"{index}. {entry.get_summary()}\n"
     for index, entry in enumerate(res, 1):
-        ret += f"{index}. {entry.get_summary()}\n"
+        ret += f"1. {entry.get_summary()}\n"
 
     return ret
 
