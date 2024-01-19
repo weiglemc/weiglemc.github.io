@@ -164,7 +164,8 @@ def parse_entries(fname, entries):
 
         for key, value in all_keys:
             key = key.strip().upper()
-            value = value.strip().strip("{}").strip('"').replace("\\", "")
+            # use strip("{}") twice to catch protected author names inside authorlist
+            value = value.strip().strip("{}").strip('"').replace("\\", "").strip("{}")
             entry.values[key] = value
 
         BibEntries[fname].append(entry)
@@ -290,6 +291,8 @@ class BibtexEntry:
             found = pages.find("--")
             if found != -1:
                 return pages.replace("--", "-")
+            else:
+                return pages
         return ""
 
     def get_pages_with_label(self):
@@ -365,6 +368,9 @@ class BibtexEntry:
 
             doi = self.get("DOI")
             if doi:
+		        # if DOI is just the number, append http://dx.doi.org/
+                if (not "http://" in doi and not "https://" in doi):
+                    doi = "https://dx.doi.org/" + doi
                 ret += f" <a href='{doi}' target='_blank'>{BibtexDoiIcon}</a>"
 
         if self.entryname != " ":
@@ -410,7 +416,8 @@ class BibtexEntry:
         one_bib_entry = OrigBibEntries[self.entryname]
         commas_bib_entry = one_bib_entry.replace("*", f",\n{INDENT}")
         ret += commas_bib_entry
-        ret += "\n}\n```\n\n{{% endraw %}}\n\n"
+#        ret += "\n}\n```\n\n{{% endraw %}}\n\n"
+        ret += "\n}\n```\n\n{% endraw %}\n\n"
         return ret
 
     def get_complete_entry(self):
@@ -468,8 +475,9 @@ class Book(BibtexEntry):
                 doi = self.get("DOI")
                 url = self.get("URL")
                 if doi:
-                    if doi.startswith("http://"):
-                        doi = "http://dx.doi.org/" + doi
+                    # if DOI is just the number, append http://dx.doi.org/
+                    if (not "https://" in doi and not "http://" in doi):
+                        doi = "https://dx.doi.org/" + doi
                     ret += f", [*{title}*]({doi})"
                 elif url:
                     ret += f", [*{title}*]({url})"

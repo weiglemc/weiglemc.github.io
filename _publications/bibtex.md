@@ -29,7 +29,7 @@ Rachel Zheng, and Michele C. Weigle, "**Examining the Challenges in Archiving In
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [escamilla-icadl23](#escamilla-icadl23)
 
@@ -52,7 +52,7 @@ Emily Escamilla, Martin Klein, Talya Cooper, Vicky Rampin, Michele C. Weigle, an
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-tpdl23](#jones-tpdl23)
 
@@ -76,7 +76,7 @@ Shawn M. Jones, Himarsha R. Jayanetti, Martin Klein, Michele C. Weigle, and Mich
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [escamilla-tpdl23](#escamilla-tpdl23)
 
@@ -102,7 +102,7 @@ Emily Escamilla, Lamia Salsabil, Martin Klein, Jian Wu, Michele C. Weigle, and M
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jayanetti-sbp23](#jayanetti-sbp23)
 
@@ -125,7 +125,7 @@ Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Xenophobic Ev
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [garg-ijdl23](#garg-ijdl23)
 
@@ -148,7 +148,7 @@ Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-tweb-2023](#jones-tweb-2023)
 
@@ -170,7 +170,7 @@ Shawn M. Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**Summa
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [berlin-tweb23](#berlin-tweb23)
 
@@ -196,7 +196,7 @@ John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**To Re-exper
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [zaki-2023](#zaki-2023)
 
@@ -220,7 +220,7 @@ Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Extracting Informati
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-2023](#weigle-2023)
 
@@ -244,7 +244,7 @@ Michele C. Weigle, "**The Use of Web Archives in Disinformation Research**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [balakireva-jcdl23](#balakireva-jcdl23)
 
@@ -269,7 +269,7 @@ Lyudmila Balakireva, Emily Escamilla, Talya Cooper, Michael L. Nelson, and Miche
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alam-jcdl23](#alam-jcdl23)
 
@@ -293,7 +293,7 @@ Sawood Alam, Kritika Garg, Michele C. Weigle, Michael L. Nelson,  Mark Graham, a
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [bragg-jcdl23](#bragg-jcdl23)
 
@@ -318,7 +318,7 @@ Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Le
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [frew-jcdl23](#frew-jcdl23)
 
@@ -344,7 +344,7 @@ Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Making Changes in Webp
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-jcdl23](#weigle-jcdl23)
 
@@ -368,7 +368,7 @@ Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTM
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [aturban-plosone-2023](#aturban-plosone-2023)
 
@@ -394,7 +394,7 @@ Mohamed Aturban, Martin Klein, Herbert {Van de Sompel}, Sawood Alam, Michael L. 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jayanetti-msvcc23](#jayanetti-msvcc23)
 
@@ -420,7 +420,7 @@ Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Exploring Xen
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [bragg-reu-arxiv](#bragg-reu-arxiv)
 
@@ -443,7 +443,7 @@ Haley Bragg, and Michele C. Weigle, "**Discovering the Traces of Disinformation 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [reid-icadl22](#reid-icadl22)
 
@@ -468,7 +468,7 @@ Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Enter
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [garg-icadl22](#garg-icadl22)
 
@@ -492,7 +492,7 @@ Kritika Garg, Himarsha Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L.
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jayanetti-tpdl22b](#jayanetti-tpdl22b)
 
@@ -517,7 +517,7 @@ Himarsha Jayanetti, Shawn Jones, Martin Klein, Alex Osbourne, Paul Koerbin, Mich
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mabe-tpdl22](#mabe-tpdl22)
 
@@ -542,7 +542,7 @@ Abby Mabe, Michael L. Nelson, and Michele C. Weigle, "**A Chromium-based Memento
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jayanetti-tpdl22a](#jayanetti-tpdl22a)
 
@@ -569,7 +569,7 @@ Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C.
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [escamilla-tpdl22](#escamilla-tpdl22)
 
@@ -594,7 +594,7 @@ Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, an
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [reid-wadl22](#reid-wadl22)
 
@@ -616,7 +616,7 @@ Travis Reid, Michael L. Nelson, and Michele C. Weigle, "**Web Archiving as Enter
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jayanetti-wadl22](#jayanetti-wadl22)
 
@@ -638,7 +638,7 @@ Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C.
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [garg-wadl22](#garg-wadl22)
 
@@ -660,7 +660,7 @@ Kritika Garg, Himarsha Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L.
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [escamilla-wadl22](#escamilla-wadl22)
 
@@ -682,7 +682,7 @@ Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, an
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-code4lib22](#jones-code4lib22)
 
@@ -707,7 +707,7 @@ Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin,  Martin Klein
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-sigweb21](#jones-sigweb21)
 
@@ -736,7 +736,7 @@ Jones, Shawn M., Weigle, Michele C., and Nelson, Michael L., "**Hypercane: Toolk
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-jcdl21b](#jones-jcdl21b)
 
@@ -762,7 +762,7 @@ Shawn Jones, Michele C. Weigle, and Michael L. Nelson, "**Hypercane: Intelligent
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [patel-jcdl21](#patel-jcdl21)
 
@@ -789,7 +789,7 @@ Dhruv Patel, Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "**Wh
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mabe-jcdl21](#mabe-jcdl21)
 
@@ -816,7 +816,7 @@ Abigail Mabe, Michael L. Nelson, and Michele C. Weigle, "**Extending Chromium: M
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [nwala-jcdl21](#nwala-jcdl21)
 
@@ -842,7 +842,7 @@ Alexander C. Nwala, Michele C. Weigle, and Michael L. Nelson, "**Garbage, Glitte
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-jcdl21a](#jones-jcdl21a)
 
@@ -868,7 +868,7 @@ Shawn M. Jones, Valentina Neblitt-Jones, Michele C. Weigle, Martin Klein, and Mi
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [garg-jcdl21](#garg-jcdl21)
 
@@ -894,7 +894,7 @@ Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alam-jcdl21](#alam-jcdl21)
 
@@ -920,7 +920,7 @@ Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Profiling Web Archival
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [aturban-tpdl21](#aturban-tpdl21)
 
@@ -945,7 +945,7 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Where Did the Web 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-memento21](#jones-memento21)
 
@@ -969,7 +969,7 @@ Shawn M. Jones, Martin Klein, Herbert {Van de Sompel}, Michael L. Nelson, and Mi
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-websci21](#jones-websci21)
 
@@ -992,7 +992,7 @@ Shawn Jones, Michele C. Weigle, Martin Klein, and Michael L. Nelson, "**Automati
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mabe-wadl20](#mabe-wadl20)
 
@@ -1015,7 +1015,7 @@ Abigail Mabe, Dhruv Patel, Maheedhar Gunnam, Surbhi Shankar, Mat Kelly, Sawood A
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-wadl20b](#jones-wadl20b)
 
@@ -1038,7 +1038,7 @@ Shawn Jones, Alexander Nwala, Martin Klein, Michele C. Weigle, and Michael L. Ne
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-wadl20a](#jones-wadl20a)
 
@@ -1061,7 +1061,7 @@ Shawn Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**MementoE
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alkwai-jcdl20](#alkwai-jcdl20)
 
@@ -1087,7 +1087,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**Making Recommendatio
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [wu-jcdl20](#wu-jcdl20)
 
@@ -1112,7 +1112,7 @@ Jian Wu, Md Reshad Ul Hoque, Gunnar W. Reiske, Michele C. Weigle, Brenda T. Brad
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [nwala-cj20](#nwala-cj20)
 
@@ -1135,7 +1135,7 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**365 Dots in 2019: 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-cikm19](#jones-cikm19)
 
@@ -1159,7 +1159,7 @@ Shawn M. Jones, Michele C. Weigle, and Michael L. Nelson, "**Social Cards Probab
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alam-arxiv19b](#alam-arxiv19b)
 
@@ -1182,7 +1182,7 @@ Sawood Alam, Plinio Vargas, Michele C. Weigle, and Michael L. Nelson, "**Impact 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alam-arxiv19a](#alam-arxiv19a)
 
@@ -1206,7 +1206,7 @@ Sawood Alam, Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert {Va
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [aturban-arxiv19](#aturban-arxiv19)
 
@@ -1229,7 +1229,7 @@ Mohamed Aturban, Michael L. Nelson, Michele C. Weigle, Martin Klein, and Herbert
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [nwala-jcdl19](#nwala-jcdl19)
 
@@ -1255,7 +1255,7 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Using Micro-collec
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [aturban-jcdl19](#aturban-jcdl19)
 
@@ -1281,7 +1281,7 @@ Mohamed Aturban, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Archi
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alam-jcdl19](#alam-jcdl19)
 
@@ -1307,7 +1307,7 @@ Sawood Alam, Michele C. Weigle, Michael L. Nelson, Fernando Melo, Daniel Bicho, 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-ssrc18](#weigle-ssrc18)
 
@@ -1330,7 +1330,7 @@ Michele C. Weigle, "**On the importance of web archiving**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mccoy-idd18](#mccoy-idd18)
 
@@ -1356,7 +1356,7 @@ Corren McCoy, Michael L. Nelson, and Michele C. Weigle, "**Mining the Web to App
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [almaksousy-isths18](#almaksousy-isths18)
 
@@ -1380,7 +1380,7 @@ Hassan Al-Maksousy, Michele C. Weigle, and Cong Wang, "**NNIDS: Neural Network b
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [almaksousy-icdf2c18](#almaksousy-icdf2c18)
 
@@ -1405,7 +1405,7 @@ Hassan Al-Maksousy, and Michele C. Weigle, "**Hybrid Intrusion Detection System 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [atkins-ipres18](#atkins-ipres18)
 
@@ -1430,7 +1430,7 @@ Grant Atkins, Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Meas
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-ipres18a](#jones-ipres18a)
 
@@ -1455,7 +1455,7 @@ Shawn M. Jones, Michele C. Weigle, and Michael L. Nelson, "**The Off-Topic Memen
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jones-ipres18b](#jones-ipres18b)
 
@@ -1480,7 +1480,7 @@ Shawn M. Jones, Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Th
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [nwala-ht18](#nwala-ht18)
 
@@ -1505,7 +1505,7 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Bootstrapping Web 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-wadl18](#weigle-wadl18)
 
@@ -1529,7 +1529,7 @@ Michele C. Weigle, "**Enabling Personal Use of Web Archives**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mccoy-kddl18](#mccoy-kddl18)
 
@@ -1553,7 +1553,7 @@ Corren McCoy, Michael L. Nelson, and Michele C. Weigle, "**Mining the Web to App
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-wadl18](#kelly-wadl18)
 
@@ -1576,7 +1576,7 @@ Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Client-Assi
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [berlin-wadl18](#berlin-wadl18)
 
@@ -1599,7 +1599,7 @@ John Berlin, Michele C. Weigle, and Michael L. Nelson, "**Swimming In A Sea Of J
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [aturban-wadl18](#aturban-wadl18)
 
@@ -1622,7 +1622,7 @@ Mohamed Aturban, Michele C. Weigle, and Michael L. Nelson, "**It is Hard to Comp
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [aturban-jcdl18](#aturban-jcdl18)
 
@@ -1651,7 +1651,7 @@ Mohamed Aturban, Mat Kelly, Sawood Alam, John Berlin, Michael L. Nelson, and Mic
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alam-jcdl18](#alam-jcdl18)
 
@@ -1677,7 +1677,7 @@ Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "**Unobtrusive
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-jcdl18](#kelly-jcdl18)
 
@@ -1704,7 +1704,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**A Framework for Aggregat
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [nwala-jcdl18](#nwala-jcdl18)
 
@@ -1730,7 +1730,7 @@ Alexander Nwala, Michele C. Weigle, and Michael L. Nelson, "**Scraping SERPs for
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [aturban-arxiv17](#aturban-arxiv17)
 
@@ -1754,7 +1754,7 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Difficulties of Ti
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mccoy-arxiv17](#mccoy-arxiv17)
 
@@ -1778,7 +1778,7 @@ Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, "**University Twitter
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alnoamany-arxiv17](#alnoamany-arxiv17)
 
@@ -1802,7 +1802,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Stories From the 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-arxiv17](#kelly-arxiv17)
 
@@ -1826,7 +1826,7 @@ Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert {
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alnoamany-websci17](#alnoamany-websci17)
 
@@ -1851,7 +1851,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Generating Storie
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alkwai-tois17](#alkwai-tois17)
 
@@ -1878,7 +1878,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**Comparing the Archiv
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-jcdl17](#kelly-jcdl17)
 
@@ -1907,7 +1907,7 @@ Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [berlin-jcdl17](#berlin-jcdl17)
 
@@ -1933,7 +1933,7 @@ John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**WAIL: Colle
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alam-jcdl17](#alam-jcdl17)
 
@@ -1958,7 +1958,7 @@ Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "**Client-side
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [brunelle-jcdl17](#brunelle-jcdl17)
 
@@ -1982,7 +1982,7 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Archival Crawle
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [nwala-jcdl17](#nwala-jcdl17)
 
@@ -2008,7 +2008,7 @@ Alexander C. Nwala, Michele C. Weigle, Michael L. Nelson, Adam B. Ziegler, and A
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mohrehkesh-chap17](#mohrehkesh-chap17)
 
@@ -2034,7 +2034,7 @@ Shahram Mohrehkesh, Michele C. Weigle, and Sajal K. Das, "**Energy Harvesting in
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mohrehkesh-computer17](#mohrehkesh-computer17)
 
@@ -2061,7 +2061,7 @@ Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "**Energy Harvesting in El
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [pardue-vis16](#pardue-vis16)
 
@@ -2086,7 +2086,7 @@ Juliette Pardue, Mridul Sen, Christos Tsolakis, Reid Rankin, Ayush Khandelwal, a
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-tpdl16](#kelly-tpdl16)
 
@@ -2110,7 +2110,7 @@ Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**InterPlanet
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alnoamany-ijdl16a](#alnoamany-ijdl16a)
 
@@ -2137,7 +2137,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Detecting Off-Top
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alnoamany-ijdl16b](#alnoamany-ijdl16b)
 
@@ -2164,7 +2164,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Characteristics o
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [brunelle-ijdl16](#brunelle-ijdl16)
 
@@ -2191,7 +2191,7 @@ Justin Brunelle, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "**The Imp
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [brunelle-arxiv16](#brunelle-arxiv16)
 
@@ -2215,7 +2215,7 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Adapting the Hy
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [brunelle-dlib16](#brunelle-dlib16)
 
@@ -2241,7 +2241,7 @@ Justin F. Brunelle, Krista Ferrante, Eliot Wilczek, Michele C. Weigle, and Micha
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mohrehkesh-tmbmc15](#mohrehkesh-tmbmc15)
 
@@ -2267,7 +2267,7 @@ Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, "**DRIH-MAC: A Distributed
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-cuwarc15](#weigle-cuwarc15)
 
@@ -2292,7 +2292,7 @@ Michele C. Weigle, "**Tools for Managing Seed URIs**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [brunelle-ipres15](#brunelle-ipres15)
 
@@ -2316,7 +2316,7 @@ Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**Archiving Defer
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [aturban-tpdl15](#aturban-tpdl15)
 
@@ -2340,7 +2340,7 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Quantifying Orphan
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alnoamany-tpdl15a](#alnoamany-tpdl15a)
 
@@ -2364,7 +2364,7 @@ Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, "**Characteristics o
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alnoamany-tpdl15b](#alnoamany-tpdl15b)
 
@@ -2388,7 +2388,7 @@ Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, "**Detecting Off-Top
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alkwai-jcdl15](#alkwai-jcdl15)
 
@@ -2416,7 +2416,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**How Well Are Arabic 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [jordan-jcdl15](#jordan-jcdl15)
 
@@ -2444,7 +2444,7 @@ Wesley Jordan, Mat Kelly, Justin F. Brunelle, Laura Vobrak, Michele C. Weigle, a
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [brunelle-ijdl15b](#brunelle-ijdl15b)
 
@@ -2471,7 +2471,7 @@ Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-capwic15](#weigle-capwic15)
 
@@ -2496,7 +2496,7 @@ Michele C. Weigle, "**What's Grad School All About?**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-ece15](#weigle-ece15)
 
@@ -2521,7 +2521,7 @@ Michele C. Weigle, "**Tools for Managing the Past Web**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [rawat-ahswn15](#rawat-ahswn15)
 
@@ -2547,7 +2547,7 @@ Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "**Trust On t
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mohrehkesh-jsac14](#mohrehkesh-jsac14)
 
@@ -2575,7 +2575,7 @@ Shahram Mohrehkesh, and Michele C. Weigle, "**Optimizing Energy Consumption in T
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-aitpartners-14](#weigle-aitpartners-14)
 
@@ -2599,7 +2599,7 @@ Michele C. Weigle, "**Tools for Managing the Past Web**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mohrehkesh-misenet14](#mohrehkesh-misenet14)
 
@@ -2626,7 +2626,7 @@ Shahram Mohrehkesh, Aaron Walden, Xianping Wang, Michele C. Weigle, and Stephan 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-nehodh-14](#weigle-nehodh-14)
 
@@ -2651,7 +2651,7 @@ Michele C. Weigle, "**Archive What I See Now: Bringing Institutional Web Archivi
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-jcdl14-a](#kelly-jcdl14-a)
 
@@ -2677,7 +2677,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Mink: Integrating the Li
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-jcdl14-b](#kelly-jcdl14-b)
 
@@ -2703,7 +2703,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**The Archival Acid Test: 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [brunelle-jcdl14](#brunelle-jcdl14)
 
@@ -2731,7 +2731,7 @@ Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [wang-milcom14](#wang-milcom14)
 
@@ -2757,7 +2757,7 @@ Xianping Wang, Aaron Walden, Michele C. Weigle, and Stephan Olariu, "**Strategie
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [ruffing-milcom14](#ruffing-milcom14)
 
@@ -2783,7 +2783,7 @@ Michael Ruffing, Yang He, Jason Hallstrom, Mat Kelly, Stephan Olariu, and Michel
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alsum-ijdl14](#alsum-ijdl14)
 
@@ -2810,7 +2810,7 @@ Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, "*
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alnoamany-ijdl14](#alnoamany-ijdl14)
 
@@ -2838,7 +2838,7 @@ Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, "**Who 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mohrehkesh-nanonet14](#mohrehkesh-nanonet14)
 
@@ -2863,7 +2863,7 @@ Shahram Mohrehkesh, and Michele C. Weigle, "**RIH-MAC: Receiver-Initiated Harves
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [olariu-MCCR14](#olariu-MCCR14)
 
@@ -2892,7 +2892,7 @@ Stephan Olariu, Shahram Mohrehkesh, Xianping Wang, and Michele C. Weigle, "**On 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [almalag-iccve13](#almalag-iccve13)
 
@@ -2917,7 +2917,7 @@ Mohammad Almalag, Michele C. Weigle, Stephan Olariu, and Samy El-Tawab, "**A Mod
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-sewic13](#weigle-sewic13)
 
@@ -2942,7 +2942,7 @@ Michele C. Weigle, "**Telling Stories with Web Archives**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-dlib13](#kelly-dlib13)
 
@@ -2967,7 +2967,7 @@ Mat Kelly, Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**A Me
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-infovis13](#kelly-infovis13)
 
@@ -2992,7 +2992,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Graph-Based Navigation o
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [rawat-adhoc13](#rawat-adhoc13)
 
@@ -3018,7 +3018,7 @@ Danda Rawat, Geert Heijenk, Michele C. Weigle, Bhed Bista, and Yuh-Shyan Chen, "
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-dp13](#kelly-dp13)
 
@@ -3042,7 +3042,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**WARCreate and WAIL: WARC
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [olariu-misenet13](#olariu-misenet13)
 
@@ -3069,7 +3069,7 @@ Stephan Olariu, Shahram Mohrehkesh, and Michele C. Weigle, "**Toward Aggregating
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mohrehkesh-misenet13](#mohrehkesh-misenet13)
 
@@ -3094,7 +3094,7 @@ Shahram Mohrehkesh, Stephan Olariu, and Michele C. Weigle, "**A Framework for As
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mohrehkesh-globecom13](#mohrehkesh-globecom13)
 
@@ -3120,7 +3120,7 @@ Shahram Mohrehkesh, and Michele C. Weigle, "**Optimizing Communication Energy Co
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-tpdl13](#kelly-tpdl13)
 
@@ -3148,7 +3148,7 @@ Mat Kelly, Justin Brunelle, Michele C. Weigle, and Michael L. Nelson, "**On the 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alnoamany-tpdl13](#alnoamany-tpdl13)
 
@@ -3177,7 +3177,7 @@ Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, "**Who 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alsum-tpdl13](#alsum-tpdl13)
 
@@ -3205,7 +3205,7 @@ Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, "*
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [alnoamany-jcdl13](#alnoamany-jcdl13)
 
@@ -3233,7 +3233,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Access Patterns f
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mac-vanet-book](#mac-vanet-book)
 
@@ -3259,7 +3259,7 @@ Mohammad Almalag, Michele C. Weigle, and Stephan Olariu, "**MAC Protocols for VA
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-pda13](#kelly-pda13)
 
@@ -3283,7 +3283,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Making Enterprise-Level 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [almalag-mp2p13](#almalag-mp2p13)
 
@@ -3308,7 +3308,7 @@ Mohammad Almalag, Stephan Olariu, Michele C. Weigle, and Samy El-Tawab, "**Peer-
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-archiveit12](#weigle-archiveit12)
 
@@ -3332,7 +3332,7 @@ Michele C. Weigle, "**Visualizing Digital Collections at Archive-It**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-ghc12](#weigle-ghc12)
 
@@ -3356,7 +3356,7 @@ Michele C. Weigle, "**Information Visualization - Visualizing Digital Collection
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-biocom12](#weigle-biocom12)
 
@@ -3380,7 +3380,7 @@ Michele C. Weigle, "**Communications and Energy-Harvesting in Nanosensor Network
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mohrehkesh-casemans12](#mohrehkesh-casemans12)
 
@@ -3405,7 +3405,7 @@ Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, "**Context-Aware Conten
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [yan-its13](#yan-its13)
 
@@ -3432,7 +3432,7 @@ Gongjun Yan, Ding Wen, Stephan Olariu, and Michele C. Weigle, "**Security Challe
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mohrehkesh-mdc12](#mohrehkesh-mdc12)
 
@@ -3456,7 +3456,7 @@ Shahram Mohrehkesh, Shuiwang Ji, Tamer Nadeem, and Michele C. Weigle, "**Demogra
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [almalag-vtp12](#almalag-vtp12)
 
@@ -3482,7 +3482,7 @@ Mohammad Almalag, Stephan Olariu, and Michele C. Weigle, "**TDMA Cluster-based M
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [padia-jcdl12](#padia-jcdl12)
 
@@ -3509,7 +3509,7 @@ Kalpesh Padia, Yasmin AlNoamany, and Michele C. Weigle, "**Visualizing Digital C
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [kelly-jcdl12](#kelly-jcdl12)
 
@@ -3535,7 +3535,7 @@ Mat Kelly, and Michele C. Weigle, "**WARCreate - Create Wayback-Consumable WARC 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [toh-itsmag12](#toh-itsmag12)
 
@@ -3559,7 +3559,7 @@ C.K. Toh, T. Higashino, J.-C. Cano, and M. C. Weigle, "**Highlights: IEEE ITS So
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [mohrehkesh-infocom12](#mohrehkesh-infocom12)
 
@@ -3582,7 +3582,7 @@ Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, "**Efficient Context-Aw
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [ainsworth-jcdl11](#ainsworth-jcdl11)
 
@@ -3610,7 +3610,7 @@ Scott Ainsworth, Ahmed AlSum, Hany SalahEldeen, Michele C. Weigle, and Michael L
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [rawat-cisis11](#rawat-cisis11)
 
@@ -3635,7 +3635,7 @@ Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "**Securing V
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [arbabi-ivcs11](#arbabi-ivcs11)
 
@@ -3661,7 +3661,7 @@ Hadi Arbabi, and Michele C. Weigle, "**Monitoring Free-Flow Traffic using Vehicu
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [arbabi-vnc10](#arbabi-vnc10)
 
@@ -3687,7 +3687,7 @@ Hadi Arbabi, and Michele C. Weigle, "**Using DTMon to Monitor Transient Flow Tra
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [arbabi-wsc10](#arbabi-wsc10)
 
@@ -3713,7 +3713,7 @@ Hadi Arbabi, and Michele C. Weigle, "**Highway Mobility and Vehicular Ad-Hoc Net
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [almalag-onmove10](#almalag-onmove10)
 
@@ -3739,7 +3739,7 @@ Mohammad S. Almalag, and Michele C. Weigle, "**Using Traffic Flow for Cluster Fo
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [yan-ivs10a](#yan-ivs10a)
 
@@ -3764,7 +3764,7 @@ Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "**Cross-Layer Location Veri
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [yan-ivs10b](#yan-ivs10b)
 
@@ -3789,7 +3789,7 @@ Gongjun Yan, Weiming Yang, Michele C. Weigle, Stephan Olariu, and Danda Rawat, "
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-comcom10](#weigle-comcom10)
 
@@ -3816,7 +3816,7 @@ Michele C. Weigle, Li Cheng, Jasleen Kaur, and V. Kulkarni, "**Generalized Stoch
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [yan-wcm-otrc09](#yan-wcm-otrc09)
 
@@ -3843,7 +3843,7 @@ Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "**Providing Location Securi
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [tmix-docs](#tmix-docs)
 
@@ -3866,7 +3866,7 @@ Michele C. Weigle, "**Tmix: Internet Traffic Generation**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [arbabi-vanet09](#arbabi-vanet09)
 
@@ -3892,7 +3892,7 @@ Hadi Arbabi, and Michele C. Weigle, "**Using Vehicular Networks to Collect Commo
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [rawat-vtc09](#rawat-vtc09)
 
@@ -3918,7 +3918,7 @@ Danda Rawat, Gongjun Yan, Dimitrie C. Popescu, Michele C. Weigle, and Stephan Ol
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [brooks-ijdsn09](#brooks-ijdsn09)
 
@@ -3944,7 +3944,7 @@ Richard R. Brooks, Brijesh Pillai, Matthew Pirretti, and Michele C. Weigle, "**M
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [vanet-book](#vanet-book)
 
@@ -3967,7 +3967,7 @@ Richard R. Brooks, Brijesh Pillai, Matthew Pirretti, and Michele C. Weigle, "**M
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [infrastructure-vanet-book](#infrastructure-vanet-book)
 
@@ -3990,7 +3990,7 @@ Michele C. Weigle, Stephan Olariu, Mahmoud Abuelela, and Gongjun Yan, "**Use of 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [sim-vanet-book](#sim-vanet-book)
 
@@ -4013,7 +4013,7 @@ Gongjun Yan, Khaled Ibrahim, and Michele C. Weigle, "**Vehicular Network Simulat
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [ibrahim-vtc09](#ibrahim-vtc09)
 
@@ -4039,7 +4039,7 @@ Khaled Ibrahim, Michele C. Weigle, and Mahmoud Abuelela, "**p-IVG: Probabilistic
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [yan-soli09](#yan-soli09)
 
@@ -4067,7 +4067,7 @@ Gongjun Yan, Michele C. Weigle, and Stephan Olariu, "**A Novel Parking Service U
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [ibrahim-wave08](#ibrahim-wave08)
 
@@ -4091,7 +4091,7 @@ Khaled Ibrahim, Michele C. Weigle, and Gongjun Yan, "**Light-Weight Laser-Aided 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [yan-wave08](#yan-wave08)
 
@@ -4115,7 +4115,7 @@ Gongjun Yan, Ye Wang, Michele C. Weigle, Stephan Olariu, and Khaled Ibrahim, "**
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [ibrahim-autonet08](#ibrahim-autonet08)
 
@@ -4141,7 +4141,7 @@ Khaled Ibrahim, and Michele C. Weigle, "**CASCADE: Cluster-based Accurate Syntac
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [yan-its08](#yan-its08)
 
@@ -4168,7 +4168,7 @@ Gongjun Yan, Stephan Olariu, Michele C. Weigle, and Mahmoud Abuelela, "**SmartPa
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [ibrahim-movenet08-a](#ibrahim-movenet08-a)
 
@@ -4194,7 +4194,7 @@ Khaled Ibrahim, and Michele C. Weigle, "**Optimizing CASCADE Data Aggregation fo
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [ibrahim-movenet08-b](#ibrahim-movenet08-b)
 
@@ -4216,7 +4216,7 @@ Khaled Ibrahim, and Michele C. Weigle, "**Securing CASCADE Data Aggregation for 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [rizvi-sigcomm08](#rizvi-sigcomm08)
 
@@ -4238,7 +4238,7 @@ Syed R. Rizvi, Michele C. Weigle, and Mona E. Rizvi, "**InVANETs for First Respo
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [ibrahim-vanet08](#ibrahim-vanet08)
 
@@ -4266,7 +4266,7 @@ Khaled Ibrahim, and Michele C. Weigle, "**Towards an Optimized and Secure CASCAD
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [abuelela-vtc08](#abuelela-vtc08)
 
@@ -4292,7 +4292,7 @@ Mahmoud Abuelela, Stephan Olariu, and Michele C. Weigle, "**NOTICE: An Architect
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [ibrahim-move08](#ibrahim-move08)
 
@@ -4318,7 +4318,7 @@ Khaled Ibrahim, and Michele C. Weigle, "**ASH: Application-aware SWANS with High
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [yan-comcom08](#yan-comcom08)
 
@@ -4345,7 +4345,7 @@ Gongjun Yan, Stephan Olariu, and Michele C. Weigle, "**Providing VANET Security 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [rizvi-vtc07](#rizvi-vtc07)
 
@@ -4371,7 +4371,7 @@ Syed Rizvi, Stephan Olariu, Michele C. Weigle, and Mona Rizvi, "**A Novel Approa
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [ibrahim-vanet07](#ibrahim-vanet07)
 
@@ -4397,7 +4397,7 @@ Khaled Ibrahim, and Michele C. Weigle, "**Accurate Data Aggregation for VANETs**
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [yan-vanet07](#yan-vanet07)
 
@@ -4423,7 +4423,7 @@ Gongjun Yan, Gyanesh Choudhary, Michele C. Weigle, and Stephan Olariu, "**Provid
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [brooks-ijdsn07](#brooks-ijdsn07)
 
@@ -4449,7 +4449,7 @@ Richard R. Brooks, Brijesh Pillai, Michele C. Weigle, and Matthew Pirretti, "**O
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-netcri07](#weigle-netcri07)
 
@@ -4476,7 +4476,7 @@ Michele C. Weigle, and Stephan Olariu, "**Intelligent Highway Infrastructure for
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [rizvi-netcri07](#rizvi-netcri07)
 
@@ -4503,7 +4503,7 @@ Syed Rizvi, Stephan Olariu, Mona Rizvi, and Michele C. Weigle, "**A Traffic Chao
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [adurthi-tmix06](#adurthi-tmix06)
 
@@ -4527,7 +4527,7 @@ Prashanth Adurthi, and Michele C. Weigle, "**Realistic TCP Traffic Generation in
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-wsc06](#weigle-wsc06)
 
@@ -4553,7 +4553,7 @@ Michele C. Weigle, "**Improving Confidence in Network Simulations**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-globecom06](#weigle-globecom06)
 
@@ -4579,7 +4579,7 @@ Michele C. Weigle, Deepak Vembar, and Zhidian Du, "**Assessing the Impact of Mul
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-comcom06](#weigle-comcom06)
 
@@ -4606,7 +4606,7 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Quantifying the Effec
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [thottan-wicon06](#thottan-wicon06)
 
@@ -4631,7 +4631,7 @@ Marina Thottan, and Michele C. Weigle, "**Impact of 802.11e EDCA on Mixed TCP-ba
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-ccr06](#weigle-ccr06)
 
@@ -4658,7 +4658,7 @@ Michele C. Weigle, Prashanth Adurthi, Felix Hernandez-Campos, Kevin Jeffay, and 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-networking06](#weigle-networking06)
 
@@ -4683,7 +4683,7 @@ Michele C. Weigle, Pankaj Sharma, and Jesse Freeman, IV, "**Performance of Compe
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [packmime-docs](#packmime-docs)
 
@@ -4706,7 +4706,7 @@ Michele C. Weigle, "**PackMime-HTTP: Web Traffic Generation in NS-2**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [delaybox-docs](#delaybox-docs)
 
@@ -4729,7 +4729,7 @@ Michele C. Weigle, "**DelayBox: Per-Flow Delay and Loss**,"
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-comcom05](#weigle-comcom05)
 
@@ -4756,7 +4756,7 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Delay-Based Early Con
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [cao-infocom04](#cao-infocom04)
 
@@ -4782,7 +4782,7 @@ Jin Cao, William S. Cleveland, Yuan Gao, Kevin Jeffay, F. Donelson Smith, and Mi
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-03](#weigle-03)
 
@@ -4805,7 +4805,7 @@ Michele Aylene Clark Weigle, "**Investigating the Use of Synchronized Clocks in 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-mascots03](#weigle-mascots03)
 
@@ -4831,7 +4831,7 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Quantifying the Effec
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [hudson-mcn01](#hudson-mcn01)
 
@@ -4858,7 +4858,7 @@ Tom Hudson, Michele C. Weigle, Kevin Jeffay, and Russell M. Taylor, II, "**Exper
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [weigle-sigcomm00](#weigle-sigcomm00)
 
@@ -4881,7 +4881,7 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Sync-TCP: Using GPS S
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [clark-icmcs99](#clark-icmcs99)
 
@@ -4909,7 +4909,7 @@ Michele Clark, and Kevin Jeffay, "**Application-Level Measurements of Performanc
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
 ## [nee-av97](#nee-av97)
 
@@ -4934,5 +4934,5 @@ Peter Nee, Kevin Jeffay, Michele Clark, and Gunner Danneels, "**Two-Dimensional 
 }
 ```
 
-{{% endraw %}}
+{% endraw %}
 
