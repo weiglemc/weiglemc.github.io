@@ -32,32 +32,18 @@ If the page doesn't regenerate automatically after a new commit, check for build
 
 ## Generating Publication Pages
 
-I adapted code from PmWiki's [BibtexRef Cookbook](https://www.pmwiki.org/wiki/Cookbook/BibtexRef) to read in a BibTeX file and generate various Markdown files for the website.  The files are all in the [markdown_generator](markdown_generator/) folder in this repo.
+I adapted code from PmWiki's [BibtexRef Cookbook](https://www.pmwiki.org/wiki/Cookbook/BibtexRef) to read in a BibTeX file and generate various Markdown files for the website.  The files are all in the [markdown_generator](markdown_generator/) folder in this repo (see [README](markdown_generator/readme.md)).
 
-* [`bib2md.php`](markdown_generator/bib2md.php) - driver script to generate Markdown files with publication entries
+* [`bib2md.py`](markdown_generator/bib2md.py) - driver script to generate Markdown files with publication entries
    * update with input BibTeX file, years of publications to generate, type of publications, and definition of "recent"
    * current version writes files directly into [_publications](_publications/) folder
-* [`bib2md-students.php`](markdown_generator/bib2md-students.php) - driver script to generate Markdown file with student PhD dissertations and MS theses
+* [`bib2md-students.py`](markdown_generator/bib2md-students.py) - driver script to generate Markdown file with student PhD dissertations and MS theses
   * update with bibtag for new students
   * I copy/paste lines into [_pages/students.md](_pages/students.md)
-* [`bibtexref3-md.php`](markdown_generator/bibtexref3-md.php) - script adapted from PmWiki cookbook to generate Markdown
+* [`bibtexref3_md.py`](markdown_generator/bibtexref3_md.py) - script adapted from PmWiki cookbook to generate Markdown
   * should only need updating to change appearance of reference line output
 
-I execute these locally on a checked out copy of the repo using PHP in a terminal.
-
-Update: Since PHP is no longer installed on my Mac and can't be run from the command-line on the CS systems, we have to use the CS webserver to run the PHP code and generate the files.  Here's the new process:
-* login to CS linux system
-* `cd ~/src/weiglemc.github.io`
-* `git pull`
-* make updates to `mweigle.bib` and/or `mweigle-thesis.bib` for students
-* make updates to `bib2md.php` to make sure current year will be updated
-* `cp ~/src/weiglemc.github.io/markdown_generator/*.bib ~/secure_html/bib2md/`
-* `cp ~/src/weiglemc.github.io/markdown_generator/bib2*.php ~/secure_html/bib2md/`
-* open (in new tab) [bib2md.php](https://www.cs.odu.edu/~mweigle/bib2md/bib2md.php) to generate my new pub files
-* open (in new tab) [bib2md-students.php](https://www.cs.odu.edu/~mweigle/bib2md/bib2md-students.php) to generate the `students-thesis.md` file
-* `mv ~/secure_html/bib2md/students-thesis.md ~/src/weiglemc.github.io/markdown_generator/` -- this is just used for copy/paste to `_pages/students.md`
-* `cp ~/secure_html/bib2md/*.md ~/src/weiglemc.github.io/_publications/`
-* commit, `git push`
+These have all been converted from PHP to Python.
 
 ## To run locally on MacOS
 
