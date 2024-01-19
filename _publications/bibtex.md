@@ -165,8 +165,12 @@ Shawn M. Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**Summa
       title = {Summarizing Web Archive Corpora Via Social Media Storytelling By Automatically Selecting and Visualizing Exemplars},
       journal = {ACM Transactions on the Web},
       year = {2023},
+      pages = {1--48},
+      volume = 18,
+      number = 1,
+      month = oct,
       doi = {10.1145/3606030},
-      pubdate = {202308}
+      pubdate = {202310}
 }
 ```
 
@@ -263,6 +267,8 @@ Lyudmila Balakireva, Emily Escamilla, Talya Cooper, Michael L. Nelson, and Miche
       year =  2023,
       month = jun,
       pubdate = {202306.3},
+      pages = {265--266},
+      doi = {10.1109/JCDL57899.2023.00053},
       note = {poster},
       keyword = {award},
       award = {Best Poster}
@@ -287,6 +293,8 @@ Sawood Alam, Kritika Garg, Michele C. Weigle, Michael L. Nelson,  Mark Graham, a
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
+      pages = {93--97},
+      doi = {10.1109/JCDL57899.2023.00023},
       pubdate = {202306.4},
       note = {late-breaking results},
       acceptance = {late-breaking: 8/17 (47\%)}
@@ -311,6 +319,8 @@ Haley Bragg, Himarsha Jayanetti, Michael L. Nelson, and Michele C. Weigle, "**Le
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
+      pages = {102--106},
+      doi = {10.1109/JCDL57899.2023.00025},
       pubdate = {202306.5},
       note = {short paper},
       preprint = {https://www.cs.odu.edu/~mweigle/papers/bragg-jcdl2023-preprint.pdf},
@@ -336,6 +346,8 @@ Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Making Changes in Webp
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
+      pages = {71--81},
+       doi = {10.1109/JCDL57899.2023.00021},
       pubdate = {202306.6},
       arxiv = {https://arxiv.org/abs/2305.00546},
       acceptance = {13/56 (23\%)},
@@ -362,6 +374,8 @@ Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTM
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2023,
       month = jun,
+      pages = {82--92},
+      doi = {10.1109/JCDL57899.2023.00022},
       pubdate = {202306.7},
       arxiv = {https://arxiv.org/abs/2305.01071},
       acceptance = {13/56 (23\%)}
