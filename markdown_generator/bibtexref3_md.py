@@ -164,8 +164,12 @@ def parse_entries(fname, entries):
 
         for key, value in all_keys:
             key = key.strip().upper()
-            # use strip("{}") twice to catch protected author names inside authorlist
-            value = value.strip().strip("{}").strip('"').replace("\\", "").strip("{}")
+            # remove leading and ending braces or quotes
+            value = value.strip().strip("{}").strip('"')
+            # remove embedded braces unless escaped
+            value = re.sub(r'(?<!\\\\)[{}]', '', value)
+            # remove escapes
+            value = value.replace("\\", "")
             entry.values[key] = value
 
         BibEntries[fname].append(entry)
@@ -252,7 +256,11 @@ class BibtexEntry:
         for i, author in enumerate(authors):
             ret += author
             if i == len(authors) - 2:
-                ret += ", and "
+                if (len(authors) == 2):
+                    # no comma if only 2 authors
+                    ret += " and "
+                else:
+                    ret += ", and "
             elif i < len(authors) - 2:
                 ret += ", "
         return ret
@@ -267,7 +275,11 @@ class BibtexEntry:
         for i, editor in enumerate(editors):
             ret += editor
             if i == len(editors) - 2:
-                ret += " and "
+                if (len(editors) == 2):
+                    # no comma if only 2 editors
+                    ret += " and "
+                else:
+                    ret += ", and "
             elif i < len(editors) - 2:
                 ret += ", "
         return ret

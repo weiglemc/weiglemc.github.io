@@ -2,3 +2,4 @@ _site/
 Gemfile.lock
 
 
+markdown_generator/__pycache__/

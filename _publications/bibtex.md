@@ -9,7 +9,7 @@ blogger-color: '#F37100'
 ---
 ## [zheng-2024](#zheng-2024)
 
-Rachel Zheng, and Michele C. Weigle, "**Examining the Challenges in Archiving Instagram**," Technical report arXiv:2401.02029, arXiv, January 2024. &nbsp;<a href='https://arxiv.org/abs/2401.02029' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Rachel Zheng and Michele C. Weigle, "**Examining the Challenges in Archiving Instagram**," Technical report arXiv:2401.02029, arXiv, January 2024. &nbsp;<a href='https://arxiv.org/abs/2401.02029' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#zheng-2024Bib)
 **BibTeX entry:**
@@ -386,7 +386,7 @@ Michele C. Weigle, Michael L. Nelson, Sawood Alam, and Mark Graham, "**Right HTM
 
 ## [aturban-plosone-2023](#aturban-plosone-2023)
 
-Mohamed Aturban, Martin Klein, Herbert {Van de Sompel}, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Hashes are not suitable to verify fixity of the public archived web**," *PLOS ONE*, Vol. 18, No. 6, June 2023, pp. 1-49. <a href='https://dx.doi.org/10.1371/journal.pone.0286879' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Mohamed Aturban, Martin Klein, Herbert Van de Sompel, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Hashes are not suitable to verify fixity of the public archived web**," *PLOS ONE*, Vol. 18, No. 6, June 2023, pp. 1-49. <a href='https://dx.doi.org/10.1371/journal.pone.0286879' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#aturban-plosone-2023Bib)
 **BibTeX entry:**
@@ -438,7 +438,7 @@ Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Exploring Xen
 
 ## [bragg-reu-arxiv](#bragg-reu-arxiv)
 
-Haley Bragg, and Michele C. Weigle, "**Discovering the Traces of Disinformation on Instagram in the Internet Archive**," Technical report arXiv:2301.091888, January 2023. &nbsp;<a href='https://arxiv.org/abs/2301.09188' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Haley Bragg and Michele C. Weigle, "**Discovering the Traces of Disinformation on Instagram in the Internet Archive**," Technical report arXiv:2301.091888, January 2023. &nbsp;<a href='https://arxiv.org/abs/2301.09188' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#bragg-reu-arxivBib)
 **BibTeX entry:**
@@ -700,7 +700,7 @@ Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, an
 
 ## [jones-code4lib22](#jones-code4lib22)
 
-Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin,  Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**The DSA Toolkit Shines Light Into Dark and Stormy Archives**," *code{4}lib Journal*, No. 53, May 2022. <a href='https://journal.code4lib.org/articles/16441' target='_blank'><i class='fas fa-fw fa-link'></i></a>
+Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin,  Martin Klein, Michele C. Weigle, and Michael L. Nelson, "**The DSA Toolkit Shines Light Into Dark and Stormy Archives**," *code4lib Journal*, No. 53, May 2022. <a href='https://journal.code4lib.org/articles/16441' target='_blank'><i class='fas fa-fw fa-link'></i></a>
 
 [](#jones-code4lib22Bib)
 **BibTeX entry:**
@@ -963,7 +963,7 @@ Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "**Where Did the Web 
 
 ## [jones-memento21](#jones-memento21)
 
-Shawn M. Jones, Martin Klein, Herbert {Van de Sompel}, Michael L. Nelson, and Michele C. Weigle, "**Interoperability for Accessing Versions of Web Resources with the Memento Protocol**," In *The Past Web: Exploring Web Archives*. (Daniel Gomes and Elena Demidova and Jane Winters and Thomas Risse, Eds.), Springer, 2021. <a href='https://dx.doi.org/10.1007/978-3-030-63291-5' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Shawn M. Jones, Martin Klein, Herbert Van de Sompel, Michael L. Nelson, and Michele C. Weigle, "**Interoperability for Accessing Versions of Web Resources with the Memento Protocol**," In *The Past Web: Exploring Web Archives*. (Daniel Gomes and Elena Demidova and Jane Winters and Thomas Risse, Eds.), Springer, 2021. <a href='https://dx.doi.org/10.1007/978-3-030-63291-5' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#jones-memento21Bib)
 **BibTeX entry:**
@@ -1200,7 +1200,7 @@ Sawood Alam, Plinio Vargas, Michele C. Weigle, and Michael L. Nelson, "**Impact 
 
 ## [alam-arxiv19a](#alam-arxiv19a)
 
-Sawood Alam, Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert {Van de Sompel, "**Supporting Web Archiving via Web Packaging**," Technical report arXiv:1906.07104, June 2019. &nbsp;<a href='https://arxiv.org/abs/1906.07104' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Sawood Alam, Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert Van de Sompel, "**Supporting Web Archiving via Web Packaging**," Technical report arXiv:1906.07104, June 2019. &nbsp;<a href='https://arxiv.org/abs/1906.07104' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#alam-arxiv19aBib)
 **BibTeX entry:**
@@ -1224,7 +1224,7 @@ Sawood Alam, Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert {Va
 
 ## [aturban-arxiv19](#aturban-arxiv19)
 
-Mohamed Aturban, Michael L. Nelson, Michele C. Weigle, Martin Klein, and Herbert {Van de Sompel, "**Collecting 16K archived web pages from 17 public web archives**," Technical report arXiv:1905.03836, May 2019. &nbsp;<a href='https://arxiv.org/abs/1905.03836' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Mohamed Aturban, Michael L. Nelson, Michele C. Weigle, Martin Klein, and Herbert Van de Sompel, "**Collecting 16K archived web pages from 17 public web archives**," Technical report arXiv:1905.03836, May 2019. &nbsp;<a href='https://arxiv.org/abs/1905.03836' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#aturban-arxiv19Bib)
 **BibTeX entry:**
@@ -1398,7 +1398,7 @@ Hassan Al-Maksousy, Michele C. Weigle, and Cong Wang, "**NNIDS: Neural Network b
 
 ## [almaksousy-icdf2c18](#almaksousy-icdf2c18)
 
-Hassan Al-Maksousy, and Michele C. Weigle, "**Hybrid Intrusion Detection System for Worm Attacks Based on Their Network Behavior**," In *Proceedings of the EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C)*. New Orleans, LA, September 2018, pp. 225-234. <a href='https://dx.doi.org/10.1007/978-3-030-05487-8_12' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Hassan Al-Maksousy and Michele C. Weigle, "**Hybrid Intrusion Detection System for Worm Attacks Based on Their Network Behavior**," In *Proceedings of the EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C)*. New Orleans, LA, September 2018, pp. 225-234. <a href='https://dx.doi.org/10.1007/978-3-030-05487-8_12' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#almaksousy-icdf2c18Bib)
 **BibTeX entry:**
@@ -1820,7 +1820,7 @@ Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "**Stories From the 
 
 ## [kelly-arxiv17](#kelly-arxiv17)
 
-Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert {Van de Sompel, "**Impact of URI Canonicalization on Memento Count**," Technical report arxiv:1601.05142, arXiv, March 2017. &nbsp;<a href='http://arxiv.org/abs/1703.03302' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "**Impact of URI Canonicalization on Memento Count**," Technical report arxiv:1601.05142, arXiv, March 2017. &nbsp;<a href='http://arxiv.org/abs/1703.03302' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#kelly-arxiv17Bib)
 **BibTeX entry:**
@@ -1896,7 +1896,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**Comparing the Archiv
 
 ## [kelly-jcdl17](#kelly-jcdl17)
 
-Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert {Van de Sompel, "**Impact of URI Canonicalization on Memento Count**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 303-304, poster. ***Best Poster Award***.  <a href='https://dx.doi.org/10.1109/JCDL.2017.7991601' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "**Impact of URI Canonicalization on Memento Count**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 303-304, poster. ***Best Poster Award***.  <a href='https://dx.doi.org/10.1109/JCDL.2017.7991601' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#kelly-jcdl17Bib)
 **BibTeX entry:**
@@ -2565,7 +2565,7 @@ Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "**Trust On t
 
 ## [mohrehkesh-jsac14](#mohrehkesh-jsac14)
 
-Shahram Mohrehkesh, and Michele C. Weigle, "**Optimizing Energy Consumption in Terahertz Band Nanonetworks**," *IEEE Journal on Selected Areas in Communications, Series on Molecular, Biological, and Multi-Scale Communications*, Vol. 32, No. 12, December 2014, pp. 2432-2441. <a href='https://dx.doi.org/10.1109/JSAC.2014.2367668' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-jsac14.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Shahram Mohrehkesh and Michele C. Weigle, "**Optimizing Energy Consumption in Terahertz Band Nanonetworks**," *IEEE Journal on Selected Areas in Communications, Series on Molecular, Biological, and Multi-Scale Communications*, Vol. 32, No. 12, December 2014, pp. 2432-2441. <a href='https://dx.doi.org/10.1109/JSAC.2014.2367668' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-jsac14.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#mohrehkesh-jsac14Bib)
 **BibTeX entry:**
@@ -2856,7 +2856,7 @@ Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, "**Who 
 
 ## [mohrehkesh-nanonet14](#mohrehkesh-nanonet14)
 
-Shahram Mohrehkesh, and Michele C. Weigle, "**RIH-MAC: Receiver-Initiated Harvesting-aware MAC for NanoNetworks**," In *Proceedings of the ACM International Conference on Nanoscale Computing and Communication*. Atlanta, GA, May 2014. <a href='https://dx.doi.org/10.1145/2619955.2619962' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-nanocom14.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Shahram Mohrehkesh and Michele C. Weigle, "**RIH-MAC: Receiver-Initiated Harvesting-aware MAC for NanoNetworks**," In *Proceedings of the ACM International Conference on Nanoscale Computing and Communication*. Atlanta, GA, May 2014. <a href='https://dx.doi.org/10.1145/2619955.2619962' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-nanocom14.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#mohrehkesh-nanonet14Bib)
 **BibTeX entry:**
@@ -3112,7 +3112,7 @@ Shahram Mohrehkesh, Stephan Olariu, and Michele C. Weigle, "**A Framework for As
 
 ## [mohrehkesh-globecom13](#mohrehkesh-globecom13)
 
-Shahram Mohrehkesh, and Michele C. Weigle, "**Optimizing Communication Energy Consumption in Perpetual Wireless Nanosensor Networks**," In *Proceedings of the IEEE Globecom*. Atlanta, GA, December 2013. <a href='http://dx.doi.org/10.1109/GLOCOM.2013.6831128' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-globecom13.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Shahram Mohrehkesh and Michele C. Weigle, "**Optimizing Communication Energy Consumption in Perpetual Wireless Nanosensor Networks**," In *Proceedings of the IEEE Globecom*. Atlanta, GA, December 2013. <a href='http://dx.doi.org/10.1109/GLOCOM.2013.6831128' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-globecom13.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#mohrehkesh-globecom13Bib)
 **BibTeX entry:**
@@ -3527,7 +3527,7 @@ Kalpesh Padia, Yasmin AlNoamany, and Michele C. Weigle, "**Visualizing Digital C
 
 ## [kelly-jcdl12](#kelly-jcdl12)
 
-Mat Kelly, and Michele C. Weigle, "**WARCreate - Create Wayback-Consumable WARC Files from Any Webpage (demo)**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Washington, DC, June 2012, pp. 437-438. <a href='https://dx.doi.org/10.1145/2232817.2232930' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/kelly-jcdl12.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Mat Kelly and Michele C. Weigle, "**WARCreate - Create Wayback-Consumable WARC Files from Any Webpage (demo)**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Washington, DC, June 2012, pp. 437-438. <a href='https://dx.doi.org/10.1145/2232817.2232930' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/kelly-jcdl12.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#kelly-jcdl12Bib)
 **BibTeX entry:**
@@ -3653,7 +3653,7 @@ Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, "**Securing V
 
 ## [arbabi-ivcs11](#arbabi-ivcs11)
 
-Hadi Arbabi, and Michele C. Weigle, "**Monitoring Free-Flow Traffic using Vehicular Networks**," In *Proceedings of the IEEE Intelligent Vehicular Communications System Workshop (IVCS)*. Las Vegas, NV, January 2011, pp. 272-276. <a href='http://dx.doi.org/10.1109/CCNC.2011.5766471' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/arbabi-ivcs11.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Hadi Arbabi and Michele C. Weigle, "**Monitoring Free-Flow Traffic using Vehicular Networks**," In *Proceedings of the IEEE Intelligent Vehicular Communications System Workshop (IVCS)*. Las Vegas, NV, January 2011, pp. 272-276. <a href='http://dx.doi.org/10.1109/CCNC.2011.5766471' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/arbabi-ivcs11.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#arbabi-ivcs11Bib)
 **BibTeX entry:**
@@ -3679,7 +3679,7 @@ Hadi Arbabi, and Michele C. Weigle, "**Monitoring Free-Flow Traffic using Vehicu
 
 ## [arbabi-vnc10](#arbabi-vnc10)
 
-Hadi Arbabi, and Michele C. Weigle, "**Using DTMon to Monitor Transient Flow Traffic**," In *Proceedings of the IEEE Vehicular Networking Conference (VNC)*. Jersey City, NJ, December 2010, pp. 110-117. <a href='http://dx.doi.org/10.1109/VNC.2010.5698241' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/arbabi-vnc10.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Hadi Arbabi and Michele C. Weigle, "**Using DTMon to Monitor Transient Flow Traffic**," In *Proceedings of the IEEE Vehicular Networking Conference (VNC)*. Jersey City, NJ, December 2010, pp. 110-117. <a href='http://dx.doi.org/10.1109/VNC.2010.5698241' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/arbabi-vnc10.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#arbabi-vnc10Bib)
 **BibTeX entry:**
@@ -3705,7 +3705,7 @@ Hadi Arbabi, and Michele C. Weigle, "**Using DTMon to Monitor Transient Flow Tra
 
 ## [arbabi-wsc10](#arbabi-wsc10)
 
-Hadi Arbabi, and Michele C. Weigle, "**Highway Mobility and Vehicular Ad-Hoc Networks in ns-3**," In *Proceedings of the Winter Simulation Conference*. Baltimore, MD, December 2010, pp. 2991-3003. <a href='http://dx.doi.org/10.1109/WSC.2010.5678993' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/arbabi-wsc10.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Hadi Arbabi and Michele C. Weigle, "**Highway Mobility and Vehicular Ad-Hoc Networks in ns-3**," In *Proceedings of the Winter Simulation Conference*. Baltimore, MD, December 2010, pp. 2991-3003. <a href='http://dx.doi.org/10.1109/WSC.2010.5678993' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/arbabi-wsc10.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#arbabi-wsc10Bib)
 **BibTeX entry:**
@@ -3731,7 +3731,7 @@ Hadi Arbabi, and Michele C. Weigle, "**Highway Mobility and Vehicular Ad-Hoc Net
 
 ## [almalag-onmove10](#almalag-onmove10)
 
-Mohammad S. Almalag, and Michele C. Weigle, "**Using Traffic Flow for Cluster Formation in Vehicular Ad-hoc Networks**," In *Proceedings of the Workshop On User MObility and VEhicular Networks (ON-MOVE)*. Denver, CO, October 2010, pp. 631-636. <a href='http://dx.doi.org/10.1109/LCN.2010.5735785' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/almalag-onmove10.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Mohammad S. Almalag and Michele C. Weigle, "**Using Traffic Flow for Cluster Formation in Vehicular Ad-hoc Networks**," In *Proceedings of the Workshop On User MObility and VEhicular Networks (ON-MOVE)*. Denver, CO, October 2010, pp. 631-636. <a href='http://dx.doi.org/10.1109/LCN.2010.5735785' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/almalag-onmove10.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#almalag-onmove10Bib)
 **BibTeX entry:**
@@ -3884,7 +3884,7 @@ Michele C. Weigle, "**Tmix: Internet Traffic Generation**," The ns Manual, June 
 
 ## [arbabi-vanet09](#arbabi-vanet09)
 
-Hadi Arbabi, and Michele C. Weigle, "**Using Vehicular Networks to Collect Common Traffic Data**," In *Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)*. Beijing, September 2009, pp. 117-118. <a href='http://doi.acm.org/10.1145/1614269.1614289' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/arbabi-vanet09.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Hadi Arbabi and Michele C. Weigle, "**Using Vehicular Networks to Collect Common Traffic Data**," In *Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)*. Beijing, September 2009, pp. 117-118. <a href='http://doi.acm.org/10.1145/1614269.1614289' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/arbabi-vanet09.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#arbabi-vanet09Bib)
 **BibTeX entry:**
@@ -4133,7 +4133,7 @@ Gongjun Yan, Ye Wang, Michele C. Weigle, Stephan Olariu, and Khaled Ibrahim, "**
 
 ## [ibrahim-autonet08](#ibrahim-autonet08)
 
-Khaled Ibrahim, and Michele C. Weigle, "**CASCADE: Cluster-based Accurate Syntactic Compression of Aggregated Data in VANETs**," In *Proceedings of the IEEE International Workshop on Automotive Networking and Applications (AutoNet), IEEE Globecom Workshop*. New Orleans, LA, December 2008, pp. 1-10. <a href='http://dx.doi.org/10.1109/GLOCOMW.2008.ECP.59' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-autonet08.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Khaled Ibrahim and Michele C. Weigle, "**CASCADE: Cluster-based Accurate Syntactic Compression of Aggregated Data in VANETs**," In *Proceedings of the IEEE International Workshop on Automotive Networking and Applications (AutoNet), IEEE Globecom Workshop*. New Orleans, LA, December 2008, pp. 1-10. <a href='http://dx.doi.org/10.1109/GLOCOMW.2008.ECP.59' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-autonet08.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#ibrahim-autonet08Bib)
 **BibTeX entry:**
@@ -4186,7 +4186,7 @@ Gongjun Yan, Stephan Olariu, Michele C. Weigle, and Mahmoud Abuelela, "**SmartPa
 
 ## [ibrahim-movenet08-a](#ibrahim-movenet08-a)
 
-Khaled Ibrahim, and Michele C. Weigle, "**Optimizing CASCADE Data Aggregation for VANETs**," In *Proceedings of the International Workshop on Mobile Vehicular Networks (MoVeNet)*. Atlanta, GA, September 2008, pp. 724-729. <a href='http://dx.doi.org.proxy.lib.odu.edu/10.1109/MAHSS.2008.4660113' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-movenet08.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Khaled Ibrahim and Michele C. Weigle, "**Optimizing CASCADE Data Aggregation for VANETs**," In *Proceedings of the International Workshop on Mobile Vehicular Networks (MoVeNet)*. Atlanta, GA, September 2008, pp. 724-729. <a href='http://dx.doi.org.proxy.lib.odu.edu/10.1109/MAHSS.2008.4660113' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-movenet08.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#ibrahim-movenet08-aBib)
 **BibTeX entry:**
@@ -4212,7 +4212,7 @@ Khaled Ibrahim, and Michele C. Weigle, "**Optimizing CASCADE Data Aggregation fo
 
 ## [ibrahim-movenet08-b](#ibrahim-movenet08-b)
 
-Khaled Ibrahim, and Michele C. Weigle, "**Securing CASCADE Data Aggregation for VANETs**," Poster presented at the International Workshop on Mobile Vehicular Networks (MoVeNet), September 2008.
+Khaled Ibrahim and Michele C. Weigle, "**Securing CASCADE Data Aggregation for VANETs**," Poster presented at the International Workshop on Mobile Vehicular Networks (MoVeNet), September 2008.
 
 [](#ibrahim-movenet08-bBib)
 **BibTeX entry:**
@@ -4256,7 +4256,7 @@ Syed R. Rizvi, Michele C. Weigle, and Mona E. Rizvi, "**InVANETs for First Respo
 
 ## [ibrahim-vanet08](#ibrahim-vanet08)
 
-Khaled Ibrahim, and Michele C. Weigle, "**Towards an Optimized and Secure CASCADE for Data Aggregation in VANETs**," In *Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)*. San Francisco, CA, September 2008, pp. 84-85, poster. <a href='https://dx.doi.org/10.1145/1410043.1410061' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet08-poster.pdf' target='_blank'>poster</a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet08.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Khaled Ibrahim and Michele C. Weigle, "**Towards an Optimized and Secure CASCADE for Data Aggregation in VANETs**," In *Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET)*. San Francisco, CA, September 2008, pp. 84-85, poster. <a href='https://dx.doi.org/10.1145/1410043.1410061' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet08-poster.pdf' target='_blank'>poster</a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet08.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#ibrahim-vanet08Bib)
 **BibTeX entry:**
@@ -4310,7 +4310,7 @@ Mahmoud Abuelela, Stephan Olariu, and Michele C. Weigle, "**NOTICE: An Architect
 
 ## [ibrahim-move08](#ibrahim-move08)
 
-Khaled Ibrahim, and Michele C. Weigle, "**ASH: Application-aware SWANS with Highway mobility**," In *Proceedings of IEEE INFOCOM Workshop on MObile Networking for Vehicular Environments (MOVE)*. Phoenix, AZ, April 2008, pp. 1-6. <a href='http://dx.doi.org/10.1109/INFOCOM.2008.4544652' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-move08.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Khaled Ibrahim and Michele C. Weigle, "**ASH: Application-aware SWANS with Highway mobility**," In *Proceedings of IEEE INFOCOM Workshop on MObile Networking for Vehicular Environments (MOVE)*. Phoenix, AZ, April 2008, pp. 1-6. <a href='http://dx.doi.org/10.1109/INFOCOM.2008.4544652' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-move08.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#ibrahim-move08Bib)
 **BibTeX entry:**
@@ -4389,7 +4389,7 @@ Syed Rizvi, Stephan Olariu, Michele C. Weigle, and Mona Rizvi, "**A Novel Approa
 
 ## [ibrahim-vanet07](#ibrahim-vanet07)
 
-Khaled Ibrahim, and Michele C. Weigle, "**Accurate Data Aggregation for VANETs**," In *Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networks (VANET)*. Montreal, Canada, September 2007, pp. 71-72. <a href='https://dx.doi.org/10.1145/1287748.1287761' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet07.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Khaled Ibrahim and Michele C. Weigle, "**Accurate Data Aggregation for VANETs**," In *Proceedings of the ACM International Workshop on Vehicular Ad Hoc Networks (VANET)*. Montreal, Canada, September 2007, pp. 71-72. <a href='https://dx.doi.org/10.1145/1287748.1287761' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/ibrahim-vanet07.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#ibrahim-vanet07Bib)
 **BibTeX entry:**
@@ -4467,7 +4467,7 @@ Richard R. Brooks, Brijesh Pillai, Michele C. Weigle, and Matthew Pirretti, "**O
 
 ## [weigle-netcri07](#weigle-netcri07)
 
-Michele C. Weigle, and Stephan Olariu, "**Intelligent Highway Infrastructure for Planned Evacuations**," In *Proceedings of the First International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri)*. New Orleans, LA, April 2007, pp. 594-599. <a href='http://dx.doi.org/10.1109/PCCC.2007.358947' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/weigle-netcri07.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/weigle-netcri07' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
+Michele C. Weigle and Stephan Olariu, "**Intelligent Highway Infrastructure for Planned Evacuations**," In *Proceedings of the First International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri)*. New Orleans, LA, April 2007, pp. 594-599. <a href='http://dx.doi.org/10.1109/PCCC.2007.358947' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/weigle-netcri07.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/weigle-netcri07' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
 
 [](#weigle-netcri07Bib)
 **BibTeX entry:**
@@ -4521,7 +4521,7 @@ Syed Rizvi, Stephan Olariu, Mona Rizvi, and Michele C. Weigle, "**A Traffic Chao
 
 ## [adurthi-tmix06](#adurthi-tmix06)
 
-Prashanth Adurthi, and Michele C. Weigle, "**Realistic TCP Traffic Generation in ns-2 and GTNetS**," Technical report 2006, Clemson University, June 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/adurthi-tmix-TR06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Prashanth Adurthi and Michele C. Weigle, "**Realistic TCP Traffic Generation in ns-2 and GTNetS**," Technical report 2006, Clemson University, June 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/adurthi-tmix-TR06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#adurthi-tmix06Bib)
 **BibTeX entry:**
@@ -4624,7 +4624,7 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Quantifying the Effec
 
 ## [thottan-wicon06](#thottan-wicon06)
 
-Marina Thottan, and Michele C. Weigle, "**Impact of 802.11e EDCA on Mixed TCP-based Applications**," In *Proceedings of the International Wireless Internet Conference (WICON)*. Boston, MA, August 2006. <a href='https://dx.doi.org/10.1145/1234161.1234187' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/wicon06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Marina Thottan and Michele C. Weigle, "**Impact of 802.11e EDCA on Mixed TCP-based Applications**," In *Proceedings of the International Wireless Internet Conference (WICON)*. Boston, MA, August 2006. <a href='https://dx.doi.org/10.1145/1234161.1234187' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/wicon06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#thottan-wicon06Bib)
 **BibTeX entry:**
@@ -4899,7 +4899,7 @@ Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, "**Sync-TCP: Using GPS S
 
 ## [clark-icmcs99](#clark-icmcs99)
 
-Michele Clark, and Kevin Jeffay, "**Application-Level Measurements of Performance on the vBNS**," In *Proceedings of the IEEE International Conference on Multimedia Computing and Systems*. Florence, Italy, June 1999, pp. 362-366, poster. <a href='http://dx.doi.org/10.1109/MMCS.1999.778437' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/icmcs99.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Michele Clark and Kevin Jeffay, "**Application-Level Measurements of Performance on the vBNS**," In *Proceedings of the IEEE International Conference on Multimedia Computing and Systems*. Florence, Italy, June 1999, pp. 362-366, poster. <a href='http://dx.doi.org/10.1109/MMCS.1999.778437' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mweigle/papers/icmcs99.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#clark-icmcs99Bib)
 **BibTeX entry:**
