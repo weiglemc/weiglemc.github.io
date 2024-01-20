@@ -225,14 +225,13 @@ class BibtexEntry:
     def eval_cond(self, cond):
         to_eval = "(" + cond + ")"
         to_eval = to_eval.replace("&gt;", ">")
-        to_eval = to_eval.replace("*", ",")   # maybe not right?
+#        to_eval = to_eval.replace("*", ",")   
         return eval(to_eval)
 
     def eval_get(self, get):
         get = get.replace("\\\"", "\"")
         get = get.replace("&gt;", ">")
-        get = get.replace("*", ",")  # maybe not right?
-        res = None
+#        get = get.replace("*", ",")
         return eval(get)
 
     def short_month(self, month):
@@ -416,13 +415,12 @@ class BibtexEntry:
         one_bib_entry = OrigBibEntries[self.entryname]
         commas_bib_entry = one_bib_entry.replace("*", f",\n{INDENT}")
         ret += commas_bib_entry
-#        ret += "\n}\n```\n\n{{% endraw %}}\n\n"
         ret += "\n}\n```\n\n{% endraw %}\n\n"
         return ret
 
     def get_complete_entry(self):
         ret = f"## [{self.entryname}](#{self.entryname})\n\n"
-        ret += self.get_pre_string()
+        ret += self.get_summary(False)
 
         abstract = self.get_abstract()
         if abstract:
