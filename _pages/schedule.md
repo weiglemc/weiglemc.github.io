@@ -20,6 +20,7 @@ Wednesday
 
 * 9:30-10:30am - WS-DL Faculty Meeting (every 3rd Wed of month)
 * 10-11am - Research Planning Meeting
+* 11-11:30am - Student Research Meeting
 * 1:30-2:30pm - Office Hour, ECSB 3327
 * 3-4:15pm - [CS 725/825](https://weiglemc.github.io/teaching/2024-spr-cs725825), ECSB 2120
 
