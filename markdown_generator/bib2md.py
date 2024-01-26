@@ -1,6 +1,8 @@
 # bib2md.py
-# updated from PHP to Python, MCW, Jan 18, 2024
+# updated from PHP to Python, MCW, January 2024
+# Usage: python3 bib2md.py [bibtex_file] [output_dir]
 
+import sys   # to allow command-line args
 from bibtexref3_md import *
 
 def generate_file(output_dir, outfile, title, type_value, permalink, paper_string):
@@ -76,8 +78,19 @@ if __name__ == "__main__":
     error_reporting = "E_ALL"
     display_errors = "1"
 
-    bibTexFile = 'mweigle.bib'
+    if len(sys.argv) > 3:
+        # too many arguments
+        print ("Usage: python3 bib2md.py [bibtex_file] [output_dir]")
+        print ("    bibtex_file (default: ./mweigle.bib)")
+        print ("    output_dir (default: ../_publications)")
+        sys.exit(1)
+
+    bibTexFile = './mweigle.bib'
     outputDir = '../_publications'
-#    outputDir = '.'  # has to be '.' for generating with ODU CS webserver
+
+    if len(sys.argv) > 1:
+        bibTexFile = sys.argv[1]
+        if len(sys.argv) == 3:
+            outputDir = sys.argv[2]
 
     generate_files(bibTexFile, outputDir)
