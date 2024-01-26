@@ -1896,7 +1896,7 @@ Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, "**Comparing the Archiv
 
 ## [kelly-jcdl17](#kelly-jcdl17)
 
-Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "**Impact of URI Canonicalization on Memento Count**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 303-304, poster. ***Best Poster Award***.  <a href='https://dx.doi.org/10.1109/JCDL.2017.7991601' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "**Impact of URI Canonicalization on Memento Count**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 303-304, poster. ***Best Poster Award***.  <a href='https://dx.doi.org/10.1109/JCDL.2017.7991601' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://matkelly.com/papers/2017_jcdl_countingMementos.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#kelly-jcdl17Bib)
 **BibTeX entry:**
@@ -1915,7 +1915,7 @@ Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, 
      note = {poster},
      keyword = {award},
      pages = {303--304},
-     pdf = {http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_countingMementos.pdf},
+     pdf = {https://matkelly.com/papers/2017_jcdl_countingMementos.pdf},
      doi = {10.1109/JCDL.2017.7991601},
      pubdate = {201706} 
 }
@@ -1925,7 +1925,7 @@ Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, 
 
 ## [berlin-jcdl17](#berlin-jcdl17)
 
-John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**WAIL: Collection-Based Personal Web Archiving**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 340-341. <a href='https://dx.doi.org/10.1109/JCDL.2017.7991619' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_wail.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**WAIL: Collection-Based Personal Web Archiving**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. Toronto, Ontario, Canada, June 2017, pp. 340-341. <a href='https://dx.doi.org/10.1109/JCDL.2017.7991619' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://matkelly.com/papers/2017_jcdl_wail.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#berlin-jcdl17Bib)
 **BibTeX entry:**
@@ -1941,7 +1941,7 @@ John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**WAIL: Colle
      month = {June},
      address = {Toronto, Ontario, Canada},
      pages = {340--341},
-     pdf = {http://www.cs.odu.edu/~mkelly/papers/2017_jcdl_wail.pdf},
+     pdf = {https://matkelly.com/papers/2017_jcdl_wail.pdf},
      doi = {10.1109/JCDL.2017.7991619},
      pubdate = {201706} 
 }
@@ -2695,7 +2695,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Mink: Integrating the Li
 
 ## [kelly-jcdl14-b](#kelly-jcdl14-b)
 
-Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**The Archival Acid Test: Evaluating Archive Performance on Advanced HTML and JavaScript**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. London, September 2014, pp. 25-28. <a href='https://dx.doi.org/10.1109/JCDL.2014.6970146' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='http://www.cs.odu.edu/~mkelly/papers/2014_dl_acid.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**The Archival Acid Test: Evaluating Archive Performance on Advanced HTML and JavaScript**," In *Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. London, September 2014, pp. 25-28. <a href='https://dx.doi.org/10.1109/JCDL.2014.6970146' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://matkelly.com/papers/2014_dl_acid.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#kelly-jcdl14-bBib)
 **BibTeX entry:**
@@ -2713,7 +2713,7 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**The Archival Acid Test: 
      doi = {10.1109/JCDL.2014.6970146},
      address = {London},
       month = {September},
-     pdf = {http://www.cs.odu.edu/~mkelly/papers/2014_dl_acid.pdf} 
+     pdf = {https://matkelly.com/papers/2014_dl_acid.pdf} 
 }
 ```
 
@@ -2985,7 +2985,7 @@ Mat Kelly, Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, "**A Me
 
 ## [kelly-infovis13](#kelly-infovis13)
 
-Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Graph-Based Navigation of a Box Office Prediction System**," Poster presented at IEEE VIS, October 2013. <a href='http://www.cs.odu.edu/~mkelly/posters/2013_vis_boxoffice.pdf' target='_blank'>poster</a> <a href='http://www.cs.odu.edu/~mkelly/papers/2013_ieeevis_boxofficeprediction.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Graph-Based Navigation of a Box Office Prediction System**," Poster presented at IEEE VIS, October 2013. <a href='https://matkelly.com/posters/2013_vis_boxoffice.pdf' target='_blank'>poster</a> <a href='https://matkelly.com/papers/2013_ieeevis_boxofficeprediction.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#kelly-infovis13Bib)
 **BibTeX entry:**
@@ -3001,8 +3001,8 @@ Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Graph-Based Navigation o
      pubdate = {201310},
      address = {Atlanta, GA},
      month = {October},
-     pdf = {http://www.cs.odu.edu/~mkelly/papers/2013_ieeevis_boxofficeprediction.pdf},
-     poster = {http://www.cs.odu.edu/~mkelly/posters/2013_vis_boxoffice.pdf} 
+     pdf = {https://matkelly.com/papers/2013_ieeevis_boxofficeprediction.pdf},
+     poster = {https://matkelly.com/posters/2013_vis_boxoffice.pdf} 
 }
 ```
 
