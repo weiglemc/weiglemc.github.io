@@ -17,7 +17,13 @@ For an overview of my research over the past few years, see [On the importance o
 
 **Research Interests:** web science, social media, web archiving, information visualization (see some student infovis projects in  my [infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
 
-## Teaching (Spring 2024)
+## Teaching
+
+**Fall 2024**
+
+CS 625 - Data Visualization / online asynchronous - *content will be similar to [CS 625, Fall 2023](https://github.com/odu-cs625-datavis/public-fall23-mcw/blob/main/syllabus.md)*
+
+**Spring 2024**
 
 [CS 725/825 - Information Visualization & Data Analytics](/teaching/2024-spr-cs725825) / MW 3-4:15pm, ECSB 2120
 
@@ -40,9 +46,8 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 ## Active Funding
 
 * Michele C. Weigle (PI), Erika Frydenlund, Data Science for Social Good:  Mining and Visualizing Worldwide News to Monitor Xenophobic Violence Towards Migrants and Refugees, ODU Data Science Seed Funding, Jul 2022 - Jun 2024, $38,000.
-* Erika Frydenlund (PI), Jose Padilla (VMASC), Michele C. Weigle, Jennifer Fish, Michael L. Nelson, Michaela Hynie (York University, Canada), Hanne Haaland (Univ of Agder, Norway), Hege Wallevik (Univ of Agder, Norway), Katherine Palacio-Salgar (Universidad del Norte, Columbia), [What's Missing? Innovating Interdisciplinary Methods for Hard-to-Reach Environments](https://minerva.defense.gov/Research/Funded-Projects/Article/2957187/innovating-interdisciplinary-methods-for-hard-to-reach-environments/), Jul 2022 - Jul 2025, Department of Defense Minerva Research Initiative, $1,700,245  - [blog post](https://ws-dl.blogspot.com/2022/03/2022-03-03-whats-missing-innovating.html)
 * Sampath Jayarathna (PI), Jian Wu, Senior Personnel: Michele C. Weigle, Michael Nelson, Vikas Ashok, Faryaneh Poursardar, Anne Perrotti (Education), Erika Frydenlund (VMASC), [REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics](http://reu.cs.odu.edu/), NSF REU Site (CNS 2149607), Mar 2022 - Feb 2025, $324,000.
-* Vicky Rampin (NYU), Martin Klein (LANL), wilkie (Univ. of Pittsburgh), Michael L. Nelson, Michele C. Weigle, [CoSAI - Collaborative Software Archiving for Institutions](https://sloan.org/grant-detail/9628), Alfred P. Sloan Foundation, Sep 2021 - Feb 2024, $520,503.
+* Erika Frydenlund (PI, VMASC), Jose Padilla (VMASC), Michele C. Weigle, Jennifer Fish, Michael L. Nelson, Michaela Hynie (York University, Canada), Hanne Haaland (Univ of Agder, Norway), Hege Wallevik (Univ of Agder, Norway), Katherine Palacio-Salgar (Universidad del Norte, Columbia), [What's Missing? Innovating Interdisciplinary Methods for Hard-to-Reach Environments](https://minerva.defense.gov/Research/Funded-Projects/Article/2957187/innovating-interdisciplinary-methods-for-hard-to-reach-environments/), Jul 2022 - Jul 2025, Department of Defense Minerva Research Initiative, $1,700,245  - [blog post](https://ws-dl.blogspot.com/2022/03/2022-03-03-whats-missing-innovating.html)
 
 *My full funding list is available in my [CV](https://weiglemc.github.io/cv/).*
 
