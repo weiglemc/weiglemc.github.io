@@ -3,16 +3,17 @@ permalink: /schedule/
 title: "Schedule/Travel"
 ---
 
-## Spring 2024 Schedule
+## Summer 2024 Schedule
+
+*effective April 24, 2024*
 
 Monday
 
-* 1:30-2:30pm - Office Hour, ECSB 3327
-* 3-4:15pm - [CS 725/825](https://weiglemc.github.io/teaching/2024-spr-cs725825), ECSB 2120
+* *no regularly scheduled meetings*
 
 Tuesday
 
-* 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
+* 10-10:30am - Student Research Meeting
 * 3-3:30pm - Student Research Meeting
 * 4-5pm - "Not Your Parent's Web" Planning Meeting
 
@@ -21,13 +22,10 @@ Wednesday
 * 9:30-10:30am - WS-DL Faculty Meeting (every 3rd Wed of month)
 * 10-11am - Research Planning Meeting
 * 11-11:30am - Student Research Meeting
-* 1:30-2:30pm - Office Hour, ECSB 3327
-* 3-4:15pm - [CS 725/825](https://weiglemc.github.io/teaching/2024-spr-cs725825), ECSB 2120
 
 Thursday
 
 * 9:30-10am - "Not Your Parent's Web" Project Meeting (every 4 weeks)
-* 12:30-1:30pm - *Activity Hour* (faculty meetings, other events)
 * 2-4pm - Student Research Meetings
 * 4:30-5pm - Student Research Meeting
 
