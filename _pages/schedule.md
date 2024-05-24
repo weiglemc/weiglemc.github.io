@@ -22,6 +22,7 @@ Wednesday
 * 9:30-10:30am - WS-DL Faculty Meeting (every 3rd Wed of month)
 * 10-11am - Research Planning Meeting
 * 11-11:30am - Student Research Meeting
+* 11:30am-12:30pm - REU Student Research Meeting
 
 Thursday
 
