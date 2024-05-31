@@ -5,8 +5,6 @@ title: "Schedule/Travel"
 
 ## Summer 2024 Schedule
 
-*effective April 24, 2024*
-
 Monday
 
 * *no regularly scheduled meetings*
@@ -21,12 +19,12 @@ Wednesday
 
 * 9:30-10:30am - WS-DL Faculty Meeting (every 3rd Wed of month)
 * 10-11am - Research Planning Meeting
-* 11-11:30am - Student Research Meeting
 * 11:30am-12:30pm - REU Student Research Meeting
 
 Thursday
 
 * 9:30-10am - "Not Your Parent's Web" Project Meeting (every 4 weeks)
+* 11-11:30am - Student Research Meeting
 * 2-4pm - Student Research Meetings
 * 4:30-5pm - Student Research Meeting
 
