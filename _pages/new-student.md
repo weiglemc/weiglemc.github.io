@@ -18,7 +18,7 @@ These links will help you to get set up once you arrive on campus.
 * [Request a New CS Account](https://accounts.cs.odu.edu/) – note: you must be enrolled in a CS course
   * if you definitely will be enrolling at ODU and would like an account before the semester begins, please email the GPD
 * [ODU Systems Group](https://systems.cs.odu.edu/Main_Page) – information about access ODU-CS computing resources
-  * [Email Services](https://systems.cs.odu.edu/Email_Services) – information on setting up your CS email account (this is required)
+  * [Email Services](https://systems.cs.odu.edu/Email_Services) – information on setting up your CS email account
 * [CS Computing Labs](https://systems.cs.odu.edu/Computing_Labs)
 * Additional information from the CS 252 course
   * [Virtual PC Lab](https://www.cs.odu.edu/~zeil/cs333/latest/Public/usingCodeBlocks1/index.html#thevirtualpclab)
@@ -54,10 +54,10 @@ These links will help you to get set up once you arrive on campus.
 
 In many of your courses, you will be asked to write (reports, papers, summaries). Here are some resources that might be helpful.
 
-* Resources from [ODU’s Writing Center](https://www.odu.edu/al/centers/writing-center): https://sites.wp.odu.edu/writingcenter/
+* Resources from [ODU’s Writing Center](https://www.odu.edu/al/centers/writing-center): <https://sites.wp.odu.edu/writingcenter/>
 * [OWL (Online Writing Lab)](https://owl.purdue.edu/), Purdue University
 * [Dr. Grammar](https://web.archive.org/web/20150725234932/http://www.drgrammar.org/), University of Northern Iowa – this site is no longer available on the live web, but the link will take you to an archived version
-* How to Write a Summary – http://public.wsu.edu/~mejia/Summary.htm
+* How to Write a Summary – <http://public.wsu.edu/~mejia/Summary.htm>
 
 ## Online Course Webpages
 
