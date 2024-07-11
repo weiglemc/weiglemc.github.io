@@ -21,11 +21,7 @@ For an overview of my research over the past few years, see [On the importance o
 
 **Fall 2024**
 
-CS 625 - Data Visualization / online asynchronous - *content will be similar to [CS 625, Fall 2023](https://github.com/odu-cs625-datavis/public-fall23-mcw/blob/main/syllabus.md)*
-
-**Spring 2024**
-
-[CS 725/825 - Information Visualization & Data Analytics](/teaching/2024-spr-cs725825) / MW 3-4:15pm, ECSB 2120
+[CS 625 - Data Visualization / online asynchronous](https://weiglemc.github.io/teaching/2024-fall-cs625)
 
 ## Research
 
