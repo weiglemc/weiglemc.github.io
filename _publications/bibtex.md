@@ -7,6 +7,62 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [social-env-ethology-book](#social-env-ethology-book)
+
+Weigle, Michele C., Balsa-Barreiro, José, Chawla, Nitesh V., Dávid-Barrett, Tamas, Melchior, Maria, Pallante, Virginia, Sarker, Abeed, and Gilliland, Jason, "**Characterizing Social Environments in the Physical and Virtual Worlds Using Digital Data**," In *Digital Ethology: Human Behavior in Geospatial Context*. (Tomas Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024. <a href='https://doi.org/10.7551/mitpress/15532.003.0008' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.7551/mitpress/15532.003.0008' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#social-env-ethology-bookBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INBOOK {social-env-ethology-book,
+    	author = {Weigle, Michele C. and Balsa-Barreiro, José and Chawla, Nitesh V. and Dávid-Barrett, Tamas and Melchior, Maria and Pallante, Virginia and Sarker, Abeed and Gilliland, Jason},
+      title      = 	 {Characterizing Social Environments in the Physical and Virtual Worlds Using Digital Data},
+      booktitle  = 	 {Digital Ethology: Human Behavior in Geospatial Context},
+      publisher  =	 {The MIT Press},
+      year       =	 2024,
+      month = 07,
+      editor     =	 {Tomas Paus and Hye-Chung Kum},
+        isbn = {9780262378840},
+      doi = {10.7551/mitpress/15532.003.0008},
+        url = {https://doi.org/10.7551/mitpress/15532.003.0008},
+        eprint = {https://direct.mit.edu/book/chapter-pdf/2458077/c003000\_9780262378840.pdf},
+      pubdate    =   {202407}
+}
+```
+
+{% endraw %}
+
+## [data-sci-ethology-book](#data-sci-ethology-book)
+
+Kum, Hye-Chung, Bedrick, Steven, and Weigle, Michele C., "**Challenges in Data Science in the Use of Large-Scale Population Datasets for Scientific Inquiry**," In *Digital Ethology: Human Behavior in Geospatial Context*. (Tomas Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024. <a href='https://doi.org/10.7551/mitpress/15532.003.0019' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.7551/mitpress/15532.003.0019' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#data-sci-ethology-bookBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INBOOK {data-sci-ethology-book,
+        author = {Kum, Hye-Chung and Bedrick, Steven and Weigle, Michele C.},
+        isbn = {9780262378840},
+        title = {Challenges in Data Science in the Use of Large-Scale Population Datasets for Scientific Inquiry},
+        booktitle = {Digital Ethology: Human Behavior in Geospatial Context},
+        publisher = {The MIT Press},
+        year = {2024},
+        month = {07},
+      editor     =	 {Tomas Paus and Hye-Chung Kum},
+        doi = {10.7551/mitpress/15532.003.0019},
+        url = {https://doi.org/10.7551/mitpress/15532.003.0019},
+        eprint = {https://direct.mit.edu/book/chapter-pdf/2458093/c010400\_9780262378840.pdf},
+      pubdate    =   {202407}
+}
+```
+
+{% endraw %}
+
 ## [zheng-2024](#zheng-2024)
 
 Rachel Zheng and Michele C. Weigle, "**Examining the Challenges in Archiving Instagram**," Technical report arXiv:2401.02029, arXiv, January 2024. &nbsp;<a href='https://arxiv.org/abs/2401.02029' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
