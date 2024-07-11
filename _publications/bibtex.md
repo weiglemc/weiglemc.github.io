@@ -9,7 +9,7 @@ blogger-color: '#F37100'
 ---
 ## [social-env-ethology-book](#social-env-ethology-book)
 
-Weigle, Michele C., Balsa-Barreiro, José, Chawla, Nitesh V., Dávid-Barrett, Tamas, Melchior, Maria, Pallante, Virginia, Sarker, Abeed, and Gilliland, Jason, "**Characterizing Social Environments in the Physical and Virtual Worlds Using Digital Data**," In *Digital Ethology: Human Behavior in Geospatial Context*. (Tomas Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024. <a href='https://doi.org/10.7551/mitpress/15532.003.0008' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.7551/mitpress/15532.003.0008' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Weigle, Michele C., Balsa-Barreiro, José, Chawla, Nitesh V., Dávid-Barrett, Tamas, Melchior, Maria, Pallante, Virginia, Sarker, Abeed, and Gilliland, Jason, "**Characterizing Social Environments in the Physical and Virtual Worlds Using Digital Data**," In *Digital Ethology: Human Behavior in Geospatial Context*. (Tomáš Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024. <a href='https://dx.doi.org/10.7551/mitpress/15532.003.0008' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://direct.mit.edu/book/chapter-pdf/2458077/c003000_9780262378840.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#social-env-ethology-bookBib)
 **BibTeX entry:**
@@ -18,17 +18,16 @@ Weigle, Michele C., Balsa-Barreiro, José, Chawla, Nitesh V., Dávid-Barrett, Ta
 
 ```bibtex
 @INBOOK {social-env-ethology-book,
-    	author = {Weigle, Michele C. and Balsa-Barreiro, José and Chawla, Nitesh V. and Dávid-Barrett, Tamas and Melchior, Maria and Pallante, Virginia and Sarker, Abeed and Gilliland, Jason},
-      title      = 	 {Characterizing Social Environments in the Physical and Virtual Worlds Using Digital Data},
+     author = {Weigle, Michele C. and Balsa-Barreiro, José and Chawla, Nitesh V. and Dávid-Barrett, Tamas and Melchior, Maria and Pallante, Virginia and Sarker, Abeed and Gilliland, Jason},
+     title      = 	 {Characterizing Social Environments in the Physical and Virtual Worlds Using Digital Data},
       booktitle  = 	 {Digital Ethology: Human Behavior in Geospatial Context},
       publisher  =	 {The MIT Press},
       year       =	 2024,
       month = 07,
-      editor     =	 {Tomas Paus and Hye-Chung Kum},
+      editor     =	 {Tomáš Paus and Hye-Chung Kum},
         isbn = {9780262378840},
       doi = {10.7551/mitpress/15532.003.0008},
-        url = {https://doi.org/10.7551/mitpress/15532.003.0008},
-        eprint = {https://direct.mit.edu/book/chapter-pdf/2458077/c003000\_9780262378840.pdf},
+        pdf = {https://direct.mit.edu/book/chapter-pdf/2458077/c003000\_9780262378840.pdf},
       pubdate    =   {202407}
 }
 ```
@@ -37,7 +36,7 @@ Weigle, Michele C., Balsa-Barreiro, José, Chawla, Nitesh V., Dávid-Barrett, Ta
 
 ## [data-sci-ethology-book](#data-sci-ethology-book)
 
-Kum, Hye-Chung, Bedrick, Steven, and Weigle, Michele C., "**Challenges in Data Science in the Use of Large-Scale Population Datasets for Scientific Inquiry**," In *Digital Ethology: Human Behavior in Geospatial Context*. (Tomas Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024. <a href='https://doi.org/10.7551/mitpress/15532.003.0019' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.7551/mitpress/15532.003.0019' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Kum, Hye-Chung, Bedrick, Steven, and Weigle, Michele C., "**Challenges in Data Science in the Use of Large-Scale Population Datasets for Scientific Inquiry**," In *Digital Ethology: Human Behavior in Geospatial Context*. (Tomáš Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024. <a href='https://dx.doi.org/10.7551/mitpress/15532.003.0019' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://direct.mit.edu/book/chapter-pdf/2458093/c010400_9780262378840.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#data-sci-ethology-bookBib)
 **BibTeX entry:**
@@ -53,11 +52,34 @@ Kum, Hye-Chung, Bedrick, Steven, and Weigle, Michele C., "**Challenges in Data S
         publisher = {The MIT Press},
         year = {2024},
         month = {07},
-      editor     =	 {Tomas Paus and Hye-Chung Kum},
+      editor     =	 {Tomáš Paus and Hye-Chung Kum},
         doi = {10.7551/mitpress/15532.003.0019},
-        url = {https://doi.org/10.7551/mitpress/15532.003.0019},
-        eprint = {https://direct.mit.edu/book/chapter-pdf/2458093/c010400\_9780262378840.pdf},
+        pdf = {https://direct.mit.edu/book/chapter-pdf/2458093/c010400\_9780262378840.pdf},
       pubdate    =   {202407}
+}
+```
+
+{% endraw %}
+
+## [jayanetti-ijdl24](#jayanetti-ijdl24)
+
+Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives in 2019, But Less Than in 2015 and 2012**," *International Journal on Digital Libraries (IJDL)*, March 2024. <a href='https://rdcu.be/dADnQ' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.1007/s00799-024-00397-2' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#jayanetti-ijdl24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {jayanetti-ijdl24,
+      author    = {Himarsha Jayanetti and Kritika Garg and Sawood Alam and Michael L. Nelson and Michele C. Weigle},
+    	title = {Robots Still Outnumber Humans in Web Archives in 2019, But Less Than in 2015 and 2012},
+      journal = {International Journal on Digital Libraries (IJDL)},
+      year = {2024},
+      month = mar,
+      pubdate = {202403},
+      doi = {10.1007/s00799-024-00397-2},
+      url = {https://rdcu.be/dADnQ}
 }
 ```
 
