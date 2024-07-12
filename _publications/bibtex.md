@@ -9,7 +9,7 @@ blogger-color: '#F37100'
 ---
 ## [social-env-ethology-book](#social-env-ethology-book)
 
-Weigle, Michele C., Balsa-Barreiro, José, Chawla, Nitesh V., Dávid-Barrett, Tamas, Melchior, Maria, Pallante, Virginia, Sarker, Abeed, and Gilliland, Jason, "**Characterizing Social Environments in the Physical and Virtual Worlds Using Digital Data**," In *Digital Ethology: Human Behavior in Geospatial Context*. (Tomáš Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024. <a href='https://dx.doi.org/10.7551/mitpress/15532.003.0008' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://direct.mit.edu/book/chapter-pdf/2458077/c003000_9780262378840.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Michele C. Weigle, José Balsa-Barreiro, Nitesh V. Chawla, Tamas Dávid-Barrett, Maria Melchior, Virginia Pallante, Abeed Sarker, and Jason Gilliland, "**Characterizing Social Environments in the Physical and Virtual Worlds Using Digital Data**," In *Digital Ethology: Human Behavior in Geospatial Context*. (Tomáš Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024. <a href='https://dx.doi.org/10.7551/mitpress/15532.003.0008' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://direct.mit.edu/book/chapter-pdf/2458077/c003000_9780262378840.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#social-env-ethology-bookBib)
 **BibTeX entry:**
@@ -18,7 +18,7 @@ Weigle, Michele C., Balsa-Barreiro, José, Chawla, Nitesh V., Dávid-Barrett, Ta
 
 ```bibtex
 @INBOOK {social-env-ethology-book,
-     author = {Weigle, Michele C. and Balsa-Barreiro, José and Chawla, Nitesh V. and Dávid-Barrett, Tamas and Melchior, Maria and Pallante, Virginia and Sarker, Abeed and Gilliland, Jason},
+     author = {Michele C. Weigle and José Balsa-Barreiro and Nitesh V. Chawla and Tamas Dávid-Barrett and Maria Melchior and Virginia Pallante and Abeed Sarker and Jason Gilliland},
      title      = 	 {Characterizing Social Environments in the Physical and Virtual Worlds Using Digital Data},
       booktitle  = 	 {Digital Ethology: Human Behavior in Geospatial Context},
       publisher  =	 {The MIT Press},
@@ -36,7 +36,7 @@ Weigle, Michele C., Balsa-Barreiro, José, Chawla, Nitesh V., Dávid-Barrett, Ta
 
 ## [data-sci-ethology-book](#data-sci-ethology-book)
 
-Kum, Hye-Chung, Bedrick, Steven, and Weigle, Michele C., "**Challenges in Data Science in the Use of Large-Scale Population Datasets for Scientific Inquiry**," In *Digital Ethology: Human Behavior in Geospatial Context*. (Tomáš Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024. <a href='https://dx.doi.org/10.7551/mitpress/15532.003.0019' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://direct.mit.edu/book/chapter-pdf/2458093/c010400_9780262378840.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Hye-Chung Kum, Steven Bedrick, and Michele C. Weigle, "**Challenges in Data Science in the Use of Large-Scale Population Datasets for Scientific Inquiry**," In *Digital Ethology: Human Behavior in Geospatial Context*. (Tomáš Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024. <a href='https://dx.doi.org/10.7551/mitpress/15532.003.0019' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://direct.mit.edu/book/chapter-pdf/2458093/c010400_9780262378840.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#data-sci-ethology-bookBib)
 **BibTeX entry:**
@@ -45,7 +45,7 @@ Kum, Hye-Chung, Bedrick, Steven, and Weigle, Michele C., "**Challenges in Data S
 
 ```bibtex
 @INBOOK {data-sci-ethology-book,
-        author = {Kum, Hye-Chung and Bedrick, Steven and Weigle, Michele C.},
+        author = {Hye-Chung Kum and Steven Bedrick and Michele C. Weigle},
         isbn = {9780262378840},
         title = {Challenges in Data Science in the Use of Large-Scale Population Datasets for Scientific Inquiry},
         booktitle = {Digital Ethology: Human Behavior in Geospatial Context},
