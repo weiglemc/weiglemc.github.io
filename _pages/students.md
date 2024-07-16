@@ -23,7 +23,7 @@ blogger-color: "#F37100"
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-* Travis Reid
+* Travis Reid (ABD)
 <a href="https://twitter.com/treid803" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/treid003" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
@@ -240,6 +240,7 @@ blogger-color: "#F37100"
 
 ### Undergraduates
 
+* [Leah Prince](https://leahp21.github.io/) <a href="https://www.linkedin.com/in/leah-prince-339548221/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, University of Maryland Baltimore County (Summer 2024 REU)
 * [Rachel Zheng](https://rachelzheng03.github.io/) <a href="https://www.linkedin.com/in/rachel-zheng-41478a251/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, William & Mary (Summer 2023 REU)
 * [Haley Bragg](https://haleybragg.github.io/)  <a href="https://www.linkedin.com/in/haley-bragg-896755276/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2023, Christopher Newport Univ (Summer 2022 REU)
 * Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
