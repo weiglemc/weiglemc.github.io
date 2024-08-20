@@ -17,6 +17,9 @@ blogger-color: "#F37100"
 
 * Jhon Botello
 <a href="https://twitter.com/Jhon_gbm12" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
+* Lesley Frew
+<a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=JmEpqjMAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 * Himarsha Jayanetti (ABD)
 <a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -36,9 +39,6 @@ blogger-color: "#F37100"
 
 ### PhD Committee Member
 
-* Abrar Alali (ABD)
-<a href="https://scholar.google.com/citations?hl=en&user=AqeoiPcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-(advisor: Stephan Olariu)
 * Kimberley Cossey, Higher Education
 <a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=ct7cj84AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -50,13 +50,6 @@ blogger-color: "#F37100"
 <a href="https://github.com/kritikagarg" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/kritika-g-b8a824120/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Michael L. Nelson)
-* Gavindya Jayawardena (ABD)
-<a href="https://twitter.com/Gavindya2" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
-<a href="https://scholar.google.com/citations?user=LdfjuHAAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-<a href="https://orcid.org/0000-0002-9523-3346" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
-<a href="https://github.com/gavindya" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
-<a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-(advisor: Sampath Jayarathna)
 * Xiaoqin Liang (ABD)
 <a href="https://twitter.com/liang_xiaoqin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 (advisor: Shuai Hao)
@@ -67,12 +60,6 @@ blogger-color: "#F37100"
 <a href="https://twitter.com/Xin9Xin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=6xyfqsgAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: Jian Wu)
-
-### MS Thesis Advisees
-
-* Lesley Frew
-<a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
-<a href="https://scholar.google.com/citations?hl=en&user=JmEpqjMAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 
 ## Former Students
 
@@ -136,6 +123,10 @@ blogger-color: "#F37100"
 
 ### MS Thesis
 
+1. Lesley Frew
+<a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=JmEpqjMAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+    * "Surfacing Text Changes in Archived Webpages," Master's thesis, *Old Dominion University*, August 2024. 
 1. Himarsha Jayanetti
 <a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -167,7 +158,18 @@ blogger-color: "#F37100"
 
 ### PhD Committee Member
 
-* Ryan Florin, August 2021 (advisor: Stephan Olariu)
+* Abrar Alali
+<a href="https://scholar.google.com/citations?hl=en&user=AqeoiPcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+, August 2024 (advisor: Stephan Olariu)
+* Gavindya Jayawardena
+<a href="https://twitter.com/Gavindya2" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+<a href="https://scholar.google.com/citations?user=LdfjuHAAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://orcid.org/0000-0002-9523-3346" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
+<a href="https://github.com/gavindya" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
+, August 2024 (advisor: Sampath Jayarathna)
+* Ryan Florin <a href="https://scholar.google.com/citations?hl=en&user=HNicVaEAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+, August 2021 (advisor: Stephan Olariu)
 * Shawn Jones
 <a href="https://www.shawnmjones.org" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
