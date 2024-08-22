@@ -17,11 +17,13 @@ Tuesday
 * 12:30-1:30pm - Activity Hour (often used for dept meetings)
 * 3-3:30pm - Student Research Meeting
 * 4-5pm - "Not Your Parent's Web" Planning Meeting
+* 5-6pm - Office Hour via Zoom
 
 Wednesday
 
 * 9:30-10:30am - WS-DL Faculty Meeting (every 3rd Wed of month)
 * 10-11am - Research Planning Meeting
+* 7:30-8:30pm - Office Hour via Zoom
 
 Thursday
 
@@ -32,6 +34,7 @@ Thursday
 
 Friday
 
+* 8-9am - Office Hour via Zoom
 * 1-2pm - IMLS Web Ads Research Project Meeting
 * 2-2:30pm - Student Research Meeting
 
