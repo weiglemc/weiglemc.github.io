@@ -3,7 +3,9 @@ permalink: /schedule/
 title: "Schedule/Travel"
 ---
 
-## Summer 2024 Schedule
+## Fall 2024 Schedule
+
+*Current schedule is tentative and mostly copied from Summer*
 
 Monday
 
@@ -12,6 +14,7 @@ Monday
 Tuesday
 
 * 10-10:30am - Student Research Meeting
+* 12:30-1:30pm - Activity Hour (often used for dept meetings)
 * 3-3:30pm - Student Research Meeting
 * 4-5pm - "Not Your Parent's Web" Planning Meeting
 
@@ -19,12 +22,11 @@ Wednesday
 
 * 9:30-10:30am - WS-DL Faculty Meeting (every 3rd Wed of month)
 * 10-11am - Research Planning Meeting
-* 11:30am-12:30pm - REU Student Research Meeting
 
 Thursday
 
-* 9:30-10am - "Not Your Parent's Web" Project Meeting (every 4 weeks)
 * 11-11:30am - Student Research Meeting
+* 12:30-1:30pm - Activity Hour (often used for dept meetings)
 * 2-4pm - Student Research Meetings
 * 4:30-5pm - Student Research Meeting
 
@@ -32,6 +34,11 @@ Friday
 
 * 1-2pm - IMLS Web Ads Research Project Meeting
 * 2-2:30pm - Student Research Meeting
+
+Notes
+
+* I will likely be on campus most Tuesdays and some Thursdays.
+* I'm teaching an asynchronous class, so I won't have a class conflict and office hours will be outside of 9-5 hours.
 
 ## Recent/Upcoming Travel
 
