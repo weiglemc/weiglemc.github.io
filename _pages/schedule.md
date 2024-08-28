@@ -5,18 +5,15 @@ title: "Schedule/Travel"
 
 ## Fall 2024 Schedule
 
-*Current schedule is tentative and mostly copied from Summer*
-
 Monday
 
 * *no regularly scheduled meetings*
 
-Tuesday
+Tuesday (on-campus)
 
-* 10-10:30am - Student Research Meeting
+* 11:30-12pm - Student Research Meeting
 * 12:30-1:30pm - Activity Hour (often used for dept meetings)
-* 3-3:30pm - Student Research Meeting
-* 4-5pm - "Not Your Parent's Web" Planning Meeting
+* 2-5pm - Student Research Meetings
 * 5-6pm - Office Hour via Zoom
 
 Wednesday
@@ -27,21 +24,19 @@ Wednesday
 
 Thursday
 
-* 11-11:30am - Student Research Meeting
 * 12:30-1:30pm - Activity Hour (often used for dept meetings)
-* 2-4pm - Student Research Meetings
-* 4:30-5pm - Student Research Meeting
+* 2-3pm - Social Media Reach via TV News Research Planning Meeting
+* 3-3:30pm - Student Research Meeting
+* 4-5pm - "Not Your Parent's Web" Research Planning Meeting
 
 Friday
 
 * 8-9am - Office Hour via Zoom
 * 1-2pm - IMLS Web Ads Research Project Meeting
-* 2-2:30pm - Student Research Meeting
 
 Notes
 
 * I will likely be on campus most Tuesdays and some Thursdays.
-* I'm teaching an asynchronous class, so I won't have a class conflict and office hours will be outside of 9-5 hours.
 
 ## Recent/Upcoming Travel
 
