@@ -11,9 +11,9 @@ Monday
 
 Tuesday (on-campus)
 
-* 11:30-12pm - Student Research Meeting
-* 12:30-1:30pm - Activity Hour (often used for dept meetings)
-* 2-5pm - Student Research Meetings
+* 11am-12pm - Student Research Meetings (Jhon, Kritika)
+* 12:30-1:30pm - Activity Hour - *often used for dept meetings*
+* 2-5pm - Student Research Meetings (Himarsha, David, Tarannum, Lesley)
 * 5-6pm - Office Hour via Zoom
 
 Wednesday
@@ -24,19 +24,16 @@ Wednesday
 
 Thursday
 
-* 12:30-1:30pm - Activity Hour (often used for dept meetings)
+* 12:30-1:30pm - Activity Hour - *often used for dept meetings*
 * 2-3pm - Social Media Reach via TV News Research Planning Meeting
-* 3-3:30pm - Student Research Meeting
-* 4-5pm - "Not Your Parent's Web" Research Planning Meeting
+* 3-4pm - "Not Your Parent's Web" Research Planning Meeting
+* 4-4:30pm - Student Research Meeting (Travis)
 
 Friday
 
 * 8-9am - Office Hour via Zoom
+* 10:30am-12pm - CS Colloquium slot
 * 1-2pm - IMLS Web Ads Research Project Meeting
-
-Notes
-
-* I will likely be on campus most Tuesdays and some Thursdays.
 
 ## Recent/Upcoming Travel
 
