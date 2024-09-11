@@ -39,6 +39,7 @@ blogger-color: "#F37100"
 
 ### PhD Committee Member
 
+* Muntabir Choudhury (ABD) (advisor: Jian Wu)
 * Kimberley Cossey, Higher Education
 <a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=ct7cj84AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -56,6 +57,7 @@ blogger-color: "#F37100"
 * Ivan Makohon (ABD)
 <a href="https://scholar.google.com/citations?hl=en&user=GC-3lOcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: Yaohang Li)
+* Bhanuka Mahanama (ABD) (advisor: Sampath Jayarathna)
 * Xin Wei (ABD)
 <a href="https://twitter.com/Xin9Xin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=6xyfqsgAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
