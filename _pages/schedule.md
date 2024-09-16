@@ -14,16 +14,16 @@ Tuesday (on-campus)
 * 11am-12pm - Student Research Meetings (Jhon, Kritika)
 * 12:30-1:30pm - Activity Hour - *often used for dept meetings*
 * 2-5pm - Student Research Meetings (Himarsha, David, Tarannum, Lesley)
-* 5-6pm - Office Hour via Zoom
 
 Wednesday
 
 * 9:30-10:30am - WS-DL Faculty Meeting (every 3rd Wed of month)
 * 10-11am - Research Planning Meeting
-* 7:30-8:30pm - Office Hour via Zoom
+* 5-6:15pm - Office Hour [via Zoom](https://odu.zoom.us/j/97434505454?pwd=Whi0cFarVnDUOaS2x6hU9oQwxbbn1A.1)
 
 Thursday
 
+* 11am-noon - Office Hour [via Zoom](https://odu.zoom.us/j/93410331072?pwd=CuwnJdnRtTW9jm1ewJ4HtP0bwiwHaT.1)
 * 12:30-1:30pm - Activity Hour - *often used for dept meetings*
 * 2-3pm - Social Media Reach via TV News Research Planning Meeting
 * 3-4pm - "Not Your Parent's Web" Research Planning Meeting
@@ -31,9 +31,9 @@ Thursday
 
 Friday
 
-* 8-9am - Office Hour via Zoom
 * 10:30am-12pm - CS Colloquium slot
 * 1-2pm - IMLS Web Ads Research Project Meeting
+* 3-4:30pm - Office Hour [via Zoom](https://odu.zoom.us/j/96553602915?pwd=QPvWPq523AbRUUG4xTYA1BNPxCvN2m.1)
 
 ## Recent/Upcoming Travel
 
