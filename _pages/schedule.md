@@ -19,7 +19,7 @@ Wednesday
 
 * 9:30-10:30am - WS-DL Faculty Meeting (every 3rd Wed of month)
 * 10-11am - Research Planning Meeting
-* 5-6:15pm - Office Hour [via Zoom](https://odu.zoom.us/j/97434505454?pwd=Whi0cFarVnDUOaS2x6hU9oQwxbbn1A.1)
+* 5-6pm - Office Hour [via Zoom](https://odu.zoom.us/j/97434505454?pwd=Whi0cFarVnDUOaS2x6hU9oQwxbbn1A.1)
 
 Thursday
 
