@@ -14,8 +14,6 @@ current_semester: "Fall 2024"
 
 ## {{ page.next_semester }}
 
-TBA
-
 {% for post in site.teaching %}
   {% if post.semester == page.next_semester %}
     {% include archive-single.html %}
