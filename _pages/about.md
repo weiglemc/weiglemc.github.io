@@ -19,9 +19,14 @@ For an overview of my research over the past few years, see [On the importance o
 
 ## Teaching
 
+**Spring 2025**
+
+[CS 725/825 - Information Visualization & Data Analytics](https://weiglemc.github.io/teaching/2025-spr-cs725825) / MW 3-4:15 and online synchronous
+
+
 **Fall 2024**
 
-[CS 625 - Data Visualization / online asynchronous](https://weiglemc.github.io/teaching/2024-fall-cs625)
+[CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2024-fall-cs625) / online asynchronous
 
 ## Research
 
