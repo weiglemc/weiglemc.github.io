@@ -23,7 +23,9 @@ Some of my customizations:
 * colors and buttons:
    * `_sass/_variables.scss` - look for comments `/* ODU colors: https://www.odu.edu/facultystaff/communication/toolkit/identity-standards/palette-fonts */` and `/* brands */`
    * `_sass/_buttons.scss` - look for comment `/* my button */`
- 
+
+My info (`site.author`) is in `_config.yml`.
+
 Rob Williams (author of the guides above) had a couple of commits that replaced his Twitter icons and links with Mastodon, see ['we'll meet again'](https://github.com/jayrobwilliams/jayrobwilliams.github.io/commit/2dbefbb507702b981d5719f1da06c8f57b0872b5) and ['bye bye birdie](https://github.com/jayrobwilliams/jayrobwilliams.github.io/commit/1d759370f1c973f16f3253f24d3bc412e41a1576)
 
 ## Debugging
