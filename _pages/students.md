@@ -31,7 +31,7 @@ blogger-color: "#F37100"
 <a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/treid003" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/travis-r-88148ba9/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-* Tarannum Zaki
+* Tarannum Zaki (ABD)
 <a href="https://twitter.com/tarannum_zaki/" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=L95eiH4AAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://github.com/Tarannum123" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
@@ -58,6 +58,10 @@ blogger-color: "#F37100"
 <a href="https://scholar.google.com/citations?hl=en&user=GC-3lOcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: Yaohang Li)
 * Bhanuka Mahanama (ABD) (advisor: Sampath Jayarathna)
+* Yash Prakash (ABD)
+<a href="https://scholar.google.com/citations?user=DOlm7Q8AAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> (advisor: Vikas Ashok)
+* Mohan Krishna Sunkara (ABD)
+<a href="https://scholar.google.com/citations?user=MbQDa7wAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> (advisor: Vikas Ashok)
 * Xin Wei (ABD)
 <a href="https://twitter.com/Xin9Xin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=6xyfqsgAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
