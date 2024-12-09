@@ -15,23 +15,23 @@ blogger-color: "#F37100"
 
 ### PhD Advisees
 
-* Jhon Botello
+1. Jhon Botello
 <a href="https://twitter.com/Jhon_gbm12" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
-* Lesley Frew
+1. Lesley Frew
 <a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=JmEpqjMAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-* Himarsha Jayanetti (ABD)
+1. Himarsha Jayanetti (ABD)
 <a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-* Travis Reid (ABD)
+1. Travis Reid (ABD)
 <a href="https://twitter.com/treid803" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/treid003" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/travis-r-88148ba9/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-* Tarannum Zaki (ABD)
+1. Tarannum Zaki (ABD)
 <a href="https://twitter.com/tarannum_zaki/" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=L95eiH4AAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://github.com/Tarannum123" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
@@ -39,30 +39,30 @@ blogger-color: "#F37100"
 
 ### PhD Committee Member
 
-* Muntabir Choudhury (ABD) (advisor: Jian Wu)
-* Kimberley Cossey, Higher Education
+1. Muntabir Choudhury (ABD) (advisor: Jian Wu)
+1. Kimberley Cossey, Higher Education
 <a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=ct7cj84AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: David Ayers)
-* Kritika Garg (ABD)
+1. Kritika Garg (ABD)
 <a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=pXQRYsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0001-6498-7391" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/kritikagarg" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/kritika-g-b8a824120/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Michael L. Nelson)
-* Xiaoqin Liang (ABD)
+1. Xiaoqin Liang (ABD)
 <a href="https://twitter.com/liang_xiaoqin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 (advisor: Shuai Hao)
-* Ivan Makohon (ABD)
+1. Ivan Makohon (ABD)
 <a href="https://scholar.google.com/citations?hl=en&user=GC-3lOcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: Yaohang Li)
-* Bhanuka Mahanama (ABD) (advisor: Sampath Jayarathna)
-* Yash Prakash (ABD)
+1. Bhanuka Mahanama (ABD) (advisor: Sampath Jayarathna)
+1. Yash Prakash (ABD)
 <a href="https://scholar.google.com/citations?user=DOlm7Q8AAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> (advisor: Vikas Ashok)
-* Mohan Krishna Sunkara (ABD)
+1. Mohan Krishna Sunkara (ABD)
 <a href="https://scholar.google.com/citations?user=MbQDa7wAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> (advisor: Vikas Ashok)
-* Xin Wei (ABD)
+1. Xin Wei (ABD)
 <a href="https://twitter.com/Xin9Xin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=6xyfqsgAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: Jian Wu)
@@ -164,19 +164,19 @@ blogger-color: "#F37100"
 
 ### PhD Committee Member
 
-* Abrar Alali
+1. Abrar Alali
 <a href="https://scholar.google.com/citations?hl=en&user=AqeoiPcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 , August 2024 (advisor: Stephan Olariu)
-* Gavindya Jayawardena
+1. Gavindya Jayawardena
 <a href="https://twitter.com/Gavindya2" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=LdfjuHAAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0002-9523-3346" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/gavindya" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 , August 2024 (advisor: Sampath Jayarathna)
-* Ryan Florin <a href="https://scholar.google.com/citations?hl=en&user=HNicVaEAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+1. Ryan Florin <a href="https://scholar.google.com/citations?hl=en&user=HNicVaEAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 , August 2021 (advisor: Stephan Olariu)
-* Shawn Jones
+1. Shawn Jones
 <a href="https://www.shawnmjones.org" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -184,85 +184,85 @@ blogger-color: "#F37100"
 <a href="https://github.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/shawnmorganjones/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 , August 2021 (advisor: Michael L. Nelson)
-* Sawood Alam, December 2020 (advisor: Michael L. Nelson)
-* Aida Ghazizadeh, August 2020 (advisor: Stephan Olariu)
-* Alexander Nwala, August 2020 (advisor: Michael L. Nelson)
-* Maha Abdelrasoul, August 2018 (advisor: Yaohang Li)
-* Abdulla Alasaadi, December 2017 (advisor: Tamer Nadeem)
-* Yasmin AlNoamany, August 2016 (advisor: Michael L. Nelson)
-* Mostafa Uddin, August 2016 (advisor: Tamer Nadeem)
-* Xianping Wang, August 2016 (advisor: Stephan Olariu)
-* Justin Brunelle, May 2016 (advisor: Michael L. Nelson)
-* Hany SalahEldeen, August 2015 (advisor: Michael L. Nelson)
-* Chuck Cartledge, August 2014 (advisor: Michael L. Nelson)
-* Puya Ghazizadeh, August 2014 (advisor: Stephan Olariu)
-* Ahmed AlSum, May 2014 (advisor: Michael L. Nelson)
-* Samiur Arif, May 2014 (advisor: Stephan Olariu)
-* Samy El-Tawab, Aug 2012 (advisor: Stephan Olariu)
-* Mahmoud Abuelela, Aug 2011 (advisor: Stephan Olariu)
-* Martin Klein, Aug 2011 (advisor: Michael L. Nelson)
-* Filip Cuckov (ECE), Dec 2009 (advisor: Min Song)
+1. Sawood Alam, December 2020 (advisor: Michael L. Nelson)
+1. Aida Ghazizadeh, August 2020 (advisor: Stephan Olariu)
+1. Alexander Nwala, August 2020 (advisor: Michael L. Nelson)
+1. Maha Abdelrasoul, August 2018 (advisor: Yaohang Li)
+1. Abdulla Alasaadi, December 2017 (advisor: Tamer Nadeem)
+1. Yasmin AlNoamany, August 2016 (advisor: Michael L. Nelson)
+1. Mostafa Uddin, August 2016 (advisor: Tamer Nadeem)
+1. Xianping Wang, August 2016 (advisor: Stephan Olariu)
+1. Justin Brunelle, May 2016 (advisor: Michael L. Nelson)
+1. Hany SalahEldeen, August 2015 (advisor: Michael L. Nelson)
+1. Chuck Cartledge, August 2014 (advisor: Michael L. Nelson)
+1. Puya Ghazizadeh, August 2014 (advisor: Stephan Olariu)
+1. Ahmed AlSum, May 2014 (advisor: Michael L. Nelson)
+1. Samiur Arif, May 2014 (advisor: Stephan Olariu)
+1. Samy El-Tawab, Aug 2012 (advisor: Stephan Olariu)
+1. Mahmoud Abuelela, Aug 2011 (advisor: Stephan Olariu)
+1. Martin Klein, Aug 2011 (advisor: Michael L. Nelson)
+1. Filip Cuckov (ECE), Dec 2009 (advisor: Min Song)
 
 ### MS Thesis Committee Member
 
-* Emily Escamilla
+1. Emily Escamilla
 <a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 , August 2023, (advisor: Michael L. Nelson)
-* Ahmed Nasr, August 2018 (advisor: Tamer Nadeem)
-* Aaron Walden, May 2016 (advisors: Desh Ranjan, Mohammad Zubair)
-* Juliette Pardue, Aug 2015 (advisor: Andrey Chernikov)
-* Shawn Jones, May 2015 (advisor: Michael L. Nelson)
-* Alexander Nwala, May 2014 (advisor: Stephan Olariu)
-* Sawood Alam, Aug 2013 (advisor: Michael L. Nelson)
-* Vikas Ashok, May 2011 (advisor: Stephan Olariu)
-* Rabia Haq, Dec 2008 (advisor: Michael L. Nelson)
-* Hadi Arbabi, Aug 2007 (advisor: Stephan Olariu)
+1. Ahmed Nasr, August 2018 (advisor: Tamer Nadeem)
+1. Aaron Walden, May 2016 (advisors: Desh Ranjan, Mohammad Zubair)
+1. Juliette Pardue, Aug 2015 (advisor: Andrey Chernikov)
+1. Shawn Jones, May 2015 (advisor: Michael L. Nelson)
+1. Alexander Nwala, May 2014 (advisor: Stephan Olariu)
+1. Sawood Alam, Aug 2013 (advisor: Michael L. Nelson)
+1. Vikas Ashok, May 2011 (advisor: Stephan Olariu)
+1. Rabia Haq, Dec 2008 (advisor: Michael L. Nelson)
+1. Hadi Arbabi, Aug 2007 (advisor: Stephan Olariu)
 
 ### MS Project
 
-* Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2021, "A Chromium-based Memento-aware Web Browser" ([arXiv](https://arxiv.org/abs/2104.13361))
-* Dhruv Patel <a href="https://www.linkedin.com/in/dhruv282/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2021, "What Did It Look Like: A service for creating website timelapses using the Memento framework" ([arXiv](https://arxiv.org/abs/2104.14041))
-* Maheedhar Gunnam <a href="https://www.linkedin.com/in/maheedhargunnam/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2018, "How I Changed Over Time: A webservice to summarize TimeMaps based on SimHashed HTML content" ([arXiv](http://www.cs.odu.edu/~mweigle/papers/gunnam-ms-proj-18.pdf))
-* Hung Do <a href="https://www.linkedin.com/in/hung-do-70779230/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2017, "Expanding the Archival Acid Test" ([PDF](http://www.cs.odu.edu/~mweigle/papers/do-ms-proj-17.pdf))
-* Surbhi Shankar <a href="https://www.linkedin.com/in/surbhi-shankar-2005b7a3/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2017, "Visualizing Thumbnails Of Archived Web Pages" ([PDF](http://www.cs.odu.edu/~mweigle/papers/shankar-ms-proj-17.pdf))
-* Erika Siregar <a href="https://www.linkedin.com/in/erika-siregar/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2017, "Deploying the Memento Damage Service: A Comprehensive Tool for Measuring and Analyzing Damage on Web Archives" ([PDF](http://www.cs.odu.edu/~mweigle/papers/siregar-ms-proj-17.pdf))
-* Prasanna Sajjan <a href="https://www.linkedin.com/in/prasanna-sajjan/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2016, "Visualizing 10 Years (2005-2015) of Life in Hampton Roads"
-* Avinash Gosavi <a href="https://www.linkedin.com/in/aag1091/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2015, "Vistoria: Inspecting History Using Visualization"
-* Bradley Dupont <a href="https://www.linkedin.com/in/bradley-dupont-5759bb37/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2011, "Improvements in VANET Simulator in ns-3" ([PDF](http://www.cs.odu.edu/~mweigle/papers/dupont-ms-proj-11.pdf))
-* Spardha Jaiswal <a href="https://www.linkedin.com/in/spardhajaiswal/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2010, "Validation of IDM/MOBIL in ASH using Treiber's MicroApplet" ([PDF](http://www.cs.odu.edu/~mweigle/papers/jaiswal-ms-proj-10.pdf))
-* Madhukesh Wali <a href="https://www.linkedin.com/in/mavwali/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2009, "Dynamic Zonal Broadcasting for Effective Data Dissemination in VANETs" ([PDF](http://www.cs.odu.edu/~mweigle/papers/mwali-ms-proj-09.pdf))
-* Rajat Singh <a href="https://www.linkedin.com/in/rajat-singh-0b436815/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2009, "Visualizing VDOT Traffic Pattern Data" ([PDF](http://www.cs.odu.edu/~mweigle/papers/rajat-ms-proj-09.pdf))
-* Sumanth Gelle <a href="https://www.linkedin.com/in/sumanth-gelle-8b912718/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2008, "Performance of High-Speed TCP Protocols over NS-2 TCP Linux" ([PDF](http://www.cs.odu.edu/~mweigle/papers/gelle-ms-proj-08.pdf))
-* Omkar Kasinadhuni <a href="https://www.linkedin.com/in/omkar-kasinadhuni-59278411/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2008, "TCP Validation" ([PDF](http://www.cs.odu.edu/~mweigle/papers/omkar-ms-proj-08.pdf))
-* Siva Tella <a href="https://www.linkedin.com/in/siva-sagar-tella-13519423/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2008 , "Performance of Competing High Speed TCP Flows with Background Traffic" ([PDF](http://www.cs.odu.edu/~mweigle/papers/tella-ms-proj-08.pdf))
-* Gyanesh Choudhary <a href="https://www.linkedin.com/in/gyaneshchoudhary/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2007, "Providing VANET Security Through Active Position Detection" ([PDF](http://www.cs.odu.edu/~mweigle/papers/choudhary-ms-proj-07.pdf))
+1. Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2021, "A Chromium-based Memento-aware Web Browser" ([arXiv](https://arxiv.org/abs/2104.13361))
+1. Dhruv Patel <a href="https://www.linkedin.com/in/dhruv282/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2021, "What Did It Look Like: A service for creating website timelapses using the Memento framework" ([arXiv](https://arxiv.org/abs/2104.14041))
+1. Maheedhar Gunnam <a href="https://www.linkedin.com/in/maheedhargunnam/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2018, "How I Changed Over Time: A webservice to summarize TimeMaps based on SimHashed HTML content" ([arXiv](http://www.cs.odu.edu/~mweigle/papers/gunnam-ms-proj-18.pdf))
+1. Hung Do <a href="https://www.linkedin.com/in/hung-do-70779230/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2017, "Expanding the Archival Acid Test" ([PDF](http://www.cs.odu.edu/~mweigle/papers/do-ms-proj-17.pdf))
+1. Surbhi Shankar <a href="https://www.linkedin.com/in/surbhi-shankar-2005b7a3/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2017, "Visualizing Thumbnails Of Archived Web Pages" ([PDF](http://www.cs.odu.edu/~mweigle/papers/shankar-ms-proj-17.pdf))
+1. Erika Siregar <a href="https://www.linkedin.com/in/erika-siregar/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2017, "Deploying the Memento Damage Service: A Comprehensive Tool for Measuring and Analyzing Damage on Web Archives" ([PDF](http://www.cs.odu.edu/~mweigle/papers/siregar-ms-proj-17.pdf))
+1. Prasanna Sajjan <a href="https://www.linkedin.com/in/prasanna-sajjan/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2016, "Visualizing 10 Years (2005-2015) of Life in Hampton Roads"
+1. Avinash Gosavi <a href="https://www.linkedin.com/in/aag1091/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2015, "Vistoria: Inspecting History Using Visualization"
+1. Bradley Dupont <a href="https://www.linkedin.com/in/bradley-dupont-5759bb37/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2011, "Improvements in VANET Simulator in ns-3" ([PDF](http://www.cs.odu.edu/~mweigle/papers/dupont-ms-proj-11.pdf))
+1. Spardha Jaiswal <a href="https://www.linkedin.com/in/spardhajaiswal/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2010, "Validation of IDM/MOBIL in ASH using Treiber's MicroApplet" ([PDF](http://www.cs.odu.edu/~mweigle/papers/jaiswal-ms-proj-10.pdf))
+1. Madhukesh Wali <a href="https://www.linkedin.com/in/mavwali/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2009, "Dynamic Zonal Broadcasting for Effective Data Dissemination in VANETs" ([PDF](http://www.cs.odu.edu/~mweigle/papers/mwali-ms-proj-09.pdf))
+1. Rajat Singh <a href="https://www.linkedin.com/in/rajat-singh-0b436815/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2009, "Visualizing VDOT Traffic Pattern Data" ([PDF](http://www.cs.odu.edu/~mweigle/papers/rajat-ms-proj-09.pdf))
+1. Sumanth Gelle <a href="https://www.linkedin.com/in/sumanth-gelle-8b912718/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2008, "Performance of High-Speed TCP Protocols over NS-2 TCP Linux" ([PDF](http://www.cs.odu.edu/~mweigle/papers/gelle-ms-proj-08.pdf))
+1. Omkar Kasinadhuni <a href="https://www.linkedin.com/in/omkar-kasinadhuni-59278411/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2008, "TCP Validation" ([PDF](http://www.cs.odu.edu/~mweigle/papers/omkar-ms-proj-08.pdf))
+1. Siva Tella <a href="https://www.linkedin.com/in/siva-sagar-tella-13519423/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2008 , "Performance of Competing High Speed TCP Flows with Background Traffic" ([PDF](http://www.cs.odu.edu/~mweigle/papers/tella-ms-proj-08.pdf))
+1. Gyanesh Choudhary <a href="https://www.linkedin.com/in/gyaneshchoudhary/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2007, "Providing VANET Security Through Active Position Detection" ([PDF](http://www.cs.odu.edu/~mweigle/papers/choudhary-ms-proj-07.pdf))
 
 ### MS Research
 
-* Andrew Schaefer <a href="https://www.linkedin.com/in/andrew-schaefer-4a555112/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2013
-* Chinmay Lokesh <a href="https://www.linkedin.com/in/chinmaylokesh/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2012
+1. Andrew Schaefer <a href="https://www.linkedin.com/in/andrew-schaefer-4a555112/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2013
+1. Chinmay Lokesh <a href="https://www.linkedin.com/in/chinmaylokesh/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2012
 
 ### Undergraduates
 
-* [Leah Prince](https://leahp21.github.io/) <a href="https://www.linkedin.com/in/leah-prince-339548221/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, University of Maryland Baltimore County (Summer 2024 REU)
-* [Rachel Zheng](https://rachelzheng03.github.io/) <a href="https://www.linkedin.com/in/rachel-zheng-41478a251/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, William & Mary (Summer 2023 REU)
-* [Haley Bragg](https://haleybragg.github.io/)  <a href="https://www.linkedin.com/in/haley-bragg-896755276/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2023, Christopher Newport Univ (Summer 2022 REU)
-* Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
-* Dhruv Patel <a href="https://www.linkedin.com/in/dhruv282/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
-* Erik Jensen, BS M&S May 2016 (Fall 2015 REU)
-* John Berlin <a href="https://www.linkedin.com/in/john-berlin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS Dec 2015 (Spring-Fall 2015 REU) - MS 2018, ODU
-* Ander Rogers <a href="https://www.linkedin.com/in/ander-rogers-iii-600aa3119/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2015 (Spring 2015 REU)
-* Aaron Walden, BS August 2014 (Summer 2013-Spring 2014, REU) - PhD student, ODU
-* [Thomas Kennedy](https://www.cs.odu.edu/~tkennedy/), BS May 2012 (Summer 2011-Fall 2011, Summer 2011 REU) - MS 2014, ODU
-* Greg Maslov, BS May 2012 (Fall 2009-Fall 2010, Spring 2010-Spring 2011 REU)
-* Nickolas Betcher (Summer 2010 REU)
-* Lazarus Boone (Summer 2010 REU)
-* [Nathan Brunelle](http://www.cs.virginia.edu/~njb2b/), BS May 2011, UVa (Summer 2010 REU) - PhD 2017, UVa
-* Ian Iepson <a href="https://www.linkedin.com/in/ian-iepson/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS Aug 2010 (Summer 2010) - MS 2012, George Mason Univ.
-* Colin Courtney <a href="https://www.linkedin.com/in/colin-courtney-b698901a/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2010 (Summer 2008-Summer 2009)
-* Meredith Wilhelm, BS Dec 2008 (Summer 2008 REU)
-* Matt Crinklaw-Vogt <a href="https://www.linkedin.com/in/mattcrinklawvogt/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2008 (Fall 2007-Spring 2008)
+1. [Leah Prince](https://leahp21.github.io/) <a href="https://www.linkedin.com/in/leah-prince-339548221/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, University of Maryland Baltimore County (Summer 2024 REU)
+1. [Rachel Zheng](https://rachelzheng03.github.io/) <a href="https://www.linkedin.com/in/rachel-zheng-41478a251/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, William & Mary (Summer 2023 REU)
+1. [Haley Bragg](https://haleybragg.github.io/)  <a href="https://www.linkedin.com/in/haley-bragg-896755276/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2023, Christopher Newport Univ (Summer 2022 REU)
+1. Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
+1. Dhruv Patel <a href="https://www.linkedin.com/in/dhruv282/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
+1. Erik Jensen, BS M&S May 2016 (Fall 2015 REU)
+1. John Berlin <a href="https://www.linkedin.com/in/john-berlin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS Dec 2015 (Spring-Fall 2015 REU) - MS 2018, ODU
+1. Ander Rogers <a href="https://www.linkedin.com/in/ander-rogers-iii-600aa3119/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2015 (Spring 2015 REU)
+1. Aaron Walden, BS August 2014 (Summer 2013-Spring 2014, REU) - PhD student, ODU
+1. [Thomas Kennedy](https://www.cs.odu.edu/~tkennedy/), BS May 2012 (Summer 2011-Fall 2011, Summer 2011 REU) - MS 2014, ODU
+1. Greg Maslov, BS May 2012 (Fall 2009-Fall 2010, Spring 2010-Spring 2011 REU)
+1. Nickolas Betcher (Summer 2010 REU)
+1. Lazarus Boone (Summer 2010 REU)
+1. [Nathan Brunelle](http://www.cs.virginia.edu/~njb2b/), BS May 2011, UVa (Summer 2010 REU) - PhD 2017, UVa
+1. Ian Iepson <a href="https://www.linkedin.com/in/ian-iepson/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS Aug 2010 (Summer 2010) - MS 2012, George Mason Univ.
+1. Colin Courtney <a href="https://www.linkedin.com/in/colin-courtney-b698901a/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2010 (Summer 2008-Summer 2009)
+1. Meredith Wilhelm, BS Dec 2008 (Summer 2008 REU)
+1. Matt Crinklaw-Vogt <a href="https://www.linkedin.com/in/mattcrinklawvogt/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2008 (Fall 2007-Spring 2008)
