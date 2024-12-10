@@ -60,6 +60,8 @@ mastodon:
   username               : "digipres.club/@weiglemc"
 twitter:
   username               : "weiglemc"
+bluesky:
+  username               : "weiglemc.bsky.social"
 facebook:
   username               :
   app_id                 :
@@ -94,6 +96,7 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://www.cs.odu.edu/~mweigle/"
   bitbucket        :
+  bluesky          : "weiglemc.bsky.social"
   codepen          :
   dribbble         :
   flickr           :
