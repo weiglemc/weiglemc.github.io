@@ -39,7 +39,12 @@ blogger-color: "#F37100"
 
 ### PhD Committee Member
 
-1. Muntabir Choudhury (ABD) (advisor: Jian Wu)
+1. Kehinde (Kenny) Ajayi (ABD)
+<a href="https://scholar.google.com/citations?hl=en&user=ib2zhJQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+(advisor: Jian Wu)
+1. Muntabir Choudhury (ABD)
+<a href="https://scholar.google.com/citations?hl=en&user=HudTafsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+(advisor: Jian Wu)
 1. Kimberley Cossey, Higher Education
 <a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=ct7cj84AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
