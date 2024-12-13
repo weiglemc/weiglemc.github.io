@@ -253,7 +253,7 @@ blogger-color: "#F37100"
 
 ### Undergraduates
 
-1. [Leah Prince](https://leahp21.github.io/) <a href="https://www.linkedin.com/in/leah-prince-339548221/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, University of Maryland Baltimore County (Summer 2024 REU)
+1. [Leah Prince](https://leahp21.github.io/) <a href="https://www.linkedin.com/in/leah-prince-cs/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, University of Maryland Baltimore County (Summer 2024 REU)
 1. [Rachel Zheng](https://rachelzheng03.github.io/) <a href="https://www.linkedin.com/in/rachel-zheng-41478a251/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, William & Mary (Summer 2023 REU)
 1. [Haley Bragg](https://haleybragg.github.io/)  <a href="https://www.linkedin.com/in/haley-bragg-896755276/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2023, Christopher Newport Univ (Summer 2022 REU)
 1. Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
