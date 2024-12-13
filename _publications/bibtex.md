@@ -7,6 +7,296 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [rauch-saa24](#rauch-saa24)
+
+Christopher Rauch, Alex H. Poole, Travis Reid, Michael L. Nelson, Michele C. Weigle, Faryaneh Poursardar, and Mat Kelly, "**Contextual Archiving of Web Page Advertisements Using Persona-Based Tools**," Lightning talk presented at the SAA Research Forum, August 2024.
+
+[](#rauch-saa24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {rauch-saa24,
+      author = {Christopher Rauch and Alex H. Poole and Travis Reid and Michael L. Nelson and Michele C. Weigle and Faryaneh Poursardar and Mat Kelly},
+      title = {Contextual Archiving of Web Page Advertisements Using Persona-Based Tools},
+      howpublished = {Lightning talk presented at the SAA Research Forum},
+      year = {2024},
+      month = aug,
+      pubdate = {202408}
+}
+```
+
+{% endraw %}
+
+## [frew-manila24](#frew-manila24)
+
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Information Retrieval Needs in Climate Impact from Federal Environmental Webpages**," Lightning talk presented at MANILA24: The SIGIR 2024 Workshop on IR for Climate Impact, July 2024.
+
+[](#frew-manila24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {frew-manila24,
+      author = {Lesley Frew and Michael L. Nelson and Michele C. Weigle},
+      title = {Information Retrieval Needs in Climate Impact from Federal Environmental Webpages},
+      howpublished = {Lightning talk presented at MANILA24: The SIGIR 2024 Workshop on IR for Climate Impact},
+      year = {2024},
+      month = jul,
+      pubdate = {202407}
+}
+```
+
+{% endraw %}
+
+## [garg-wac24](#garg-wac24)
+
+Kritika Garg, Sawood Alam, Dietrich, Michele C. Weigle, and Michael L. Nelson, "**Webpage Lifespan Revisited: Uncovering the Long Survivors and Swift Fades**," Poster presented at the IIPC Web Archiving Conference (WAC), April 2024.
+
+[](#garg-wac24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {garg-wac24,
+      author = {Kritika Garg and Sawood Alam and Dietrich and Michele C. Weigle and Michael L. Nelson},
+      title = {Webpage Lifespan Revisited: Uncovering the Long Survivors and Swift Fades},
+      howpublished = {Poster presented at the IIPC Web Archiving Conference (WAC)},
+      year = {2024},
+      month = apr,
+      pubdate = {202404}
+}
+```
+
+{% endraw %}
+
+## [rauch-wac24](#rauch-wac24)
+
+Christopher Rauch, Travis Reid, Mat Kelly, Alex Poole, Michael L. Nelson, and Michele C. Weigle, "**Saving Ads: Assessing and Improving Web Archives’ Holdings of Online Advertisements**," Talk presented at the IIPC Web Archiving Conference (WAC), April 2024.
+
+[](#rauch-wac24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {rauch-wac24,
+      author = {Christopher Rauch and Travis Reid and Mat Kelly and Alex Poole and Michael L. Nelson and Michele C. Weigle},
+      title = {Saving Ads: Assessing and Improving Web Archives’ Holdings of Online Advertisements},
+      howpublished = {Talk presented at the IIPC Web Archiving Conference (WAC)},
+      year = {2024},
+      month = apr,
+      pubdate = {202404}
+}
+```
+
+{% endraw %}
+
+## [zaki-msvcc24](#zaki-msvcc24)
+
+Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Verifying Attribution in Twitter Screenshots**," Presented at the 17th Annual MSV Student Capstone Conference, March 2024.
+
+[](#zaki-msvcc24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {zaki-msvcc24,
+      author = {Tarannum Zaki and Michael L. Nelson and Michele C. Weigle},
+      title = {Web Archives for Verifying Attribution in Twitter Screenshots},
+      howpublished = {Presented at the 17th Annual MSV Student Capstone Conference},
+      year = {2024},
+      month = mar,
+      pubdate = {202403}
+}
+```
+
+{% endraw %}
+
+## [escamilla-icssi24](#escamilla-icssi24)
+
+Emily Escamilla, Vicky Rampin, Jian Wu, Martin Klein, Michele Weigle, and Michael Nelson, "**Toward Long-term Computational Reproducibility: Assessing the Archival Rate of URLs to Git Hosting Platforms in Scholarly Publications**," Presented at the International Conference on the Science of Science & Innovation, July 2024.
+
+[](#escamilla-icssi24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {escamilla-icssi24,
+      author = {Emily Escamilla and Vicky Rampin and Jian Wu and Martin Klein and Michele Weigle and Michael Nelson},
+      title = {Toward Long-term Computational Reproducibility: Assessing the Archival Rate of URLs to Git Hosting Platforms in Scholarly Publications},
+      howpublished = {Presented at the International Conference on the Science of Science & Innovation},
+      year = {2024},
+      month = jul,
+      pubdate = {202407}
+}
+```
+
+{% endraw %}
+
+## [rauch-ipres24](#rauch-ipres24)
+
+Christopher Rauch, Alex H. Poole, Travis Reid, Michele C. Weigle, Michael L. Nelson, Faryaneh Poursardar, and Mat Kelly, "**Archiving Digital Marketing: Examining Preservation of Dynamic Content on the Web Through the Lens of Online Advertisements**," In *Proceedings of the International Conference on Digital Preservation (iPRES)*. September 2024.
+
+[](#rauch-ipres24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {rauch-ipres24,
+      author = {Christopher Rauch and Alex H. Poole and Travis Reid and Michele C. Weigle and Michael L. Nelson and Faryaneh Poursardar and Mat Kelly},
+      title = {Archiving Digital Marketing: Examining Preservation of Dynamic Content on the Web Through the Lens of Online Advertisements},
+      booktitle = {Proceedings of the International Conference on Digital Preservation (iPRES)},
+      year = {2024},
+      month = sep,
+      pubdate = {202409}
+}
+```
+
+{% endraw %}
+
+## [rampin-ipres24](#rampin-ipres24)
+
+Vicky Rampin, Talya Cooper, Martin Klein, David Wilkinson, Lyudmila Balakireva, Emily Escamilla, David Calano, Michael L. Nelson, and Michele C. Weigle, "**Using the CoSAI ecosystem to archive scholarly code with docs and discussions**," Demo presented at the International Conference on Digital Preservation (iPRES), September 2024.
+
+[](#rampin-ipres24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {rampin-ipres24,
+      author = {Vicky Rampin and Talya Cooper and Martin Klein and David Wilkinson and Lyudmila Balakireva and Emily Escamilla and David Calano and Michael L. Nelson and Michele C. Weigle},
+      title = {Using the CoSAI ecosystem to archive scholarly code with docs and discussions},
+      howpublished = {Demo presented at the International Conference on Digital Preservation (iPRES)},
+      year = {2024},
+      month = sep,
+      pubdate = {202409}
+}
+```
+
+{% endraw %}
+
+## [garg-ipres24](#garg-ipres24)
+
+Kritika Garg, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Some URLs Are Immortal, Most Are Ephemeral**," Poster presented at the International Conference on Digital Preservation (iPRES), September 2024.
+
+[](#garg-ipres24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {garg-ipres24,
+      author = {Kritika Garg and Sawood Alam and Michele C. Weigle and Michael L. Nelson},
+      title = {Some URLs Are Immortal, Most Are Ephemeral},
+      howpublished = {Poster presented at the International Conference on Digital Preservation (iPRES)},
+      year = {2024},
+      month = sep,
+      pubdate = {202409}
+}
+```
+
+{% endraw %}
+
+## [rauch-aeri24](#rauch-aeri24)
+
+Christopher Rauch, Alex H. Poole, Travis Reid, Michael L. Nelson, Michele C. Weigle, Faryaneh Poursardar, and Mat Kelly, "**Contextual Archiving of Web Page Advertisements Using Persona-Based Tools**," In *Proceedings of the 16th Archival Education Research Institute (AERI)*. October 2024.
+
+[](#rauch-aeri24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {rauch-aeri24,
+      author = {Christopher Rauch and Alex H. Poole and Travis Reid and Michael L. Nelson and Michele C. Weigle and Faryaneh Poursardar and Mat Kelly},
+      title = {Contextual Archiving of Web Page Advertisements Using Persona-Based Tools},
+      booktitle = {Proceedings of the 16th Archival Education Research Institute (AERI)},
+      month = oct,
+      year = {2024},
+      pubdate = {202410}
+}
+```
+
+{% endraw %}
+
+## [botello-cas24](#botello-cas24)
+
+Jhon G. Botello, Lesley Frew, Jose J. Padilla, and Michele C. Weigle, "**Exploring Large Language Models for Analyzing Changes in Web Archive Content: A Retrieval-Augmented Generation Approach**," In *Proceedings of the 9th Computational Archival Science (CAS) Workshop*. December 2024.
+
+[](#botello-cas24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {botello-cas24,
+      author = {Jhon G. Botello and Lesley Frew and Jose J. Padilla and Michele C. Weigle},
+      title = {Exploring Large Language Models for Analyzing Changes in Web Archive Content: A Retrieval-Augmented Generation Approach},
+      booktitle = {Proceedings of the 9th Computational Archival Science (CAS) Workshop},
+      year = {2024},
+      month = dec,
+      pubdate = {202412}
+}
+```
+
+{% endraw %}
+
+## [mccoy-csiac24](#mccoy-csiac24)
+
+Corren McCoy, Ross Gore, Michael L. Nelson, and Michele C. Weigle, "**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**," *Cybersecurity & Information Systems Information Analysis Center (CSIAC) Journal*, October 2024. <a href='https://csiac.dtic.mil/articles/a-relevance-model-for-threat-centric-ranking-of-cybersecurity-vulnerabilities/' target='_blank'><i class='fas fa-fw fa-link'></i></a>
+
+[](#mccoy-csiac24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {mccoy-csiac24,
+      author = {Corren McCoy and Ross Gore and Michael L. Nelson and Michele C. Weigle},
+      title = {A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities},
+      journal = {Cybersecurity & Information Systems Information Analysis Center (CSIAC) Journal},
+      year = {2024},
+      month = oct,
+      note = {special issue on Artificial Intelligence and Machine Learning},
+      url = {https://csiac.dtic.mil/articles/a-relevance-model-for-threat-centric-ranking-of-cybersecurity-vulnerabilities/},
+      pubdate ={202410}
+}
+```
+
+{% endraw %}
+
+## [frew-cikm24](#frew-cikm24)
+
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Retrogressive Document Manipulation of US Federal Environmental Websites**," In *Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)*. October 2024. <a href='https://dx.doi.org/10.1145/3627673.3679988' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://dl.acm.org/doi/pdf/10.1145/3627673.3679988' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+
+[](#frew-cikm24Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {frew-cikm24,
+     author    = {Lesley Frew and Michael L. Nelson and Michele C. Weigle},
+     title = {Retrogressive Document Manipulation of US Federal Environmental Websites},
+     booktitle = {Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)},
+     year = {2024},
+     month = oct,
+     doi = {10.1145/3627673.3679988},
+     pdf = {https://dl.acm.org/doi/pdf/10.1145/3627673.3679988},
+     pubdate = {202410}
+}
+```
+
+{% endraw %}
+
 ## [social-env-ethology-book](#social-env-ethology-book)
 
 Michele C. Weigle, José Balsa-Barreiro, Nitesh V. Chawla, Tamas Dávid-Barrett, Maria Melchior, Virginia Pallante, Abeed Sarker, and Jason Gilliland, "**Characterizing Social Environments in the Physical and Virtual Worlds Using Digital Data**," In *Digital Ethology: Human Behavior in Geospatial Context*. (Tomáš Paus and Hye-Chung Kum, Eds.), The MIT Press, 2024. <a href='https://dx.doi.org/10.7551/mitpress/15532.003.0008' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://direct.mit.edu/book/chapter-pdf/2458077/c003000_9780262378840.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
