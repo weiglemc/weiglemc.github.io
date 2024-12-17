@@ -353,7 +353,7 @@ Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Ver
 
 ## [jayanetti-ijdl24](#jayanetti-ijdl24)
 
-Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives in 2019, But Less Than in 2015 and 2012**," *International Journal on Digital Libraries (IJDL)*, March 2024. <a href='https://rdcu.be/dADnQ' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.1007/s00799-024-00397-2' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "**Robots Still Outnumber Humans in Web Archives in 2019, But Less Than in 2015 and 2012**," *International Journal on Digital Libraries (IJDL)*, Vol. 25, March 2024, pp. 537-553. <a href='https://rdcu.be/dADnQ' target='_blank'><i class='fas fa-fw fa-link'></i></a> <a href='https://dx.doi.org/10.1007/s00799-024-00397-2' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#jayanetti-ijdl24Bib)
 **BibTeX entry:**
@@ -367,6 +367,8 @@ Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C.
       journal = {International Journal on Digital Libraries (IJDL)},
       year = {2024},
       month = mar,
+      volume = 25,
+      pages = {537--553},
       pubdate = {202403.2},
       doi = {10.1007/s00799-024-00397-2},
       url = {https://rdcu.be/dADnQ}
@@ -497,7 +499,7 @@ Himarsha R. Jayanetti, Erika Frydenlund, and Michele C. Weigle, "**Xenophobic Ev
 
 ## [garg-ijdl23](#garg-ijdl23)
 
-Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Challenges in replaying archived Twitter pages**," *International Journal on Digital Libraries (IJDL)*, August 2023. <a href='https://dx.doi.org/10.1007/s00799-023-00379-w' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Challenges in replaying archived Twitter pages**," *International Journal on Digital Libraries (IJDL)*, Vol. 25, August 2023, pp. 217-236. <a href='https://dx.doi.org/10.1007/s00799-023-00379-w' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#garg-ijdl23Bib)
 **BibTeX entry:**
@@ -511,6 +513,8 @@ Kritika Garg, Himarsha R. Jayanetti, Sawood Alam, Michele C. Weigle, and Michael
      journal = {International Journal on Digital Libraries (IJDL)},
      year = {2023},
      month = aug,
+     volume = 25,
+     pages = {217--236},
      pubdate = {202308},
      doi = {10.1007/s00799-023-00379-w}
 }
