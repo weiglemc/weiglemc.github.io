@@ -12,6 +12,8 @@ current_semester: "Fall 2024"
 
 **May 2020:** Wrote a blog post based on my experiences teaching hybrid classes before COVID, ["Teaching a Flipped Hybrid (In-Class/Online) Course"](https://ws-dl.blogspot.com/2020/05/2020-05-06-teaching-flipped-hybrid-in.html). 
 
+**June 2014:** Posted computer networking explainer videos: ["Compute IP range given CIDR address"](https://www.youtube.com/watch?v=ls1mMyfnaC0) (72K+ views), ["Compute CIDR given IP range and netmask"](https://www.youtube.com/watch?v=PnApdHjU8sg) (11K+ views), ["Powers of 2 example"](https://www.youtube.com/watch?v=1-yOrnWwM4M)
+
 ## {{ page.next_semester }}
 
 {% for post in site.teaching %}
