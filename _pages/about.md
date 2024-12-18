@@ -23,11 +23,6 @@ For an overview of my research over the past few years, see [On the importance o
 
 [CS 725/825 - Information Visualization & Data Analytics](https://weiglemc.github.io/teaching/2025-spr-cs725825) / MW 3-4:15 and online synchronous
 
-
-**Fall 2024**
-
-[CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2024-fall-cs625) / online asynchronous
-
 ## Research
 
 I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group.  
