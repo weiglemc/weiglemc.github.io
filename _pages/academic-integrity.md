@@ -5,7 +5,7 @@ title: "Academic Integrity"
 
 *Page rebuilt from http://web.archive.org/web/20210413115446id_/https://graduate.cs.odu.edu/resources/academic-integrity/*
 
-ODU and the Department of Computer Science take academic integrity seriously. See [Monarch Citizenship](https://www.odu.edu/about/monarchcitizenship) for the ODU Honor Code and Honor Pledge.
+ODU and the Department of Computer Science take academic integrity seriously. 
 
 Many ODU-CS courses follow these guidelines:
 * Unless explicitly specified, all assignments are to be completed on your own.
@@ -13,9 +13,9 @@ Many ODU-CS courses follow these guidelines:
 * Unless explicitly specified, written assignments are expected to be in your own words.
 * Giving unauthorized assistance is just as much of an offense as receiving unauthorized assistance.
 
-See ODU’s official [Code of Student Content](https://www.odu.edu/content/dam/odu/offices/bov/policies/1500/BOV1530.pdf) (pdf) for more information on the specific university policies and procedures. Here are a couple of important notes from that document:
+See ODU’s official [Code of Student Content](https://www.odu.edu/about/policiesandprocedures/bov/bov1500/1530) for more information on the specific university policies and procedures. Here are a couple of important notes from that document:
 * “Students found responsible for an academic integrity violation will normally have a notation placed on the student’s academic transcript.”
-* “Faculty who suspect a graduate student may have violated one or more standards of Academic Integrity should consult with the [Office of Student Conduct & Academic Integrity](https://www.odu.edu/oscai), as *graduate students are normally reviewed for suspension or expulsion, even for a first Academic integrity violation*.”
+* “Faculty who suspect a graduate student may have violated one or more standards of Academic Integrity should consult with the [Office of Student Accountability & Academic Integrity](https://www.odu.edu/student-conduct-academic-integrity), as *graduate students are normally reviewed for suspension or expulsion, even for a first Academic integrity violation*.”
 
 ***You have been warned. You are responsible for knowing the rules or asking for clarification.***
 
