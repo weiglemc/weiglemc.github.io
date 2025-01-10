@@ -12,6 +12,7 @@ Monday
 
 Tuesday - *on-campus*
 
+* 10-11am - Office Hour (ECSB 3327)
 * 11-11:30am - Student Research Meeting (Jhon)
 * 12:30-1:30pm - Activity Hour - *often used for dept meetings*
 * 2-5pm - Student Research Meetings (Travis, Lesley, David, Tarannum, Himarsha, Kritika)
