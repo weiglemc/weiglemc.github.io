@@ -7,6 +7,29 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [zheng-2025](#zheng-2025)
+
+Leah Prince and Michele C. Weigle, "**Examining Engagement with Disinformation Accounts on Instagram Using Web Archives**," Technical report, ODU, January 2025. <a href='https://www.cs.odu.edu/~mweigle/papers/prince-REU2024.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+
+[](#zheng-2025Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@TECHREPORT {zheng-2025,
+        author = {Leah Prince and Michele C. Weigle},
+        title = {Examining Engagement with Disinformation Accounts on Instagram Using Web Archives},
+        institution = {ODU},
+        pdf = {https://www.cs.odu.edu/~mweigle/papers/prince-REU2024.pdf},
+        year = 2025,
+        month = jan,
+       pubdate = {202501} 
+}
+```
+
+{% endraw %}
+
 ## [botello-cas24](#botello-cas24)
 
 Jhon G. Botello, Lesley Frew, Jose J. Padilla, and Michele C. Weigle, "**Exploring Large Language Models for Analyzing Changes in Web Archive Content: A Retrieval-Augmented Generation Approach**," In *Proceedings of the 9th Computational Archival Science (CAS) Workshop*. December 2024.
