@@ -22,6 +22,7 @@ Some of my customizations:
 * share icons (at bottom of individual pages): `_includes/social-share.html`
 * colors and buttons:
    * `_sass/_variables.scss` - look for comments `/* ODU colors: https://www.odu.edu/facultystaff/communication/toolkit/identity-standards/palette-fonts */` and `/* brands */`
+   * `_sass/_utilities.scss` - look for comments `// MCW`
    * `_sass/_buttons.scss` - look for comment `/* my button */`
 
 Personalization

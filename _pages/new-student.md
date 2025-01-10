@@ -17,11 +17,8 @@ These links will help you to get set up once you arrive on campus.
 
 * [Request a New CS Account](https://accounts.cs.odu.edu/) – note: you must be enrolled in a CS course
   * if you definitely will be enrolling at ODU and would like an account before the semester begins, please email the GPD
-* [ODU Systems Group](https://systems.cs.odu.edu/Main_Page) – information about access ODU-CS computing resources
-  * [Email Services](https://systems.cs.odu.edu/Email_Services) – information on setting up your CS email account
-* [CS Computing Labs](https://systems.cs.odu.edu/Computing_Labs)
+* [ODU Systems Group](https://systems.cs.odu.edu/) – information about access ODU-CS computing resources, including email, CS computing labs, virtual PC lab, and access to Linux systems
 * Additional information from the CS 252 course
-  * [Virtual PC Lab](https://www.cs.odu.edu/~zeil/cs333/latest/Public/usingCodeBlocks1/index.html#thevirtualpclab)
   * [ssh access to Linux machines](https://www.cs.odu.edu/~zeil/cs252/latest/Public/loggingin/index.html#startingaremotetext-modeunixsession)
   * [graphical access (XWindows) to Linux machines](https://www.cs.odu.edu/~zeil/cs252/latest/Public/xwinlaunch/index.html)
 
