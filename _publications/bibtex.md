@@ -9,7 +9,7 @@ blogger-color: '#F37100'
 ---
 ## [zheng-2025](#zheng-2025)
 
-Leah Prince and Michele C. Weigle, "**Examining Engagement with Disinformation Accounts on Instagram Using Web Archives**," Technical report, ODU, January 2025. <a href='https://www.cs.odu.edu/~mweigle/papers/prince-REU2024.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Leah Prince and Michele C. Weigle, "**Examining Engagement with Disinformation Accounts on Instagram Using Web Archives**," Technical report, Old Dominion University, January 2025. <a href='https://www.cs.odu.edu/~mweigle/papers/prince-REU2024.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 [](#zheng-2025Bib)
 **BibTeX entry:**
@@ -20,7 +20,7 @@ Leah Prince and Michele C. Weigle, "**Examining Engagement with Disinformation A
 @TECHREPORT {zheng-2025,
         author = {Leah Prince and Michele C. Weigle},
         title = {Examining Engagement with Disinformation Accounts on Instagram Using Web Archives},
-        institution = {ODU},
+        institution = {Old Dominion University},
         pdf = {https://www.cs.odu.edu/~mweigle/papers/prince-REU2024.pdf},
         year = 2025,
         month = jan,
