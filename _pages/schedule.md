@@ -33,7 +33,7 @@ Thursday
 Friday
 
 * 10:30am-12pm - CS Colloquium slot
-* 1-2pm - IMLS Web Ads Research Project Meeting
+* 1-2pm - IMLS Web Ads Research Project Meeting (every other week, starting Jan 24)
 
 ## Recent/Upcoming Travel
 
