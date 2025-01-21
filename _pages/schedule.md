@@ -33,6 +33,7 @@ Thursday
 Friday
 
 * 10:30am-12pm - CS Colloquium slot
+* 11am-12pm - Student Research Meeting at VMASC (monthly, starting Jan 31)
 * 1-2pm - IMLS Web Ads Research Project Meeting (every other week, starting Jan 24)
 
 ## Recent/Upcoming Travel
