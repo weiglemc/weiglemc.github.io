@@ -28,13 +28,13 @@ Thursday
 
 * 12:30-1:30pm - Activity Hour - *often used for dept meetings*
 * 2-3pm - Social Media Reach via TV News Research Planning Meeting
-* 3-4pm - "Not Your Parent's Web" Research Planning Meeting
 
 Friday
 
 * 10:30am-12pm - CS Colloquium slot
 * 11am-12pm - Student Research Meeting at VMASC (monthly, starting Jan 31)
 * 1-2pm - IMLS Web Ads Research Project Meeting (every other week, starting Jan 24)
+* 2-3pm - "Not Your Parent's Web" Research Planning Meeting
 
 ## Recent/Upcoming Travel
 
