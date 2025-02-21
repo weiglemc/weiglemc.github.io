@@ -26,7 +26,7 @@ Some of my customizations:
    * `_sass/_buttons.scss` - look for comment `/* my button */`
 
 Personalization
-* `_config.yml` - account info (`site.author`)
+* `_config.yml` - account info (`site.author`), specify location of photo
 * `_pages/about.md` - main home page
 
 Rob Williams (author of the guides above) had a couple of commits that replaced his Twitter icons and links with Mastodon, see ['we'll meet again'](https://github.com/jayrobwilliams/jayrobwilliams.github.io/commit/2dbefbb507702b981d5719f1da06c8f57b0872b5) and ['bye bye birdie](https://github.com/jayrobwilliams/jayrobwilliams.github.io/commit/1d759370f1c973f16f3253f24d3bc412e41a1576)
