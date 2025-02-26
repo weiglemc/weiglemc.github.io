@@ -7,6 +7,7 @@ title: "Schedule/Travel"
 
 Monday
 
+* 10-11am - Research Planning Meeting
 * 1:30-2:30pm - Office Hour [via Zoom](https://odu.zoom.us/j/96490523173?pwd=jrGXkzTq81UyavD0lqkQu2mfqyRzbi.1)
 * 3-4:15pm - [CS 725/825](https://weiglemc.github.io/teaching/2025-spr-cs725825)
 
@@ -20,7 +21,6 @@ Tuesday - *on-campus*
 Wednesday
 
 * 9:30-10:30am - WS-DL Faculty Meeting (every 3rd Wed of month)
-* 10-11am - Research Planning Meeting
 * 1:30-2:30pm - Office Hour [via Zoom](https://odu.zoom.us/j/96490523173?pwd=jrGXkzTq81UyavD0lqkQu2mfqyRzbi.1)
 * 3-4:15pm - [CS 725/825](https://weiglemc.github.io/teaching/2025-spr-cs725825)
 
