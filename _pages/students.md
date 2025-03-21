@@ -42,9 +42,6 @@ blogger-color: "#F37100"
 1. Kehinde (Kenny) Ajayi (ABD)
 <a href="https://scholar.google.com/citations?hl=en&user=ib2zhJQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: Jian Wu)
-1. Muntabir Choudhury (ABD)
-<a href="https://scholar.google.com/citations?hl=en&user=HudTafsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-(advisor: Jian Wu)
 1. Kimberley Cossey, Higher Education
 <a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=ct7cj84AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -169,18 +166,18 @@ blogger-color: "#F37100"
 
 ### PhD Committee Member
 
+1. Muntabir Choudhury <a href="https://scholar.google.com/citations?hl=en&user=HudTafsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://www.linkedin.com/in/muntabirchoudhury/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, December 2024 (advisor: Jian Wu)
 1. Abrar Alali
-<a href="https://scholar.google.com/citations?hl=en&user=AqeoiPcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-, August 2024 (advisor: Stephan Olariu)
+<a href="https://scholar.google.com/citations?hl=en&user=AqeoiPcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, August 2024 (advisor: Stephan Olariu)
 1. Gavindya Jayawardena
 <a href="https://twitter.com/Gavindya2" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=LdfjuHAAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0002-9523-3346" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/gavindya" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
-<a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-, August 2024 (advisor: Sampath Jayarathna)
+<a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, August 2024 (advisor: Sampath Jayarathna)
 1. Ryan Florin <a href="https://scholar.google.com/citations?hl=en&user=HNicVaEAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-, August 2021 (advisor: Stephan Olariu)
+<a href="https://www.linkedin.com/in/ryanflorin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, August 2021 (advisor: Stephan Olariu)
 1. Shawn Jones
 <a href="https://www.shawnmjones.org" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://twitter.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
@@ -215,8 +212,7 @@ blogger-color: "#F37100"
 <a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
-<a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-, August 2023, (advisor: Michael L. Nelson)
+<a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, August 2023, (advisor: Michael L. Nelson)
 1. Ahmed Nasr, August 2018 (advisor: Tamer Nadeem)
 1. Aaron Walden, May 2016 (advisors: Desh Ranjan, Mohammad Zubair)
 1. Juliette Pardue, Aug 2015 (advisor: Andrey Chernikov)
@@ -253,20 +249,23 @@ blogger-color: "#F37100"
 
 ### Undergraduates
 
-1. [Leah Prince](https://leahp21.github.io/) <a href="https://www.linkedin.com/in/leah-prince-cs/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, University of Maryland Baltimore County (Summer 2024 REU)
-1. [Rachel Zheng](https://rachelzheng03.github.io/) <a href="https://www.linkedin.com/in/rachel-zheng-41478a251/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, William & Mary (Summer 2023 REU)
-1. [Haley Bragg](https://haleybragg.github.io/)  <a href="https://www.linkedin.com/in/haley-bragg-896755276/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2023, Christopher Newport Univ (Summer 2022 REU)
+1. Leah Prince <a href="https://leahp21.github.io/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://www.linkedin.com/in/leah-prince-cs/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, University of Maryland Baltimore County (Summer 2024 REU)
+1. Rachel Zheng <a href="https://rachelzheng03.github.io/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://www.linkedin.com/in/rachel-zheng-41478a251/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, William & Mary (Summer 2023 REU)
+1. Haley Bragg  <a href="https://haleybragg.github.io/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://www.linkedin.com/in/haley-bragg-896755276/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2023, Christopher Newport Univ (Summer 2022 REU)
 1. Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
 1. Dhruv Patel <a href="https://www.linkedin.com/in/dhruv282/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
 1. Erik Jensen, BS M&S May 2016 (Fall 2015 REU)
 1. John Berlin <a href="https://www.linkedin.com/in/john-berlin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS Dec 2015 (Spring-Fall 2015 REU) - MS 2018, ODU
 1. Ander Rogers <a href="https://www.linkedin.com/in/ander-rogers-iii-600aa3119/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2015 (Spring 2015 REU)
 1. Aaron Walden, BS August 2014 (Summer 2013-Spring 2014, REU) - PhD student, ODU
-1. [Thomas Kennedy](https://www.cs.odu.edu/~tkennedy/), BS May 2012 (Summer 2011-Fall 2011, Summer 2011 REU) - MS 2014, ODU
+1. Thomas Kennedy <a href="https://www.cs.odu.edu/~tkennedy" target="_blank"><i class="fas fa-fw fa-link"></i></a>, BS May 2012 (Summer 2011-Fall 2011, Summer 2011 REU) - MS 2014, ODU
 1. Greg Maslov, BS May 2012 (Fall 2009-Fall 2010, Spring 2010-Spring 2011 REU)
 1. Nickolas Betcher (Summer 2010 REU)
 1. Lazarus Boone (Summer 2010 REU)
-1. [Nathan Brunelle](http://www.cs.virginia.edu/~njb2b/), BS May 2011, UVa (Summer 2010 REU) - PhD 2017, UVa
+1. Nathan Brunelle <a href="https://www.linkedin.com/in/nathan-brunelle-56833269/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2011, UVa (Summer 2010 REU) - PhD 2017, UVa
 1. Ian Iepson <a href="https://www.linkedin.com/in/ian-iepson/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS Aug 2010 (Summer 2010) - MS 2012, George Mason Univ.
 1. Colin Courtney <a href="https://www.linkedin.com/in/colin-courtney-b698901a/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2010 (Summer 2008-Summer 2009)
 1. Meredith Wilhelm, BS Dec 2008 (Summer 2008 REU)
