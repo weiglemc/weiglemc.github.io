@@ -16,25 +16,30 @@ blogger-color: "#F37100"
 ### PhD Advisees
 
 1. Jhon Botello
+<a href="https://scholar.google.com/citations?hl=en&user=x6VeC7sAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://twitter.com/Jhon_gbm12" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
+<a href="https://www.linkedin.com/in/jgbotello/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 1. Lesley Frew
-<a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
+<a href="https://lesleyodu.github.io/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=JmEpqjMAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://github.com/lesleyodu" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 1. Himarsha Jayanetti (ABD)
-<a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 1. Travis Reid (ABD)
-<a href="https://twitter.com/treid803" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
+<a href="https://scholar.google.com/citations?hl=en&user=KMewqNwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/treid003" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://twitter.com/treid803" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://www.linkedin.com/in/travis-r-88148ba9/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 1. Tarannum Zaki (ABD)
-<a href="https://twitter.com/tarannum_zaki/" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=L95eiH4AAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://github.com/Tarannum123" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://twitter.com/tarannum_zaki/" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://www.linkedin.com/in/tarannum-zaki-930b14118/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 
 ### PhD Committee Member
@@ -43,14 +48,14 @@ blogger-color: "#F37100"
 <a href="https://scholar.google.com/citations?hl=en&user=ib2zhJQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: Jian Wu)
 1. Kimberley Cossey, Higher Education
-<a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=ct7cj84AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 (advisor: David Ayers)
 1. Kritika Garg (ABD)
-<a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=pXQRYsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0001-6498-7391" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/kritikagarg" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://www.linkedin.com/in/kritika-g-b8a824120/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Michael L. Nelson)
 1. Xiaoqin Liang (ABD)
@@ -59,14 +64,16 @@ blogger-color: "#F37100"
 1. Ivan Makohon (ABD)
 <a href="https://scholar.google.com/citations?hl=en&user=GC-3lOcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: Yaohang Li)
-1. Bhanuka Mahanama (ABD) (advisor: Sampath Jayarathna)
+1. Bhanuka Mahanama (ABD)
+<a href="https://scholar.google.com/citations?hl=en&user=4gSzSJ0AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+(advisor: Sampath Jayarathna)
 1. Yash Prakash (ABD)
 <a href="https://scholar.google.com/citations?user=DOlm7Q8AAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> (advisor: Vikas Ashok)
 1. Mohan Krishna Sunkara (ABD)
 <a href="https://scholar.google.com/citations?user=MbQDa7wAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> (advisor: Vikas Ashok)
 1. Xin Wei (ABD)
-<a href="https://twitter.com/Xin9Xin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=6xyfqsgAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://twitter.com/Xin9Xin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 (advisor: Jian Wu)
 
 ## Former Students
@@ -74,30 +81,30 @@ blogger-color: "#F37100"
 ### PhD
 
 1. Corren McCoy
-<a href="https://twitter.com/correnmccoy" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://twitter.com/correnmccoy" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 <a href="https://www.linkedin.com/in/correnmccoy/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities](https://digitalcommons.odu.edu/computerscience_etds/136/)", PhD thesis, *Old Dominion University*, December 2022. <a href="https://ws-dl.blogspot.com/2023/01/2023-01-10-i-am-number-10.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * Current Job: Vice President of Software Engineering and Chief Data Strategist, [G2 Ops](https://g2-ops.com/)
 1. Mohamed Aturban
 <a href="https://mohamedaturban.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
-<a href="https://twitter.com/maturban1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?user=uFe4KTUAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://twitter.com/maturban1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://www.linkedin.com/in/mohamed-aturban-a0777433/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[A Framework for Verifying the Fixity of Archived Web Resources](https://digitalcommons.odu.edu/computerscience_etds/125/)," PhD thesis, *Old Dominion University*, August 2020. <a href="https://ws-dl.blogspot.com/2020/09/2020-09-28-phd-is-very-long-tunnel-with.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * First Job: Assistant Professor, Columbia College
 1. Mat Kelly
 <a href="https://matkelly.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
-<a href="https://twitter.com/machawk1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0002-0236-7389" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/machawk1" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://twitter.com/machawk1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://www.linkedin.com/in/matkelly/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[Aggregating Private and Public Web Archives Using the Mementity Framework](https://digitalcommons.odu.edu/computerscience_etds/94/)," PhD thesis, *Old Dominion University*, August 2019. <a href="https://ws-dl.blogspot.com/2019/09/2019-09-02-so-long-and-thanks-for-all.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * First Job: Assistant Professor, Drexel University
 1. Lulwah Alkwai
-<a href="https://twitter.com/LulwahMA" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=EnQF73AAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://twitter.com/LulwahMA" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://www.linkedin.com/in/lulwah-alkwai-45495283/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[Expanding the Usage of Web Archives by Recommending Archived Webpages Using Only the URI](https://digitalcommons.odu.edu/computerscience_etds/90)," PhD thesis, *Old Dominion University*, May 2019. <a href="https://ws-dl.blogspot.com/2019/06/2019-06-18-it-is-time-to-go-back-home.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * First Job: Assistant Professor, University of Hail, Saudi Arabia
@@ -132,14 +139,14 @@ blogger-color: "#F37100"
 ### MS Thesis
 
 1. Lesley Frew
-<a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=JmEpqjMAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
     * "Surfacing Text Changes in Archived Webpages," Master's thesis, *Old Dominion University*, August 2024. 
 1. Himarsha Jayanetti
-<a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/himarshaj" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://twitter.com/HimarshaJ" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a> 
 <a href="https://www.linkedin.com/in/himarshaj/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
     * "[Supporting Account-Based Queries for Archived Instagram Posts](https://digitalcommons.odu.edu/computerscience_etds/139/)," Master's thesis, *Old Dominion University*, May 2023. <a href='https://github.com/himarshaj/himarshaj.github.io/blob/master/Resources/MSThesis_SupportingIGPostsIA.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href="https://ws-dl.blogspot.com/2023/06/2023-06-15-milestone-achieved.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
 1. John Berlin
@@ -147,10 +154,10 @@ blogger-color: "#F37100"
    * "[To Relive The Web: A Framework for the Transformation and Archival Replay of Web Pages](https://digitalcommons.odu.edu/computerscience_etds/38/)," Master's thesis, *Old Dominion University*, May 2018. <a href='http://www.cs.odu.edu/~mweigle/papers/berlin-ms-thesis-18.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href="https://ws-dl.blogspot.com/2018/04/2018-05-01-high-fidelity-ms-thesis-to.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
 2. Mat Kelly
 <a href="https://matkelly.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
-<a href="https://twitter.com/machawk1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0002-0236-7389" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/machawk1" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://twitter.com/machawk1" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a> 
 <a href="https://www.linkedin.com/in/matkelly/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    *  "[An Extensible Framework for Creating Personal Archives of Web Resources Requiring Authentication](https://digitalcommons.odu.edu/computerscience_etds/6)," Master's thesis, *Old Dominion University*, August 2012. <a href='http://www.cs.odu.edu/~mweigle/papers/kelly-thesis12.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/matkelly01/an-extensible-framework-for-creating-personal-web-archives-of-content-behind-authentication' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a> <a href="https://ws-dl.blogspot.com/2012/08/2012-08-20-ms-thesis-extensible.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
    * PhD, ODU, 2019
@@ -171,19 +178,19 @@ blogger-color: "#F37100"
 1. Abrar Alali
 <a href="https://scholar.google.com/citations?hl=en&user=AqeoiPcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, August 2024 (advisor: Stephan Olariu)
 1. Gavindya Jayawardena
-<a href="https://twitter.com/Gavindya2" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=LdfjuHAAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0002-9523-3346" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/gavindya" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://twitter.com/Gavindya2" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, August 2024 (advisor: Sampath Jayarathna)
 1. Ryan Florin <a href="https://scholar.google.com/citations?hl=en&user=HNicVaEAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/ryanflorin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, August 2021 (advisor: Stephan Olariu)
 1. Shawn Jones
 <a href="https://www.shawnmjones.org" target="_blank"><i class="fas fa-fw fa-link"></i></a>
-<a href="https://twitter.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://twitter.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://www.linkedin.com/in/shawnmorganjones/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 , August 2021 (advisor: Michael L. Nelson)
 1. Sawood Alam, December 2020 (advisor: Michael L. Nelson)
@@ -208,10 +215,10 @@ blogger-color: "#F37100"
 ### MS Thesis Committee Member
 
 1. Emily Escamilla
-<a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
+<a href="https://twitter.com/EmilyEscamilla_" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, August 2023, (advisor: Michael L. Nelson)
 1. Ahmed Nasr, August 2018 (advisor: Tamer Nadeem)
 1. Aaron Walden, May 2016 (advisors: Desh Ranjan, Mohammad Zubair)
