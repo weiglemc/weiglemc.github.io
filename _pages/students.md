@@ -58,6 +58,9 @@ blogger-color: "#F37100"
 <a href="https://twitter.com/kritika_garg" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 <a href="https://www.linkedin.com/in/kritika-g-b8a824120/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Michael L. Nelson)
+1. Morteza Gharasuie (ABD)
+<a href="https://scholar.google.com/citations?user=f6ar4e8AAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+(advisors: Ravi Mukkamala, Fengjiao Wang)
 1. Xiaoqin Liang (ABD)
 <a href="https://twitter.com/liang_xiaoqin" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
 (advisor: Shuai Hao)
