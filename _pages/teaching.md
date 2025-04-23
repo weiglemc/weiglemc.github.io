@@ -49,10 +49,10 @@ current_semester: "Spring 2025"
 |**2014-2015** | *research leave*|CS 725/825 - Information Visualization|
 |**2013-2014** | CS 462/562 - CyberSecurity Fundamentals<br/>CS 725/825 - Information Visualization|[CS 418/518 - Web Programming](https://www.cs.odu.edu/~mweigle/CS418-S14)|
 |**2012-2013** | CS 418/518 - Web Programming<br/>CS 795/895 - Information Visualization|[CS 455/555 - Intro to Networks and Communication](https://www.cs.odu.edu/~mweigle/CS455-S13)<br/>CS 795/895 - Applied Visual Analytics|
-|**2011-2012** | [CS 312 - Internet Concepts](http://www.cs.odu.edu/~mweigle/CS312-F11)<br/>CS 795/895 - Information Visualization|*maternity leave*|
+|**2011-2012** | [CS 312 - Internet Concepts](http://www.cs.odu.edu/~mweigle/CS312-F11)<br/>CS 795/895 - Information Visualization|*on leave*|
 |**2010-2011** | CS 312 - Internet Concepts<br/>CS 795/895 - Vehicular Networks|CS 455/555 - Intro to Networks and Communication<br/>CS 796/896 - Visual Analytics Seminar|
 |**2009-2010** | CS 312 - Internet Concepts<br/>CS 455/555 - Intro to Networks and Communication|CS 795/895 - Vehicular Networks<br/>CS 796/896 - Advanced Networking Seminar|
-|**2008-2009** | CS 312 - Internet Concepts<br/>CS 455/555 - Intro to Networks and Communication|*maternity leave*|
+|**2008-2009** | CS 312 - Internet Concepts<br/>CS 455/555 - Intro to Networks and Communication|*on leave*|
 |**2007-2008** | CS 455/555 - Intro to Networks and Communication<br/>CS 791/891 - VANET Seminar|CS 795/895 - Vehicular Networks|
 |**2006-2007** | CS 455/555 - Intro to Networks and Communication|CS 795/895 - Vehicular Networks|
 
