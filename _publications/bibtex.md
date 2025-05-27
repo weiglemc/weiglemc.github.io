@@ -7,6 +7,141 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [frew-resaw25](#frew-resaw25)
+
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Temporally Extending Existing Web Archive Collections for Longitudinal Analysis**," Talk presented at the 6th RESAW Conference, June 2025.
+
+[](#frew-resaw25Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {frew-resaw25,
+      author = {Lesley Frew and Michael L. Nelson and Michele C. Weigle},
+      title = {Temporally Extending Existing Web Archive Collections for Longitudinal Analysis},
+      howpublished = {Talk presented at the 6th RESAW Conference},
+      year = {2025},
+      month = jun,
+      pubdate = {202506}
+}
+```
+
+{% endraw %}
+
+## [garg-websci25](#garg-websci25)
+
+Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nelson, "**Not Here, Go There: Redirection Patterns in the Historical Web**," In *Proceedings of ACM Web Science*. May 2025.
+
+[](#garg-websci25Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {garg-websci25,
+      author = {Kritika Garg and Sawood Alam and Dietrich Ayala and Michele C. Weigle and Michael L. Nelson},
+      title = {Not Here, Go There: Redirection Patterns in the Historical Web},
+      booktitle = {Proceedings of ACM Web Science},
+      year = {2025},
+      month = may,
+      pubdate = {202505.1}
+}
+```
+
+{% endraw %}
+
+## [calano-websci25](#calano-websci25)
+
+David Calano, Michele C. Weigle, and Michael L. Nelson, "**GitHub Repository Complexity Leads to Diminished Web Archive Availability**," In *Proceedings of ACM Web Science*. May 2025. &nbsp;<a href='https://arxiv.org/abs/2505.15042' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#calano-websci25Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {calano-websci25,
+      author = {David Calano and Michele C. Weigle and Michael L. Nelson},
+      title = {GitHub Repository Complexity Leads to Diminished Web Archive Availability},
+      booktitle = {Proceedings of ACM Web Science},
+      year = {2025},
+      month = may,
+      pubdate = {202505.0},
+      arxiv = {https://arxiv.org/abs/2505.15042}
+}
+```
+
+{% endraw %}
+
+## [garg-wac25](#garg-wac25)
+
+Kritika Garg, Sawood Alam, Michele C. Weigle, Michael L. Nelson, Mark Graham, and Dietrich Ayala, "**Redirects Unraveled: From Lost Links to Rickrolls**," Poster presented at the IIPC Web Archiving Conference (WAC), April 2025.
+
+[](#garg-wac25Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {garg-wac25,
+      author = {Kritika Garg and Sawood Alam and Michele C. Weigle and Michael L. Nelson and Mark Graham and Dietrich Ayala},
+      title = {Redirects Unraveled: From Lost Links to Rickrolls},
+      howpublished = {Poster presented at the IIPC Web Archiving Conference (WAC)},
+      year = {2025},
+      month = apr,
+      pubdate = {202504.1}
+}
+```
+
+{% endraw %}
+
+## [kelly-wac25](#kelly-wac25)
+
+Mat Kelly, Alex H. Poole, Michele C. Weigle, Michael L. Nelson, Travis Reid, Christopher Rauch, and Hyung Wook Choi, "**What You See No One Saw**," Talk presented at the IIPC Web Archiving Conference (WAC), April 2025.
+
+[](#kelly-wac25Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@MISC {kelly-wac25,
+      author = {Mat Kelly and Alex H. Poole and Michele C. Weigle and Michael L. Nelson and Travis Reid and Christopher Rauch and Hyung Wook Choi},
+      title = {What You See No One Saw},
+      howpublished = {Talk presented at the IIPC Web Archiving Conference (WAC)},
+      year = {2025},
+      month = apr,
+      pubdate = {202504.0}
+}
+```
+
+{% endraw %}
+
+## [reid-2025](#reid-2025)
+
+Travis Reid, Alex H. Poole, Hyung Wook Choi, Christopher Rauch, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Archiving and Replaying Current Web Advertisements: Challenges and Opportunities**," Technical report arXiv:2502.01525, arXiv, February 2025. &nbsp;<a href='https://arxiv.org/abs/2502.01525' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#reid-2025Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@TECHREPORT {reid-2025,
+        author = {Travis Reid and Alex H. Poole and Hyung Wook Choi and Christopher Rauch and Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+        title = {Archiving and Replaying Current Web Advertisements: Challenges and Opportunities},
+        institution = {arXiv},
+        number = {arXiv:2502.01525 },
+        arxiv = {https://arxiv.org/abs/2502.01525},
+        year = 2025,
+        month = feb,
+       pubdate = {202502} 
+}
+```
+
+{% endraw %}
+
 ## [zheng-2025](#zheng-2025)
 
 Leah Prince and Michele C. Weigle, "**Examining Engagement with Disinformation Accounts on Instagram Using Web Archives**," Technical report, Old Dominion University, January 2025. <a href='https://www.cs.odu.edu/~mweigle/papers/prince-REU2024.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
