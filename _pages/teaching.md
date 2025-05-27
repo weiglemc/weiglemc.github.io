@@ -3,8 +3,8 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-next_semester: "Fall 2025"
-current_semester: "Spring 2025"
+next_semester: "Spring 2026"
+current_semester: "Fall 2025"
 ---
 {% include base_path %}
 
@@ -21,6 +21,8 @@ current_semester: "Spring 2025"
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+TBA
 
 ## {{ page.current_semester }}
 
