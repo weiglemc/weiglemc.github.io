@@ -11,8 +11,7 @@ Monday
 
 Tuesday - *sometimes on-campus*
 
-* 11-11:30am - Student Research Meeting (Jhon)
-* 2-5pm - Student Research Meetings (Travis, Himarsha, Tarannum, Lesley, Kritika)
+* 1:30-5pm - Student Research Meetings (Jhon, Travis, Himarsha, Tarannum, Lesley, Kritika)
 
 Wednesday
 
@@ -21,9 +20,9 @@ Wednesday
 Thursday
 
 * 2-3pm - Social Media Reach via TV News Research Planning Meeting
+* 3-4pm - "Not Your Parent's Web" Research Planning Meeting
 
 Friday
 
-* 11am-12pm - "Not Your Parent's Web" Research Planning Meeting
 * 11am-12pm - Student Research Meeting at VMASC (last Friday of each month)
 * 1-2pm - IMLS Web Ads Research Project Meeting (every other week, starting May 17)
