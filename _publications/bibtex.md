@@ -9,7 +9,7 @@ blogger-color: '#F37100'
 ---
 ## [frew-resaw25](#frew-resaw25)
 
-Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Temporally Extending Existing Web Archive Collections for Longitudinal Analysis**," Talk presented at the 6th RESAW Conference, June 2025.
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Temporally Extending Existing Web Archive Collections for Longitudinal Analysis**," Talk presented at the 6th RESAW Conference, June 2025. &nbsp;<a href='https://arxiv.org/abs/2505.24091' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#frew-resaw25Bib)
 **BibTeX entry:**
@@ -23,6 +23,7 @@ Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Temporally Extending E
       howpublished = {Talk presented at the 6th RESAW Conference},
       year = {2025},
       month = jun,
+      arxiv = {https://arxiv.org/abs/2505.24091},
       pubdate = {202506}
 }
 ```
