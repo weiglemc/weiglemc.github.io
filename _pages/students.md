@@ -144,7 +144,7 @@ blogger-color: "#F37100"
 1. Lesley Frew
 <a href="https://scholar.google.com/citations?hl=en&user=JmEpqjMAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://twitter.com/lesley_elis" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}"></i></a>
-    * "Surfacing Text Changes in Archived Webpages," Master's thesis, *Old Dominion University*, August 2024. 
+    * "[Surfacing Text Changes in Archived Webpages](https://digitalcommons.odu.edu/computerscience_etds/181/)," Master's thesis, *Old Dominion University*, August 2024. 
 1. Himarsha Jayanetti
 <a href="https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-4748-9176" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
