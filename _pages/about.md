@@ -15,13 +15,13 @@ I am a **Professor of Computer Science** at [Old Dominion University](https://ww
 
 For an overview of my research over the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018. I recently gave an [interview covering my background, our research group, and challenges facing web archive collections](https://circulatingnow.nlm.nih.gov/2022/11/10/whats-in-a-web-archive-collection-summarization-and-discovery-of-archived-webpages/) for the National Library of Medicine's [*Circulating Now* blog](https://circulatingnow.nlm.nih.gov/). I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit more about my background and experiences as a woman in computer science. For more information on my education and work experience, see my [bio](#bio).
 
-**Research Interests:** web science, social media, web archiving, information visualization (see some student infovis projects in  my [infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
+**Research Interests:** web science, social media, web archiving, scientific communication, information visualization (see some student infovis projects in  my [infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
 
 ## Teaching
 
-**Spring 2025**
+**Fall 2025**
 
-[CS 725/825 - Information Visualization & Data Analytics](https://weiglemc.github.io/teaching/2025-spr-cs725825) / MW 3-4:15 and online synchronous
+[CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2025-fall-cs625) / online asynchronous
 
 ## Research
 
@@ -41,8 +41,12 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 
 ## Active Funding
 
-* Mat Kelly (Drexel, PI), Alex Poole (Drexel), Michele C. Weigle (ODU PI), Michael L. Nelson, [Preserving Personalized Advertisements for More Accurate Web Archives](https://www.imls.gov/grants/awarded/lg-256695-ols-24), Aug 2024 - Jul 2026, IMLS National Leadership Grant, \$398,926.90 (\$198,793 to ODU) - [blog post (Drexel)](https://log.lab.matkelly.com/imls-webads-2024)
-* Erika Frydenlund (PI, VMASC), Jose Padilla (VMASC), Michele C. Weigle, Jennifer Fish, Michael L. Nelson, Michaela Hynie (York University, Canada), Hanne Haaland (Univ of Agder, Norway), Hege Wallevik (Univ of Agder, Norway), Katherine Palacio-Salgar (Universidad del Norte, Colombia), [What's Missing? Innovating Interdisciplinary Methods for Hard-to-Reach Environments](https://minerva.defense.gov/Research/Funded-Projects/Article/2957187/innovating-interdisciplinary-methods-for-hard-to-reach-environments/), Jul 2022 - Jul 2025, Department of Defense Minerva Research Initiative, $1,700,245  - [blog post](https://ws-dl.blogspot.com/2022/03/2022-03-03-whats-missing-innovating.html)
+*As of April 2025, all of my active federal grants have been terminated. For more information, see [Thank you to NEH, IMLS, DoD Minerva, and NSF](https://ws-dl.blogspot.com/2025/05/2025-05-08-thank-you-to-neh-imls-dod.html).* 
+
+## Recent Funding
+
+* Mat Kelly (Drexel, PI), Alex Poole (Drexel), Michele C. Weigle (ODU PI), Michael L. Nelson, [Preserving Personalized Advertisements for More Accurate Web Archives](https://www.imls.gov/grants/awarded/lg-256695-ols-24), Aug 2024 - ~~Jul 2026~~ Apr 2025, IMLS National Leadership Grant, \$398,926.90 (\$198,793 to ODU) - [blog post (Drexel)](https://log.lab.matkelly.com/imls-webads-2024)
+* Erika Frydenlund (PI, VMASC), Jose Padilla (VMASC), Michele C. Weigle, Jennifer Fish, Michael L. Nelson, Michaela Hynie (York University, Canada), Hanne Haaland (Univ of Agder, Norway), Hege Wallevik (Univ of Agder, Norway), Katherine Palacio-Salgar (Universidad del Norte, Colombia), [What's Missing? Innovating Interdisciplinary Methods for Hard-to-Reach Environments](https://minerva.defense.gov/Research/Funded-Projects/Article/2957187/innovating-interdisciplinary-methods-for-hard-to-reach-environments/), Jul 2022 - ~~Jul 2025~~ Feb 2025, Department of Defense Minerva Research Initiative, $1,700,245  - [blog post](https://ws-dl.blogspot.com/2022/03/2022-03-03-whats-missing-innovating.html)
 * Sampath Jayarathna (PI), Jian Wu, Senior Personnel: Michele C. Weigle, Michael Nelson, Vikas Ashok, Faryaneh Poursardar, Anne Perrotti (Education), Erika Frydenlund (VMASC), [REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics](http://reu.cs.odu.edu/), NSF REU Site (CNS 2149607), Mar 2022 - Feb 2025, $324,000.
 
 *My full funding list is available in my [CV](https://weiglemc.github.io/cv/).*
