@@ -33,12 +33,6 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 <a href="https://twitter.com/WebSciDL" target="_blank" class="btn btn--mcw"><i class="fab fa-twitter" style="color: {{ page.twitter-color }}"></i><span> WS-DL Twitter</span></a>
 {: style="text-align: center;"}
 
-{% for post in site.publications reversed %}
-  {% if post.type == "recent" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
 ## Active Funding
 
 *As of April 2025, all of my active federal grants have been terminated. For more information, see [Thank you to NEH, IMLS, DoD Minerva, and NSF](https://ws-dl.blogspot.com/2025/05/2025-05-08-thank-you-to-neh-imls-dod.html).* 
@@ -50,6 +44,19 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 * Sampath Jayarathna (PI), Jian Wu, Senior Personnel: Michele C. Weigle, Michael Nelson, Vikas Ashok, Faryaneh Poursardar, Anne Perrotti (Education), Erika Frydenlund (VMASC), [REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics](http://reu.cs.odu.edu/), NSF REU Site (CNS 2149607), Mar 2022 - Feb 2025, $324,000.
 
 *My full funding list is available in my [CV](https://weiglemc.github.io/cv/).*
+
+{% for post in site.publications reversed %}
+  {% if post.type == "recent" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Awards
+
+* John R. Broderick Diversity Champion Award, ODU (2023)
+* Shining Star Award, ODU Division of Student Engagement and Enrollment Services (Spring
+2016, Fall 2015, Fall 2014, Spring 2011)
+* Distinguished Teaching Award for Tenured Faculty, ODU College of Sciences (2013-2014)
 
 ## Service
 
