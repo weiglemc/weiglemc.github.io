@@ -11,7 +11,7 @@ Monday
 
 Tuesday - *sometimes on-campus*
 
-* 1:30-5pm - Student Research Meetings (Jhon, Travis, Himarsha, Tarannum, Lesley, Kritika)
+* 1:30-5pm - Student Research Meetings (Jhon, Travis, Lesley, Tarannum, Kritika)
 
 Wednesday
 
