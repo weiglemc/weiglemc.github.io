@@ -7,6 +7,52 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [zaki-ht25](#zaki-ht25)
+
+Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Verifying Attribution in Twitter Screenshots**," In *Proceedings of ACM Hypertext*. September 2025.
+
+[](#zaki-ht25Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {zaki-ht25,
+      author = {Tarannum Zaki and Michael L. Nelson and Michele C. Weigle},
+      title = {Web Archives for Verifying Attribution in Twitter Screenshots},
+      booktitle = {Proceedings of ACM Hypertext},
+      year = {2025},
+      month = sep,
+      pubdate = {202509}
+}
+```
+
+{% endraw %}
+
+## [garg-tr2025](#garg-tr2025)
+
+Kritika Garg, Sawood Alam, Dietrich Ayala, Mark Graham, Michele C. Weigle, and Michael L. Nelson, "**Longitudinal Sampling of URLs From the Wayback Machine**," Technical report arXiv:2507.14752, arXiv, July 2025. &nbsp;<a href='https://arxiv.org/abs/2507.14752' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#garg-tr2025Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@TECHREPORT {garg-tr2025,
+        author = {Kritika Garg and Sawood Alam and Dietrich Ayala and Mark Graham and Michele C. Weigle and Michael L. Nelson},
+        title = {Longitudinal Sampling of {URLs} From the Wayback Machine},
+        institution = {arXiv},
+        number = {arXiv:2507.14752},
+        arxiv = {https://arxiv.org/abs/2507.14752},
+        year = 2025,
+        month = jul,
+       pubdate = {202507} 
+}
+```
+
+{% endraw %}
+
 ## [frew-resaw25](#frew-resaw25)
 
 Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Temporally Extending Existing Web Archive Collections for Longitudinal Analysis**," Talk presented at the 6th RESAW Conference, June 2025. &nbsp;<a href='https://arxiv.org/abs/2505.24091' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
@@ -32,7 +78,7 @@ Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Temporally Extending E
 
 ## [garg-websci25](#garg-websci25)
 
-Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nelson, "**Not Here, Go There: Redirection Patterns in the Historical Web**," In *Proceedings of ACM Web Science*. May 2025.
+Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nelson, "**Not Here, Go There: Redirection Patterns in the Historical Web**," In *Proceedings of ACM Web Science*. May 2025. &nbsp;<a href='https://arxiv.org/abs/2507.22019' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#garg-websci25Bib)
 **BibTeX entry:**
@@ -46,7 +92,8 @@ Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nel
       booktitle = {Proceedings of ACM Web Science},
       year = {2025},
       month = may,
-      pubdate = {202505.1}
+      pubdate = {202505.1},
+      arxiv = {https://arxiv.org/abs/2507.22019}
 }
 ```
 
@@ -119,17 +166,17 @@ Mat Kelly, Alex H. Poole, Michele C. Weigle, Michael L. Nelson, Travis Reid, Chr
 
 {% endraw %}
 
-## [reid-2025](#reid-2025)
+## [reid-tr2025](#reid-tr2025)
 
 Travis Reid, Alex H. Poole, Hyung Wook Choi, Christopher Rauch, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Archiving and Replaying Current Web Advertisements: Challenges and Opportunities**," Technical report arXiv:2502.01525, arXiv, February 2025. &nbsp;<a href='https://arxiv.org/abs/2502.01525' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
-[](#reid-2025Bib)
+[](#reid-tr2025Bib)
 **BibTeX entry:**
 
 {% raw %}
 
 ```bibtex
-@TECHREPORT {reid-2025,
+@TECHREPORT {reid-tr2025,
         author = {Travis Reid and Alex H. Poole and Hyung Wook Choi and Christopher Rauch and Mat Kelly and Michael L. Nelson and Michele C. Weigle},
         title = {Archiving and Replaying Current Web Advertisements: Challenges and Opportunities},
         institution = {arXiv},
@@ -143,17 +190,17 @@ Travis Reid, Alex H. Poole, Hyung Wook Choi, Christopher Rauch, Mat Kelly, Micha
 
 {% endraw %}
 
-## [zheng-2025](#zheng-2025)
+## [prince-tr2025](#prince-tr2025)
 
 Leah Prince and Michele C. Weigle, "**Examining Engagement with Disinformation Accounts on Instagram Using Web Archives**," Technical report, Old Dominion University, January 2025. <a href='https://www.cs.odu.edu/~mweigle/papers/prince-REU2024.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
-[](#zheng-2025Bib)
+[](#prince-tr2025Bib)
 **BibTeX entry:**
 
 {% raw %}
 
 ```bibtex
-@TECHREPORT {zheng-2025,
+@TECHREPORT {prince-tr2025,
         author = {Leah Prince and Michele C. Weigle},
         title = {Examining Engagement with Disinformation Accounts on Instagram Using Web Archives},
         institution = {Old Dominion University},

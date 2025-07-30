@@ -47,6 +47,7 @@ blogger-color: "#F37100"
 1. Kehinde (Kenny) Ajayi (ABD)
 <a href="https://scholar.google.com/citations?hl=en&user=ib2zhJQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: Jian Wu)
+1. David Calano (advisor: Michael L. Nelson)
 1. Kimberley Cossey, Higher Education
 <a href="https://scholar.google.com/citations?hl=en&user=ct7cj84AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://twitter.com/cosseykimberley" target="_blank"><i class="fab fa-fw fa-twitter" style="color: {{ page.twitter-color }}" ></i></a>
@@ -260,9 +261,9 @@ blogger-color: "#F37100"
 ### Undergraduates
 
 1. Leah Prince <a href="https://leahp21.github.io/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
-<a href="https://www.linkedin.com/in/leah-prince-cs/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, University of Maryland Baltimore County (Summer 2024 REU)
+<a href="https://www.linkedin.com/in/leah-prince-cs/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2025, University of Maryland Baltimore County (Summer 2024 REU)
 1. Rachel Zheng <a href="https://rachelzheng03.github.io/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
-<a href="https://www.linkedin.com/in/rachel-zheng-41478a251/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, William & Mary (Summer 2023 REU)
+<a href="https://www.linkedin.com/in/rachel-zheng-41478a251/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2025, William & Mary (Summer 2023 REU)
 1. Haley Bragg  <a href="https://haleybragg.github.io/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://www.linkedin.com/in/haley-bragg-896755276/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2023, Christopher Newport Univ (Summer 2022 REU)
 1. Abigail Mabe <a href="https://www.linkedin.com/in/abigail-mabe/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2020 (Spring 2019-Spring 2020) - MS 2021, ODU
