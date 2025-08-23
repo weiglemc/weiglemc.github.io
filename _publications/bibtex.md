@@ -19,7 +19,7 @@ Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Ver
 ```bibtex
 @INPROCEEDINGS {zaki-ht25,
       author = {Tarannum Zaki and Michael L. Nelson and Michele C. Weigle},
-      title = {Web Archives for Verifying Attribution in Twitter Screenshots},
+      title = {Web Archives for Verifying Attribution in \{Twitter\} Screenshots},
       booktitle = {Proceedings of ACM Hypertext},
       year = {2025},
       month = sep,
@@ -134,7 +134,7 @@ Kritika Garg, Sawood Alam, Michele C. Weigle, Michael L. Nelson, Mark Graham, an
 ```bibtex
 @MISC {garg-wac25,
       author = {Kritika Garg and Sawood Alam and Michele C. Weigle and Michael L. Nelson and Mark Graham and Dietrich Ayala},
-      title = {Redirects Unraveled: From Lost Links to Rickrolls},
+      title = {Redirects Unraveled: From Lost Links to {Rickrolls}},
       howpublished = {Poster presented at the IIPC Web Archiving Conference (WAC)},
       year = {2025},
       month = apr,
@@ -202,7 +202,7 @@ Leah Prince and Michele C. Weigle, "**Examining Engagement with Disinformation A
 ```bibtex
 @TECHREPORT {prince-tr2025,
         author = {Leah Prince and Michele C. Weigle},
-        title = {Examining Engagement with Disinformation Accounts on Instagram Using Web Archives},
+        title = {Examining Engagement with Disinformation Accounts on {Instagram} Using Web Archives},
         institution = {Old Dominion University},
         pdf = {https://www.cs.odu.edu/~mweigle/papers/prince-REU2024.pdf},
         year = 2025,
@@ -271,7 +271,7 @@ Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "**Retrogressive Document
 ```bibtex
 @INPROCEEDINGS {frew-cikm24,
      author    = {Lesley Frew and Michael L. Nelson and Michele C. Weigle},
-     title = {Retrogressive Document Manipulation of US Federal Environmental Websites},
+     title = {Retrogressive Document Manipulation of {US} Federal Environmental Websites},
      booktitle = {Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)},
      year = {2024},
      month = oct,
@@ -317,7 +317,7 @@ Vicky Rampin, Talya Cooper, Martin Klein, David Wilkinson, Lyudmila Balakireva, 
 ```bibtex
 @MISC {rampin-ipres24,
       author = {Vicky Rampin and Talya Cooper and Martin Klein and David Wilkinson and Lyudmila Balakireva and Emily Escamilla and David Calano and Michael L. Nelson and Michele C. Weigle},
-      title = {Using the CoSAI ecosystem to archive scholarly code with docs and discussions},
+      title = {Using the {CoSAI} ecosystem to archive scholarly code with docs and discussions},
       howpublished = {Demo presented at the International Conference on Digital Preservation (iPRES)},
       year = {2024},
       month = sep,
@@ -339,7 +339,7 @@ Kritika Garg, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, "**Some URL
 ```bibtex
 @MISC {garg-ipres24,
       author = {Kritika Garg and Sawood Alam and Michele C. Weigle and Michael L. Nelson},
-      title = {Some URLs Are Immortal, Most Are Ephemeral},
+      title = {Some {URLs} Are Immortal, Most Are Ephemeral},
       howpublished = {Poster presented at the International Conference on Digital Preservation (iPRES)},
       year = {2024},
       month = sep,
@@ -459,7 +459,7 @@ Emily Escamilla, Vicky Rampin, Jian Wu, Martin Klein, Michele Weigle, and Michae
 ```bibtex
 @MISC {escamilla-icssi24,
       author = {Emily Escamilla and Vicky Rampin and Jian Wu and Martin Klein and Michele Weigle and Michael Nelson},
-      title = {Toward Long-term Computational Reproducibility: Assessing the Archival Rate of URLs to Git Hosting Platforms in Scholarly Publications},
+      title = {Toward Long-term Computational Reproducibility: Assessing the Archival Rate of {URLs} to {Git} Hosting Platforms in Scholarly Publications},
       howpublished = {Presented at the International Conference on the Science of Science & Innovation},
       year = {2024},
       month = jul,
@@ -547,7 +547,7 @@ Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Ver
 ```bibtex
 @MISC {zaki-msvcc24,
       author = {Tarannum Zaki and Michael L. Nelson and Michele C. Weigle},
-      title = {Web Archives for Verifying Attribution in Twitter Screenshots},
+      title = {Web Archives for Verifying Attribution in {Twitter} Screenshots},
       howpublished = {Presented at the 17th Annual MSV Student Capstone Conference},
       year = {2024},
       month = mar,
@@ -595,7 +595,7 @@ Rachel Zheng and Michele C. Weigle, "**Examining the Challenges in Archiving Ins
 ```bibtex
 @TECHREPORT {zheng-2024,
         author = {Rachel Zheng and Michele C. Weigle},
-        title = {Examining the Challenges in Archiving Instagram},
+        title = {Examining the Challenges in Archiving {Instagram}},
         institution = {arXiv},
         number = {arXiv:2401.02029},
         arxiv = {https://arxiv.org/abs/2401.02029},
