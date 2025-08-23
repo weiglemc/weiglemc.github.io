@@ -19,7 +19,7 @@ Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Ver
 ```bibtex
 @INPROCEEDINGS {zaki-ht25,
       author = {Tarannum Zaki and Michael L. Nelson and Michele C. Weigle},
-      title = {Web Archives for Verifying Attribution in \{Twitter\} Screenshots},
+      title = {Web Archives for Verifying Attribution in {Twitter} Screenshots},
       booktitle = {Proceedings of ACM Hypertext},
       year = {2025},
       month = sep,
