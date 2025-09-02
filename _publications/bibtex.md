@@ -9,7 +9,7 @@ blogger-color: '#F37100'
 ---
 ## [zaki-ht25](#zaki-ht25)
 
-Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Verifying Attribution in Twitter Screenshots**," In *Proceedings of ACM Hypertext*. September 2025.
+Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Verifying Attribution in Twitter Screenshots**," In *Proceedings of ACM Hypertext*. September 2025. <a href='https://dx.doi.org/10.1145/3720553.3746682' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#zaki-ht25Bib)
 **BibTeX entry:**
@@ -23,6 +23,7 @@ Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Ver
       booktitle = {Proceedings of ACM Hypertext},
       year = {2025},
       month = sep,
+      doi = {10.1145/3720553.3746682},
       pubdate = {202509}
 }
 ```
