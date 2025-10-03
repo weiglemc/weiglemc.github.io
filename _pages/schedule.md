@@ -3,7 +3,7 @@ permalink: /schedule/
 title: "Schedule/Travel"
 ---
 
-## Fall 2025 Schedule
+## Fall 2025 Standing Meeting Schedule
 
 Monday
 
