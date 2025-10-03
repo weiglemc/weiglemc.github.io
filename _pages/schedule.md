@@ -3,26 +3,28 @@ permalink: /schedule/
 title: "Schedule/Travel"
 ---
 
-## Summer 2025 Schedule
+## Fall 2025 Schedule
 
 Monday
 
 * 10-11am - Research Planning Meeting
 
-Tuesday - *sometimes on-campus*
+Tuesday
 
-* 1:30-5pm - Student Research Meetings (Jhon, Travis, Lesley, Tarannum, Kritika)
+* 1:30-4pm - Student Research Meetings (Jhon, Travis, Tarannum, Kritika, David)
+* 6:30-7:30pm - Office Hours
 
 Wednesday
 
 * 9:30-10:30am - WS-DL Faculty Meeting (every 3rd Wed of month)
+* 4:30-5pm - Student Research Meeting (Lesley) - every other week
+* 7-8pm - Office Hours
 
 Thursday
 
-* 2-3pm - Social Media Reach via TV News Research Planning Meeting
-* 3-4pm - "Not Your Parent's Web" Research Planning Meeting
+* 3-4pm - Student Research Meeting (Kritika w/Internet Archive)
 
 Friday
 
-* 11am-12pm - Student Research Meeting at VMASC (last Friday of each month)
-* 1-2pm - IMLS Web Ads Research Project Meeting (every other week, starting May 17)
+* 11am-12pm - Student Research Meeting (Himarsha w/W&M)
+* 4-5pm - Office Hours
