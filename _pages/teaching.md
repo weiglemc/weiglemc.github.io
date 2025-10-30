@@ -14,16 +14,6 @@ current_semester: "Fall 2025"
 
 **June 2014:** Posted computer networking explainer videos: ["Compute IP range given CIDR address"](https://www.youtube.com/watch?v=ls1mMyfnaC0) (72K+ views), ["Compute CIDR given IP range and netmask"](https://www.youtube.com/watch?v=PnApdHjU8sg) (11K+ views), ["Powers of 2 example"](https://www.youtube.com/watch?v=1-yOrnWwM4M)
 
-## {{ page.next_semester }}
-
-{% for post in site.teaching %}
-  {% if post.semester == page.next_semester %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-TBA
-
 ## {{ page.current_semester }}
 
 {% for post in site.teaching %}
@@ -37,7 +27,7 @@ TBA
 
 | |Fall | Spring |
 |---|---|---|
-|**2025-2026** | [CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2025-fall-cs625) | TBD |
+|**2025-2026** | [CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2025-fall-cs625) | *moved to Associate Dean position* |
 |**2024-2025** | [CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2024-fall-cs625) | [CS 725/825 - Information Visualization](https://weiglemc.github.io/teaching/2025-spr-cs725825) |
 |**2023-2024** | [CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2023-fall-cs625) | [CS 725/825 - Information Visualization](https://weiglemc.github.io/teaching/2024-spr-cs725825)|
 |**2022-2023** | *research leave*|[CS 725/825 - Information Visualization](https://weiglemc.github.io/teaching/2023-spr-cs725825)|
