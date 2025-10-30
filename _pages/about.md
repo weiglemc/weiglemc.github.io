@@ -77,7 +77,8 @@ Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion Univers
 
 ### Academic Timeline
 
-* July 2018 - present, Professor, [Computer Science](https://www.cs.odu.edu/), [Old Dominion University](https://www.odu.edu/)
+* October 2025 - present, Associate Dean, [Graduate School](https://www.odu.edu/graduateschool), [Old Dominion University](https://www.odu.edu/)
+* July 2018 - present, Professor, [Computer Science](https://www.cs.odu.edu/), Old Dominion University
 * July 2012 - July 2018, Associate Professor, Computer Science, Old Dominion University
 * July 2006 - July 2012, Assistant Professor, Computer Science, Old Dominion University
 * July 2004 - July 2006, Assistant Professor, [Computer Science](http://www.clemson.edu/ces/departments/computing/), [Clemson University](http://www.clemson.edu)
