@@ -15,7 +15,7 @@ I am a **Professor of Computer Science** at [Old Dominion University](https://ww
 
 For an overview of my research over the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018. I recently gave an [interview covering my background, our research group, and challenges facing web archive collections](https://circulatingnow.nlm.nih.gov/2022/11/10/whats-in-a-web-archive-collection-summarization-and-discovery-of-archived-webpages/) for the National Library of Medicine's [*Circulating Now* blog](https://circulatingnow.nlm.nih.gov/). I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit more about my background and experiences as a woman in computer science. For more information on my education and work experience, see my [bio](#bio).
 
-**Research Interests:** web science, social media, web archiving, scientific communication, information visualization (see some student infovis projects in  my [infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
+**Research Interests:** web archiving, social media, web science, data visualization (see student data vis projects in my [gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
 
 ## Teaching
 
@@ -73,7 +73,7 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 
 ## Bio
 
-Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion University. Her research interests include web science, social media, web archiving, and information visualization. She has published over 150 articles in peer-reviewed conferences and journals and has served as PI or Co-PI on external research grants totaling over $6.5M from a wide range of funders, including the National Science Foundation, the National Endowment for the Humanities, the Institute of Museum and Library Services, and the Andrew W. Mellon Foundation. She currently serves on the editorial boards of the *Journal of the Association for Information Science and Technology* (JASIST) and the *International Journal on Digital Libraries* (IJDL). Dr. Weigle received her PhD in computer science from the University of North Carolina in 2003.
+Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion University. Her research interests include web archiving, social media, web science, and data visualization. She has published over 150 articles in peer-reviewed conferences and journals and has served as PI or Co-PI on external research grants totaling over $6.7M from a wide range of funders, including the National Science Foundation, the National Endowment for the Humanities, the Institute of Museum and Library Services, and the Andrew W. Mellon Foundation. She currently serves on the editorial boards of the *Journal of the Association for Information Science and Technology* (JASIST) and the *International Journal on Digital Libraries* (IJDL). Dr. Weigle received her PhD in computer science from the University of North Carolina in 2003.
 
 ### Academic Timeline
 
