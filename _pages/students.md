@@ -47,6 +47,7 @@ blogger-color: "#F37100"
 
 1. Hind Aldabagh
 <a href="https://scholar.google.com/citations?user=EOvlh0oAAAAJ&hl=en&oi=sra" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://www.linkedin.com/in/hind-aldabagh-b02141274/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Ravi Mukkamala)
 1. David Calano (ABD)
 <a href="https://scholar.google.com/citations?user=9K_kB5QAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -56,12 +57,14 @@ blogger-color: "#F37100"
 (advisor: David Ayers)
 1. Md. Javedul Ferdous (ABD)
 <a href="https://scholar.google.com/citations?user=_cuPy0wAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://www.linkedin.com/in/javedulferdous/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Vikas Ashok)
 1. Morteza Gharasuie (ABD)
 <a href="https://scholar.google.com/citations?user=f6ar4e8AAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisors: Ravi Mukkamala, Fengjiao Wang)
 1. Xiaoqin Liang (ABD)
 <a href="https://scholar.google.com/citations?user=4kTxTjkAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://www.linkedin.com/in/xiaoqin-liang-1575a51a0/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
 (advisor: Shuai Hao)
 
 ## Former Students
@@ -185,15 +188,15 @@ blogger-color: "#F37100"
 
 ### PhD Committee Member
 1. Kehinde Ajayi 
-<a href="https://scholar.google.com/citations?hl=en&user=ib2zhJQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Dec 2025 (advisor: Jian Wu)
+<a href="https://scholar.google.com/citations?hl=en&user=ib2zhJQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> <a href="https://www.linkedin.com/in/ajayikehindepeter/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2025 (advisor: Jian Wu)
 1. Ivan Makohon 
-<a href="https://scholar.google.com/citations?hl=en&user=GC-3lOcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Dec 2025 (advisor: Yaohang Li)
+<a href="https://scholar.google.com/citations?hl=en&user=GC-3lOcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> <a href="https://www.linkedin.com/in/ivan-makohon-b16ab71a0/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2025 (advisor: Yaohang Li)
 1. Bhanuka Mahanama 
-<a href="https://scholar.google.com/citations?hl=en&user=4gSzSJ0AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Aug 2025 (advisor: Sampath Jayarathna)
+<a href="https://scholar.google.com/citations?hl=en&user=4gSzSJ0AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> <a href="https://www.linkedin.com/in/rajithbhanukamahanama/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2025 (advisor: Sampath Jayarathna)
 1. Yash Prakash 
-<a href="https://scholar.google.com/citations?user=DOlm7Q8AAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Aug 2025 (advisor: Vikas Ashok)
+<a href="https://scholar.google.com/citations?user=DOlm7Q8AAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> <a href="https://www.linkedin.com/in/yash-prakash-030292162/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2025 (advisor: Vikas Ashok)
 1. Mohan Krishna Sunkara 
-<a href="https://scholar.google.com/citations?user=MbQDa7wAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Aug 2025 (advisor: Vikas Ashok)
+<a href="https://scholar.google.com/citations?user=MbQDa7wAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> <a href="https://www.linkedin.com/in/dr-mohan-krishna-sunkara-phd-817ba8ab/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2025 (advisor: Vikas Ashok)
 1. Xin Wei 
 <a href="https://scholar.google.com/citations?hl=en&user=6xyfqsgAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Aug 2025 (advisor: Jian Wu)
 1. Muntabir Choudhury <a href="https://scholar.google.com/citations?hl=en&user=HudTafsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -207,21 +210,21 @@ blogger-color: "#F37100"
 <a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2024 (advisor: Sampath Jayarathna)
 1. Ryan Florin <a href="https://scholar.google.com/citations?hl=en&user=HNicVaEAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/ryanflorin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2021 (advisor: Stephan Olariu)
-1. Sawood Alam, Dec 2020 (advisor: Michael L. Nelson)
-1. Aida Ghazizadeh, Aug 2020 (advisor: Stephan Olariu)
-1. Maha Abdelrasoul, Aug 2018 (advisor: Yaohang Li)
+1. Sawood Alam <a href="https://www.linkedin.com/in/ibnesayeed/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2020 (advisor: Michael L. Nelson)
+1. Aida Ghazizadeh <a href="https://www.linkedin.com/in/aidaghazizadeh/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2020 (advisor: Stephan Olariu)
+1. Maha Abdelrasoul <a href="https://www.linkedin.com/in/maha-abdelrasoul/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2018 (advisor: Yaohang Li)
 1. Abdulla Alasaadi, Dec 2017 (advisor: Tamer Nadeem)
-1. Mostafa Uddin, Aug 2016 (advisor: Tamer Nadeem)
+1. Mostafa Uddin <a href="https://www.linkedin.com/in/mostafa-uddin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2016 (advisor: Tamer Nadeem)
 1. Xianping Wang, Aug 2016 (advisor: Stephan Olariu)
-1. Hany SalahEldeen, Aug 2015 (advisor: Michael L. Nelson)
-1. Chuck Cartledge, Aug 2014 (advisor: Michael L. Nelson)
-1. Puya Ghazizadeh, Aug 2014 (advisor: Stephan Olariu)
-1. Ahmed AlSum, May 2014 (advisor: Michael L. Nelson)
-1. Samiur Arif, May 2014 (advisor: Stephan Olariu)
-1. Samy El-Tawab, Aug 2012 (advisor: Stephan Olariu)
-1. Mahmoud Abuelela, Aug 2011 (advisor: Stephan Olariu)
-1. Martin Klein, Aug 2011 (advisor: Michael L. Nelson)
-1. Filip Cuckov (ECE), Dec 2009 (advisor: Min Song)
+1. Hany SalahEldeen <a href="https://www.linkedin.com/in/hany-salaheldeen/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2015 (advisor: Michael L. Nelson)
+1. Charles Cartledge <a href="https://www.linkedin.com/in/charlescartledge/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2014 (advisor: Michael L. Nelson)
+1. Puya Ghazizadeh <a href="https://www.linkedin.com/in/puyagh/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2014 (advisor: Stephan Olariu)
+1. Ahmed AlSum <a href="https://www.linkedin.com/in/aalsum/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2014 (advisor: Michael L. Nelson)
+1. Samiur Arif <a href="https://www.linkedin.com/in/samiur-a-587a5343/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, May 2014 (advisor: Stephan Olariu)
+1. Samy El-Tawab <a href="https://www.linkedin.com/in/samy-el-tawab/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2012 (advisor: Stephan Olariu)
+1. Mahmoud Abuelela <a href="https://www.linkedin.com/in/mahmoud-abuelela-0b857925/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2011 (advisor: Stephan Olariu)
+1. Martin Klein <a href="https://www.linkedin.com/in/martinklein0815/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2011 (advisor: Michael L. Nelson)
+1. Filip Cuckov (ECE) <a href="[https://www.linkedin.com/in/martinklein0815/](https://www.linkedin.com/in/filip-cuckov/)" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2009 (advisor: Min Song)
 
 ### MS Thesis Committee Member
 
