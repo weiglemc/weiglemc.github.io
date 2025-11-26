@@ -45,9 +45,9 @@ blogger-color: "#F37100"
 
 ### PhD Committee Member
 
-1. Kehinde Ajayi (ABD)
-<a href="https://scholar.google.com/citations?hl=en&user=ib2zhJQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-(advisor: Jian Wu)
+1. Hind Aldabagh
+<a href="https://scholar.google.com/citations?user=EOvlh0oAAAAJ&hl=en&oi=sra" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+(advisor: Ravi Mukkamala)
 1. David Calano (ABD)
 <a href="https://scholar.google.com/citations?user=9K_kB5QAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: Michael L. Nelson)
@@ -63,19 +63,6 @@ blogger-color: "#F37100"
 1. Xiaoqin Liang (ABD)
 <a href="https://scholar.google.com/citations?user=4kTxTjkAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: Shuai Hao)
-1. Ivan Makohon (ABD)
-<a href="https://scholar.google.com/citations?hl=en&user=GC-3lOcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-(advisor: Yaohang Li)
-1. Bhanuka Mahanama (ABD)
-<a href="https://scholar.google.com/citations?hl=en&user=4gSzSJ0AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-(advisor: Sampath Jayarathna)
-1. Yash Prakash (ABD)
-<a href="https://scholar.google.com/citations?user=DOlm7Q8AAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> (advisor: Vikas Ashok)
-1. Mohan Krishna Sunkara (ABD)
-<a href="https://scholar.google.com/citations?user=MbQDa7wAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> (advisor: Vikas Ashok)
-1. Xin Wei (ABD)
-<a href="https://scholar.google.com/citations?hl=en&user=6xyfqsgAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-(advisor: Jian Wu)
 
 ## Former Students
 
@@ -92,14 +79,23 @@ blogger-color: "#F37100"
 <a href="https://orcid.org/0000-0003-1360-7963" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/shawnmjones" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/shawnmorganjones/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-, August 2021 (primary advisor: Michael L. Nelson)
+(primary advisor: Michael L. Nelson)
+    *  "[Improving Collection Understanding for Web Archives with Storytelling: Shining Light Into Dark and Stormy Archives](https://digitalcommons.odu.edu/computerscience_etds/131/)", PhD thesis, *Old Dominion University*, August 2021. <a href="https://ws-dl.blogspot.com/2021/09/2021-09-01-from-student-to-researcher.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
+    * Current Job: Developer Relations Engineer, Google
 1. Mohamed Aturban
 <a href="https://mohamedaturban.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://scholar.google.com/citations?user=uFe4KTUAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/mohamed-aturban-a0777433/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[A Framework for Verifying the Fixity of Archived Web Resources](https://digitalcommons.odu.edu/computerscience_etds/125/)," PhD thesis, *Old Dominion University*, August 2020. <a href="https://ws-dl.blogspot.com/2020/09/2020-09-28-phd-is-very-long-tunnel-with.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
-   * First Job: Assistant Professor, Columbia College
-1. Alexander Nwala, August 2020 (primary advisor: Michael L. Nelson)
+   * First Job: Assistant Professor, [Columbia College](https://www.ccis.edu/faculty/profiles/mohamed-aturban)
+1. Alexander Nwala
+<a href="https://alexandernwala.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://scholar.google.com/citations?user=LqrUey4AAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://orcid.org/0000-0003-3408-791X" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
+<a href="https://www.linkedin.com/in/alexander-nwala-405a37229/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
+(primary advisor: Michael L. Nelson)
+    *  "[Bootstrapping Web Archive Collections From Micro-Collections in Social Media](https://digitalcommons.odu.edu/computerscience_etds/124/)", PhD thesis, *Old Dominion University*, August 2020. <a href="https://ws-dl.blogspot.com/2020/09/2020-09-28-my-report-card-to-my-mother.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
+    * Current Job: Assistant Professor of Data Science, [William & Mary](https://www.wm.edu/as/data-science/people/nwala-alexander.php)
 1. Mat Kelly
 <a href="https://matkelly.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
@@ -107,7 +103,7 @@ blogger-color: "#F37100"
 <a href="https://github.com/machawk1" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
 <a href="https://www.linkedin.com/in/matkelly/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[Aggregating Private and Public Web Archives Using the Mementity Framework](https://digitalcommons.odu.edu/computerscience_etds/94/)," PhD thesis, *Old Dominion University*, August 2019. <a href="https://ws-dl.blogspot.com/2019/09/2019-09-02-so-long-and-thanks-for-all.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
-   * First Job: Assistant Professor, Drexel University
+   * Current Job: Assistant Professor of Information Science, [Drexel University](https://drexel.edu/cci/about/directory/K/Kelly-Mat/)
 1. Lulwah Alkwai
 <a href="https://scholar.google.com/citations?hl=en&user=EnQF73AAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/lulwah-alkwai-45495283/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
@@ -116,8 +112,20 @@ blogger-color: "#F37100"
 1. Hassan Hadi Latheeth AL-Maksousy
 <a href="https://www.linkedin.com/in/hassan-hadi-latheeth-al-maksousy-7a6b15152/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[Applying Machine Learning to Advance Cyber Security: Network Based Intrusion Detection Systems](https://digitalcommons.odu.edu/computerscience_etds/42)," PhD thesis, *Old Dominion University*, December 2018, co-advised with Cong Wang
-1. Yasmin AlNoamany, August 2016 (primary advisor: Michael L. Nelson)
-1. Justin Brunelle, May 2016 (primary advisor: Michael L. Nelson)
+1. Yasmin AlNoamany
+<a href="https://scholar.google.com/citations?user=bRlYmNcAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://www.linkedin.com/in/yasminalnoamany/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
+(primary advisor: Michael L. Nelson)
+    *  "[Using Web Archives to Enrich the Live Web Experience Through Storytelling](https://digitalcommons.odu.edu/computerscience_etds/13/)", PhD thesis, *Old Dominion University*, August 2016. <a href="https://ws-dl.blogspot.com/2016/09/2016-09-20-promising-scene-at-end-of.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
+    * First Job: Post-doc in Data Curation for the Sciences and Social Sciences, University of California at Berkeley
+1. Justin Brunelle
+<a href="https://alexandernwala.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
+<a href="https://scholar.google.com/citations?user=LqrUey4AAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://orcid.org/0000-0003-3408-791X" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
+<a href="https://www.linkedin.com/in/alexander-nwala-405a37229/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
+(primary advisor: Michael L. Nelson)
+    *  "[Scripts in a Frame: A Framework for Archiving Deferred Representations](https://digitalcommons.odu.edu/computerscience_etds/10/)", PhD thesis, *Old Dominion University*, May 2016. <a href="https://ws-dl.blogspot.com/2016/04/2016-04-15-how-i-learned-not-to-work.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
+    * Current Job: Chief Scientist, Software Engineering Innovation Center, MITRE
 3. Shahram Mohrehkesh
 <a href="https://www.linkedin.com/in/shahram-m-9160602/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[Energy Harvesting-Aware Design for Wireless Nanonetworks](http://digitalcommons.odu.edu/computerscience_etds/2/)," PhD thesis, *Old Dominion University*, August 2015. <a href='http://www.cs.odu.edu/~mweigle/papers/mohrehkesh-dissertation-2015.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/energy-harvestingaware-design-for-wireless-nanonetworks' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
@@ -128,7 +136,7 @@ blogger-color: "#F37100"
 <a href="https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/dr-mohammad-almalag/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[TDMA Slot Reservation in Cluster-Based VANETs](https://digitalcommons.odu.edu/computerscience_etds/9)," PhD thesis, *Old Dominion University*, May 2013. <a href='http://www.cs.odu.edu/~mweigle/papers/almalag-dissertation-2013.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/defense-final-19921446' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
-   * Current Job: Assistant Professor of Computer Science, Christopher Newport University
+   * Current Job: Associate Professor of Computer Science, [Christopher Newport University](https://cnu.edu/faculty/mohammadalmalag.html)
 4. Hadi Arbabi
 <a href="https://www.linkedin.com/in/hadi-arbabi-2421659/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[A Framework for Dynamic Traffic Monitoring using Vehicular Ad-Hoc Networks](https://digitalcommons.odu.edu/computerscience_etds/8)," PhD thesis, *Old Dominion University*, August 2011. <a href='http://www.cs.odu.edu/~mweigle/papers/arbabi-dissertation-2011.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/a-framework-for-dynamic-traffic-monitoring-using-vehicular-adhoc-networks-8765710/' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>
@@ -141,7 +149,7 @@ blogger-color: "#F37100"
 <a href="http://faculty.usi.edu/gyan" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://www.linkedin.com/in/gongjun-yan-9b9318b2/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[Providing Location Security in Vehicular Networks](https://digitalcommons.odu.edu/computerscience_etds/5)," PhD thesis, *Old Dominion University*, May 2010. <a href='http://www.cs.odu.edu/~mweigle/papers/yan-dissertation-2010.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a> <a href='http://www.slideshare.net/mweigle/providing-location-security-in-vehicular-networks' target='_blank' class='btn btn--mcwslideshare'><img src='../images/slideshare-16px-high.png'/></a>, co-advised with Stephan Olariu
-   * Current Job: Associate Professor of Computer Science, University of Southern Indiana
+   * Current Job: Associate Professor of Computer Science, [University of Southern Indiana](https://www.usi.edu/business/computer-science/faculty)
 
 ### MS Thesis
 
@@ -176,27 +184,38 @@ blogger-color: "#F37100"
    * "Performance Analysis of High-Speed Transport Control Protocols," Master's thesis, *Clemson University*, August 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/sharma-thesis06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 ### PhD Committee Member
-
+1. Kehinde Ajayi 
+<a href="https://scholar.google.com/citations?hl=en&user=ib2zhJQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Dec 2025 (advisor: Jian Wu)
+1. Ivan Makohon 
+<a href="https://scholar.google.com/citations?hl=en&user=GC-3lOcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Dec 2025 (advisor: Yaohang Li)
+1. Bhanuka Mahanama 
+<a href="https://scholar.google.com/citations?hl=en&user=4gSzSJ0AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Aug 2025 (advisor: Sampath Jayarathna)
+1. Yash Prakash 
+<a href="https://scholar.google.com/citations?user=DOlm7Q8AAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Aug 2025 (advisor: Vikas Ashok)
+1. Mohan Krishna Sunkara 
+<a href="https://scholar.google.com/citations?user=MbQDa7wAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Aug 2025 (advisor: Vikas Ashok)
+1. Xin Wei 
+<a href="https://scholar.google.com/citations?hl=en&user=6xyfqsgAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Aug 2025 (advisor: Jian Wu)
 1. Muntabir Choudhury <a href="https://scholar.google.com/citations?hl=en&user=HudTafsAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-<a href="https://www.linkedin.com/in/muntabirchoudhury/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, December 2024 (advisor: Jian Wu)
+<a href="https://www.linkedin.com/in/muntabirchoudhury/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2024 (advisor: Jian Wu)
 1. Abrar Alali
-<a href="https://scholar.google.com/citations?hl=en&user=AqeoiPcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, August 2024 (advisor: Stephan Olariu)
+<a href="https://scholar.google.com/citations?hl=en&user=AqeoiPcAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Aug 2024 (advisor: Stephan Olariu)
 1. Gavindya Jayawardena
 <a href="https://scholar.google.com/citations?user=LdfjuHAAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0002-9523-3346" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/gavindya" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
-<a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, August 2024 (advisor: Sampath Jayarathna)
+<a href="https://www.linkedin.com/in/gavindya-jayawardena/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2024 (advisor: Sampath Jayarathna)
 1. Ryan Florin <a href="https://scholar.google.com/citations?hl=en&user=HNicVaEAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-<a href="https://www.linkedin.com/in/ryanflorin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, August 2021 (advisor: Stephan Olariu)
-1. Sawood Alam, December 2020 (advisor: Michael L. Nelson)
-1. Aida Ghazizadeh, August 2020 (advisor: Stephan Olariu)
-1. Maha Abdelrasoul, August 2018 (advisor: Yaohang Li)
-1. Abdulla Alasaadi, December 2017 (advisor: Tamer Nadeem)
-1. Mostafa Uddin, August 2016 (advisor: Tamer Nadeem)
-1. Xianping Wang, August 2016 (advisor: Stephan Olariu)
-1. Hany SalahEldeen, August 2015 (advisor: Michael L. Nelson)
-1. Chuck Cartledge, August 2014 (advisor: Michael L. Nelson)
-1. Puya Ghazizadeh, August 2014 (advisor: Stephan Olariu)
+<a href="https://www.linkedin.com/in/ryanflorin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2021 (advisor: Stephan Olariu)
+1. Sawood Alam, Dec 2020 (advisor: Michael L. Nelson)
+1. Aida Ghazizadeh, Aug 2020 (advisor: Stephan Olariu)
+1. Maha Abdelrasoul, Aug 2018 (advisor: Yaohang Li)
+1. Abdulla Alasaadi, Dec 2017 (advisor: Tamer Nadeem)
+1. Mostafa Uddin, Aug 2016 (advisor: Tamer Nadeem)
+1. Xianping Wang, Aug 2016 (advisor: Stephan Olariu)
+1. Hany SalahEldeen, Aug 2015 (advisor: Michael L. Nelson)
+1. Chuck Cartledge, Aug 2014 (advisor: Michael L. Nelson)
+1. Puya Ghazizadeh, Aug 2014 (advisor: Stephan Olariu)
 1. Ahmed AlSum, May 2014 (advisor: Michael L. Nelson)
 1. Samiur Arif, May 2014 (advisor: Stephan Olariu)
 1. Samy El-Tawab, Aug 2012 (advisor: Stephan Olariu)
@@ -210,8 +229,8 @@ blogger-color: "#F37100"
 <a href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://orcid.org/0000-0003-3845-7842" target="_blank"><i class="ai ai-orcid ai-fw" style="color: {{ page.orcid-color }}"></i></a>
 <a href="https://github.com/elescamilla" target="_blank"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i></a>
-<a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, August 2023, (advisor: Michael L. Nelson)
-1. Ahmed Nasr, August 2018 (advisor: Tamer Nadeem)
+<a href="https://www.linkedin.com/in/emily-escamilla-415370213/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2023, (advisor: Michael L. Nelson)
+1. Ahmed Nasr, Aug 2018 (advisor: Tamer Nadeem)
 1. Aaron Walden, May 2016 (advisors: Desh Ranjan, Mohammad Zubair)
 1. Juliette Pardue, Aug 2015 (advisor: Andrey Chernikov)
 1. Shawn Jones, May 2015 (advisor: Michael L. Nelson)
@@ -258,7 +277,7 @@ blogger-color: "#F37100"
 1. Erik Jensen, BS M&S May 2016 (Fall 2015 REU)
 1. John Berlin <a href="https://www.linkedin.com/in/john-berlin/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS Dec 2015 (Spring-Fall 2015 REU) - MS 2018, ODU
 1. Ander Rogers <a href="https://www.linkedin.com/in/ander-rogers-iii-600aa3119/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, BS May 2015 (Spring 2015 REU)
-1. Aaron Walden, BS August 2014 (Summer 2013-Spring 2014, REU) - PhD student, ODU
+1. Aaron Walden, BS Aug 2014 (Summer 2013-Spring 2014, REU) - PhD student, ODU
 1. Thomas Kennedy <a href="https://www.cs.odu.edu/~tkennedy" target="_blank"><i class="fas fa-fw fa-link"></i></a>, BS May 2012 (Summer 2011-Fall 2011, Summer 2011 REU) - MS 2014, ODU
 1. Greg Maslov, BS May 2012 (Fall 2009-Fall 2010, Spring 2010-Spring 2011 REU)
 1. Nickolas Betcher (Summer 2010 REU)
