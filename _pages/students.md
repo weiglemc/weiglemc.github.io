@@ -224,7 +224,7 @@ blogger-color: "#F37100"
 1. Samy El-Tawab <a href="https://www.linkedin.com/in/samy-el-tawab/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2012 (advisor: Stephan Olariu)
 1. Mahmoud Abuelela <a href="https://www.linkedin.com/in/mahmoud-abuelela-0b857925/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2011 (advisor: Stephan Olariu)
 1. Martin Klein <a href="https://www.linkedin.com/in/martinklein0815/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2011 (advisor: Michael L. Nelson)
-1. Filip Cuckov (ECE) <a href="[https://www.linkedin.com/in/martinklein0815/](https://www.linkedin.com/in/filip-cuckov/)" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2009 (advisor: Min Song)
+1. Filip Cuckov (ECE) <a href="https://www.linkedin.com/in/filip-cuckov/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2009 (advisor: Min Song)
 
 ### MS Thesis Committee Member
 
