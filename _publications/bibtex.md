@@ -23,7 +23,7 @@ Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nel
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2025,
       month = dec,
-      pubdate = {202512.1}
+      pubdate = {202512.2}
 }
 ```
 
@@ -46,7 +46,7 @@ Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nel
       note = {Resource Paper},
       year =  2025,
       month = dec,
-      pubdate = {202512.2}
+      pubdate = {202512.1}
 }
 ```
 
