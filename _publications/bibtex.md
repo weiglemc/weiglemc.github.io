@@ -7,9 +7,77 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [garg-jcdl25a](#garg-jcdl25a)
+
+Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nelson, "**Resilience, Volume, and Temporal Trends Across 25 Years of the Wayback Machine**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. December 2025.
+
+[](#garg-jcdl25aBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {garg-jcdl25a,
+      author = {Kritika Garg and Sawood Alam and Dietrich Ayala and Michele C. Weigle and Michael L. Nelson},
+      title = {Resilience, Volume, and Temporal Trends Across 25 Years of the Wayback Machine},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      year =  2025,
+      month = dec,
+      pubdate = {202512.1}
+}
+```
+
+{% endraw %}
+
+## [garg-jcdl25b](#garg-jcdl25b)
+
+Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nelson, "**A Longitudinal Dataset of URLs Sampled From the Wayback Machine**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. December 2025, Resource Paper.
+
+[](#garg-jcdl25bBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {garg-jcdl25b,
+      author = {Kritika Garg and Sawood Alam and Dietrich Ayala and Michele C. Weigle and Michael L. Nelson},
+      title = {A Longitudinal Dataset of URLs Sampled From the Wayback Machine},
+      booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+      note = {Resource Paper},
+      year =  2025,
+      month = dec,
+      pubdate = {202512.2}
+}
+```
+
+{% endraw %}
+
+## [reid-jasist25](#reid-jasist25)
+
+Travis Reid, Alex H. Poole, Hyung Wook Choi, Christopher Rauch, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Problems With Archiving and Replaying Current Web Advertisements**," *Journal of the Association for Information Science and Technology (JASIST)*, November 2025. <a href='https://dx.doi.org/10.1002/asi.70039' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#reid-jasist25Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {reid-jasist25,
+      author = {Travis Reid and Alex H. Poole and Hyung Wook Choi and Christopher Rauch and Mat Kelly and Michael L. Nelson and Michele C. Weigle},
+      title = {Problems With Archiving and Replaying Current Web Advertisements},
+      journal = {Journal of the Association for Information Science and Technology (JASIST)},
+      year = {2025},
+      month = nov,
+      doi = {10.1002/asi.70039},
+      pubdate ={202511}
+}
+```
+
+{% endraw %}
+
 ## [zaki-ht25](#zaki-ht25)
 
-Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Verifying Attribution in Twitter Screenshots**," In *Proceedings of ACM Hypertext*. September 2025. <a href='https://dx.doi.org/10.1145/3720553.3746682' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Verifying Attribution in Twitter Screenshots**," In *Proceedings of ACM Hypertext*. September 2025, pp. 91-99. <a href='https://dx.doi.org/10.1145/3720553.3746682' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#zaki-ht25Bib)
 **BibTeX entry:**
@@ -23,6 +91,7 @@ Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Web Archives for Ver
       booktitle = {Proceedings of ACM Hypertext},
       year = {2025},
       month = sep,
+      pages = {91--99},
       doi = {10.1145/3720553.3746682},
       pubdate = {202509}
 }
