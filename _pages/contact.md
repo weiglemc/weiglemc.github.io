@@ -3,21 +3,22 @@ permalink: /contact/
 title: "Contact Info"
 ---
 
-## Office Location
+## Graduate School Office
+The Graduate School  
+2110B Monarch Hall  
+(757) 683-4885 - front office  
+(757) 683-3952 - direct
 
-E&amp;CS Building Rm. 3327  
-4700 Elkhorn Ave.  
-Old Dominion University  
-Norfolk, VA  
-(757) 683-7729
+## CS Office
+Department of Computer Science  
+3327 E&amp;CS Building  
+(757) 683-7740 - front office  
+(757) 683-7729 - direct
 
 ## Mailing Address
 
 Dr. Michele C. Weigle  
-4700 Elkhorn Ave., Suite 3300  
-Dept. of Computer Science  
+2110 Monarch Hall  
+The Graduate School  
 Old Dominion University  
-Norfolk, VA 23529-0162
-
-## For GPD matters
-Email: [csgpd@odu.edu](mailto:csgpd@odu.edu)
+Norfolk, VA 23529
