@@ -14,9 +14,6 @@ main:
 
   - title: "Talks"
     url: /talks/
-
-  - title: "Schedule"
-    url: /schedule/
            
   - title: "CV"
     url: /cv/
