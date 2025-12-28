@@ -37,7 +37,7 @@ author_profile: true
 |**2007-2008** | CS 455/555 - Intro to Networks and Communication<br/>CS 791/891 - VANET Seminar|CS 795/895 - Vehicular Networks|
 |**2006-2007** | CS 455/555 - Intro to Networks and Communication|CS 795/895 - Vehicular Networks|
 
-## @ Clemson University
+## @ Clemson
 
 * CPSC 360 - Network Programming (Spring 2006, Fall 2005, Spring 2005)
 * CPSC 481 - Undergraduate Research (Spring 2006)
