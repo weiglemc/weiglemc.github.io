@@ -11,17 +11,11 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 ---
-I am a **Professor of Computer Science** at [Old Dominion University](https://www.odu.edu/).  I serve as the **Assistant Chair for Graduate Programs and Research** and the **Graduate Program Director (GPD) for the PhD Program** in the [Department of Computer Science](https://www.odu.edu/computer-science).  See our website for information on our graduate programs ([MS](https://www.odu.edu/computer-science/academics/graduate/masters), [PhD](https://www.odu.edu/computer-science/academics/graduate/phd)). If you need to contact a CS GPD, please use [csgpd@odu.edu](mailto:csgpd@odu.edu).
+I am a **Professor of [Computer Science](https://odu.edu/computer-science)** and **Associate Dean of the [Graduate School](https://www.odu.edu/graduateschool)** at [Old Dominion University](https://www.odu.edu/).
 
-For an overview of my research over the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018. I recently gave an [interview covering my background, our research group, and challenges facing web archive collections](https://circulatingnow.nlm.nih.gov/2022/11/10/whats-in-a-web-archive-collection-summarization-and-discovery-of-archived-webpages/) for the National Library of Medicine's [*Circulating Now* blog](https://circulatingnow.nlm.nih.gov/). I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit more about my background and experiences as a woman in computer science. For more information on my education and work experience, see my [bio](#bio).
+For an overview of my main research area, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018. In 2022, I gave an [interview covering my background, our research group, and challenges facing web archive collections](https://circulatingnow.nlm.nih.gov/2022/11/10/whats-in-a-web-archive-collection-summarization-and-discovery-of-archived-webpages/) for the National Library of Medicine's [*Circulating Now* blog](https://circulatingnow.nlm.nih.gov/). I've been featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit more about my background and experiences as a woman in computer science. For more information on my education and work experience, see my [bio](#bio).
 
 **Research Interests:** web archiving, social media, web science, data visualization (see student data vis projects in my [gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
-
-## Teaching
-
-**Fall 2025**
-
-[CS 625 - Data Visualization](https://weiglemc.github.io/teaching/2025-fall-cs625) / online asynchronous
 
 ## Research
 
@@ -34,11 +28,12 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 
 ## Active Funding
 
-*As of April 2025, all of my active federal grants have been terminated. For more information, see [Thank you to NEH, IMLS, DoD Minerva, and NSF](https://ws-dl.blogspot.com/2025/05/2025-05-08-thank-you-to-neh-imls-dod.html).* 
+*In early 2025, many of my federal grants were terminated. For more information, see [Thank you to NEH, IMLS, DoD Minerva, and NSF](https://ws-dl.blogspot.com/2025/05/2025-05-08-thank-you-to-neh-imls-dod.html).* 
+
+* Mat Kelly (Drexel, PI), Alex Poole (Drexel), Michele C. Weigle (ODU PI), Michael L. Nelson, [Preserving Personalized Advertisements for More Accurate Web Archives](https://www.imls.gov/grants/awarded/lg-256695-ols-24), Aug 2024 - Feb 2025 / Jan 2026 - Jan 2027, IMLS National Leadership Grant, \$398,926.90 ($198,793 to ODU) - [blog post (Drexel)](https://log.lab.matkelly.com/imls-webads-2024) - *grant reinstated in Dec 2025*
 
 ## Recent Funding
 
-* Mat Kelly (Drexel, PI), Alex Poole (Drexel), Michele C. Weigle (ODU PI), Michael L. Nelson, [Preserving Personalized Advertisements for More Accurate Web Archives](https://www.imls.gov/grants/awarded/lg-256695-ols-24), Aug 2024 - ~~Jul 2026~~ Apr 2025, IMLS National Leadership Grant, \$398,926.90 ($198,793 to ODU) - [blog post (Drexel)](https://log.lab.matkelly.com/imls-webads-2024)
 * Erika Frydenlund (PI, VMASC), Jose Padilla (VMASC), Michele C. Weigle, Jennifer Fish, Michael L. Nelson, Michaela Hynie (York University, Canada), Hanne Haaland (Univ of Agder, Norway), Hege Wallevik (Univ of Agder, Norway), Katherine Palacio-Salgar (Universidad del Norte, Colombia), [What's Missing? Innovating Interdisciplinary Methods for Hard-to-Reach Environments](https://minerva.defense.gov/Research/Funded-Projects/Article/2957187/innovating-interdisciplinary-methods-for-hard-to-reach-environments/), Jul 2022 - ~~Jul 2025~~ Feb 2025, Department of Defense Minerva Research Initiative, $1,700,245  - [blog post](https://ws-dl.blogspot.com/2022/03/2022-03-03-whats-missing-innovating.html)
 * Sampath Jayarathna (PI), Jian Wu, Senior Personnel: Michele C. Weigle, Michael Nelson, Vikas Ashok, Faryaneh Poursardar, Anne Perrotti (Education), Erika Frydenlund (VMASC), [REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics](http://reu.cs.odu.edu/), NSF REU Site (CNS 2149607), Mar 2022 - Feb 2025, $324,000.
 
@@ -59,8 +54,8 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 
 ## Service
 
-* ODU-CS Assistant Chair for Graduate Programs and Research, 2024-present
-* ODU-CS Graduate Program Director, 2013-2019, 2022-present
+* ODU-CS Assistant Chair for Graduate Programs and Research, 2024-2025
+* ODU-CS Graduate Program Director, 2013-2019, 2022-2025
 * Editorial Board
   * [*Journal of the Association for Information Science and Technology*](https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard) (JASIST) (2016-present)
   * [*International Journal on Digital Libraries*](https://www.springer.com/computer/database+management+&+information+retrieval/journal/799/PS2?detailsPage=editorialBoard) (IJDL) (2018-present)
