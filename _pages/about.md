@@ -28,7 +28,7 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 
 ## Active Funding
 
-*In early 2025, many of my federal grants were terminated. For more information, see [Thank you to NEH, IMLS, DoD Minerva, and NSF](https://ws-dl.blogspot.com/2025/05/2025-05-08-thank-you-to-neh-imls-dod.html).* 
+*In early 2025, much of my federal grant funding was terminated. For more information, see [Thank you to NEH, IMLS, DoD Minerva, and NSF](https://ws-dl.blogspot.com/2025/05/2025-05-08-thank-you-to-neh-imls-dod.html).* 
 
 * Mat Kelly (Drexel, PI), Alex Poole (Drexel), Michele C. Weigle (ODU PI), Michael L. Nelson, [Preserving Personalized Advertisements for More Accurate Web Archives](https://www.imls.gov/grants/awarded/lg-256695-ols-24), Aug 2024 - Feb 2025 / Jan 2026 - Jan 2027, IMLS National Leadership Grant, $398,926.90 ($198,793 to ODU) - [blog post (Drexel)](https://log.lab.matkelly.com/imls-webads-2024) - *grant reinstated in Dec 2025*
 
