@@ -91,8 +91,8 @@ author:
   employer         : "Old Dominion University"
   employeruri      : "https://www.odu.edu"
   pubmed           : 
-  googlescholar    : "http://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en"
-  email            : "mweigle at cs dot odu dot edu"
+  googlescholar    : "https://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en"
+  email            : "mweigle at odu dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://www.cs.odu.edu/~mweigle/"
   bitbucket        :
