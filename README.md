@@ -25,6 +25,8 @@ Some of my customizations:
    * `_sass/_utilities.scss` - look for comments `// MCW`
    * `_sass/_buttons.scss` - look for comment `/* my button */`
 
+Tabs at top of main page: `_data/navigation.yml`
+
 Personalization
 * `_config.yml` - account info (`site.author`), specify location of photo
 * `_pages/about.md` - main home page
