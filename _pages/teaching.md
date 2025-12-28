@@ -3,8 +3,6 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-next_semester: "Spring 2026"
-current_semester: "Fall 2025"
 ---
 {% include base_path %}
 
@@ -14,16 +12,7 @@ current_semester: "Fall 2025"
 
 **June 2014:** Posted computer networking explainer videos: ["Compute IP range given CIDR address"](https://www.youtube.com/watch?v=ls1mMyfnaC0) (72K+ views), ["Compute CIDR given IP range and netmask"](https://www.youtube.com/watch?v=PnApdHjU8sg) (11K+ views), ["Powers of 2 example"](https://www.youtube.com/watch?v=1-yOrnWwM4M)
 
-## {{ page.current_semester }}
-
-{% for post in site.teaching %}
-  {% if post.semester == page.current_semester %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-
-## Previous Semesters
+## @ ODU
 
 | |Fall | Spring |
 |---|---|---|
