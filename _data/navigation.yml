@@ -5,15 +5,15 @@ main:
 
   #- title: "Research"
   #  url: /research/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "Students"
     url: /students/
 
   - title: "Talks"
     url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/    
            
   - title: "CV"
     url: /cv/
