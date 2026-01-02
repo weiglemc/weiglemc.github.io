@@ -54,7 +54,7 @@ Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nel
 
 ## [reid-jasist25](#reid-jasist25)
 
-Travis Reid, Alex H. Poole, Hyung Wook Choi, Christopher Rauch, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Problems With Archiving and Replaying Current Web Advertisements**," *Journal of the Association for Information Science and Technology (JASIST)*, November 2025. <a href='https://dx.doi.org/10.1002/asi.70039' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Travis Reid, Alex H. Poole, Hyung Wook Choi, Christopher Rauch, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "**Problems With Archiving and Replaying Current Web Advertisements**," *Journal of the Association for Information Science and Technology (JASIST)*, Vol. 76, No. 13, November 2025, pp. 1803-1830. <a href='https://dx.doi.org/10.1002/asi.70039' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#reid-jasist25Bib)
 **BibTeX entry:**
@@ -68,6 +68,9 @@ Travis Reid, Alex H. Poole, Hyung Wook Choi, Christopher Rauch, Mat Kelly, Micha
       journal = {Journal of the Association for Information Science and Technology (JASIST)},
       year = {2025},
       month = nov,
+      volume = 76,
+      number = 13,
+      pages = {1803--1830},
       doi = {10.1002/asi.70039},
       pubdate ={202511}
 }
