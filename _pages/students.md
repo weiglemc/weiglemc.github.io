@@ -90,7 +90,7 @@ blogger-color: "#F37100"
 <a href="https://scholar.google.com/citations?user=uFe4KTUAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/mohamed-aturban-a0777433/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
    * "[A Framework for Verifying the Fixity of Archived Web Resources](https://digitalcommons.odu.edu/computerscience_etds/125/)," PhD thesis, *Old Dominion University*, August 2020. <a href="https://ws-dl.blogspot.com/2020/09/2020-09-28-phd-is-very-long-tunnel-with.html" target="_blank"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i></a>
-   * First Job: Assistant Professor, [Columbia College](https://www.ccis.edu/faculty/profiles/mohamed-aturban)
+   * Current Job: Associate Professor, [Columbia College](https://www.ccis.edu/faculty/profiles/mohamed-aturban)
 1. Alexander Nwala
 <a href="https://alexandernwala.com/" target="_blank"><i class="fas fa-fw fa-link"></i></a>
 <a href="https://scholar.google.com/citations?user=LqrUey4AAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
