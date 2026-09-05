@@ -7,6 +7,75 @@ doi-color: '#fcab22'
 acrobat-color: '#f70e0c'
 blogger-color: '#F37100'
 ---
+## [zaki-tr2026](#zaki-tr2026)
+
+Tarannum Zaki, Michael L. Nelson, and Michele C. Weigle, "**Why People Share Social Media Screenshots**," Technical report arXiv:2608.27539, arXiv, August 2026. &nbsp;<a href='https://arxiv.org/abs/2608.27539' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
+
+[](#zaki-tr2026Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@TECHREPORT {zaki-tr2026,
+        author = {Tarannum Zaki and Michael L. Nelson and Michele C. Weigle},
+        title = {Why People Share Social Media Screenshots},
+        institution = {arXiv},
+        number = {arXiv:2608.27539},
+        arxiv = {https://arxiv.org/abs/2608.27539},
+        year = 2026,
+        month = aug,
+       pubdate = {202608} 
+}
+```
+
+{% endraw %}
+
+## [jayanetti-tpdl26](#jayanetti-tpdl26)
+
+Himarsha R. Jayanetti, Sivakanesan Dhanushkanda, Shuai Hao, Michael L. Nelson, and Michele C. Weigle, "**Nobody Truly Agrees on Sentiment: Humans, Bespoke Tools, and LLMs Struggle with Social Media Texts**," In *Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)*. September 2026.
+
+[](#jayanetti-tpdl26Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {jayanetti-tpdl26,
+     author    = {Himarsha R. Jayanetti and Sivakanesan Dhanushkanda and Shuai Hao and Michael L. Nelson and Michele C. Weigle},
+     title = {Nobody Truly Agrees on Sentiment: Humans, Bespoke Tools, and LLMs Struggle with Social Media Texts},
+     booktitle = {Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL)},
+     year = {2026},
+     month = sep,
+     pubdate = {202609}
+}
+```
+
+{% endraw %}
+
+## [talay-scireports26](#talay-scireports26)
+
+Sengul Talay, Zafer Sakaci, Michele C. Weigle, Jenah Parman, Holly Gaff, Deniz Sirin, Bulent Alten, Dennis Bente, and Sirri Kar, "**Cumulative cascade of larval crowding effect in Culex pipiens: potential aggravation impact of changing climate**," *Nature Scientific Reports*, August 2026. <a href='https://dx.doi.org/10.1038/s41598-026-65355-1' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+
+[](#talay-scireports26Bib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {talay-scireports26,
+      author = {Sengul Talay and Zafer Sakaci and Michele C. Weigle and Jenah Parman and Holly Gaff and Deniz Sirin and Bulent Alten and Dennis Bente and Sirri Kar},
+      title = {Cumulative cascade of larval crowding effect in Culex pipiens: potential aggravation impact of changing climate},
+      journal = {Nature Scientific Reports},
+      year = {2026},
+      month = aug,
+      doi = {10.1038/s41598-026-65355-1},
+      pubdate ={202608}
+}
+```
+
+{% endraw %}
+
 ## [garg-jcdl25a](#garg-jcdl25a)
 
 Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nelson, "**Resilience, Volume, and Temporal Trends Across 25 Years of the Wayback Machine**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. December 2025.
