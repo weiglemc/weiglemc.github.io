@@ -28,11 +28,12 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 
 ## Active Funding
 
-*In early 2025, much of my federal grant funding was terminated. For more information, see [Thank you to NEH, IMLS, DoD Minerva, and NSF](https://ws-dl.blogspot.com/2025/05/2025-05-08-thank-you-to-neh-imls-dod.html).* 
-
-* Mat Kelly (Drexel, PI), Alex Poole (Drexel), Michele C. Weigle (ODU PI), Michael L. Nelson, [Preserving Personalized Advertisements for More Accurate Web Archives](https://www.imls.gov/grants/awarded/lg-256695-ols-24), Aug 2024 - Feb 2025 / Jan 2026 - Jul 2027, IMLS National Leadership Grant, `$398,926.90` ($198,793 to ODU) - [blog post (Drexel)](https://log.lab.matkelly.com/imls-webads-2024) - *grant reinstated in Dec 2025*
+* Alexander Nwala (W\&M, PI), Sawood Alam (Internet Archive), Michael L. Nelson (ODU PI), Michele C. Weigle, [CiteCast: Linking US local & national television news to cited web resources](https://www.imls.gov/grants/awarded/lg-260441-ols-26), Sep 2026 - Aug 2029, IMLS National Leadership Grant, `$750,000` ($258,334 to ODU) - [blog post](https://ws-dl.blogspot.com/2026/08/2026-08-31-imls-grant-awarded-on.html)
+* Mat Kelly (Drexel, PI), Alex Poole (Drexel), Michele C. Weigle (ODU PI), Michael L. Nelson, [Preserving Personalized Advertisements for More Accurate Web Archives](https://www.imls.gov/grants/awarded/lg-256695-ols-24), Aug 2024 - Feb 2025 / Jan 2026 - Jul 2027, IMLS National Leadership Grant, $398,926.90 ($198,793 to ODU) - [blog post (Drexel)](https://log.lab.matkelly.com/imls-webads-2024) - *grant reinstated in Dec 2025*
 
 ## Recent Funding
+
+*In early 2025, much of my federal grant funding was terminated. For more information, see [Thank you to NEH, IMLS, DoD Minerva, and NSF](https://ws-dl.blogspot.com/2025/05/2025-05-08-thank-you-to-neh-imls-dod.html).* 
 
 * Erika Frydenlund (PI, VMASC), Jose Padilla (VMASC), Michele C. Weigle, Jennifer Fish, Michael L. Nelson, Michaela Hynie (York University, Canada), Hanne Haaland (Univ of Agder, Norway), Hege Wallevik (Univ of Agder, Norway), Katherine Palacio-Salgar (Universidad del Norte, Colombia), [What's Missing? Innovating Interdisciplinary Methods for Hard-to-Reach Environments](https://minerva.defense.gov/Research/Funded-Projects/Article/2957187/innovating-interdisciplinary-methods-for-hard-to-reach-environments/), Jul 2022 - ~~Jul 2025~~ Feb 2025, Department of Defense Minerva Research Initiative, $1,700,245  - [blog post](https://ws-dl.blogspot.com/2022/03/2022-03-03-whats-missing-innovating.html)
 * Sampath Jayarathna (PI), Jian Wu, Senior Personnel: Michele C. Weigle, Michael Nelson, Vikas Ashok, Faryaneh Poursardar, Anne Perrotti (Education), Erika Frydenlund (VMASC), [REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics](http://reu.cs.odu.edu/), NSF REU Site (CNS 2149607), Mar 2022 - Feb 2025, $324,000.
@@ -57,8 +58,8 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 * ODU-CS Assistant Chair for Graduate Programs and Research, 2024-2025
 * ODU-CS Graduate Program Director, 2013-2019, 2022-2025
 * Editorial Board
-  * [*Journal of the Association for Information Science and Technology*](https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard) (JASIST) (2016-present)
   * [*International Journal on Digital Libraries*](https://www.springer.com/computer/database+management+&+information+retrieval/journal/799/PS2?detailsPage=editorialBoard) (IJDL) (2018-present)
+  * [*Journal of the Association for Information Science and Technology*](https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard) (JASIST) (2016-2026)
 * Steering Committee Member, ACM/IEEE Joint Conference on Digital Libraries (JCDL) (2020-present)
 * Faculty Representative, [NCWIT Academic Alliance](https://www.ncwit.org/alliances/aa)
 * Program Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2016
@@ -67,7 +68,7 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 
 ## Bio
 
-Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion University. Her research interests include web archiving, social media, web science, and data visualization. She has published over 150 articles in peer-reviewed conferences and journals and has served as PI or Co-PI on external research grants totaling over $6.7M from a wide range of funders, including the National Science Foundation, the National Endowment for the Humanities, the Institute of Museum and Library Services, and the Andrew W. Mellon Foundation. She currently serves on the editorial boards of the *Journal of the Association for Information Science and Technology* (JASIST) and the *International Journal on Digital Libraries* (IJDL). Dr. Weigle received her PhD in computer science from the University of North Carolina in 2003.
+Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion University. Her research interests include web archiving, social media, web science, and data visualization. She has published over 150 articles in peer-reviewed conferences and journals and has served as PI or Co-PI on external research grants totaling over $7.5M from a wide range of funders, including the National Science Foundation, the National Endowment for the Humanities, the Institute of Museum and Library Services, and the Andrew W. Mellon Foundation. She currently serves on the editorial board of the *International Journal on Digital Libraries* (IJDL). Dr. Weigle received her PhD in computer science from the University of North Carolina in 2003.
 
 ### Academic Timeline
 
