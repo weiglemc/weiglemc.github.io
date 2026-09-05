@@ -29,7 +29,7 @@ I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group
 ## Active Funding
 
 * Alexander Nwala (W\&M, PI), Sawood Alam (Internet Archive), Michael L. Nelson (ODU PI), Michele C. Weigle, [CiteCast: Linking US local & national television news to cited web resources](https://www.imls.gov/grants/awarded/lg-260441-ols-26), Sep 2026 - Aug 2029, IMLS National Leadership Grant, `$750,000` ($258,334 to ODU) - [blog post](https://ws-dl.blogspot.com/2026/08/2026-08-31-imls-grant-awarded-on.html)
-* Mat Kelly (Drexel, PI), Alex Poole (Drexel), Michele C. Weigle (ODU PI), Michael L. Nelson, [Preserving Personalized Advertisements for More Accurate Web Archives](https://www.imls.gov/grants/awarded/lg-256695-ols-24), Aug 2024 - Feb 2025 / Jan 2026 - Jul 2027, IMLS National Leadership Grant, $398,926.90 ($198,793 to ODU) - [blog post (Drexel)](https://log.lab.matkelly.com/imls-webads-2024) - *grant reinstated in Dec 2025*
+* Mat Kelly (Drexel, PI), Alex Poole (Drexel), Michele C. Weigle (ODU PI), Michael L. Nelson, [Preserving Personalized Advertisements for More Accurate Web Archives](https://www.imls.gov/grants/awarded/lg-256695-ols-24), Aug 2024 - Feb 2025 / Jan 2026 - Jul 2027, IMLS National Leadership Grant, `$398,926.90` ($198,793 to ODU) - [blog post (Drexel)](https://log.lab.matkelly.com/imls-webads-2024) - *grant reinstated in Dec 2025*
 
 ## Recent Funding
 
