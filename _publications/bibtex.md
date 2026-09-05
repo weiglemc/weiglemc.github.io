@@ -78,7 +78,7 @@ Sengul Talay, Zafer Sakaci, Michele C. Weigle, Jenah Parman, Holly Gaff, Deniz S
 
 ## [garg-jcdl25a](#garg-jcdl25a)
 
-Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nelson, "**Resilience, Volume, and Temporal Trends Across 25 Years of the Wayback Machine**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. December 2025.
+Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nelson, "**Resilience, Volume, and Temporal Trends Across 25 Years of the Wayback Machine**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. December 2025, pp. 59-68. <a href='https://dx.doi.org/10.1109/JCDL67857.2025.00017' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
 
 [](#garg-jcdl25aBib)
 **BibTeX entry:**
@@ -92,6 +92,8 @@ Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nel
       booktitle = {Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
       year =  2025,
       month = dec,
+      pages = {59--68},
+      doi = {10.1109/JCDL67857.2025.00017},
       pubdate = {202512.2}
 }
 ```
@@ -100,7 +102,7 @@ Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nel
 
 ## [garg-jcdl25b](#garg-jcdl25b)
 
-Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nelson, "**A Longitudinal Dataset of URLs Sampled From the Wayback Machine**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. December 2025, Resource Paper.
+Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nelson, "**A Longitudinal Dataset of URLs Sampled From the Wayback Machine**," In *Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. December 2025, pp. 277-280, Resource Paper. <a href='https://dx.doi.org/10.1109/JCDL67857.2025.00045' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> &nbsp;<a href='https://arxiv.org/abs/2507.14752' target='_blank' class='btn btn--mcwarxiv'><img src='../images/arxiv-logo-16px-high.png'/></a>
 
 [](#garg-jcdl25bBib)
 **BibTeX entry:**
@@ -115,6 +117,9 @@ Kritika Garg, Sawood Alam, Dietrich Ayala, Michele C. Weigle, and Michael L. Nel
       note = {Resource Paper},
       year =  2025,
       month = dec,
+      pages = {277--280},
+      arxiv = {https://arxiv.org/abs/2507.14752},
+      doi = {10.1109/JCDL67857.2025.00045},
       pubdate = {202512.1}
 }
 ```
