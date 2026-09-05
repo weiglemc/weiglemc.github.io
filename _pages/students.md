@@ -55,13 +55,6 @@ blogger-color: "#F37100"
 1. Kimberley Cossey, Higher Education (ABD)
 <a href="https://scholar.google.com/citations?hl=en&user=ct7cj84AAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 (advisor: David Ayers)
-1. Md. Javedul Ferdous (ABD)
-<a href="https://scholar.google.com/citations?user=_cuPy0wAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-<a href="https://www.linkedin.com/in/javedulferdous/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
-(advisor: Vikas Ashok)
-1. Morteza Gharasuie (ABD)
-<a href="https://scholar.google.com/citations?user=f6ar4e8AAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
-(advisors: Ravi Mukkamala, Fengjiao Wang)
 1. Xiaoqin Liang (ABD)
 <a href="https://scholar.google.com/citations?user=4kTxTjkAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
 <a href="https://www.linkedin.com/in/xiaoqin-liang-1575a51a0/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>
@@ -187,6 +180,11 @@ blogger-color: "#F37100"
    * "Performance Analysis of High-Speed Transport Control Protocols," Master's thesis, *Clemson University*, August 2006. <a href='http://www.cs.odu.edu/~mweigle/papers/sharma-thesis06.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
 
 ### PhD Committee Member
+1. Md. Javedul Ferdous 
+<a href="https://scholar.google.com/citations?user=_cuPy0wAAAAJ&hl=en" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>
+<a href="https://www.linkedin.com/in/javedulferdous/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Aug 2026 (advisor: Vikas Ashok)
+1. Morteza Gharasuie 
+<a href="https://scholar.google.com/citations?user=f6ar4e8AAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a>, Aug 2026 (advisors: Ravi Mukkamala, Fengjiao Wang)
 1. Kehinde Ajayi 
 <a href="https://scholar.google.com/citations?hl=en&user=ib2zhJQAAAAJ" target="_blank"><i class="ai ai-fw ai-google-scholar" style="color: {{page.google-scholar-color }}"></i></a> <a href="https://www.linkedin.com/in/ajayikehindepeter/" target="_blank"><i class="fab fa-fw fa-linkedin" style="color: {{ page.linkedin-color }}"></i></a>, Dec 2025 (advisor: Jian Wu)
 1. Ivan Makohon 
